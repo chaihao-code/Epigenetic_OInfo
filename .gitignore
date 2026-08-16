@@ -1,0 +1,9 @@
+# This repository only tracks the preprocessing pipeline
+/*
+!.gitignore
+!/preprocessing/
+
+# Exclude job logs and scratch files
+preprocessing/**/logs/
+__pycache__/
+*.pyc
