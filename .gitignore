@@ -1,9 +1,11 @@
-# This repository only tracks the preprocessing pipeline
+# This repository only tracks the preprocessing and hoi_code pipelines
 /*
 !.gitignore
 !/preprocessing/
+!/hoi_code/
 
 # Exclude job logs and scratch files
 preprocessing/**/logs/
+hoi_code/**/logs/
 __pycache__/
 *.pyc
