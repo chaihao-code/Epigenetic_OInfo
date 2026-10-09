@@ -1,0 +1,14 @@
+# ---- 大体积参考数据(用 scripts/02_download_reference.py 重新下载, 勿提交) ----
+data/reference/beta_hg38/
+data/reference/hg38.2bit
+data/reference/GSE186458_blocks.s207.hg38.bed.gz
+
+# ---- 可再生成的中间大文件(跑 pipeline 重建) ----
+data/processed/*.npz
+data/processed/bin_means_cache/
+
+# ---- 运行噪声 ----
+__pycache__/
+*.pyc
+logs/
+.DS_Store

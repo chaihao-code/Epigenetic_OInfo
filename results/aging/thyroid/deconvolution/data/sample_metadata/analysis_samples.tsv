@@ -1,0 +1,7 @@
+sample_id	age	sex	disease_status	batch
+CEMT0040	67.0	female	healthy	IHEC_CEEHRC
+CEMT0042	46.0	female	healthy	IHEC_CEEHRC
+CEMT0044	55.0	male	healthy	IHEC_CEEHRC
+CEMT0098	30.0	female	healthy	IHEC_CEEHRC
+CEMT0130	37.0	female	healthy	IHEC_CEEHRC
+CEMT0132	37.0	female	healthy	IHEC_CEEHRC

@@ -1,0 +1,69 @@
+# Thyroid_Deconvolution 全局配置
+# 所有脚本从此文件读取路径,保证可复现
+
+project:
+  root: /media/dell/data5/sequence_feature/sequence_entropy/result/hoi_analysis/projects/aging/thyroid/deconvolution
+  base: /media/dell/data5/sequence_feature/sequence_entropy
+
+samples:
+  # 原 O-info 分析实际使用的 6 个甲状腺样本 (plot_age_vs_oinfo_per_region_v2.py:48)
+  included: [CEMT0040, CEMT0042, CEMT0044, CEMT0098, CEMT0130, CEMT0132]
+  excluded: [CEMT0086, CEMT0088, CEMT0090]   # 原分析排除
+  metadata: /media/dell/data5/sequence_feature/sequence_entropy/result/hoi_analysis/projects/aging/thyroid/thyroid_healthy_metadata.tsv
+  filelist: /media/dell/data5/sequence_feature/sequence_entropy/result/hoi_analysis/projects/aging/thyroid/thyroid_healthy_filelist.txt
+
+marks:
+  # 七条表观遗传轨道
+  - DNA_methylation
+  - H3K4me1
+  - H3K4me3
+  - H3K9me3
+  - H3K27me3
+  - H3K27ac
+  - H3K36me3
+
+data:
+  bigwig_dir: /media/dell/data5/hg38/IHEC_aging_related/bigwig_files
+  bins_1kb: /media/dell/data5/sequence_feature/sequence_entropy/result/genome_features/hg38/bins_1kb.bed
+  genome_features_dir: /media/dell/data5/sequence_feature/sequence_entropy/result/genome_features/hg38
+  discretized_dir: /media/dell/data5/sequence_feature/sequence_entropy/data/aging_thyroid_input_normed_binned_discreted
+  gencode_gtf: /media/dell/data5/sequence_feature/sequence_entropy/data/genome_annotation/hg38/gencode.v47.annotation.gtf
+  oinfo_results_dir: /media/dell/data5/sequence_feature/sequence_entropy/result/hoi_analysis/projects/aging/thyroid/results_oinfo_n_bins_5
+  local_oinfo_dir: /media/dell/data5/sequence_feature/sequence_entropy/result/hoi_analysis/projects/aging/thyroid/local_oinfo_age_correlation
+  go_summary: /media/dell/data5/sequence_feature/sequence_entropy/result/hoi_analysis/projects/aging/thyroid/significant_go_bp_summary.tsv
+
+genome:
+  build: hg38                # 目标样本基因组版本 (bigWig 染色体长度验证: chr21=46709983)
+  chr_prefix: true
+  chrom_sizes: /media/dell/data5/sequence_feature/sequence_entropy/data/genome_annotation/hg38/hg38.chrom.sizes  # 若不存在脚本回退到 bigWig 头部
+
+methylation:
+  # 关键限制: WGB-Seq methylation_profile bigWig 为 0-100 百分制, 无 coverage 信息
+  unit: percent_0_100
+  has_coverage: false
+  file_glob: "*.WGB-Seq.methylation_profile.bigWig"
+  note: >
+    无 per-CpG coverage / methylated-read counts, 不能运行 UXM_deconv(PAT fragment 输入)。
+    采用 reference-based constrained NNLS (beta 值线性混合近似), 并单独报告此限制。
+
+reference:
+  source: Loyfer_et_al_Nature_2023
+  geo: GSE186458
+  thyroid_gsm: [GSM5652264, GSM5652265, GSM5652266]
+  build: hg38                # 下载的 .hg38.beta 文件, 与目标样本同构建, 无需 liftOver
+  liftover_chain: /media/dell/data1/chaihao/liftover/hg19ToHg38.over.chain
+  liftover_bin: /media/dell/data1/chaihao/liftover/liftOver
+  dir: data/reference
+  staging_dir: /tmp/thyroid_deconv_ref   # NFS 随机读极慢(2.5MB/s), 大文件先 staging 到本地盘
+
+entropy:
+  n_states: 5
+  # 离散化: 每信号每样本全局分位数 (signal_loader.assign_bins), 阈值不落盘, 已验证无法恢复 -> Step9 需重算熵
+  entropy_script: /media/dell/data5/sequence_feature/sequence_entropy/code/hoi_analysis/compute_hoi_entropy.py
+  oinfo_script: /media/dell/data5/sequence_feature/sequence_entropy/scripts/compute_oinfo_from_entropy.py
+  n_autosomal_bins: 2875012
+
+stats:
+  seed: 42
+  fdr_method: BH
+  block_bootstrap_chromosomes: true
