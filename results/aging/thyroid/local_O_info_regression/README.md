@@ -33,11 +33,11 @@ Run everything: `bash scripts/run_all.sh` (from any directory).
   O-info columns; `beta_age, se_age, t_age, p_age, beta_immune, se_immune,
   t_immune, p_immune, r2_model` (adjusted model); `slope_age_unadj,
   se_age_unadj, p_age_unadj`; `age_slope_attenuation`.
-- `results/gsea_pathway/<region>/<library>/` — gseapy prerank reports and
-  plots; `<region>.ranked_genes.tsv` is the gene ranking used.
-- `results/gsea_marginal/<region>/` — `gsea_report.tsv` + gseapy outdir.
 - `results/tables/gsea_{pathway,marginal}_significant.tsv` — summary of
   significant terms across all 37 regions.
+- Per-region GSEA reports (`*.report.csv`), ranked gene lists and gseapy plot
+  directories are written next to these tables when the pipeline runs but are
+  not tracked in git (bulk, regenerable from scripts + 01 outputs).
 - `logs/` — one log per step (versions, parameters, per-region summaries).
 
 ## Key decisions
@@ -48,6 +48,8 @@ Run everything: `bash scripts/run_all.sh` (from any directory).
 - GSEA parameters mirror the original pipeline: gene ranking
   `-log10(p) * sign(beta)`, min set size 5, 1000 (pathway) / 10000 (marginal)
   permutations, seed 42, significance = NOM p < 0.05 AND FDR q < 0.25.
+  For marginal GSEA on regions with > 50,000 ranked bins, permutations are
+  reduced to 1,000 to keep gseapy prerank within RAM (logged per region).
 - With n = 6 donors and 2 predictors, residual degrees of freedom = 3;
   p-values are exact t-test p-values but necessarily coarse — treat bin-level
   significance as descriptive.

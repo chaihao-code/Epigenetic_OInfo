@@ -17,6 +17,15 @@ import pandas as pd
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import config as C
 
+# Lead_genes lists every member gene/bin of a term and can reach hundreds of
+# thousands of entries for the flat marginal sets -- drop it from summaries
+# (full per-term reports stay in the per-region outputs).
+DROP_COLUMNS = ["Lead_genes"]
+
+
+def _drop(df):
+    return df.drop(columns=[c for c in DROP_COLUMNS if c in df.columns])
+
 
 def summarize_pathway():
     rows = []
@@ -39,6 +48,7 @@ def summarize_pathway():
         if rows
         else pd.DataFrame(columns=["region", "library"])
     )
+    out = _drop(out)
     out.to_csv(C.OUT_TABLES / "gsea_pathway_significant.tsv", sep="\t", index=False)
     logging.info("pathway: %d significant terms from %d regions", len(out), len(rows))
     return out
@@ -64,6 +74,7 @@ def summarize_marginal():
         if rows
         else pd.DataFrame(columns=["region"])
     )
+    out = _drop(out)
     out.to_csv(C.OUT_TABLES / "gsea_marginal_significant.tsv", sep="\t", index=False)
     logging.info("marginal: %d significant terms from %d regions", len(out), len(rows))
     return out

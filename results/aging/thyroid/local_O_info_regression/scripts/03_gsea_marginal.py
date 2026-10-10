@@ -94,11 +94,18 @@ def run_region(region):
     logging.info("%s: %d bins ranked, %d gene sets", region, len(rnk), len(set_names))
     if not set_names or len(rnk) < C.MIN_SET_SIZE:
         return
+    # gseapy prerank memory scales with n_bins x n_permutations; the original
+    # 10k permutations are kept for small regions and reduced for the large
+    # repeat/desert regions so the job stays within RAM.
+    perm = C.MARGINAL_PERMUTATIONS if len(rnk) <= 50000 else 1000
+    if perm != C.MARGINAL_PERMUTATIONS:
+        logging.info("  %d bins -> permutation_num %d (was %d)",
+                     len(rnk), perm, C.MARGINAL_PERMUTATIONS)
     res = gp.prerank(
         rnk=rnk,
         gene_sets=str(gmt),
         outdir=str(out_region / "gsea_prerank"),
-        permutation_num=C.MARGINAL_PERMUTATIONS,
+        permutation_num=perm,
         seed=C.GSEA_SEED,
         verbose=False,
         min_size=C.MIN_SET_SIZE,
