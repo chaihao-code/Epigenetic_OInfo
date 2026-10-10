@@ -2,6 +2,10 @@
 /*
 !.gitignore
 !/preprocessing/
+!/results/
+!/results/aging/
+!/results/aging/thyroid/
+!/results/aging/thyroid/local_O_info_regression/
 !/hoi_code/
 
 # Exclude job logs and scratch files
@@ -9,3 +13,4 @@ preprocessing/**/logs/
 hoi_code/**/logs/
 __pycache__/
 *.pyc
+!results/aging/thyroid/local_O_info_regression/

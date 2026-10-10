@@ -1,0 +1,6 @@
+# Large per-bin outputs are reproducible from scripts and stay out of git.
+results/regression/
+results/gsea_pathway/*/*/
+results/gsea_marginal/*/gsea_prerank/
+logs/*.out
+__pycache__/
