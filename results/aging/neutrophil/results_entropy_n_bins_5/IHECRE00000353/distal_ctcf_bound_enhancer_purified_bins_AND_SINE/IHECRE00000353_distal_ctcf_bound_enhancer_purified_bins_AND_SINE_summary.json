@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2280917649895895,
+      "min_entropy": 2.147509052989186,
+      "max_entropy": 2.2943651259785396
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.317348403113572,
+      "min_entropy": 3.846886001787467,
+      "max_entropy": 4.499049208721124
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.276448415362535,
+      "min_entropy": 5.73809522243891,
+      "max_entropy": 6.630270367923364
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.124752340320708,
+      "min_entropy": 7.646427873854767,
+      "max_entropy": 8.591365813826707
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.874820474745293,
+      "min_entropy": 9.464379355618677,
+      "max_entropy": 10.239570471558062
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.507560508020875,
+      "min_entropy": 11.191260728521797,
+      "max_entropy": 11.759159845217551
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.949703089783508,
+      "min_entropy": 12.949703089783508,
+      "max_entropy": 12.949703089783508
+    }
+  },
+  "entropy": {
+    "mean": 7.17462080224257,
+    "min": 2.147509052989186,
+    "max": 12.949703089783508
+  }
+}

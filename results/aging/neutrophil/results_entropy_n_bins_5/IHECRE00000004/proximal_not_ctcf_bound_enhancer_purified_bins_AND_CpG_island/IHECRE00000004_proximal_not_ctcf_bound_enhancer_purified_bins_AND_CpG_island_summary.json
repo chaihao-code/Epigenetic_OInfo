@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.7159670847388708,
+      "min_entropy": 1.010127966602406,
+      "max_entropy": 2.2876205692917395
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.3062297608207882,
+      "min_entropy": 2.285742836310347,
+      "max_entropy": 4.161475765310585
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.714711002523723,
+      "min_entropy": 3.5768522999927077,
+      "max_entropy": 5.659956412722791
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.891464170370013,
+      "min_entropy": 4.896066153296596,
+      "max_entropy": 6.692847828894129
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.838428799196852,
+      "min_entropy": 6.118721840522136,
+      "max_entropy": 7.467180116190371
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.578953651342631,
+      "min_entropy": 7.107636316096145,
+      "max_entropy": 7.999063285037044
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 8.146081856127756,
+      "min_entropy": 8.146081856127756,
+      "max_entropy": 8.146081856127756
+    }
+  },
+  "entropy": {
+    "mean": 5.176885730868894,
+    "min": 1.010127966602406,
+    "max": 8.146081856127756
+  }
+}

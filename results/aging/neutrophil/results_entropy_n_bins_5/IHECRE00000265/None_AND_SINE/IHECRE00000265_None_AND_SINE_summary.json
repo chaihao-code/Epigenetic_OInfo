@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128403.Blueprint.IHECRE00000265.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128405.Blueprint.IHECRE00000265.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128407.Blueprint.IHECRE00000265.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128399.Blueprint.IHECRE00000265.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128401.Blueprint.IHECRE00000265.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128397.Blueprint.IHECRE00000265.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128412.Blueprint.IHECRE00000265.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2671457054080184,
+      "min_entropy": 2.1782504043195203,
+      "max_entropy": 2.308167446203961
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.259982188320511,
+      "min_entropy": 3.845134169346471,
+      "max_entropy": 4.600616603690716
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.106377222164602,
+      "min_entropy": 5.457587366391122,
+      "max_entropy": 6.596988368006949
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.867470068915103,
+      "min_entropy": 7.189168902384468,
+      "max_entropy": 8.413141599769304
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.562385051829231,
+      "min_entropy": 8.889600509083335,
+      "max_entropy": 10.098932487122013
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.176495995960066,
+      "min_entropy": 10.58960468174082,
+      "max_entropy": 11.482629304849585
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.650730780350514,
+      "min_entropy": 12.650730780350514,
+      "max_entropy": 12.650730780350514
+    }
+  },
+  "entropy": {
+    "mean": 6.9772487395343425,
+    "min": 2.1782504043195203,
+    "max": 12.650730780350514
+  }
+}

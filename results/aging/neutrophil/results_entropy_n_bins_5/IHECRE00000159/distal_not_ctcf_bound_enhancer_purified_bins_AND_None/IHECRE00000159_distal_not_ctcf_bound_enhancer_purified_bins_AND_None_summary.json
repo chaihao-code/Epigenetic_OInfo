@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.258337404390144,
+      "min_entropy": 2.141240161500994,
+      "max_entropy": 2.3009149833471483
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.306784523177974,
+      "min_entropy": 3.9126590875109715,
+      "max_entropy": 4.563965783856943
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.192197321376287,
+      "min_entropy": 5.585081292833215,
+      "max_entropy": 6.664330033762587
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.9628028146409555,
+      "min_entropy": 7.368169161974646,
+      "max_entropy": 8.460399651061989
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.640878615349928,
+      "min_entropy": 9.044518631816326,
+      "max_entropy": 10.113677120388644
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.210543518388562,
+      "min_entropy": 10.68916057895676,
+      "max_entropy": 11.514105384132492
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.607184903046324,
+      "min_entropy": 12.607184903046324,
+      "max_entropy": 12.607184903046324
+    }
+  },
+  "entropy": {
+    "mean": 7.0489392285998935,
+    "min": 2.141240161500994,
+    "max": 12.607184903046324
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128761.Blueprint.IHECRE00000308.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128763.Blueprint.IHECRE00000308.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128765.Blueprint.IHECRE00000308.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128757.Blueprint.IHECRE00000308.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128759.Blueprint.IHECRE00000308.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128755.Blueprint.IHECRE00000308.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128770.Blueprint.IHECRE00000308.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.7270794734430808,
+      "min_entropy": 1.4332291990279609,
+      "max_entropy": 1.9985001748340634
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.2215785012554883,
+      "min_entropy": 2.7649576329767127,
+      "max_entropy": 3.7800026194233216
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.524062236367071,
+      "min_entropy": 3.990460980597671,
+      "max_entropy": 5.1642534456092815
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.616892308818347,
+      "min_entropy": 5.079401533087227,
+      "max_entropy": 6.1173308538250115
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.485079152983825,
+      "min_entropy": 6.045677343862662,
+      "max_entropy": 6.8402484465686975
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.142939579941656,
+      "min_entropy": 6.77321632357305,
+      "max_entropy": 7.310354862974642
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 7.630048171611168,
+      "min_entropy": 7.630048171611168,
+      "max_entropy": 7.630048171611168
+    }
+  },
+  "entropy": {
+    "mean": 4.948766939888343,
+    "min": 1.4332291990279609,
+    "max": 7.630048171611168
+  }
+}

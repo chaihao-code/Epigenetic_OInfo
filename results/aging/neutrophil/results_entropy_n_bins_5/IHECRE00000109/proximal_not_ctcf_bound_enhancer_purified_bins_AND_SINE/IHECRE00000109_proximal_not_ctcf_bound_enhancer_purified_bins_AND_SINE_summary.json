@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127530.Blueprint.IHECRE00000109.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127532.Blueprint.IHECRE00000109.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127534.Blueprint.IHECRE00000109.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127526.Blueprint.IHECRE00000109.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127528.Blueprint.IHECRE00000109.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127524.Blueprint.IHECRE00000109.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127539.Blueprint.IHECRE00000109.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.181868570659719,
+      "min_entropy": 2.016864851265692,
+      "max_entropy": 2.320666365121009
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.259331523825686,
+      "min_entropy": 3.8047042733005956,
+      "max_entropy": 4.589048956953157
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.235092741090466,
+      "min_entropy": 5.568995831558955,
+      "max_entropy": 6.771654645215824
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.110184522036135,
+      "min_entropy": 7.486825861273913,
+      "max_entropy": 8.63919066380259
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.846753971406013,
+      "min_entropy": 9.349021829335573,
+      "max_entropy": 10.367854488543934
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.321560585257897,
+      "min_entropy": 10.98952850342874,
+      "max_entropy": 11.666458154300003
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.39872828897446,
+      "min_entropy": 12.39872828897446,
+      "max_entropy": 12.39872828897446
+    }
+  },
+  "entropy": {
+    "mean": 7.1278364723598004,
+    "min": 2.016864851265692,
+    "max": 12.39872828897446
+  }
+}

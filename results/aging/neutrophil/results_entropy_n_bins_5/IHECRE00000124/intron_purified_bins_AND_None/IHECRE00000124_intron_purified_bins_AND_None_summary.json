@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127635.Blueprint.IHECRE00000124.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127637.Blueprint.IHECRE00000124.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127639.Blueprint.IHECRE00000124.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127631.Blueprint.IHECRE00000124.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127633.Blueprint.IHECRE00000124.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127629.Blueprint.IHECRE00000124.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127644.Blueprint.IHECRE00000124.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.283710148979663,
+      "min_entropy": 2.229380124582279,
+      "max_entropy": 2.3024091474639112
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.402356751143743,
+      "min_entropy": 4.199874842724081,
+      "max_entropy": 4.578504741390078
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.400521592139678,
+      "min_entropy": 6.034251429660392,
+      "max_entropy": 6.676576608715591
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.310135249429026,
+      "min_entropy": 7.887914907124185,
+      "max_entropy": 8.645622749852889
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.14123589166088,
+      "min_entropy": 9.707651350428986,
+      "max_entropy": 10.41892764502168
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.864351351099756,
+      "min_entropy": 11.502980504307429,
+      "max_entropy": 12.015157809990498
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.375813465163919,
+      "min_entropy": 13.375813465163919,
+      "max_entropy": 13.375813465163919
+    }
+  },
+  "entropy": {
+    "mean": 7.344099834011982,
+    "min": 2.229380124582279,
+    "max": 13.375813465163919
+  }
+}

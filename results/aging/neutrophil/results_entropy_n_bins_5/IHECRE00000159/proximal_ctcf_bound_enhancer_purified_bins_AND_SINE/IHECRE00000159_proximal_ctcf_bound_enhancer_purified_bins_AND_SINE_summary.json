@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.9411954187876923,
+      "min_entropy": 1.479532077119937,
+      "max_entropy": 2.2656348178202608
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.7142668328358175,
+      "min_entropy": 2.880907582128269,
+      "max_entropy": 4.204827794936366
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.348184044840408,
+      "min_entropy": 4.259009071184927,
+      "max_entropy": 6.041201042711612
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 6.863451735516187,
+      "min_entropy": 5.924804055909421,
+      "max_entropy": 7.728884483213198
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.251105019806314,
+      "min_entropy": 7.552792007836318,
+      "max_entropy": 9.038767601697115
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 9.464311473944786,
+      "min_entropy": 9.177737106642914,
+      "max_entropy": 9.915394040647108
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.454336043775193,
+      "min_entropy": 10.454336043775193,
+      "max_entropy": 10.454336043775193
+    }
+  },
+  "entropy": {
+    "mean": 6.05490508276274,
+    "min": 1.479532077119937,
+    "max": 10.454336043775193
+  }
+}

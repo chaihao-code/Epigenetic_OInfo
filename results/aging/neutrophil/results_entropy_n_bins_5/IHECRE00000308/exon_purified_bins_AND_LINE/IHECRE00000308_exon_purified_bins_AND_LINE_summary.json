@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128761.Blueprint.IHECRE00000308.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128763.Blueprint.IHECRE00000308.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128765.Blueprint.IHECRE00000308.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128757.Blueprint.IHECRE00000308.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128759.Blueprint.IHECRE00000308.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128755.Blueprint.IHECRE00000308.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128770.Blueprint.IHECRE00000308.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.290932281963688,
+      "min_entropy": 2.238102321578406,
+      "max_entropy": 2.314435920875685
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.39958285623175,
+      "min_entropy": 4.033189943309465,
+      "max_entropy": 4.56281337518891
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.326249761892278,
+      "min_entropy": 5.81126870176533,
+      "max_entropy": 6.7108696402159875
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.11183908850848,
+      "min_entropy": 7.530132593900735,
+      "max_entropy": 8.468061198699342
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.786445947285294,
+      "min_entropy": 9.288037768115078,
+      "max_entropy": 10.126592406131065
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.343210967231721,
+      "min_entropy": 10.860895590794357,
+      "max_entropy": 11.547070890124175
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.726474566201517,
+      "min_entropy": 12.726474566201517,
+      "max_entropy": 12.726474566201517
+    }
+  },
+  "entropy": {
+    "mean": 7.1764188342397945,
+    "min": 2.238102321578406,
+    "max": 12.726474566201517
+  }
+}

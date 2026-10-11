@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2652990484339632,
+      "min_entropy": 2.141274428063512,
+      "max_entropy": 2.314868407433219
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.3768331406453855,
+      "min_entropy": 4.0349403396453285,
+      "max_entropy": 4.582244101568068
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.355967095253315,
+      "min_entropy": 5.820322516059088,
+      "max_entropy": 6.749679413631497
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.211286189286719,
+      "min_entropy": 7.723610179730789,
+      "max_entropy": 8.593412901471519
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.89414599213707,
+      "min_entropy": 9.4255581850584,
+      "max_entropy": 10.234950027132612
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.262192730305264,
+      "min_entropy": 10.912610860092215,
+      "max_entropy": 11.459164245477032
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.18816014298368,
+      "min_entropy": 12.18816014298368,
+      "max_entropy": 12.18816014298368
+    }
+  },
+  "entropy": {
+    "mean": 7.215945112925125,
+    "min": 2.141274428063512,
+    "max": 12.18816014298368
+  }
+}

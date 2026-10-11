@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129075.Blueprint.IHECRE00000346.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129077.Blueprint.IHECRE00000346.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129079.Blueprint.IHECRE00000346.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129071.Blueprint.IHECRE00000346.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129073.Blueprint.IHECRE00000346.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129069.Blueprint.IHECRE00000346.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129084.Blueprint.IHECRE00000346.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 5080,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 280,
+      "mean_entropy": 2.0980903267207,
+      "min_entropy": 0.35711079022182785,
+      "max_entropy": 2.32054735130043
+    },
+    "order_2": {
+      "n_subsets": 840,
+      "mean_entropy": 3.87073979974718,
+      "min_entropy": 1.0380070661456249,
+      "max_entropy": 4.622515557054804
+    },
+    "order_3": {
+      "n_subsets": 1400,
+      "mean_entropy": 5.430383896536585,
+      "min_entropy": 1.5897799505550627,
+      "max_entropy": 6.712472728590323
+    },
+    "order_4": {
+      "n_subsets": 1400,
+      "mean_entropy": 6.8402867697362675,
+      "min_entropy": 2.2055266470843335,
+      "max_entropy": 8.440950718937795
+    },
+    "order_5": {
+      "n_subsets": 840,
+      "mean_entropy": 8.122549907049187,
+      "min_entropy": 2.593581053096093,
+      "max_entropy": 9.824337051563843
+    },
+    "order_6": {
+      "n_subsets": 280,
+      "mean_entropy": 9.273557139000406,
+      "min_entropy": 2.9790106011191826,
+      "max_entropy": 10.998772953239854
+    },
+    "order_7": {
+      "n_subsets": 40,
+      "mean_entropy": 10.279733752331948,
+      "min_entropy": 3.8565282925453577,
+      "max_entropy": 11.817220144496815
+    }
+  },
+  "entropy": {
+    "mean": 6.072549788776797,
+    "min": 0.35711079022182785,
+    "max": 11.817220144496815
+  }
+}

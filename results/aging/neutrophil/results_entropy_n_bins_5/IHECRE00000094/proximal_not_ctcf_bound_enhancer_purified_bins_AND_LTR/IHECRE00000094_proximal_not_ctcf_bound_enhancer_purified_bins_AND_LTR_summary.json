@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127391.Blueprint.IHECRE00000094.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127393.Blueprint.IHECRE00000094.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127395.Blueprint.IHECRE00000094.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127387.Blueprint.IHECRE00000094.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127389.Blueprint.IHECRE00000094.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127385.Blueprint.IHECRE00000094.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127400.Blueprint.IHECRE00000094.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2882867542194014,
+      "min_entropy": 2.2516240004738117,
+      "max_entropy": 2.306008186417439
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.335487504274535,
+      "min_entropy": 3.971475994949396,
+      "max_entropy": 4.60079056480112
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.226492387943989,
+      "min_entropy": 5.67802920260605,
+      "max_entropy": 6.631443907564976
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.982198041473821,
+      "min_entropy": 7.376186594394412,
+      "max_entropy": 8.45661593064085
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.525886714321357,
+      "min_entropy": 8.949502654788118,
+      "max_entropy": 9.915343336101675
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.703620557577585,
+      "min_entropy": 10.27311295498745,
+      "max_entropy": 10.931870612917649
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.451302002822498,
+      "min_entropy": 11.451302002822498,
+      "max_entropy": 11.451302002822498
+    }
+  },
+  "entropy": {
+    "mean": 7.0140761953192,
+    "min": 2.2516240004738117,
+    "max": 11.451302002822498
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128559.Blueprint.IHECRE00000284.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128561.Blueprint.IHECRE00000284.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128557.Blueprint.IHECRE00000284.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128572.Blueprint.IHECRE00000284.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2937568686156817,
+      "min_entropy": 2.273008293190119,
+      "max_entropy": 2.317110266655524
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.446552348922186,
+      "min_entropy": 4.110253922023661,
+      "max_entropy": 4.611417625342234
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.478873525190633,
+      "min_entropy": 5.9326510291010095,
+      "max_entropy": 6.854243083441365
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.41738435619165,
+      "min_entropy": 7.763853504084686,
+      "max_entropy": 8.813401605926636
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.275430000819568,
+      "min_entropy": 9.720050475938338,
+      "max_entropy": 10.644100311816135
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 12.028894236183161,
+      "min_entropy": 11.603915149567076,
+      "max_entropy": 12.233126945072055
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.583183059185847,
+      "min_entropy": 13.583183059185847,
+      "max_entropy": 13.583183059185847
+    }
+  },
+  "entropy": {
+    "mean": 7.436003117997912,
+    "min": 2.273008293190119,
+    "max": 13.583183059185847
+  }
+}

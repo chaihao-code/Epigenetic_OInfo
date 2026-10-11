@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2917256837012934,
+      "min_entropy": 2.2635983838837817,
+      "max_entropy": 2.3071529073846198
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.371885259459232,
+      "min_entropy": 4.005904299318199,
+      "max_entropy": 4.579409843070226
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.302698606228181,
+      "min_entropy": 5.685102914158488,
+      "max_entropy": 6.756666399564366
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.13251587868663,
+      "min_entropy": 7.4516195413538,
+      "max_entropy": 8.627328170738252
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.882706300918343,
+      "min_entropy": 9.22050817547035,
+      "max_entropy": 10.302851263150039
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.538174005621977,
+      "min_entropy": 11.067724258876344,
+      "max_entropy": 11.758027896676412
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.03111947349835,
+      "min_entropy": 13.03111947349835,
+      "max_entropy": 13.03111947349835
+    }
+  },
+  "entropy": {
+    "mean": 7.200152338887471,
+    "min": 2.2635983838837817,
+    "max": 13.03111947349835
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.265315981810057,
+      "min_entropy": 2.195626410177489,
+      "max_entropy": 2.3175936962658006
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.341682741413154,
+      "min_entropy": 3.9405053891178716,
+      "max_entropy": 4.579637773158021
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.269666465824218,
+      "min_entropy": 5.644818308851693,
+      "max_entropy": 6.703442638936879
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.09009087418038,
+      "min_entropy": 7.436974093898033,
+      "max_entropy": 8.612864912720534
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.824846784904313,
+      "min_entropy": 9.163674236147958,
+      "max_entropy": 10.330487118642575
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.465160458496214,
+      "min_entropy": 10.947903514309314,
+      "max_entropy": 11.788222463413781
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.956159962901863,
+      "min_entropy": 12.956159962901863,
+      "max_entropy": 12.956159962901863
+    }
+  },
+  "entropy": {
+    "mean": 7.1587253700619975,
+    "min": 2.195626410177489,
+    "max": 12.956159962901863
+  }
+}

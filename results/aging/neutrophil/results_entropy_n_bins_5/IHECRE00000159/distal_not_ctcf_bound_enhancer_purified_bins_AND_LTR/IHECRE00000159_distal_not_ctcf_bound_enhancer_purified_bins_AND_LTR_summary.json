@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.264509313987216,
+      "min_entropy": 2.228816057982386,
+      "max_entropy": 2.3127052588499333
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.3266930251140865,
+      "min_entropy": 3.921857636403061,
+      "max_entropy": 4.582101840129595
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.243536517532839,
+      "min_entropy": 5.586186312208371,
+      "max_entropy": 6.758457866667265
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.05894360081684,
+      "min_entropy": 7.292122851476945,
+      "max_entropy": 8.636214355741746
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.792557280194345,
+      "min_entropy": 8.9994554845772,
+      "max_entropy": 10.32366110442564
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.429885806235834,
+      "min_entropy": 10.899453276082975,
+      "max_entropy": 11.765075882473983
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.907029752135161,
+      "min_entropy": 12.907029752135161,
+      "max_entropy": 12.907029752135161
+    }
+  },
+  "entropy": {
+    "mean": 7.132746898798523,
+    "min": 2.228816057982386,
+    "max": 12.907029752135161
+  }
+}

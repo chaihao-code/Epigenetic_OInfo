@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128761.Blueprint.IHECRE00000308.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128763.Blueprint.IHECRE00000308.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128765.Blueprint.IHECRE00000308.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128757.Blueprint.IHECRE00000308.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128759.Blueprint.IHECRE00000308.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128755.Blueprint.IHECRE00000308.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128770.Blueprint.IHECRE00000308.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.3059104006706583,
+      "min_entropy": 1.209342764002746,
+      "max_entropy": 1.3768952008165543
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.0120620978710164,
+      "min_entropy": 1.7537990111194819,
+      "max_entropy": 2.2979969777465685
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 2.573953068444055,
+      "min_entropy": 2.1445832159918083,
+      "max_entropy": 2.9494012616900283
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 3.087169722275786,
+      "min_entropy": 2.560801794883118,
+      "max_entropy": 3.4692699071972193
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 3.5685787730623675,
+      "min_entropy": 3.0753893541801878,
+      "max_entropy": 3.878054545488851
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 4.010039514559821,
+      "min_entropy": 3.5912622688246723,
+      "max_entropy": 4.170973016348603
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 4.3929756344285735,
+      "min_entropy": 4.3929756344285735,
+      "max_entropy": 4.3929756344285735
+    }
+  },
+  "entropy": {
+    "mean": 2.8105305591010827,
+    "min": 1.209342764002746,
+    "max": 4.3929756344285735
+  }
+}

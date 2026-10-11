@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2464186618354356,
+      "min_entropy": 2.1919045557308956,
+      "max_entropy": 2.3070084037266807
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.298841646801555,
+      "min_entropy": 3.897039173251301,
+      "max_entropy": 4.574450920795968
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.1970301319039,
+      "min_entropy": 5.5077454492136315,
+      "max_entropy": 6.631681233026912
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.949303021039842,
+      "min_entropy": 7.191850378784748,
+      "max_entropy": 8.49271811236856
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.486517500293381,
+      "min_entropy": 8.817262885906255,
+      "max_entropy": 9.936719972927374
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.67440505620424,
+      "min_entropy": 10.260440507417645,
+      "max_entropy": 10.91279924111076
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.44976157559321,
+      "min_entropy": 11.44976157559321,
+      "max_entropy": 11.44976157559321
+    }
+  },
+  "entropy": {
+    "mean": 6.9803915751487855,
+    "min": 2.1919045557308956,
+    "max": 11.44976157559321
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127391.Blueprint.IHECRE00000094.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127393.Blueprint.IHECRE00000094.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127395.Blueprint.IHECRE00000094.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127387.Blueprint.IHECRE00000094.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127389.Blueprint.IHECRE00000094.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127385.Blueprint.IHECRE00000094.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127400.Blueprint.IHECRE00000094.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 5080,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 280,
+      "mean_entropy": 2.159419633100557,
+      "min_entropy": 0.3729013281158917,
+      "max_entropy": 2.3209497601431974
+    },
+    "order_2": {
+      "n_subsets": 840,
+      "mean_entropy": 4.063568309454853,
+      "min_entropy": 1.0162595508806944,
+      "max_entropy": 4.6278971484611775
+    },
+    "order_3": {
+      "n_subsets": 1400,
+      "mean_entropy": 5.802113612229963,
+      "min_entropy": 2.116210773116074,
+      "max_entropy": 6.730855238554289
+    },
+    "order_4": {
+      "n_subsets": 1400,
+      "mean_entropy": 7.41888604956424,
+      "min_entropy": 2.551595697384011,
+      "max_entropy": 8.50035261669251
+    },
+    "order_5": {
+      "n_subsets": 840,
+      "mean_entropy": 8.911320378189467,
+      "min_entropy": 2.963593963972472,
+      "max_entropy": 10.156507818014504
+    },
+    "order_6": {
+      "n_subsets": 280,
+      "mean_entropy": 10.242543756933145,
+      "min_entropy": 3.475242465500153,
+      "max_entropy": 11.572578740069586
+    },
+    "order_7": {
+      "n_subsets": 40,
+      "mean_entropy": 11.364093605981862,
+      "min_entropy": 4.330001327889661,
+      "max_entropy": 12.75690750825986
+    }
+  },
+  "entropy": {
+    "mean": 6.562090456216895,
+    "min": 0.3729013281158917,
+    "max": 12.75690750825986
+  }
+}

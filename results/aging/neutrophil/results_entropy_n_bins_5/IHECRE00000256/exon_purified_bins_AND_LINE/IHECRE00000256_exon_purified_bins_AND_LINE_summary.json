@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2957268663756603,
+      "min_entropy": 2.24140322088124,
+      "max_entropy": 2.316574541348555
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.411150867330225,
+      "min_entropy": 4.039973085974257,
+      "max_entropy": 4.576337818694782
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.3452745507231905,
+      "min_entropy": 5.668250360045392,
+      "max_entropy": 6.778874972447875
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.133905906551158,
+      "min_entropy": 7.396087811175656,
+      "max_entropy": 8.58661787744483
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.803422689219868,
+      "min_entropy": 9.199714982654987,
+      "max_entropy": 10.325689379280174
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.344324470177025,
+      "min_entropy": 10.811268690353561,
+      "max_entropy": 11.773802591556265
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.703667061010437,
+      "min_entropy": 12.703667061010437,
+      "max_entropy": 12.703667061010437
+    }
+  },
+  "entropy": {
+    "mean": 7.192609347315224,
+    "min": 2.24140322088124,
+    "max": 12.703667061010437
+  }
+}

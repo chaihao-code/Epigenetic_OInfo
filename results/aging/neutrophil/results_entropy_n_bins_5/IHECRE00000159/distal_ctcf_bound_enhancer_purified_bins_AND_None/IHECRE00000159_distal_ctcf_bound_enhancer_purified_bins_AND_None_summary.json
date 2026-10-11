@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2635303231618824,
+      "min_entropy": 2.135972053449658,
+      "max_entropy": 2.319298307468736
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.2891435318897,
+      "min_entropy": 3.96130145420351,
+      "max_entropy": 4.504177183984924
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.135021092913779,
+      "min_entropy": 5.561862587169342,
+      "max_entropy": 6.5848104535927385
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.851973570578178,
+      "min_entropy": 7.324560537564608,
+      "max_entropy": 8.280135055150875
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.460289107432626,
+      "min_entropy": 9.016543849819065,
+      "max_entropy": 9.866364428174498
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.935848767902838,
+      "min_entropy": 10.540474321759064,
+      "max_entropy": 11.192455165194104
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.205947490055024,
+      "min_entropy": 12.205947490055024,
+      "max_entropy": 12.205947490055024
+    }
+  },
+  "entropy": {
+    "mean": 6.95184645492516,
+    "min": 2.135972053449658,
+    "max": 12.205947490055024
+  }
+}

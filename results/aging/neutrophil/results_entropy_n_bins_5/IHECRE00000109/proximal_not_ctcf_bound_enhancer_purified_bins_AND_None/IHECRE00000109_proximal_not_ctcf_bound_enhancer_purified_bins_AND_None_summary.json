@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127530.Blueprint.IHECRE00000109.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127532.Blueprint.IHECRE00000109.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127534.Blueprint.IHECRE00000109.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127526.Blueprint.IHECRE00000109.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127528.Blueprint.IHECRE00000109.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127524.Blueprint.IHECRE00000109.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127539.Blueprint.IHECRE00000109.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2219962395825155,
+      "min_entropy": 2.130971722275681,
+      "max_entropy": 2.297639391760759
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.317407131796285,
+      "min_entropy": 3.982096762666257,
+      "max_entropy": 4.518441906923799
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.283153796099006,
+      "min_entropy": 5.754905488768672,
+      "max_entropy": 6.631788417832076
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.103118103320151,
+      "min_entropy": 7.555849731141576,
+      "max_entropy": 8.535597899177276
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.679080609791832,
+      "min_entropy": 9.225874287520739,
+      "max_entropy": 10.076922165119834
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.841440291292114,
+      "min_entropy": 10.610467821201627,
+      "max_entropy": 11.046937171214415
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.57894852391208,
+      "min_entropy": 11.57894852391208,
+      "max_entropy": 11.57894852391208
+    }
+  },
+  "entropy": {
+    "mean": 7.090305222779963,
+    "min": 2.130971722275681,
+    "max": 11.57894852391208
+  }
+}

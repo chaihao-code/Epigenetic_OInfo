@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128761.Blueprint.IHECRE00000308.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128763.Blueprint.IHECRE00000308.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128765.Blueprint.IHECRE00000308.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128757.Blueprint.IHECRE00000308.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128759.Blueprint.IHECRE00000308.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128755.Blueprint.IHECRE00000308.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128770.Blueprint.IHECRE00000308.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.287538000333624,
+      "min_entropy": 2.2508863107273136,
+      "max_entropy": 2.3034999710124473
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.401250018808972,
+      "min_entropy": 3.971489733544182,
+      "max_entropy": 4.561872007099038
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.3446971190457155,
+      "min_entropy": 5.7080795798560064,
+      "max_entropy": 6.725925435113517
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.154793100750886,
+      "min_entropy": 7.480816608788917,
+      "max_entropy": 8.550334458557993
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.85907600120087,
+      "min_entropy": 9.310671605042346,
+      "max_entropy": 10.24539930173081
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.451463723199806,
+      "min_entropy": 10.985256248498636,
+      "max_entropy": 11.706607131767516
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.879093380281208,
+      "min_entropy": 12.879093380281208,
+      "max_entropy": 12.879093380281208
+    }
+  },
+  "entropy": {
+    "mean": 7.2126071618748275,
+    "min": 2.2508863107273136,
+    "max": 12.879093380281208
+  }
+}

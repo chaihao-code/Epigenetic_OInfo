@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.19299758271713,
+      "min_entropy": 2.0972677632298113,
+      "max_entropy": 2.3139074532108173
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.124924783959058,
+      "min_entropy": 3.596386883061522,
+      "max_entropy": 4.5394919480497
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.863620448955387,
+      "min_entropy": 4.966703802205481,
+      "max_entropy": 6.46523047649723
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.466031093877023,
+      "min_entropy": 6.644106130214114,
+      "max_entropy": 8.157104518738912
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.958851639633906,
+      "min_entropy": 8.264973673774598,
+      "max_entropy": 9.524308661587005
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.33067842883672,
+      "min_entropy": 9.871138487491288,
+      "max_entropy": 10.667206642535959
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.531121708031094,
+      "min_entropy": 11.531121708031094,
+      "max_entropy": 11.531121708031094
+    }
+  },
+  "entropy": {
+    "mean": 6.6180626982952315,
+    "min": 2.0972677632298113,
+    "max": 11.531121708031094
+  }
+}

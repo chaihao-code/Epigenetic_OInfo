@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128761.Blueprint.IHECRE00000308.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128763.Blueprint.IHECRE00000308.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128765.Blueprint.IHECRE00000308.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128757.Blueprint.IHECRE00000308.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128759.Blueprint.IHECRE00000308.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128755.Blueprint.IHECRE00000308.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128770.Blueprint.IHECRE00000308.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2901324163266032,
+      "min_entropy": 2.26902467375609,
+      "max_entropy": 2.319034056026341
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.380693049438058,
+      "min_entropy": 3.8695467427371235,
+      "max_entropy": 4.593156965048583
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.291410223287476,
+      "min_entropy": 5.573850228165401,
+      "max_entropy": 6.740188694933359
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.056681006682561,
+      "min_entropy": 7.225983311585885,
+      "max_entropy": 8.55329388014578
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.674596215197502,
+      "min_entropy": 9.057719437729444,
+      "max_entropy": 10.11907176059927
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.074713616566772,
+      "min_entropy": 10.649001922141935,
+      "max_entropy": 11.370528739105293
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.154705939140019,
+      "min_entropy": 12.154705939140019,
+      "max_entropy": 12.154705939140019
+    }
+  },
+  "entropy": {
+    "mean": 7.110652722643243,
+    "min": 2.26902467375609,
+    "max": 12.154705939140019
+  }
+}

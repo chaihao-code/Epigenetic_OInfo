@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.292088133911307,
+      "min_entropy": 2.262282475715356,
+      "max_entropy": 2.318225570496189
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.351776238807211,
+      "min_entropy": 3.9270315115345733,
+      "max_entropy": 4.541317599527952
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.238317758700453,
+      "min_entropy": 5.520723334050546,
+      "max_entropy": 6.709975829762451
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.000188945331164,
+      "min_entropy": 7.338594850884641,
+      "max_entropy": 8.507846517046113
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.649173672910628,
+      "min_entropy": 9.057619385894704,
+      "max_entropy": 10.100425601050336
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.136272200761661,
+      "min_entropy": 10.762458808915039,
+      "max_entropy": 11.360610760443446
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.350282494057943,
+      "min_entropy": 12.350282494057943,
+      "max_entropy": 12.350282494057943
+    }
+  },
+  "entropy": {
+    "mean": 7.076507776566536,
+    "min": 2.262282475715356,
+    "max": 12.350282494057943
+  }
+}

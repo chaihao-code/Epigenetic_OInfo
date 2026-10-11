@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127530.Blueprint.IHECRE00000109.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127532.Blueprint.IHECRE00000109.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127534.Blueprint.IHECRE00000109.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127526.Blueprint.IHECRE00000109.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127528.Blueprint.IHECRE00000109.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127524.Blueprint.IHECRE00000109.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127539.Blueprint.IHECRE00000109.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2458587493027506,
+      "min_entropy": 2.1194837563419315,
+      "max_entropy": 2.3183989276131607
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.368643907671004,
+      "min_entropy": 4.021638991682446,
+      "max_entropy": 4.54780058749094
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.381321737800569,
+      "min_entropy": 5.851999304121486,
+      "max_entropy": 6.7271317171673
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.300755155268266,
+      "min_entropy": 7.7451620310686184,
+      "max_entropy": 8.72582029490899
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.13203835385184,
+      "min_entropy": 9.697031471092858,
+      "max_entropy": 10.5334813453469
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.837564149067864,
+      "min_entropy": 11.566487275313891,
+      "max_entropy": 12.102207013376265
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.301339967623184,
+      "min_entropy": 13.301339967623184,
+      "max_entropy": 13.301339967623184
+    }
+  },
+  "entropy": {
+    "mean": 7.324978889807926,
+    "min": 2.1194837563419315,
+    "max": 13.301339967623184
+  }
+}

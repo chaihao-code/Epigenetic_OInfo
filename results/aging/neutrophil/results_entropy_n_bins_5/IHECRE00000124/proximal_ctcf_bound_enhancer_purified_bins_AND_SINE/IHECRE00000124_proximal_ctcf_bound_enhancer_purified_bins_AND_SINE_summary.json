@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127635.Blueprint.IHECRE00000124.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127637.Blueprint.IHECRE00000124.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127639.Blueprint.IHECRE00000124.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127631.Blueprint.IHECRE00000124.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127633.Blueprint.IHECRE00000124.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127629.Blueprint.IHECRE00000124.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127644.Blueprint.IHECRE00000124.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.0327944507426325,
+      "min_entropy": 1.5967794348516688,
+      "max_entropy": 2.278543090640595
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.9639337332272038,
+      "min_entropy": 3.285788734847399,
+      "max_entropy": 4.448146668976226
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.794333060187839,
+      "min_entropy": 4.956527751565727,
+      "max_entropy": 6.352359564233963
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.521132573158756,
+      "min_entropy": 6.760766879832215,
+      "max_entropy": 8.161211474084592
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.105697701555433,
+      "min_entropy": 8.585795641331877,
+      "max_entropy": 9.780848935764016
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.444554981942082,
+      "min_entropy": 10.21653052267828,
+      "max_entropy": 10.906874997289401
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.456379032112197,
+      "min_entropy": 11.456379032112197,
+      "max_entropy": 11.456379032112197
+    }
+  },
+  "entropy": {
+    "mean": 6.608672302035207,
+    "min": 1.5967794348516688,
+    "max": 11.456379032112197
+  }
+}

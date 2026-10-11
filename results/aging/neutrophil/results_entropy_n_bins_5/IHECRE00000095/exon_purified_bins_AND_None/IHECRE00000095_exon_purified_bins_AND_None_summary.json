@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.290438210574029,
+      "min_entropy": 2.2128724966804416,
+      "max_entropy": 2.319331488554586
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.342575935964563,
+      "min_entropy": 3.9945779229652563,
+      "max_entropy": 4.598846821214683
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.225516155861001,
+      "min_entropy": 5.6597269240863595,
+      "max_entropy": 6.65303442529096
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.994632696664079,
+      "min_entropy": 7.381935482241582,
+      "max_entropy": 8.41514444515148
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.672839737638109,
+      "min_entropy": 9.112335064556586,
+      "max_entropy": 10.033375717446404
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.241141659612476,
+      "min_entropy": 10.748907999681222,
+      "max_entropy": 11.426076441537706
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.624831894571969,
+      "min_entropy": 12.624831894571969,
+      "max_entropy": 12.624831894571969
+    }
+  },
+  "entropy": {
+    "mean": 7.081691574566231,
+    "min": 2.2128724966804416,
+    "max": 12.624831894571969
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.277617572824661,
+      "min_entropy": 2.2354667408398328,
+      "max_entropy": 2.30177290685378
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.314812920971882,
+      "min_entropy": 3.9422135141176224,
+      "max_entropy": 4.5783975590710355
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.196433469415896,
+      "min_entropy": 5.592550000834,
+      "max_entropy": 6.6780354199193415
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.9778956995604,
+      "min_entropy": 7.294934770631824,
+      "max_entropy": 8.484376809307197
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.680801894729925,
+      "min_entropy": 8.99995147113163,
+      "max_entropy": 10.099007539647706
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.288584488405679,
+      "min_entropy": 10.773192393474023,
+      "max_entropy": 11.508473992954999
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.731003881602549,
+      "min_entropy": 12.731003881602549,
+      "max_entropy": 12.731003881602549
+    }
+  },
+  "entropy": {
+    "mean": 7.068534254756877,
+    "min": 2.2354667408398328,
+    "max": 12.731003881602549
+  }
+}

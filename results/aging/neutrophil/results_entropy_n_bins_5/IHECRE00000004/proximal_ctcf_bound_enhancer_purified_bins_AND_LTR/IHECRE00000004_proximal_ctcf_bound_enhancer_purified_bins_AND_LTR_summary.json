@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.222578337897122,
+      "min_entropy": 2.0789465241268927,
+      "max_entropy": 2.308192816381933
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.233439316371059,
+      "min_entropy": 3.7622276784068793,
+      "max_entropy": 4.501658722592475
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.072273393158059,
+      "min_entropy": 5.425453363291594,
+      "max_entropy": 6.482536922994836
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.737329982625311,
+      "min_entropy": 6.991024599018395,
+      "max_entropy": 8.346983270558948
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.142716022066093,
+      "min_entropy": 8.630163252341976,
+      "max_entropy": 9.644194430158056
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.17423427525964,
+      "min_entropy": 9.95314884431518,
+      "max_entropy": 10.455220226806976
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.838442670060086,
+      "min_entropy": 10.838442670060086,
+      "max_entropy": 10.838442670060086
+    }
+  },
+  "entropy": {
+    "mean": 6.786232371824847,
+    "min": 2.0789465241268927,
+    "max": 10.838442670060086
+  }
+}

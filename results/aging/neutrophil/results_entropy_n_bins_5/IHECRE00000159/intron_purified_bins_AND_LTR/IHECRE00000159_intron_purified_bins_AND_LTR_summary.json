@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.28425284892687,
+      "min_entropy": 2.265605801748826,
+      "max_entropy": 2.319616424548731
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.306348036708454,
+      "min_entropy": 3.879099594308422,
+      "max_entropy": 4.618540761693476
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.160353491475552,
+      "min_entropy": 5.442495439249621,
+      "max_entropy": 6.742806683439578
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.908513207041035,
+      "min_entropy": 7.053010169869334,
+      "max_entropy": 8.564993897742497
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.578319326475626,
+      "min_entropy": 8.680441692200763,
+      "max_entropy": 10.127811034989453
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.162051501844152,
+      "min_entropy": 10.565194061029484,
+      "max_entropy": 11.49748403802781
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.608635674424027,
+      "min_entropy": 12.608635674424027,
+      "max_entropy": 12.608635674424027
+    }
+  },
+  "entropy": {
+    "mean": 7.013552088226516,
+    "min": 2.265605801748826,
+    "max": 12.608635674424027
+  }
+}

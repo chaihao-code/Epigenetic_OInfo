@@ -1,0 +1,1555 @@
+============================================================
+HOI Analysis V3 (Modular) for: IHECRE00000284
+============================================================
+Input file: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/data_info/IHECRE00000284.txt
+Output directory: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284
+Block groups (2 groups):
+  Group 1 (mutually exclusive):
+    - promoter_bins.tsv
+    - proximal_ctcf_bound_enhancer_purified_bins.tsv
+    - proximal_not_ctcf_bound_enhancer_purified_bins.tsv
+    - distal_ctcf_bound_enhancer_purified_bins.tsv
+    - distal_not_ctcf_bound_enhancer_purified_bins.tsv
+    - exon_purified_bins.tsv
+    - intron_purified_bins.tsv
+  Group 2 (mutually exclusive):
+    - CpG_island_bins.tsv
+    - LINE_bins.tsv
+    - SINE_bins.tsv
+    - LTR_bins.tsv
+n_bins=5, n_max=100000
+max_missing=3, method=binning
+============================================================
+
+Features (7):
+  - 128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput
+  - 128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput
+  - 128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput
+  - 128559.Blueprint.IHECRE00000284.2.H3K27me3.pval_signal.bin1000.step1000.divInput
+  - 128561.Blueprint.IHECRE00000284.2.H3K36me3.pval_signal.bin1000.step1000.divInput
+  - 128557.Blueprint.IHECRE00000284.2.H3K27ac.pval_signal.bin1000.step1000.divInput
+  - 128572.Blueprint.IHECRE00000284.2.WGB-Seq.methylation.bin1000.step1000
+
+Loading and binning 7 signals...
+  Loaded & binned: 128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput (2875012 bins)
+  Loaded & binned: 128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput (2875012 bins)
+  Loaded & binned: 128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput (2875012 bins)
+  Loaded & binned: 128559.Blueprint.IHECRE00000284.2.H3K27me3.pval_signal.bin1000.step1000.divInput (2875012 bins)
+  Loaded & binned: 128561.Blueprint.IHECRE00000284.2.H3K36me3.pval_signal.bin1000.step1000.divInput (2875012 bins)
+  Loaded & binned: 128557.Blueprint.IHECRE00000284.2.H3K27ac.pval_signal.bin1000.step1000.divInput (2875012 bins)
+  Loaded & binned: 128572.Blueprint.IHECRE00000284.2.WGB-Seq.methylation.bin1000.step1000 (2875012 bins)
+Signal matrix shape: (2875012, 7)
+  - Rows (bin_ids): 2875012
+  - Columns (signals): 7
+
+Generated 40 block combinations:
+  - promoter_AND_CpG_island
+  - promoter_AND_LINE
+  - promoter_AND_SINE
+  - promoter_AND_LTR
+  - promoter_AND_None
+  - proximal_ctcf_bound_enhancer_purified_bins_AND_CpG_island
+  - proximal_ctcf_bound_enhancer_purified_bins_AND_LINE
+  - proximal_ctcf_bound_enhancer_purified_bins_AND_SINE
+  - proximal_ctcf_bound_enhancer_purified_bins_AND_LTR
+  - proximal_ctcf_bound_enhancer_purified_bins_AND_None
+  - proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island
+  - proximal_not_ctcf_bound_enhancer_purified_bins_AND_LINE
+  - proximal_not_ctcf_bound_enhancer_purified_bins_AND_SINE
+  - proximal_not_ctcf_bound_enhancer_purified_bins_AND_LTR
+  - proximal_not_ctcf_bound_enhancer_purified_bins_AND_None
+  - distal_ctcf_bound_enhancer_purified_bins_AND_CpG_island
+  - distal_ctcf_bound_enhancer_purified_bins_AND_LINE
+  - distal_ctcf_bound_enhancer_purified_bins_AND_SINE
+  - distal_ctcf_bound_enhancer_purified_bins_AND_LTR
+  - distal_ctcf_bound_enhancer_purified_bins_AND_None
+  - distal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island
+  - distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE
+  - distal_not_ctcf_bound_enhancer_purified_bins_AND_SINE
+  - distal_not_ctcf_bound_enhancer_purified_bins_AND_LTR
+  - distal_not_ctcf_bound_enhancer_purified_bins_AND_None
+  - exon_purified_bins_AND_CpG_island
+  - exon_purified_bins_AND_LINE
+  - exon_purified_bins_AND_SINE
+  - exon_purified_bins_AND_LTR
+  - exon_purified_bins_AND_None
+  - intron_purified_bins_AND_CpG_island
+  - intron_purified_bins_AND_LINE
+  - intron_purified_bins_AND_SINE
+  - intron_purified_bins_AND_LTR
+  - intron_purified_bins_AND_None
+  - None_AND_CpG_island
+  - None_AND_LINE
+  - None_AND_SINE
+  - None_AND_LTR
+  - None_AND_None
+
+
+Parallel processing: Using 32 workers out of 64 CPUs
+
+Processing 40 blocks in parallel using shared memory...
+  Signal matrix size: 153.5 MB
+  Shared memory created: psm_4b593183, size: 153.5 MB
+  Block 'proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island': 937 bins
+  Final data shape: (937, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 1.372798
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 1.140463
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.134255
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island_summary.json
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island
+  Block 'proximal_ctcf_bound_enhancer_purified_bins_AND_SINE': 17079 bins
+  Final data shape: (17079, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 1.723995
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 1.762154
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.134372
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_SINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_SINE_summary.json
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_SINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/proximal_ctcf_bound_enhancer_purified_bins_AND_SINE
+  Block 'proximal_not_ctcf_bound_enhancer_purified_bins_AND_LINE': 10823 bins
+  Final data shape: (10823, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.244136
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.268498
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.129033
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_LINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_LINE_summary.json
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_LINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/proximal_not_ctcf_bound_enhancer_purified_bins_AND_LINE
+  Block 'promoter_AND_SINE': 60725 bins
+  Final data shape: (60725, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.210030
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.225655
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.230075
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_promoter_AND_SINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_promoter_AND_SINE_summary.json
+  - IHECRE00000284_promoter_AND_SINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/promoter_AND_SINE
+  Block 'proximal_not_ctcf_bound_enhancer_purified_bins_AND_LTR': 5553 bins
+  Final data shape: (5553, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.276519
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.288506
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.223085
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_LTR_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_LTR_summary.json
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_LTR_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/proximal_not_ctcf_bound_enhancer_purified_bins_AND_LTR
+  Block 'proximal_not_ctcf_bound_enhancer_purified_bins_AND_None': 6532 bins
+  Final data shape: (6532, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.262862
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.256813
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.228904
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_None_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_None_summary.json
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_None_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/proximal_not_ctcf_bound_enhancer_purified_bins_AND_None
+  Block 'proximal_not_ctcf_bound_enhancer_purified_bins_AND_SINE': 17569 bins
+  Final data shape: (17569, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.182257
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.221892
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.096759
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_SINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_SINE_summary.json
+  - IHECRE00000284_proximal_not_ctcf_bound_enhancer_purified_bins_AND_SINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/proximal_not_ctcf_bound_enhancer_purified_bins_AND_SINE
+  Block 'distal_ctcf_bound_enhancer_purified_bins_AND_CpG_island': 5048 bins
+  Final data shape: (5048, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 1.236100
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 1.132423
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.097767
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_CpG_island_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_CpG_island_summary.json
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_CpG_island_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/distal_ctcf_bound_enhancer_purified_bins_AND_CpG_island
+  Block 'distal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island': 1960 bins
+  Final data shape: (1960, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 1.799061
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 1.746144
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.137922
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island_summary.json
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/distal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island
+  Block 'distal_ctcf_bound_enhancer_purified_bins_AND_LTR': 40361 bins
+  Final data shape: (40361, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.273506
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.293640
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.221234
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_LTR_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_LTR_summary.json
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_LTR_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/distal_ctcf_bound_enhancer_purified_bins_AND_LTR
+  Block 'distal_ctcf_bound_enhancer_purified_bins_AND_None': 44207 bins
+  Final data shape: (44207, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.269024
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.286197
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.151167
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_None_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_None_summary.json
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_None_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/distal_ctcf_bound_enhancer_purified_bins_AND_None
+  Block 'exon_purified_bins_AND_CpG_island': 11052 bins
+  Final data shape: (11052, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 1.464483
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 1.327614
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.203122
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_exon_purified_bins_AND_CpG_island_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_exon_purified_bins_AND_CpG_island_summary.json
+  - IHECRE00000284_exon_purified_bins_AND_CpG_island_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/exon_purified_bins_AND_CpG_island
+  Block 'distal_ctcf_bound_enhancer_purified_bins_AND_LINE': 74258 bins
+  Final data shape: (74258, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.269197
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.301236
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.130648
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_LINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_LINE_summary.json
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_LINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/distal_ctcf_bound_enhancer_purified_bins_AND_LINE
+  Block 'intron_purified_bins_AND_CpG_island': 14829 bins
+  Final data shape: (14829, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 1.422990
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 1.310694
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.189554
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_intron_purified_bins_AND_CpG_island_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_intron_purified_bins_AND_CpG_island_summary.json
+  - IHECRE00000284_intron_purified_bins_AND_CpG_island_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/intron_purified_bins_AND_CpG_island
+  Block 'distal_ctcf_bound_enhancer_purified_bins_AND_SINE': 106883 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.206604
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.274213
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.069471
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_SINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_SINE_summary.json
+  - IHECRE00000284_distal_ctcf_bound_enhancer_purified_bins_AND_SINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/distal_ctcf_bound_enhancer_purified_bins_AND_SINE
+  Block 'proximal_ctcf_bound_enhancer_purified_bins_AND_LINE': 9345 bins
+  Final data shape: (9345, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 1.868366
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 1.894394
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.125649
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_LINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_LINE_summary.json
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_LINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/proximal_ctcf_bound_enhancer_purified_bins_AND_LINE
+  Block 'None_AND_CpG_island': 1349 bins
+  Final data shape: (1349, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 1.722784
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 1.624077
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 1.695534
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_None_AND_CpG_island_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_None_AND_CpG_island_summary.json
+  - IHECRE00000284_None_AND_CpG_island_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/None_AND_CpG_island
+  Block 'distal_not_ctcf_bound_enhancer_purified_bins_AND_None': 68319 bins
+  Final data shape: (68319, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.309791
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.301263
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.198804
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_None_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_None_summary.json
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_None_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/distal_not_ctcf_bound_enhancer_purified_bins_AND_None
+  Block 'exon_purified_bins_AND_LTR': 53652 bins
+  Final data shape: (53652, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.307178
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.309135
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.316120
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_exon_purified_bins_AND_LTR_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_exon_purified_bins_AND_LTR_summary.json
+  - IHECRE00000284_exon_purified_bins_AND_LTR_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/exon_purified_bins_AND_LTR
+  Block 'distal_not_ctcf_bound_enhancer_purified_bins_AND_LTR': 81966 bins
+  Final data shape: (81966, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.294947
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.281599
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.285147
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_LTR_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_LTR_summary.json
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_LTR_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/distal_not_ctcf_bound_enhancer_purified_bins_AND_LTR
+  Block 'distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE': 142110 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.309910
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.290967
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.207139
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE_summary.json
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE
+  Block 'distal_not_ctcf_bound_enhancer_purified_bins_AND_SINE': 183037 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.298429
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.295938
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.137239
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_SINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_SINE_summary.json
+  - IHECRE00000284_distal_not_ctcf_bound_enhancer_purified_bins_AND_SINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/distal_not_ctcf_bound_enhancer_purified_bins_AND_SINE
+  Block 'exon_purified_bins_AND_LINE': 107707 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.316505
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.317328
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.244669
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_exon_purified_bins_AND_LINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_exon_purified_bins_AND_LINE_summary.json
+  - IHECRE00000284_exon_purified_bins_AND_LINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/exon_purified_bins_AND_LINE
+  Block 'exon_purified_bins_AND_None': 87875 bins
+  Final data shape: (87875, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.314394
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.315285
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.216743
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_exon_purified_bins_AND_None_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_exon_purified_bins_AND_None_summary.json
+  - IHECRE00000284_exon_purified_bins_AND_None_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/exon_purified_bins_AND_None
+  Block 'exon_purified_bins_AND_SINE': 165808 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.303664
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.313844
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.190539
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_exon_purified_bins_AND_SINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_exon_purified_bins_AND_SINE_summary.json
+  - IHECRE00000284_exon_purified_bins_AND_SINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/exon_purified_bins_AND_SINE
+  Block 'intron_purified_bins_AND_LINE': 889964 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.296351
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.288482
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.304342
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_intron_purified_bins_AND_LINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_intron_purified_bins_AND_LINE_summary.json
+  - IHECRE00000284_intron_purified_bins_AND_LINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/intron_purified_bins_AND_LINE
+  Block 'promoter_AND_CpG_island': 25578 bins
+  Final data shape: (25578, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 0.912192
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 0.543259
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.179721
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_promoter_AND_CpG_island_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_promoter_AND_CpG_island_summary.json
+  - IHECRE00000284_promoter_AND_CpG_island_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/promoter_AND_CpG_island
+  Block 'intron_purified_bins_AND_SINE': 924663 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.305096
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.300892
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.244066
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_intron_purified_bins_AND_SINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_intron_purified_bins_AND_SINE_summary.json
+  - IHECRE00000284_intron_purified_bins_AND_SINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/intron_purified_bins_AND_SINE
+  Block 'proximal_ctcf_bound_enhancer_purified_bins_AND_CpG_island': 6823 bins
+  Final data shape: (6823, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 0.662797
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 0.421128
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.129454
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_CpG_island_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_CpG_island_summary.json
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_CpG_island_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/proximal_ctcf_bound_enhancer_purified_bins_AND_CpG_island
+  Block 'intron_purified_bins_AND_LTR': 386442 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.284990
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.288332
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.310974
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_intron_purified_bins_AND_LTR_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_intron_purified_bins_AND_LTR_summary.json
+  - IHECRE00000284_intron_purified_bins_AND_LTR_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/intron_purified_bins_AND_LTR
+  Block 'promoter_AND_LTR': 21628 bins
+  Final data shape: (21628, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.285293
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.284517
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.319725
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_promoter_AND_LTR_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_promoter_AND_LTR_summary.json
+  - IHECRE00000284_promoter_AND_LTR_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/promoter_AND_LTR
+  Block 'intron_purified_bins_AND_None': 263694 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.310228
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.312360
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.265310
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_intron_purified_bins_AND_None_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_intron_purified_bins_AND_None_summary.json
+  - IHECRE00000284_intron_purified_bins_AND_None_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/intron_purified_bins_AND_None
+  Block 'promoter_AND_LINE': 39749 bins
+  Final data shape: (39749, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.280877
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.285704
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.278609
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_promoter_AND_LINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_promoter_AND_LINE_summary.json
+  - IHECRE00000284_promoter_AND_LINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/promoter_AND_LINE
+  Block 'None_AND_LINE': 326905 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.238916
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.263661
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.253801
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_None_AND_LINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_None_AND_LINE_summary.json
+  - IHECRE00000284_None_AND_LINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/None_AND_LINE
+  Block 'proximal_ctcf_bound_enhancer_purified_bins_AND_LTR': 4050 bins
+  Final data shape: (4050, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.008602
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.067431
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.187303
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_LTR_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_LTR_summary.json
+  - IHECRE00000284_proximal_ctcf_bound_enhancer_purified_bins_AND_LTR_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/proximal_ctcf_bound_enhancer_purified_bins_AND_LTR
+  Block 'None_AND_SINE': 252076 bins
+  Sampled to 100000 samples (n_max=100000)
+  Final data shape: (100000, 7)
+
+============================================================
+Computing all subset joint entropies
+  n_features=7
+============================================================
+
+[Order 1] Computing 7 subsets
+  H(128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput) = 2.247272
+  H(128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput) = 2.273557
+  H(128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput) = 2.291849
+  Completed 7 subsets of order 1
+
+[Order 2] Computing 21 subsets
+  Completed 21 subsets of order 2
+
+[Order 3] Computing 35 subsets
+  Completed 35 subsets of order 3
+
+[Order 4] Computing 35 subsets
+  Completed 35 subsets of order 4
+
+[Order 5] Computing 21 subsets
+  Completed 21 subsets of order 5
+
+[Order 6] Computing 7 subsets
+  Completed 7 subsets of order 6
+
+[Order 7] Computing 1 subsets
+  Completed 1 subsets of order 7
+
+============================================================
+Total subsets computed: 127
+============================================================
+  - IHECRE00000284_None_AND_SINE_entropy_all_subsets.csv (127 records)
+  - IHECRE00000284_None_AND_SINE_summary.json
+  - IHECRE00000284_None_AND_SINE_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284/None_AND_SINE
+  Completed 40/40 blocks successfully
+  Shared memory cleaned up: psm_4b593183
+  Shared memory cleaned up
+  - IHECRE00000284_entropy_all_subsets.csv (5080 records)
+  - IHECRE00000284_summary.json
+  - IHECRE00000284_metadata.json
+
+Results saved to: /lustre/home/2101110354/sequence_entropy/project/aging/neutrophil/results_entropy_n_bins_5/IHECRE00000284
+
+============================================================
+Analysis complete! Processed 40 blocks.
+============================================================

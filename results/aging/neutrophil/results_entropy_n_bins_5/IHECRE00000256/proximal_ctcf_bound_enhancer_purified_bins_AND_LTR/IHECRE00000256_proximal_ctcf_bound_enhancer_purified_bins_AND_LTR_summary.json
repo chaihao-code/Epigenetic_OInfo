@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.144889433002555,
+      "min_entropy": 2.029264361771614,
+      "max_entropy": 2.308252105726149
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.1334880655647215,
+      "min_entropy": 3.597047008175094,
+      "max_entropy": 4.477512909853928
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.965667164130861,
+      "min_entropy": 5.131724435577099,
+      "max_entropy": 6.506024051280058
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.612300880439761,
+      "min_entropy": 6.862450329300182,
+      "max_entropy": 8.152480259688927
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.96155983838337,
+      "min_entropy": 8.441855190166585,
+      "max_entropy": 9.491430458522292
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 9.926116962821753,
+      "min_entropy": 9.740776480652388,
+      "max_entropy": 10.304065780262865
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.553610476870144,
+      "min_entropy": 10.553610476870144,
+      "max_entropy": 10.553610476870144
+    }
+  },
+  "entropy": {
+    "mean": 6.655712935358441,
+    "min": 2.029264361771614,
+    "max": 10.553610476870144
+  }
+}

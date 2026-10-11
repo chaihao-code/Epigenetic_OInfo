@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128559.Blueprint.IHECRE00000284.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128561.Blueprint.IHECRE00000284.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128557.Blueprint.IHECRE00000284.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128572.Blueprint.IHECRE00000284.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 5080,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 280,
+      "mean_entropy": 2.094626638100316,
+      "min_entropy": 0.3772281396362045,
+      "max_entropy": 2.319725021164749
+    },
+    "order_2": {
+      "n_subsets": 840,
+      "mean_entropy": 4.029041037197856,
+      "min_entropy": 0.7591475809394053,
+      "max_entropy": 4.6171319873661005
+    },
+    "order_3": {
+      "n_subsets": 1400,
+      "mean_entropy": 5.824270119181124,
+      "min_entropy": 1.2787178518303701,
+      "max_entropy": 6.854243083441365
+    },
+    "order_4": {
+      "n_subsets": 1400,
+      "mean_entropy": 7.4948474615836105,
+      "min_entropy": 2.438993237256947,
+      "max_entropy": 8.813401605926636
+    },
+    "order_5": {
+      "n_subsets": 840,
+      "mean_entropy": 9.02893856974234,
+      "min_entropy": 3.3311901444467305,
+      "max_entropy": 10.679758750282502
+    },
+    "order_6": {
+      "n_subsets": 280,
+      "mean_entropy": 10.380922092401901,
+      "min_entropy": 3.8699286942760858,
+      "max_entropy": 12.29945419826537
+    },
+    "order_7": {
+      "n_subsets": 40,
+      "mean_entropy": 11.490011968540651,
+      "min_entropy": 4.501323616960287,
+      "max_entropy": 13.672455373657662
+    }
+  },
+  "entropy": {
+    "mean": 6.60791763901233,
+    "min": 0.3772281396362045,
+    "max": 13.672455373657662
+  }
+}

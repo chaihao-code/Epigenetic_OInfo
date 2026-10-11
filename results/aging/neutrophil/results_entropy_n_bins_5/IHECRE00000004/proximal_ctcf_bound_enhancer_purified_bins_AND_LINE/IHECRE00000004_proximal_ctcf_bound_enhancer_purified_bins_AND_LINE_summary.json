@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.1539904762463933,
+      "min_entropy": 1.9170565326044433,
+      "max_entropy": 2.31550880647276
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.129150100025704,
+      "min_entropy": 3.6766266227735502,
+      "max_entropy": 4.523221016138194
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.953714775616259,
+      "min_entropy": 5.421202302259826,
+      "max_entropy": 6.3449337853356145
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.643396208336052,
+      "min_entropy": 7.115582784679058,
+      "max_entropy": 8.121543188359716
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.160728348179589,
+      "min_entropy": 8.681968125919118,
+      "max_entropy": 9.621415142256652
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.4106161695432,
+      "min_entropy": 10.153420156229354,
+      "max_entropy": 10.678845904255482
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.32764803226959,
+      "min_entropy": 11.32764803226959,
+      "max_entropy": 11.32764803226959
+    }
+  },
+  "entropy": {
+    "mean": 6.726505719712117,
+    "min": 1.9170565326044433,
+    "max": 11.32764803226959
+  }
+}

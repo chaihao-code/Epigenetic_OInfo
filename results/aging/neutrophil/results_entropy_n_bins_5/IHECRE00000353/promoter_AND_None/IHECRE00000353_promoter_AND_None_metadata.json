@@ -1,0 +1,20 @@
+{
+  "sample_name": "IHECRE00000353",
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "block_label": "promoter_AND_None",
+  "n_bins": 5,
+  "n_max": 100000,
+  "random_seed": 42,
+  "max_missing": 3,
+  "method": "binning",
+  "n_samples": 32269
+}

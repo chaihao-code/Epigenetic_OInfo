@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.3143936276971908,
+      "min_entropy": 1.201989219336296,
+      "max_entropy": 1.3860964738461714
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.049440201265373,
+      "min_entropy": 1.8382905823937252,
+      "max_entropy": 2.2941494962886178
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 2.6468138540065995,
+      "min_entropy": 2.276966013274917,
+      "max_entropy": 2.9656954941580977
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 3.1985389851485304,
+      "min_entropy": 2.7492362971268602,
+      "max_entropy": 3.519691208381136
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 3.718415049934131,
+      "min_entropy": 3.310417647152157,
+      "max_entropy": 3.965310473370013
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 4.19197736643617,
+      "min_entropy": 3.8349555054780424,
+      "max_entropy": 4.326270014431315
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 4.587528297148287,
+      "min_entropy": 4.587528297148287,
+      "max_entropy": 4.587528297148287
+    }
+  },
+  "entropy": {
+    "mean": 2.9042868889897715,
+    "min": 1.201989219336296,
+    "max": 4.587528297148287
+  }
+}

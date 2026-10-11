@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.6084724243900028,
+      "min_entropy": 1.129967203383268,
+      "max_entropy": 2.0589462758790957
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.0887746817501656,
+      "min_entropy": 2.0463712281394995,
+      "max_entropy": 3.9790764282982805
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.436721441078664,
+      "min_entropy": 3.0435702827388402,
+      "max_entropy": 5.666772694747694
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.642973232384089,
+      "min_entropy": 4.413983489405771,
+      "max_entropy": 6.62961989271491
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.687439772049805,
+      "min_entropy": 5.725973898160381,
+      "max_entropy": 7.386086738859559
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.567581407550011,
+      "min_entropy": 7.034430582361435,
+      "max_entropy": 7.948793857962523
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 8.301909357520437,
+      "min_entropy": 8.301909357520437,
+      "max_entropy": 8.301909357520437
+    }
+  },
+  "entropy": {
+    "mean": 4.965544120331466,
+    "min": 1.129967203383268,
+    "max": 8.301909357520437
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2866705575203583,
+      "min_entropy": 2.276409780733364,
+      "max_entropy": 2.299892795551588
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.33225785955136,
+      "min_entropy": 3.8954686709509874,
+      "max_entropy": 4.561092687034678
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.203407002153302,
+      "min_entropy": 5.4971225721147245,
+      "max_entropy": 6.707467030900181
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.957013459460886,
+      "min_entropy": 7.225179490897103,
+      "max_entropy": 8.555373944002781
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.621794305924116,
+      "min_entropy": 8.886242130137607,
+      "max_entropy": 10.146609198509275
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.192843718169893,
+      "min_entropy": 10.658260395096601,
+      "max_entropy": 11.521781887391848
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.624597701792519,
+      "min_entropy": 12.624597701792519,
+      "max_entropy": 12.624597701792519
+    }
+  },
+  "entropy": {
+    "mean": 7.05221267136304,
+    "min": 2.276409780733364,
+    "max": 12.624597701792519
+  }
+}

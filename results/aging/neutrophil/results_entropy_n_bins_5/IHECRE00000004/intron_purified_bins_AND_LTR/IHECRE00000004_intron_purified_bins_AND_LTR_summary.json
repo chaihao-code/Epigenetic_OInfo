@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.291923398098382,
+      "min_entropy": 2.2776275224809432,
+      "max_entropy": 2.31973503927919
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.266897050502912,
+      "min_entropy": 3.605661041053966,
+      "max_entropy": 4.622562735546246
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.0531306901707955,
+      "min_entropy": 4.869092514669812,
+      "max_entropy": 6.763307662864197
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.725437578661256,
+      "min_entropy": 6.500438816060324,
+      "max_entropy": 8.656755350701637
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.316372100525218,
+      "min_entropy": 8.162026457273363,
+      "max_entropy": 10.183463437519908
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.822965964668887,
+      "min_entropy": 10.119814830468336,
+      "max_entropy": 11.393722536977428
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.207472050174172,
+      "min_entropy": 12.207472050174172,
+      "max_entropy": 12.207472050174172
+    }
+  },
+  "entropy": {
+    "mean": 6.862285347797304,
+    "min": 2.2776275224809432,
+    "max": 12.207472050174172
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.2535337104255517,
+      "min_entropy": 0.27735141114271217,
+      "max_entropy": 2.2258216655962473
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.431074726407091,
+      "min_entropy": 0.580338737152799,
+      "max_entropy": 4.04635338145097
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 3.522538394239926,
+      "min_entropy": 1.1083489838719016,
+      "max_entropy": 5.360896180127585
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 4.5209366938058,
+      "min_entropy": 2.6376186429414585,
+      "max_entropy": 6.324141065432833
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 5.425743893266751,
+      "min_entropy": 4.189387580233893,
+      "max_entropy": 6.732111132118604
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 6.24336708341442,
+      "min_entropy": 5.619316376783173,
+      "max_entropy": 6.9276754014859385
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 6.984100188582019,
+      "min_entropy": 6.984100188582019,
+      "max_entropy": 6.984100188582019
+    }
+  },
+  "entropy": {
+    "mean": 3.98407263653711,
+    "min": 0.27735141114271217,
+    "max": 6.984100188582019
+  }
+}

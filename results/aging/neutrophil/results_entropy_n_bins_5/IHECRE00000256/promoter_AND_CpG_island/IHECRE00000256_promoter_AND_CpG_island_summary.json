@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.348967582725479,
+      "min_entropy": 0.5581796947548634,
+      "max_entropy": 2.148044924443006
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.5739265006504213,
+      "min_entropy": 1.0658165617433255,
+      "max_entropy": 3.906445747484276
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 3.669826693143354,
+      "min_entropy": 1.682318598435881,
+      "max_entropy": 5.0291791986577055
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 4.650381721058853,
+      "min_entropy": 2.791031283778291,
+      "max_entropy": 5.999679126313293
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 5.526457245974534,
+      "min_entropy": 4.347067558712903,
+      "max_entropy": 6.5474055683750265
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 6.306841828556007,
+      "min_entropy": 5.60986722095736,
+      "max_entropy": 6.843971044137849
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 7.003737026054642,
+      "min_entropy": 7.003737026054642,
+      "max_entropy": 7.003737026054642
+    }
+  },
+  "entropy": {
+    "mean": 4.109525638434853,
+    "min": 0.5581796947548634,
+    "max": 7.003737026054642
+  }
+}

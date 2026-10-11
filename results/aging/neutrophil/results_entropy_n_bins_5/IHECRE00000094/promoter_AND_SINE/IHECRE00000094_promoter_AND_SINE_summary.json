@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127391.Blueprint.IHECRE00000094.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127393.Blueprint.IHECRE00000094.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127395.Blueprint.IHECRE00000094.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127387.Blueprint.IHECRE00000094.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127389.Blueprint.IHECRE00000094.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127385.Blueprint.IHECRE00000094.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127400.Blueprint.IHECRE00000094.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2727223712630544,
+      "min_entropy": 2.2334075189004214,
+      "max_entropy": 2.3132969525785265
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.283423512328139,
+      "min_entropy": 3.820052793751286,
+      "max_entropy": 4.516160407318854
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.1050293003724,
+      "min_entropy": 5.457167541286631,
+      "max_entropy": 6.5656868276867035
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.800398018166082,
+      "min_entropy": 7.214766816319113,
+      "max_entropy": 8.274312979257687
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.394511826621052,
+      "min_entropy": 8.874003016762725,
+      "max_entropy": 9.866949934867586
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.867262514568091,
+      "min_entropy": 10.500203805226725,
+      "max_entropy": 11.140736914636154
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.152691084425552,
+      "min_entropy": 12.152691084425552,
+      "max_entropy": 12.152691084425552
+    }
+  },
+  "entropy": {
+    "mean": 6.913851838992311,
+    "min": 2.2334075189004214,
+    "max": 12.152691084425552
+  }
+}

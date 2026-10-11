@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2643689114487335,
+      "min_entropy": 2.1747642029806595,
+      "max_entropy": 2.3173111467288976
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.306026520956207,
+      "min_entropy": 3.980187141667126,
+      "max_entropy": 4.526357162614552
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.161622738246597,
+      "min_entropy": 5.588781859745524,
+      "max_entropy": 6.645552482571022
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.854564885424832,
+      "min_entropy": 7.317818482190862,
+      "max_entropy": 8.30048425607103
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.337438682067917,
+      "min_entropy": 8.86912199156974,
+      "max_entropy": 9.692908336032971
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.492899856428275,
+      "min_entropy": 10.128973186363352,
+      "max_entropy": 10.693739191880193
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.275123927404428,
+      "min_entropy": 11.275123927404428,
+      "max_entropy": 11.275123927404428
+    }
+  },
+  "entropy": {
+    "mean": 6.910671979484647,
+    "min": 2.1747642029806595,
+    "max": 11.275123927404428
+  }
+}

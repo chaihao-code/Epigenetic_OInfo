@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127391.Blueprint.IHECRE00000094.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127393.Blueprint.IHECRE00000094.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127395.Blueprint.IHECRE00000094.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127387.Blueprint.IHECRE00000094.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127389.Blueprint.IHECRE00000094.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127385.Blueprint.IHECRE00000094.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127400.Blueprint.IHECRE00000094.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.221134404579432,
+      "min_entropy": 2.130078384751778,
+      "max_entropy": 2.295048852772428
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.2184835033124095,
+      "min_entropy": 3.805615450183655,
+      "max_entropy": 4.532804493667366
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.074146230351737,
+      "min_entropy": 5.449174816255464,
+      "max_entropy": 6.557519012992681
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.83826633313025,
+      "min_entropy": 7.1386376665860105,
+      "max_entropy": 8.398812868607378
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.52648569421229,
+      "min_entropy": 8.896405131939252,
+      "max_entropy": 10.045358362099133
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.114865946486393,
+      "min_entropy": 10.592382161760323,
+      "max_entropy": 11.419116973584348
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.529377474042121,
+      "min_entropy": 12.529377474042121,
+      "max_entropy": 12.529377474042121
+    }
+  },
+  "entropy": {
+    "mean": 6.940631281900717,
+    "min": 2.130078384751778,
+    "max": 12.529377474042121
+  }
+}

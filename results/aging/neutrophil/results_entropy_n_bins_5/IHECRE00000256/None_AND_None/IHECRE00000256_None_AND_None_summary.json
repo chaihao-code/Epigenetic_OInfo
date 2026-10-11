@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.3135247037592073,
+      "min_entropy": 1.183330376766117,
+      "max_entropy": 1.3793744580235727
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.0438397927783694,
+      "min_entropy": 1.6317106724868855,
+      "max_entropy": 2.2783692954371735
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 2.6160836740995452,
+      "min_entropy": 2.0692405256038526,
+      "max_entropy": 2.9604697694737503
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 3.129000505276661,
+      "min_entropy": 2.523429744098724,
+      "max_entropy": 3.514522374852116
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 3.602121839669471,
+      "min_entropy": 3.0807823464693547,
+      "max_entropy": 3.9754928963498557
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 4.030408928085086,
+      "min_entropy": 3.629458249011532,
+      "max_entropy": 4.288865261637643
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 4.402708093013619,
+      "min_entropy": 4.402708093013619,
+      "max_entropy": 4.402708093013619
+    }
+  },
+  "entropy": {
+    "mean": 2.8460896383897283,
+    "min": 1.183330376766117,
+    "max": 4.402708093013619
+  }
+}

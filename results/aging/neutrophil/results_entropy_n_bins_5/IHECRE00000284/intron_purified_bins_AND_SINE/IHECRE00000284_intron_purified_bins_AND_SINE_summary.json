@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128559.Blueprint.IHECRE00000284.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128561.Blueprint.IHECRE00000284.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128557.Blueprint.IHECRE00000284.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128572.Blueprint.IHECRE00000284.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.295403350609074,
+      "min_entropy": 2.2440663245080197,
+      "max_entropy": 2.3104004067661585
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.445314891327714,
+      "min_entropy": 4.127080022676948,
+      "max_entropy": 4.593381900299602
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.459370440668419,
+      "min_entropy": 5.985107988390704,
+      "max_entropy": 6.79618823914235
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.363791463858732,
+      "min_entropy": 7.8766702291959065,
+      "max_entropy": 8.67061906552928
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.174461835332883,
+      "min_entropy": 9.770525084310428,
+      "max_entropy": 10.438414162669563
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.871293326244384,
+      "min_entropy": 11.428472763099991,
+      "max_entropy": 12.028191377992304
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.369920271266889,
+      "min_entropy": 13.369920271266889,
+      "max_entropy": 13.369920271266889
+    }
+  },
+  "entropy": {
+    "mean": 7.388683267146174,
+    "min": 2.2440663245080197,
+    "max": 13.369920271266889
+  }
+}

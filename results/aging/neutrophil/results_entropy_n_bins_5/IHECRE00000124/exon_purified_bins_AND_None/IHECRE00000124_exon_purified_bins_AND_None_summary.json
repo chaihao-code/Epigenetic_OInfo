@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127635.Blueprint.IHECRE00000124.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127637.Blueprint.IHECRE00000124.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127639.Blueprint.IHECRE00000124.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127631.Blueprint.IHECRE00000124.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127633.Blueprint.IHECRE00000124.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127629.Blueprint.IHECRE00000124.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127644.Blueprint.IHECRE00000124.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.285143088453759,
+      "min_entropy": 2.1905867283651057,
+      "max_entropy": 2.3179355161356927
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.41315656457557,
+      "min_entropy": 4.214081619807816,
+      "max_entropy": 4.599312638679996
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.411410519395,
+      "min_entropy": 6.12181044951984,
+      "max_entropy": 6.706177423789658
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.308269226465894,
+      "min_entropy": 8.022650394757354,
+      "max_entropy": 8.564238437793394
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.11364488470853,
+      "min_entropy": 9.783371013390704,
+      "max_entropy": 10.32128889376814
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.793933552147248,
+      "min_entropy": 11.463421348153084,
+      "max_entropy": 11.904308593727931
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.236024979792344,
+      "min_entropy": 13.236024979792344,
+      "max_entropy": 13.236024979792344
+    }
+  },
+  "entropy": {
+    "mean": 7.3389069527881645,
+    "min": 2.1905867283651057,
+    "max": 13.236024979792344
+  }
+}

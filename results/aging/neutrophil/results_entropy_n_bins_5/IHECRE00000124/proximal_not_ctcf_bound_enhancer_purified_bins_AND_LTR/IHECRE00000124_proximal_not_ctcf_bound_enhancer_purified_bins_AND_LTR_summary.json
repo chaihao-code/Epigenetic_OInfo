@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127635.Blueprint.IHECRE00000124.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127637.Blueprint.IHECRE00000124.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127639.Blueprint.IHECRE00000124.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127631.Blueprint.IHECRE00000124.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127633.Blueprint.IHECRE00000124.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127629.Blueprint.IHECRE00000124.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127644.Blueprint.IHECRE00000124.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2838561130112263,
+      "min_entropy": 2.2442628779659346,
+      "max_entropy": 2.3099885350619616
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.449971664257607,
+      "min_entropy": 4.223407918016328,
+      "max_entropy": 4.595009756135997
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.514889892613465,
+      "min_entropy": 6.118010974437386,
+      "max_entropy": 6.80031231601935
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.456095474567514,
+      "min_entropy": 7.998825926751991,
+      "max_entropy": 8.847477628990971
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.134709228076305,
+      "min_entropy": 9.723536140141501,
+      "max_entropy": 10.436571057773884
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.2996997559714,
+      "min_entropy": 11.0810883808299,
+      "max_entropy": 11.4317891293386
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.917046589953173,
+      "min_entropy": 11.917046589953173,
+      "max_entropy": 11.917046589953173
+    }
+  },
+  "entropy": {
+    "mean": 7.380037198922662,
+    "min": 2.2442628779659346,
+    "max": 11.917046589953173
+  }
+}

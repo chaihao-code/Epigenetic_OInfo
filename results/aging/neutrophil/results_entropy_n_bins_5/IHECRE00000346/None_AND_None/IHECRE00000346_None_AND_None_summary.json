@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129075.Blueprint.IHECRE00000346.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129077.Blueprint.IHECRE00000346.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129079.Blueprint.IHECRE00000346.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129071.Blueprint.IHECRE00000346.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129073.Blueprint.IHECRE00000346.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129069.Blueprint.IHECRE00000346.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129084.Blueprint.IHECRE00000346.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.3083139627722264,
+      "min_entropy": 1.2170435158487842,
+      "max_entropy": 1.3589324014231088
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 1.9085435431261335,
+      "min_entropy": 1.6063242022575248,
+      "max_entropy": 2.2941893511749356
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 2.361045122620229,
+      "min_entropy": 1.828906404588046,
+      "max_entropy": 2.7908176188989646
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 2.7722060957945893,
+      "min_entropy": 2.2055266470843335,
+      "max_entropy": 3.2192596611222357
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 3.1583950559494633,
+      "min_entropy": 2.593581053096093,
+      "max_entropy": 3.514386512646816
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 3.5211835799035094,
+      "min_entropy": 2.9790106011191826,
+      "max_entropy": 3.712344801938053
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 3.8565282925453577,
+      "min_entropy": 3.8565282925453577,
+      "max_entropy": 3.8565282925453577
+    }
+  },
+  "entropy": {
+    "mean": 2.549074915877022,
+    "min": 1.2170435158487842,
+    "max": 3.8565282925453577
+  }
+}

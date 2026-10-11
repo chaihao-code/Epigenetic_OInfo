@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129075.Blueprint.IHECRE00000346.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129077.Blueprint.IHECRE00000346.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129079.Blueprint.IHECRE00000346.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129071.Blueprint.IHECRE00000346.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129073.Blueprint.IHECRE00000346.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129069.Blueprint.IHECRE00000346.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129084.Blueprint.IHECRE00000346.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2938099814448836,
+      "min_entropy": 2.28691862818749,
+      "max_entropy": 2.307430582713941
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.207805579953471,
+      "min_entropy": 3.6125337414268563,
+      "max_entropy": 4.578234447908178
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.8882227027717695,
+      "min_entropy": 4.780924013437435,
+      "max_entropy": 6.645983974398717
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.426299507452231,
+      "min_entropy": 6.32458898632091,
+      "max_entropy": 8.215905348371901
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.865850949532062,
+      "min_entropy": 7.7668343816409955,
+      "max_entropy": 9.62946926319037
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.21969418686941,
+      "min_entropy": 9.432590442255359,
+      "max_entropy": 10.727501383168768
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.476091767761243,
+      "min_entropy": 11.476091767761243,
+      "max_entropy": 11.476091767761243
+    }
+  },
+  "entropy": {
+    "mean": 6.6112258694724195,
+    "min": 2.28691862818749,
+    "max": 11.476091767761243
+  }
+}

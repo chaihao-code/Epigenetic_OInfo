@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2929003335448153,
+      "min_entropy": 2.2554716774580754,
+      "max_entropy": 2.3120543160385307
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.419268818804585,
+      "min_entropy": 3.829501264677625,
+      "max_entropy": 4.593799987596795
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.395440866750438,
+      "min_entropy": 5.511465710424317,
+      "max_entropy": 6.827555051616761
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.249989896733059,
+      "min_entropy": 7.30828247824773,
+      "max_entropy": 8.82087380056274
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.999510047702271,
+      "min_entropy": 9.249005368034663,
+      "max_entropy": 10.676440970723833
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.62305791901193,
+      "min_entropy": 11.101449435127236,
+      "max_entropy": 12.149283823536635
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.05090859012477,
+      "min_entropy": 13.05090859012477,
+      "max_entropy": 13.05090859012477
+    }
+  },
+  "entropy": {
+    "mean": 7.290134246272349,
+    "min": 2.2554716774580754,
+    "max": 13.05090859012477
+  }
+}

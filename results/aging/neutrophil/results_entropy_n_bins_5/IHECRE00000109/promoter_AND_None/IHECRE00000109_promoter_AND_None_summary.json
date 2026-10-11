@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127530.Blueprint.IHECRE00000109.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127532.Blueprint.IHECRE00000109.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127534.Blueprint.IHECRE00000109.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127526.Blueprint.IHECRE00000109.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127528.Blueprint.IHECRE00000109.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127524.Blueprint.IHECRE00000109.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127539.Blueprint.IHECRE00000109.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2243234707629225,
+      "min_entropy": 2.1659525974869194,
+      "max_entropy": 2.2985232558288207
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.2965994104609955,
+      "min_entropy": 3.8773416813288715,
+      "max_entropy": 4.462436073326033
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.222910625635885,
+      "min_entropy": 5.53287830424657,
+      "max_entropy": 6.602866008127792
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.024076668367316,
+      "min_entropy": 7.299029389617664,
+      "max_entropy": 8.568520675684539
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.695087586384362,
+      "min_entropy": 9.1025173940528,
+      "max_entropy": 10.116949990257076
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.163105077839775,
+      "min_entropy": 10.853660860018545,
+      "max_entropy": 11.377189496166821
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.309060360444818,
+      "min_entropy": 12.309060360444818,
+      "max_entropy": 12.309060360444818
+    }
+  },
+  "entropy": {
+    "mean": 7.074732617515973,
+    "min": 2.1659525974869194,
+    "max": 12.309060360444818
+  }
+}

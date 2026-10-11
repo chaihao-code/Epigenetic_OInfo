@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127635.Blueprint.IHECRE00000124.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127637.Blueprint.IHECRE00000124.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127639.Blueprint.IHECRE00000124.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127631.Blueprint.IHECRE00000124.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127633.Blueprint.IHECRE00000124.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127629.Blueprint.IHECRE00000124.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127644.Blueprint.IHECRE00000124.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.4843947725964266,
+      "min_entropy": 0.5945870495297796,
+      "max_entropy": 2.2243383081699992
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.873063672072018,
+      "min_entropy": 1.0817379335181294,
+      "max_entropy": 4.266984892990779
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.15094712203652,
+      "min_entropy": 1.6544222876151946,
+      "max_entropy": 5.810196824542964
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.318244213468431,
+      "min_entropy": 3.4852483708478474,
+      "max_entropy": 7.158201237496747
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.369635792652102,
+      "min_entropy": 5.128215984825598,
+      "max_entropy": 7.724606398566586
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.306245177415475,
+      "min_entropy": 6.610351657332886,
+      "max_entropy": 8.006044000012892
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 8.15136216769628,
+      "min_entropy": 8.15136216769628,
+      "max_entropy": 8.15136216769628
+    }
+  },
+  "entropy": {
+    "mean": 4.686647459209917,
+    "min": 0.5945870495297796,
+    "max": 8.15136216769628
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127391.Blueprint.IHECRE00000094.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127393.Blueprint.IHECRE00000094.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127395.Blueprint.IHECRE00000094.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127387.Blueprint.IHECRE00000094.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127389.Blueprint.IHECRE00000094.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127385.Blueprint.IHECRE00000094.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127400.Blueprint.IHECRE00000094.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.271940681188189,
+      "min_entropy": 2.2398169212874186,
+      "max_entropy": 2.3018915668186457
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.254403556235679,
+      "min_entropy": 3.7723585832134976,
+      "max_entropy": 4.573590312750496
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.064827410285295,
+      "min_entropy": 5.3677496632381585,
+      "max_entropy": 6.61216124391356
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.773707330519385,
+      "min_entropy": 6.972578409777407,
+      "max_entropy": 8.402909936924765
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.407136698318691,
+      "min_entropy": 8.672922032212561,
+      "max_entropy": 9.994670219809297
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.95403372887311,
+      "min_entropy": 10.374764410716374,
+      "max_entropy": 11.306723684670148
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.360274922226608,
+      "min_entropy": 12.360274922226608,
+      "max_entropy": 12.360274922226608
+    }
+  },
+  "entropy": {
+    "mean": 6.899079976901269,
+    "min": 2.2398169212874186,
+    "max": 12.360274922226608
+  }
+}

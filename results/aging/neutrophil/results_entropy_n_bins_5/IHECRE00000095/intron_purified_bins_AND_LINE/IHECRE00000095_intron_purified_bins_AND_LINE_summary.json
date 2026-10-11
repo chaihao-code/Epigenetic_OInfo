@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.302782444959456,
+      "min_entropy": 2.2952925639165724,
+      "max_entropy": 2.3163143351810995
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.3505917947414545,
+      "min_entropy": 3.9614556798517775,
+      "max_entropy": 4.61126626929565
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.237499613714348,
+      "min_entropy": 5.572415065819023,
+      "max_entropy": 6.791414543379395
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.024473351341895,
+      "min_entropy": 7.244061461623959,
+      "max_entropy": 8.602249564329178
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.736072030498837,
+      "min_entropy": 8.918640161838143,
+      "max_entropy": 10.200463319117366
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.356978695187793,
+      "min_entropy": 10.798951420017712,
+      "max_entropy": 11.601791028820195
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.818406164251847,
+      "min_entropy": 12.818406164251847,
+      "max_entropy": 12.818406164251847
+    }
+  },
+  "entropy": {
+    "mean": 7.113588411435413,
+    "min": 2.2952925639165724,
+    "max": 12.818406164251847
+  }
+}

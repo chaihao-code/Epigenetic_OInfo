@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127530.Blueprint.IHECRE00000109.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127532.Blueprint.IHECRE00000109.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127534.Blueprint.IHECRE00000109.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127526.Blueprint.IHECRE00000109.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127528.Blueprint.IHECRE00000109.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127524.Blueprint.IHECRE00000109.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127539.Blueprint.IHECRE00000109.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.635233524073834,
+      "min_entropy": 1.0680750928888216,
+      "max_entropy": 2.3107107657968884
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.1788018322588196,
+      "min_entropy": 1.945084176537923,
+      "max_entropy": 4.093542372345966
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.617267332990975,
+      "min_entropy": 3.343411566046276,
+      "max_entropy": 5.738899097098835
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.942944574524417,
+      "min_entropy": 4.766786800104307,
+      "max_entropy": 7.045552185503943
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 7.1359739085549245,
+      "min_entropy": 6.153272299944365,
+      "max_entropy": 8.170213911669228
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 8.175635470036209,
+      "min_entropy": 7.476063442336559,
+      "max_entropy": 8.723942598840031
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 9.059319023303022,
+      "min_entropy": 9.059319023303022,
+      "max_entropy": 9.059319023303022
+    }
+  },
+  "entropy": {
+    "mean": 5.2279772386000065,
+    "min": 1.0680750928888216,
+    "max": 9.059319023303022
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.251048185600294,
+      "min_entropy": 2.0581940635466593,
+      "max_entropy": 2.3154956937760476
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.282431263614136,
+      "min_entropy": 3.9393983634915206,
+      "max_entropy": 4.495553824540218
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.151984049358312,
+      "min_entropy": 5.599697910577527,
+      "max_entropy": 6.582354829860416
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.903666833615175,
+      "min_entropy": 7.263862666809282,
+      "max_entropy": 8.40413475414683
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.551419615195286,
+      "min_entropy": 9.021829788310122,
+      "max_entropy": 10.081026283740478
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.066120162953862,
+      "min_entropy": 10.681768656911695,
+      "max_entropy": 11.425249535068975
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.37254265033098,
+      "min_entropy": 12.37254265033098,
+      "max_entropy": 12.37254265033098
+    }
+  },
+  "entropy": {
+    "mean": 6.992530475978582,
+    "min": 2.0581940635466593,
+    "max": 12.37254265033098
+  }
+}

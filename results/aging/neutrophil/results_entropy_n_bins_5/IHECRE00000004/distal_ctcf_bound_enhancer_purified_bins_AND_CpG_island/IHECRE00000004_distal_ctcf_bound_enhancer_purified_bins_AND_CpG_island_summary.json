@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.5725793877170307,
+      "min_entropy": 1.054022904459308,
+      "max_entropy": 2.2453951473608194
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.0162185356980626,
+      "min_entropy": 2.087741451397286,
+      "max_entropy": 3.975749464983019
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.329664667490456,
+      "min_entropy": 3.2018553984569382,
+      "max_entropy": 5.331389870700982
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.509645275733184,
+      "min_entropy": 4.252054266507324,
+      "max_entropy": 6.490023979951321
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.542447065564902,
+      "min_entropy": 5.588946134455277,
+      "max_entropy": 7.306677530295186
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.423642290033642,
+      "min_entropy": 6.720238717703016,
+      "max_entropy": 7.88930137181414
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 8.170527977632954,
+      "min_entropy": 8.170527977632954,
+      "max_entropy": 8.170527977632954
+    }
+  },
+  "entropy": {
+    "mean": 4.8523772075687965,
+    "min": 1.054022904459308,
+    "max": 8.170527977632954
+  }
+}

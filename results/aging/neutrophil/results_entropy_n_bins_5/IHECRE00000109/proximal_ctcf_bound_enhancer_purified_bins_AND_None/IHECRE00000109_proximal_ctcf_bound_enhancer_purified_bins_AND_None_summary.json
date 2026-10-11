@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127530.Blueprint.IHECRE00000109.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127532.Blueprint.IHECRE00000109.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127534.Blueprint.IHECRE00000109.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127526.Blueprint.IHECRE00000109.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127528.Blueprint.IHECRE00000109.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127524.Blueprint.IHECRE00000109.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127539.Blueprint.IHECRE00000109.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.9549350774035439,
+      "min_entropy": 1.6700783437764106,
+      "max_entropy": 2.2162206993819877
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.798522128816325,
+      "min_entropy": 3.044896862286566,
+      "max_entropy": 4.326455129061332
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.523281405025152,
+      "min_entropy": 4.666368184998324,
+      "max_entropy": 6.201721708959717
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.110334494826359,
+      "min_entropy": 6.251118252338691,
+      "max_entropy": 7.833109936332485
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.485228959989639,
+      "min_entropy": 7.837615120251304,
+      "max_entropy": 9.1926016402725
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 9.568453072468811,
+      "min_entropy": 9.22381647683833,
+      "max_entropy": 9.935098667283379
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.378325191670452,
+      "min_entropy": 10.378325191670452,
+      "max_entropy": 10.378325191670452
+    }
+  },
+  "entropy": {
+    "mean": 6.229743083468542,
+    "min": 1.6700783437764106,
+    "max": 10.378325191670452
+  }
+}

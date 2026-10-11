@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127635.Blueprint.IHECRE00000124.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127637.Blueprint.IHECRE00000124.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127639.Blueprint.IHECRE00000124.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127631.Blueprint.IHECRE00000124.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127633.Blueprint.IHECRE00000124.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127629.Blueprint.IHECRE00000124.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127644.Blueprint.IHECRE00000124.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 5080,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 280,
+      "mean_entropy": 2.1352512410169653,
+      "min_entropy": 0.34354010517041195,
+      "max_entropy": 2.3211224019646375
+    },
+    "order_2": {
+      "n_subsets": 840,
+      "mean_entropy": 4.119337341266837,
+      "min_entropy": 0.7417341511676673,
+      "max_entropy": 4.634815384883838
+    },
+    "order_3": {
+      "n_subsets": 1400,
+      "mean_entropy": 5.983285170649064,
+      "min_entropy": 1.254008091128378,
+      "max_entropy": 6.821649884865548
+    },
+    "order_4": {
+      "n_subsets": 1400,
+      "mean_entropy": 7.734759812262904,
+      "min_entropy": 2.7898593900429605,
+      "max_entropy": 8.900550116718003
+    },
+    "order_5": {
+      "n_subsets": 840,
+      "mean_entropy": 9.34894836864953,
+      "min_entropy": 3.2595400991789263,
+      "max_entropy": 10.755776760605364
+    },
+    "order_6": {
+      "n_subsets": 280,
+      "mean_entropy": 10.765595430945114,
+      "min_entropy": 3.7760911576323286,
+      "max_entropy": 12.432191927750225
+    },
+    "order_7": {
+      "n_subsets": 40,
+      "mean_entropy": 11.910068419301917,
+      "min_entropy": 4.579387382400973,
+      "max_entropy": 13.856120335188095
+    }
+  },
+  "entropy": {
+    "mean": 6.812453302623616,
+    "min": 0.34354010517041195,
+    "max": 13.856120335188095
+  }
+}

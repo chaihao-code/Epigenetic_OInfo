@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128403.Blueprint.IHECRE00000265.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128405.Blueprint.IHECRE00000265.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128407.Blueprint.IHECRE00000265.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128399.Blueprint.IHECRE00000265.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128401.Blueprint.IHECRE00000265.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128397.Blueprint.IHECRE00000265.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128412.Blueprint.IHECRE00000265.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.269321203851023,
+      "min_entropy": 2.2276742455058614,
+      "max_entropy": 2.3054645881154143
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.37459908563529,
+      "min_entropy": 4.0246479025585655,
+      "max_entropy": 4.515190721778436
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.348807083846836,
+      "min_entropy": 5.936407095189485,
+      "max_entropy": 6.657314647364114
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.21801090959397,
+      "min_entropy": 7.813377093944572,
+      "max_entropy": 8.60295792598863
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.992156692204587,
+      "min_entropy": 9.577381875644278,
+      "max_entropy": 10.296433441613516
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.6446087434181,
+      "min_entropy": 11.290948576272537,
+      "max_entropy": 11.862383735998705
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.083727680987646,
+      "min_entropy": 13.083727680987646,
+      "max_entropy": 13.083727680987646
+    }
+  },
+  "entropy": {
+    "mean": 7.26001368832234,
+    "min": 2.2276742455058614,
+    "max": 13.083727680987646
+  }
+}

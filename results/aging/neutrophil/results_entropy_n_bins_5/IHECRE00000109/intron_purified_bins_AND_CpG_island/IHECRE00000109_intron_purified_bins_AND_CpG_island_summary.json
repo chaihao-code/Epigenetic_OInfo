@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127530.Blueprint.IHECRE00000109.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127532.Blueprint.IHECRE00000109.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127534.Blueprint.IHECRE00000109.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127526.Blueprint.IHECRE00000109.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127528.Blueprint.IHECRE00000109.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127524.Blueprint.IHECRE00000109.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127539.Blueprint.IHECRE00000109.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.647401944664828,
+      "min_entropy": 1.0743555230443103,
+      "max_entropy": 2.3144871238850597
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.1992199602739113,
+      "min_entropy": 1.977058909040184,
+      "max_entropy": 4.150211281238627
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.642638864859092,
+      "min_entropy": 3.332429145845431,
+      "max_entropy": 5.735285503798633
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.974346195303693,
+      "min_entropy": 4.740115682768367,
+      "max_entropy": 7.042606617141397
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 7.177570903398183,
+      "min_entropy": 6.201209392131253,
+      "max_entropy": 8.220249772711831
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 8.229696915467544,
+      "min_entropy": 7.518970206619403,
+      "max_entropy": 8.799483450342816
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 9.125522441805808,
+      "min_entropy": 9.125522441805808,
+      "max_entropy": 9.125522441805808
+    }
+  },
+  "entropy": {
+    "mean": 5.258049603980662,
+    "min": 1.0743555230443103,
+    "max": 9.125522441805808
+  }
+}

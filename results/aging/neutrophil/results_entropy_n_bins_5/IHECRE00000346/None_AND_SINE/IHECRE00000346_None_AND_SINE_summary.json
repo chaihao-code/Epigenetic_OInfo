@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129075.Blueprint.IHECRE00000346.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129077.Blueprint.IHECRE00000346.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129079.Blueprint.IHECRE00000346.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129071.Blueprint.IHECRE00000346.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129073.Blueprint.IHECRE00000346.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129069.Blueprint.IHECRE00000346.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129084.Blueprint.IHECRE00000346.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2781111199177344,
+      "min_entropy": 2.2175942484921705,
+      "max_entropy": 2.3044475936688604
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.052069685022964,
+      "min_entropy": 3.4272902578509976,
+      "max_entropy": 4.597298852094384
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.59648609717345,
+      "min_entropy": 4.399030537156619,
+      "max_entropy": 6.328712086083154
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.026938895790305,
+      "min_entropy": 5.833127250381354,
+      "max_entropy": 7.903210067844096
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.382400344123406,
+      "min_entropy": 7.3018081205013665,
+      "max_entropy": 9.243205522761109
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 9.672420826422426,
+      "min_entropy": 8.729621304997732,
+      "max_entropy": 10.204443338525458
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.888280048519274,
+      "min_entropy": 10.888280048519274,
+      "max_entropy": 10.888280048519274
+    }
+  },
+  "entropy": {
+    "mean": 6.279415346761462,
+    "min": 2.2175942484921705,
+    "max": 10.888280048519274
+  }
+}

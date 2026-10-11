@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2624888593803405,
+      "min_entropy": 2.2037196456425763,
+      "max_entropy": 2.316365635379425
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.329667922523311,
+      "min_entropy": 3.929201638690195,
+      "max_entropy": 4.574413851165022
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.24365466005572,
+      "min_entropy": 5.593823971970695,
+      "max_entropy": 6.717874975938313
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.04637311375605,
+      "min_entropy": 7.390053306387333,
+      "max_entropy": 8.580181690801322
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.760622159603988,
+      "min_entropy": 9.11613550076471,
+      "max_entropy": 10.257395366683749
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.379605155163661,
+      "min_entropy": 10.851438841811378,
+      "max_entropy": 11.69579950902974
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.853617235709244,
+      "min_entropy": 12.853617235709244,
+      "max_entropy": 12.853617235709244
+    }
+  },
+  "entropy": {
+    "mean": 7.12122314287876,
+    "min": 2.2037196456425763,
+    "max": 12.853617235709244
+  }
+}

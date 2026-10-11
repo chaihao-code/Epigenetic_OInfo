@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2813855753323997,
+      "min_entropy": 2.2527137866799243,
+      "max_entropy": 2.310323723983865
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.293443563567328,
+      "min_entropy": 3.806106743214505,
+      "max_entropy": 4.568679258295047
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.1073688561135695,
+      "min_entropy": 5.284843218238641,
+      "max_entropy": 6.646110414874786
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.782015225440523,
+      "min_entropy": 7.016518600259815,
+      "max_entropy": 8.412689430437844
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.340080011944341,
+      "min_entropy": 8.652485977221978,
+      "max_entropy": 9.867804196717572
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.753422809123387,
+      "min_entropy": 10.292500310258802,
+      "max_entropy": 11.071887998205742
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.943899483578175,
+      "min_entropy": 11.943899483578175,
+      "max_entropy": 11.943899483578175
+    }
+  },
+  "entropy": {
+    "mean": 6.894645638700054,
+    "min": 2.2527137866799243,
+    "max": 11.943899483578175
+  }
+}

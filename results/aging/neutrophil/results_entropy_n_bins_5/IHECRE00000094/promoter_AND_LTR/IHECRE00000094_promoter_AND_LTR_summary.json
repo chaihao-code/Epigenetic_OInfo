@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127391.Blueprint.IHECRE00000094.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127393.Blueprint.IHECRE00000094.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127395.Blueprint.IHECRE00000094.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127387.Blueprint.IHECRE00000094.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127389.Blueprint.IHECRE00000094.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127385.Blueprint.IHECRE00000094.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127400.Blueprint.IHECRE00000094.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.3108247972872102,
+      "min_entropy": 2.2908509756190676,
+      "max_entropy": 2.3189713850320874
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.308934560090229,
+      "min_entropy": 3.825179324661683,
+      "max_entropy": 4.604788181456089
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.1183844660916025,
+      "min_entropy": 5.419322780978202,
+      "max_entropy": 6.634432925046945
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.807196955266889,
+      "min_entropy": 7.033153178573757,
+      "max_entropy": 8.396503309709788
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.378752023842386,
+      "min_entropy": 8.61098225497386,
+      "max_entropy": 9.926275082481762
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.768946150119548,
+      "min_entropy": 10.226988101934584,
+      "max_entropy": 11.101215601854033
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.875705210969542,
+      "min_entropy": 11.875705210969542,
+      "max_entropy": 11.875705210969542
+    }
+  },
+  "entropy": {
+    "mean": 6.9155186602594405,
+    "min": 2.2908509756190676,
+    "max": 11.875705210969542
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128403.Blueprint.IHECRE00000265.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128405.Blueprint.IHECRE00000265.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128407.Blueprint.IHECRE00000265.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128399.Blueprint.IHECRE00000265.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128401.Blueprint.IHECRE00000265.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128397.Blueprint.IHECRE00000265.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128412.Blueprint.IHECRE00000265.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.294911571813678,
+      "min_entropy": 2.2785366625705565,
+      "max_entropy": 2.305712610326902
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.390450067200985,
+      "min_entropy": 4.0684468689022895,
+      "max_entropy": 4.579323279822683
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.342294743854736,
+      "min_entropy": 5.911967044590841,
+      "max_entropy": 6.714505508920452
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.189015132596662,
+      "min_entropy": 7.762245169880936,
+      "max_entropy": 8.573089387892868
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.94771847729926,
+      "min_entropy": 9.45327256973442,
+      "max_entropy": 10.289707283740077
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.603396631693629,
+      "min_entropy": 11.140366280086416,
+      "max_entropy": 11.841900715414432
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.085044050516618,
+      "min_entropy": 13.085044050516618,
+      "max_entropy": 13.085044050516618
+    }
+  },
+  "entropy": {
+    "mean": 7.244650288073792,
+    "min": 2.2785366625705565,
+    "max": 13.085044050516618
+  }
+}

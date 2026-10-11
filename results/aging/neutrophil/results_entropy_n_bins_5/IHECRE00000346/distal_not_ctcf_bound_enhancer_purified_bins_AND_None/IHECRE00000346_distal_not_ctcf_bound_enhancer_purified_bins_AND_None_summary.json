@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129075.Blueprint.IHECRE00000346.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129077.Blueprint.IHECRE00000346.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129079.Blueprint.IHECRE00000346.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129071.Blueprint.IHECRE00000346.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129073.Blueprint.IHECRE00000346.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129069.Blueprint.IHECRE00000346.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129084.Blueprint.IHECRE00000346.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2696182651632926,
+      "min_entropy": 2.2286858134080174,
+      "max_entropy": 2.3050598083125178
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.181414235168829,
+      "min_entropy": 3.570197233652854,
+      "max_entropy": 4.562372865071557
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.872336686121941,
+      "min_entropy": 4.783732745191257,
+      "max_entropy": 6.645896230498593
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.426375488420953,
+      "min_entropy": 6.314237719935646,
+      "max_entropy": 8.235836234104086
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.880963316967044,
+      "min_entropy": 7.844059875419575,
+      "max_entropy": 9.66099264440521
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.240210357186767,
+      "min_entropy": 9.472394132437204,
+      "max_entropy": 10.760857512551164
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.480689137087229,
+      "min_entropy": 11.480689137087229,
+      "max_entropy": 11.480689137087229
+    }
+  },
+  "entropy": {
+    "mean": 6.60483735588498,
+    "min": 2.2286858134080174,
+    "max": 11.480689137087229
+  }
+}

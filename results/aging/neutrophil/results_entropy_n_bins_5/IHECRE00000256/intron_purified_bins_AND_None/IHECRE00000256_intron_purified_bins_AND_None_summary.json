@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.3028149923140186,
+      "min_entropy": 2.2725000576039998,
+      "max_entropy": 2.3145424238744545
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.39980411188684,
+      "min_entropy": 3.840688882407309,
+      "max_entropy": 4.584166064851097
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.310571004733029,
+      "min_entropy": 5.43017058910102,
+      "max_entropy": 6.77607541747424
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.078455640198321,
+      "min_entropy": 7.125620012326129,
+      "max_entropy": 8.655420790881527
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.732135372678991,
+      "min_entropy": 9.002758793390182,
+      "max_entropy": 10.387200733834005
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.265678970437884,
+      "min_entropy": 10.70359994853796,
+      "max_entropy": 11.782332882269422
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.632131659688351,
+      "min_entropy": 12.632131659688351,
+      "max_entropy": 12.632131659688351
+    }
+  },
+  "entropy": {
+    "mean": 7.149592528719932,
+    "min": 2.2725000576039998,
+    "max": 12.632131659688351
+  }
+}

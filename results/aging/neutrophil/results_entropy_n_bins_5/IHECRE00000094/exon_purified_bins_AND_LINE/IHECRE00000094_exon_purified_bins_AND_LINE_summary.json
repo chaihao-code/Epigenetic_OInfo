@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127391.Blueprint.IHECRE00000094.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127393.Blueprint.IHECRE00000094.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127395.Blueprint.IHECRE00000094.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127387.Blueprint.IHECRE00000094.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127389.Blueprint.IHECRE00000094.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127385.Blueprint.IHECRE00000094.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127400.Blueprint.IHECRE00000094.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.300107471165274,
+      "min_entropy": 2.2757595704324265,
+      "max_entropy": 2.3091077226623984
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.310257394212859,
+      "min_entropy": 3.8412128164722716,
+      "max_entropy": 4.586048784354826
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.1415159321504085,
+      "min_entropy": 5.4539174263744625,
+      "max_entropy": 6.652655170963869
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.864778764098091,
+      "min_entropy": 7.067637532459368,
+      "max_entropy": 8.447931507598078
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.508593389641366,
+      "min_entropy": 8.800747021090014,
+      "max_entropy": 10.045258332933017
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.062006361173356,
+      "min_entropy": 10.515695688476184,
+      "max_entropy": 11.414189832274262
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.468191956401178,
+      "min_entropy": 12.468191956401178,
+      "max_entropy": 12.468191956401178
+    }
+  },
+  "entropy": {
+    "mean": 6.9796785008851,
+    "min": 2.2757595704324265,
+    "max": 12.468191956401178
+  }
+}

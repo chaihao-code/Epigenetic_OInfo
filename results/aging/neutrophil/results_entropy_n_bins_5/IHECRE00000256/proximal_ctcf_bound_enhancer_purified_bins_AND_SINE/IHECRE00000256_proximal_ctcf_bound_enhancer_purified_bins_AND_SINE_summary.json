@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.9772364553022004,
+      "min_entropy": 1.7097993768780413,
+      "max_entropy": 2.2673646418515725
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.800591978613236,
+      "min_entropy": 3.016329840141648,
+      "max_entropy": 4.379065702133075
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.4763249383794745,
+      "min_entropy": 4.423977860661038,
+      "max_entropy": 6.2406613956669625
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.017531649694414,
+      "min_entropy": 6.094708262636337,
+      "max_entropy": 7.658139366892498
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.406476974614463,
+      "min_entropy": 7.858865716018347,
+      "max_entropy": 8.992434841923622
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 9.58701184379459,
+      "min_entropy": 9.255884911566715,
+      "max_entropy": 10.021900333047684
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.521242930502035,
+      "min_entropy": 10.521242930502035,
+      "max_entropy": 10.521242930502035
+    }
+  },
+  "entropy": {
+    "mean": 6.181924485232656,
+    "min": 1.7097993768780413,
+    "max": 10.521242930502035
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2978393129465275,
+      "min_entropy": 2.263705263572887,
+      "max_entropy": 2.3169448308298684
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.4359867124543495,
+      "min_entropy": 4.057389044698704,
+      "max_entropy": 4.573673033450537
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.42385708302727,
+      "min_entropy": 5.931836982079103,
+      "max_entropy": 6.758587684417315
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.291193722552302,
+      "min_entropy": 7.824771508433375,
+      "max_entropy": 8.587961048737863
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.056123709780941,
+      "min_entropy": 9.657617413803557,
+      "max_entropy": 10.302417374095056
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.697752384901886,
+      "min_entropy": 11.280548704920799,
+      "max_entropy": 11.86613784826717
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.132439079495636,
+      "min_entropy": 13.132439079495636,
+      "max_entropy": 13.132439079495636
+    }
+  },
+  "entropy": {
+    "mean": 7.326477779737486,
+    "min": 2.263705263572887,
+    "max": 13.132439079495636
+  }
+}

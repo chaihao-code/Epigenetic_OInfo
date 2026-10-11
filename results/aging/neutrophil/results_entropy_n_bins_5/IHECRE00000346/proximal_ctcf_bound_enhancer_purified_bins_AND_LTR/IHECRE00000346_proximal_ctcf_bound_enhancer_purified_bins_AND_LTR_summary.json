@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129075.Blueprint.IHECRE00000346.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129077.Blueprint.IHECRE00000346.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129079.Blueprint.IHECRE00000346.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129071.Blueprint.IHECRE00000346.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129073.Blueprint.IHECRE00000346.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129069.Blueprint.IHECRE00000346.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129084.Blueprint.IHECRE00000346.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.16241036933037,
+      "min_entropy": 2.006075123137817,
+      "max_entropy": 2.306898120392292
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.074107649367143,
+      "min_entropy": 3.4365336248604694,
+      "max_entropy": 4.362960429556028
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.781911245239405,
+      "min_entropy": 4.713934244303738,
+      "max_entropy": 6.369646219701034
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.298491498796562,
+      "min_entropy": 6.5346831548306135,
+      "max_entropy": 7.911228771545304
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.576999342666975,
+      "min_entropy": 7.9049361132689855,
+      "max_entropy": 9.08639068402166
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 9.562957226694156,
+      "min_entropy": 9.197259699602293,
+      "max_entropy": 9.806905049126183
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.264700224213058,
+      "min_entropy": 10.264700224213058,
+      "max_entropy": 10.264700224213058
+    }
+  },
+  "entropy": {
+    "mean": 6.423855246223305,
+    "min": 2.006075123137817,
+    "max": 10.264700224213058
+  }
+}

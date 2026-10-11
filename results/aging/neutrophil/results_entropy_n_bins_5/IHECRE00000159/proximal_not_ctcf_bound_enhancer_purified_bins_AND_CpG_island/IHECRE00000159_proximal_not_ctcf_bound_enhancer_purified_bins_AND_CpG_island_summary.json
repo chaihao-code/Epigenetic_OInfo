@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.4387740690260422,
+      "min_entropy": 0.8497758507996427,
+      "max_entropy": 2.1156086747887013
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.748116699853761,
+      "min_entropy": 1.5914111527273622,
+      "max_entropy": 3.479239527961881
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 3.8943864486466095,
+      "min_entropy": 2.851605288171175,
+      "max_entropy": 4.733187290166861
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 4.870378055516023,
+      "min_entropy": 3.9980379926621765,
+      "max_entropy": 5.736209035896909
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 5.691191871389266,
+      "min_entropy": 5.11188674102031,
+      "max_entropy": 6.398338047069495
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 6.37181546674361,
+      "min_entropy": 5.986140101868119,
+      "max_entropy": 6.790908346304473
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 6.9322320401289135,
+      "min_entropy": 6.9322320401289135,
+      "max_entropy": 6.9322320401289135
+    }
+  },
+  "entropy": {
+    "mean": 4.296051940411907,
+    "min": 0.8497758507996427,
+    "max": 6.9322320401289135
+  }
+}

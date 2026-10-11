@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2666207687618716,
+      "min_entropy": 2.238104334500655,
+      "max_entropy": 2.314557235253687
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.286852988290158,
+      "min_entropy": 3.721455153669107,
+      "max_entropy": 4.5849344068697
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.145386133802006,
+      "min_entropy": 5.094760806774139,
+      "max_entropy": 6.7558312491688595
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.897145506291054,
+      "min_entropy": 6.78816228129123,
+      "max_entropy": 8.749959215866616
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.56605180583861,
+      "min_entropy": 8.549215230538316,
+      "max_entropy": 10.355620929996757
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.140842327059048,
+      "min_entropy": 10.517277323281412,
+      "max_entropy": 11.65517507841952
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.568763230892387,
+      "min_entropy": 12.568763230892387,
+      "max_entropy": 12.568763230892387
+    }
+  },
+  "entropy": {
+    "mean": 6.998587503792126,
+    "min": 2.238104334500655,
+    "max": 12.568763230892387
+  }
+}

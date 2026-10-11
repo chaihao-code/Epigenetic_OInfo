@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.610829843648101,
+      "min_entropy": 1.0825597772533007,
+      "max_entropy": 2.1341471316169174
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.110337127371607,
+      "min_entropy": 2.010971575049785,
+      "max_entropy": 3.897386565251356
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.484125251504677,
+      "min_entropy": 3.4330414227727712,
+      "max_entropy": 5.439947648569569
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.734576125222578,
+      "min_entropy": 4.790720184610042,
+      "max_entropy": 6.794017157687261
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.853694997520346,
+      "min_entropy": 6.16554171232273,
+      "max_entropy": 7.7000250181814245
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.832262336266871,
+      "min_entropy": 7.377557336491444,
+      "max_entropy": 8.325945006421039
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 8.674006126768038,
+      "min_entropy": 8.674006126768038,
+      "max_entropy": 8.674006126768038
+    }
+  },
+  "entropy": {
+    "mean": 5.052558064522502,
+    "min": 1.0825597772533007,
+    "max": 8.674006126768038
+  }
+}

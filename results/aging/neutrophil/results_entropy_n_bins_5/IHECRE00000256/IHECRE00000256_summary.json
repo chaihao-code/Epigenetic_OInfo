@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 5080,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 280,
+      "mean_entropy": 2.1068678362370235,
+      "min_entropy": 0.3883131360025057,
+      "max_entropy": 2.321340989367972
+    },
+    "order_2": {
+      "n_subsets": 840,
+      "mean_entropy": 4.027326741555328,
+      "min_entropy": 0.8047131252848708,
+      "max_entropy": 4.614252396002061
+    },
+    "order_3": {
+      "n_subsets": 1400,
+      "mean_entropy": 5.779150290305942,
+      "min_entropy": 1.2696968331137894,
+      "max_entropy": 6.852541719441889
+    },
+    "order_4": {
+      "n_subsets": 1400,
+      "mean_entropy": 7.383035618766924,
+      "min_entropy": 2.523429744098724,
+      "max_entropy": 8.82087380056274
+    },
+    "order_5": {
+      "n_subsets": 840,
+      "mean_entropy": 8.838354965883168,
+      "min_entropy": 3.0807823464693547,
+      "max_entropy": 10.676440970723833
+    },
+    "order_6": {
+      "n_subsets": 280,
+      "mean_entropy": 10.117634463545798,
+      "min_entropy": 3.629458249011532,
+      "max_entropy": 12.149283823536635
+    },
+    "order_7": {
+      "n_subsets": 40,
+      "mean_entropy": 11.188132728325467,
+      "min_entropy": 4.402708093013619,
+      "max_entropy": 13.05090859012477
+    }
+  },
+  "entropy": {
+    "mean": 6.516657255909954,
+    "min": 0.3883131360025057,
+    "max": 13.05090859012477
+  }
+}

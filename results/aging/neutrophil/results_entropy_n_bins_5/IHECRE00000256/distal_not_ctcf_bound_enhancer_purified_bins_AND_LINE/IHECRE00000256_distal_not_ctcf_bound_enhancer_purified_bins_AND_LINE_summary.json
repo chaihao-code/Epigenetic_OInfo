@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.293837069571296,
+      "min_entropy": 2.2206765245579474,
+      "max_entropy": 2.318506322525474
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.422041680123824,
+      "min_entropy": 3.98089862794637,
+      "max_entropy": 4.605691531051753
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.393407582274295,
+      "min_entropy": 5.637110438288826,
+      "max_entropy": 6.813856313743567
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.237006588616904,
+      "min_entropy": 7.440912297637801,
+      "max_entropy": 8.703652576857081
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.973940271097522,
+      "min_entropy": 9.333328356943886,
+      "max_entropy": 10.53206500912789
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.592673864600854,
+      "min_entropy": 11.066729405762889,
+      "max_entropy": 12.061859450486267
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.035113966897637,
+      "min_entropy": 13.035113966897637,
+      "max_entropy": 13.035113966897637
+    }
+  },
+  "entropy": {
+    "mean": 7.28047879892081,
+    "min": 2.2206765245579474,
+    "max": 13.035113966897637
+  }
+}

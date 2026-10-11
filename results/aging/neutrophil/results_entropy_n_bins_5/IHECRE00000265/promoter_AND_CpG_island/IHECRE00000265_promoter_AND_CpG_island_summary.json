@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128403.Blueprint.IHECRE00000265.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128405.Blueprint.IHECRE00000265.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128407.Blueprint.IHECRE00000265.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128399.Blueprint.IHECRE00000265.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128401.Blueprint.IHECRE00000265.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128397.Blueprint.IHECRE00000265.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128412.Blueprint.IHECRE00000265.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.2813062011996832,
+      "min_entropy": 0.6118508334977286,
+      "max_entropy": 2.0672002263593305
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.4532902937980547,
+      "min_entropy": 1.1224981817793482,
+      "max_entropy": 3.691620423930887
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 3.5092081245891675,
+      "min_entropy": 1.7043484197209224,
+      "max_entropy": 4.817913490480755
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 4.45906884527179,
+      "min_entropy": 2.648242223226661,
+      "max_entropy": 5.684544525264439
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 5.3106749437226926,
+      "min_entropy": 4.039006644095769,
+      "max_entropy": 6.1514694806167025
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 6.067923061289794,
+      "min_entropy": 5.524294782186066,
+      "max_entropy": 6.472712106739619
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 6.738269661065358,
+      "min_entropy": 6.738269661065358,
+      "max_entropy": 6.738269661065358
+    }
+  },
+  "entropy": {
+    "mean": 3.937919987650085,
+    "min": 0.6118508334977286,
+    "max": 6.738269661065358
+  }
+}

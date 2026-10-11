@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2942791183609255,
+      "min_entropy": 2.2133383426633912,
+      "max_entropy": 2.316808065074039
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.44444654106572,
+      "min_entropy": 4.092700000330887,
+      "max_entropy": 4.585363173903264
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.4651985366005515,
+      "min_entropy": 6.046411292549691,
+      "max_entropy": 6.75143482167803
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.379045606791767,
+      "min_entropy": 7.952236140587947,
+      "max_entropy": 8.668235377936215
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.194441305669793,
+      "min_entropy": 9.821765633089655,
+      "max_entropy": 10.442278001372891
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.874969669404775,
+      "min_entropy": 11.504161351433925,
+      "max_entropy": 12.066798126085796
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.312848616022126,
+      "min_entropy": 13.312848616022126,
+      "max_entropy": 13.312848616022126
+    }
+  },
+  "entropy": {
+    "mean": 7.397344723862669,
+    "min": 2.2133383426633912,
+    "max": 13.312848616022126
+  }
+}

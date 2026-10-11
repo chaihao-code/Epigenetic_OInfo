@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2472002047233235,
+      "min_entropy": 2.162570091508981,
+      "max_entropy": 2.3073269201119886
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.27239139320237,
+      "min_entropy": 3.8286489295631974,
+      "max_entropy": 4.581775899207986
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.162837167346189,
+      "min_entropy": 5.350826052816288,
+      "max_entropy": 6.7022835314029106
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.968342605462356,
+      "min_entropy": 7.028615128697818,
+      "max_entropy": 8.617495099976217
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.705775989792738,
+      "min_entropy": 8.947977949832044,
+      "max_entropy": 10.272291733336196
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.354834624264129,
+      "min_entropy": 10.807317897149536,
+      "max_entropy": 11.669022399843083
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.841007066101932,
+      "min_entropy": 12.841007066101932,
+      "max_entropy": 12.841007066101932
+    }
+  },
+  "entropy": {
+    "mean": 7.056598881576459,
+    "min": 2.162570091508981,
+    "max": 12.841007066101932
+  }
+}

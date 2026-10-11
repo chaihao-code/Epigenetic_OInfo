@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2654297622162916,
+      "min_entropy": 2.195018315928918,
+      "max_entropy": 2.3158653602806294
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.3726051183959544,
+      "min_entropy": 4.03487233962008,
+      "max_entropy": 4.518499312438485
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.327965731340075,
+      "min_entropy": 5.912904113609664,
+      "max_entropy": 6.6658378706357535
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.159581634293556,
+      "min_entropy": 7.774607449903331,
+      "max_entropy": 8.463523974758324
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.885687543980483,
+      "min_entropy": 9.494315550265455,
+      "max_entropy": 10.106089947980916
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.488306537240362,
+      "min_entropy": 11.08818230717597,
+      "max_entropy": 11.61661015949699
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.893593989082806,
+      "min_entropy": 12.893593989082806,
+      "max_entropy": 12.893593989082806
+    }
+  },
+  "entropy": {
+    "mean": 7.2099059196248945,
+    "min": 2.195018315928918,
+    "max": 12.893593989082806
+  }
+}

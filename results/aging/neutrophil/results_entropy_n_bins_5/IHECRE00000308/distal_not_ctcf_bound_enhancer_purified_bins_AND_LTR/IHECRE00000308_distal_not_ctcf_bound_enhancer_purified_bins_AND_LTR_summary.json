@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128761.Blueprint.IHECRE00000308.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128763.Blueprint.IHECRE00000308.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128765.Blueprint.IHECRE00000308.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128757.Blueprint.IHECRE00000308.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128759.Blueprint.IHECRE00000308.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128755.Blueprint.IHECRE00000308.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128770.Blueprint.IHECRE00000308.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.282446326048702,
+      "min_entropy": 2.2495906234656413,
+      "max_entropy": 2.3132200579170745
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.409092532756869,
+      "min_entropy": 3.9964402941650827,
+      "max_entropy": 4.578626907893374
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.396635067736272,
+      "min_entropy": 5.74197124861372,
+      "max_entropy": 6.783600208710265
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.272965984647183,
+      "min_entropy": 7.5498867057564505,
+      "max_entropy": 8.705983073502871
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.054103657492984,
+      "min_entropy": 9.449579595660982,
+      "max_entropy": 10.488763840595064
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.71872831381682,
+      "min_entropy": 11.26263790445872,
+      "max_entropy": 11.990503709679192
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.190127095052016,
+      "min_entropy": 13.190127095052016,
+      "max_entropy": 13.190127095052016
+    }
+  },
+  "entropy": {
+    "mean": 7.30993312128172,
+    "min": 2.2495906234656413,
+    "max": 13.190127095052016
+  }
+}

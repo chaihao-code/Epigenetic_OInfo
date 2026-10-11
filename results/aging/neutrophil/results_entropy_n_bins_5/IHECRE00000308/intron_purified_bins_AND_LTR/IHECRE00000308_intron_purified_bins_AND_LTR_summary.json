@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128761.Blueprint.IHECRE00000308.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128763.Blueprint.IHECRE00000308.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128765.Blueprint.IHECRE00000308.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128757.Blueprint.IHECRE00000308.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128759.Blueprint.IHECRE00000308.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128755.Blueprint.IHECRE00000308.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128770.Blueprint.IHECRE00000308.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2900753087462844,
+      "min_entropy": 2.269364981056079,
+      "max_entropy": 2.3192710611693776
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.391151724716241,
+      "min_entropy": 3.9151731567181427,
+      "max_entropy": 4.601812138743528
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.332717231137522,
+      "min_entropy": 5.5542868497539,
+      "max_entropy": 6.788196261808507
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.155524386049173,
+      "min_entropy": 7.284710844574837,
+      "max_entropy": 8.694455643130896
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.884303682319091,
+      "min_entropy": 9.17387076351428,
+      "max_entropy": 10.400775307734499
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.507970527635027,
+      "min_entropy": 10.997177144383302,
+      "max_entropy": 11.816603545231771
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.963191470219865,
+      "min_entropy": 12.963191470219865,
+      "max_entropy": 12.963191470219865
+    }
+  },
+  "entropy": {
+    "mean": 7.215925452552482,
+    "min": 2.269364981056079,
+    "max": 12.963191470219865
+  }
+}

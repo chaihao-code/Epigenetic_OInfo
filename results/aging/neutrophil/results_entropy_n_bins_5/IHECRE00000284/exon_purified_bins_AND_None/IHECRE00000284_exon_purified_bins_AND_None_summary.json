@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128559.Blueprint.IHECRE00000284.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128561.Blueprint.IHECRE00000284.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128557.Blueprint.IHECRE00000284.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128572.Blueprint.IHECRE00000284.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.273630015748502,
+      "min_entropy": 2.1833996326781993,
+      "max_entropy": 2.3152848342540064
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.375373085670309,
+      "min_entropy": 4.095740718495741,
+      "max_entropy": 4.573181116083957
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.318086872840274,
+      "min_entropy": 5.893753721868495,
+      "max_entropy": 6.749553195453854
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.1339373731266,
+      "min_entropy": 7.697193153402333,
+      "max_entropy": 8.53120487796862
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.841869421573165,
+      "min_entropy": 9.351730697243777,
+      "max_entropy": 10.13767621938101
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.41929134049036,
+      "min_entropy": 10.917451927940053,
+      "max_entropy": 11.624803467997014
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.781002292902926,
+      "min_entropy": 12.781002292902926,
+      "max_entropy": 12.781002292902926
+    }
+  },
+  "entropy": {
+    "mean": 7.189089709035657,
+    "min": 2.1833996326781993,
+    "max": 12.781002292902926
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128559.Blueprint.IHECRE00000284.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128561.Blueprint.IHECRE00000284.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128557.Blueprint.IHECRE00000284.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128572.Blueprint.IHECRE00000284.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.325734113198885,
+      "min_entropy": 0.5432585703248618,
+      "max_entropy": 2.179721162444309
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.5419843371761814,
+      "min_entropy": 1.0221229597726167,
+      "max_entropy": 3.9329779256945816
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 3.643429074373553,
+      "min_entropy": 1.7503011409530649,
+      "max_entropy": 5.04291092517352
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 4.637615836622244,
+      "min_entropy": 2.7141941423759617,
+      "max_entropy": 5.935648497203162
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 5.529559130403719,
+      "min_entropy": 4.334362442088147,
+      "max_entropy": 6.586191385519163
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 6.322798736737316,
+      "min_entropy": 5.6163017282819565,
+      "max_entropy": 6.871503603720211
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 7.025796592002058,
+      "min_entropy": 7.025796592002058,
+      "max_entropy": 7.025796592002058
+    }
+  },
+  "entropy": {
+    "mean": 4.093736309020365,
+    "min": 0.5432585703248618,
+    "max": 7.025796592002058
+  }
+}

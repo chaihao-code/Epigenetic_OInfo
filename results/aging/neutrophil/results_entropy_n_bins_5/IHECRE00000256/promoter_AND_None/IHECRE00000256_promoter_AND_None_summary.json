@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2530018575130106,
+      "min_entropy": 2.2077292906195343,
+      "max_entropy": 2.3105814579251525
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.3179177084533205,
+      "min_entropy": 3.9409163817098234,
+      "max_entropy": 4.48200871043943
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.18873888163185,
+      "min_entropy": 5.578060987082236,
+      "max_entropy": 6.585911527753734
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.896133303889589,
+      "min_entropy": 7.151644995055682,
+      "max_entropy": 8.293506061743098
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.45034228860918,
+      "min_entropy": 8.922154081874801,
+      "max_entropy": 9.848278811392344
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.811282702497987,
+      "min_entropy": 10.384522888285533,
+      "max_entropy": 11.147024017493873
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.91945804019192,
+      "min_entropy": 11.91945804019192,
+      "max_entropy": 11.91945804019192
+    }
+  },
+  "entropy": {
+    "mean": 6.972231782612848,
+    "min": 2.2077292906195343,
+    "max": 11.91945804019192
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2809208192731076,
+      "min_entropy": 2.1754145378604415,
+      "max_entropy": 2.3184125587638227
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.427014163071794,
+      "min_entropy": 4.055946880480194,
+      "max_entropy": 4.5884051469221445
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.44719051248177,
+      "min_entropy": 6.030287934184147,
+      "max_entropy": 6.747953434540839
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.361999103892279,
+      "min_entropy": 7.966909315743683,
+      "max_entropy": 8.697253552167954
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.184021494624679,
+      "min_entropy": 9.774222200710277,
+      "max_entropy": 10.449344554649679
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.891475241124937,
+      "min_entropy": 11.487136589945866,
+      "max_entropy": 12.084947415751067
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.399488430356676,
+      "min_entropy": 13.399488430356676,
+      "max_entropy": 13.399488430356676
+    }
+  },
+  "entropy": {
+    "mean": 7.383934222345361,
+    "min": 2.1754145378604415,
+    "max": 13.399488430356676
+  }
+}

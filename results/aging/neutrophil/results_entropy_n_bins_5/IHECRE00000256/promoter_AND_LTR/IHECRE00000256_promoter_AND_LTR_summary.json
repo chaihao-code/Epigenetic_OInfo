@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2988156283661607,
+      "min_entropy": 2.2865707563261464,
+      "max_entropy": 2.321340989367972
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.4039606340878645,
+      "min_entropy": 3.8924810958682285,
+      "max_entropy": 4.593228090134037
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.3310398052972925,
+      "min_entropy": 5.490632544055111,
+      "max_entropy": 6.779251357280563
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.108417704186715,
+      "min_entropy": 7.14604142243649,
+      "max_entropy": 8.663389333447496
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.728297083216583,
+      "min_entropy": 9.026880476688245,
+      "max_entropy": 10.300646084315314
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.118144623043234,
+      "min_entropy": 10.667646643385126,
+      "max_entropy": 11.611959512224004
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.200009558036884,
+      "min_entropy": 12.200009558036884,
+      "max_entropy": 12.200009558036884
+    }
+  },
+  "entropy": {
+    "mean": 7.151788631600287,
+    "min": 2.2865707563261464,
+    "max": 12.200009558036884
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127391.Blueprint.IHECRE00000094.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127393.Blueprint.IHECRE00000094.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127395.Blueprint.IHECRE00000094.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127387.Blueprint.IHECRE00000094.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127389.Blueprint.IHECRE00000094.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127385.Blueprint.IHECRE00000094.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127400.Blueprint.IHECRE00000094.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.166330038818407,
+      "min_entropy": 1.7448183207845789,
+      "max_entropy": 2.3144887594720855
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.1539863993537525,
+      "min_entropy": 3.788362709041795,
+      "max_entropy": 4.551979165989579
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.98991345797305,
+      "min_entropy": 5.565173041440203,
+      "max_entropy": 6.416012912340285
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.682842125916981,
+      "min_entropy": 7.281232975097576,
+      "max_entropy": 8.041267509242354
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.175272230905245,
+      "min_entropy": 8.824148544768544,
+      "max_entropy": 9.411149859381805
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.363500933268167,
+      "min_entropy": 10.160353561671599,
+      "max_entropy": 10.472070740726295
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.20353838807412,
+      "min_entropy": 11.20353838807412,
+      "max_entropy": 11.20353838807412
+    }
+  },
+  "entropy": {
+    "mean": 6.750970329639922,
+    "min": 1.7448183207845789,
+    "max": 11.20353838807412
+  }
+}

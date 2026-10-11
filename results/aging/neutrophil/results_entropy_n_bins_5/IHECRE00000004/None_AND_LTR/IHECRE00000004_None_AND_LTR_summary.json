@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.275893654522799,
+      "min_entropy": 2.263566282332658,
+      "max_entropy": 2.2956318989946753
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.175996797259442,
+      "min_entropy": 3.421559937757591,
+      "max_entropy": 4.550042103304448
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.8720319955824944,
+      "min_entropy": 4.536105996911752,
+      "max_entropy": 6.680837314911003
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.455800395935189,
+      "min_entropy": 6.132589182241317,
+      "max_entropy": 8.479440936526899
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.965021065760096,
+      "min_entropy": 7.729750846471337,
+      "max_entropy": 9.902188222473143
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.40171921047866,
+      "min_entropy": 9.650260498433468,
+      "max_entropy": 11.007804734298514
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.739102532979352,
+      "min_entropy": 11.739102532979352,
+      "max_entropy": 11.739102532979352
+    }
+  },
+  "entropy": {
+    "mean": 6.637148830035581,
+    "min": 2.263566282332658,
+    "max": 11.739102532979352
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.251497470680736,
+      "min_entropy": 2.169817627209624,
+      "max_entropy": 2.293226643286845
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.369646154910562,
+      "min_entropy": 3.9440875762864707,
+      "max_entropy": 4.5579938415403385
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.35866141984496,
+      "min_entropy": 5.780371674057622,
+      "max_entropy": 6.727359722079505
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.218020855170884,
+      "min_entropy": 7.736030004937865,
+      "max_entropy": 8.695296472092116
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.887621327865523,
+      "min_entropy": 9.415020317760122,
+      "max_entropy": 10.23786281744356
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.211694101209556,
+      "min_entropy": 10.890076966105894,
+      "max_entropy": 11.46661157621763
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.087078822800333,
+      "min_entropy": 12.087078822800333,
+      "max_entropy": 12.087078822800333
+    }
+  },
+  "entropy": {
+    "mean": 7.211936351101454,
+    "min": 2.169817627209624,
+    "max": 12.087078822800333
+  }
+}

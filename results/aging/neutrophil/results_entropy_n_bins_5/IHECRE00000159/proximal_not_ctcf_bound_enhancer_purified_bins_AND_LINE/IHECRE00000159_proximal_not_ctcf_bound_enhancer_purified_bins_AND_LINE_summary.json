@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2486777336579684,
+      "min_entropy": 2.174262979432143,
+      "max_entropy": 2.3077591081997677
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.315008304702033,
+      "min_entropy": 3.9688107926145633,
+      "max_entropy": 4.572965467533498
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.2266144728327335,
+      "min_entropy": 5.585021031565741,
+      "max_entropy": 6.7343234950214175
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.00532023173426,
+      "min_entropy": 7.378370756142306,
+      "max_entropy": 8.486238906540967
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.623894859783693,
+      "min_entropy": 9.11294077136657,
+      "max_entropy": 10.08098561148076
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.98033246367805,
+      "min_entropy": 10.565280391250027,
+      "max_entropy": 11.215884228415543
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.969953078214536,
+      "min_entropy": 11.969953078214536,
+      "max_entropy": 11.969953078214536
+    }
+  },
+  "entropy": {
+    "mean": 7.0504543745953665,
+    "min": 2.174262979432143,
+    "max": 11.969953078214536
+  }
+}

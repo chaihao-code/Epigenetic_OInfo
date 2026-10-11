@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.4026487067582796,
+      "min_entropy": 0.8475772945069052,
+      "max_entropy": 2.018824400548205
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.6921179828753723,
+      "min_entropy": 1.6363894148347646,
+      "max_entropy": 3.654932451087108
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 3.861592948002571,
+      "min_entropy": 2.714460333558284,
+      "max_entropy": 4.893348395991353
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 4.9197583533086915,
+      "min_entropy": 3.8887305054619907,
+      "max_entropy": 5.876426981445687
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 5.872149242308135,
+      "min_entropy": 5.017513514445325,
+      "max_entropy": 6.684160697368054
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 6.722392781911464,
+      "min_entropy": 6.2554416212288935,
+      "max_entropy": 7.20110904421122
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 7.475810146724379,
+      "min_entropy": 7.475810146724379,
+      "max_entropy": 7.475810146724379
+    }
+  },
+  "entropy": {
+    "mean": 4.3428976995445705,
+    "min": 0.8475772945069052,
+    "max": 7.475810146724379
+  }
+}

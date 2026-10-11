@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128403.Blueprint.IHECRE00000265.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128405.Blueprint.IHECRE00000265.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128407.Blueprint.IHECRE00000265.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128399.Blueprint.IHECRE00000265.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128401.Blueprint.IHECRE00000265.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128397.Blueprint.IHECRE00000265.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128412.Blueprint.IHECRE00000265.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.696745333607629,
+      "min_entropy": 1.152914470686706,
+      "max_entropy": 1.9987144956978264
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.2603372721009833,
+      "min_entropy": 2.439888565598939,
+      "max_entropy": 3.795468343686299
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.678227194956798,
+      "min_entropy": 3.8559863470027276,
+      "max_entropy": 5.354873641267692
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.9570363134300965,
+      "min_entropy": 5.296821296711701,
+      "max_entropy": 6.660720307806892
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 7.090585822977822,
+      "min_entropy": 6.6466381088119295,
+      "max_entropy": 7.643226461985435
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 8.063798205909418,
+      "min_entropy": 7.81378173258133,
+      "max_entropy": 8.456419341827718
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 8.870972820466235,
+      "min_entropy": 8.870972820466235,
+      "max_entropy": 8.870972820466235
+    }
+  },
+  "entropy": {
+    "mean": 5.250380987301433,
+    "min": 1.152914470686706,
+    "max": 8.870972820466235
+  }
+}

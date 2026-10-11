@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129075.Blueprint.IHECRE00000346.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129077.Blueprint.IHECRE00000346.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129079.Blueprint.IHECRE00000346.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129071.Blueprint.IHECRE00000346.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129073.Blueprint.IHECRE00000346.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129069.Blueprint.IHECRE00000346.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129084.Blueprint.IHECRE00000346.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2799791923828225,
+      "min_entropy": 2.207791920274999,
+      "max_entropy": 2.31456806142979
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.9789311500841635,
+      "min_entropy": 3.2736344676374522,
+      "max_entropy": 4.611553023036051
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.433076893912525,
+      "min_entropy": 4.10314133909908,
+      "max_entropy": 6.2744018260027685
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 6.775301634843207,
+      "min_entropy": 5.442571042852739,
+      "max_entropy": 7.758566888095356
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.04619716403369,
+      "min_entropy": 6.8523735831235975,
+      "max_entropy": 8.955652228094323
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 9.256119623412578,
+      "min_entropy": 8.216926580762346,
+      "max_entropy": 9.77469078946386
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.399138460730816,
+      "min_entropy": 10.399138460730816,
+      "max_entropy": 10.399138460730816
+    }
+  },
+  "entropy": {
+    "mean": 6.070651758064758,
+    "min": 2.207791920274999,
+    "max": 10.399138460730816
+  }
+}

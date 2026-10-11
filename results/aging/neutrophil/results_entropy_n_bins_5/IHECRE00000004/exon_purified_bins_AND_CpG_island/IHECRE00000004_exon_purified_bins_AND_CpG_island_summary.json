@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.7043269590138155,
+      "min_entropy": 1.2108776795406078,
+      "max_entropy": 2.274504921570976
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.2728457631198884,
+      "min_entropy": 2.2909341885932326,
+      "max_entropy": 4.015987602733933
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.692557190675579,
+      "min_entropy": 3.747729705330361,
+      "max_entropy": 5.642093928682887
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.973091548431947,
+      "min_entropy": 5.103115338059066,
+      "max_entropy": 6.859008564122582
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 7.109336938534314,
+      "min_entropy": 6.322685552215633,
+      "max_entropy": 7.940116533482249
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 8.091987176657112,
+      "min_entropy": 7.493998250353869,
+      "max_entropy": 8.56944461406949
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 8.925297562272656,
+      "min_entropy": 8.925297562272656,
+      "max_entropy": 8.925297562272656
+    }
+  },
+  "entropy": {
+    "mean": 5.266323142641504,
+    "min": 1.2108776795406078,
+    "max": 8.925297562272656
+  }
+}

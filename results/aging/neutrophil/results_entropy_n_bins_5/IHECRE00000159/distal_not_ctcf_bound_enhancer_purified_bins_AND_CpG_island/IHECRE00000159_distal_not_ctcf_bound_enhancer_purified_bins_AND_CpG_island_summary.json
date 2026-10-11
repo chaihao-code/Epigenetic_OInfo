@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.552879408626794,
+      "min_entropy": 1.1503465389609604,
+      "max_entropy": 2.122141120485371
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.9609589074048714,
+      "min_entropy": 2.209347100567908,
+      "max_entropy": 4.007628732682881
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.21822663993524,
+      "min_entropy": 3.334463512212289,
+      "max_entropy": 5.205949497786854
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.317863518050836,
+      "min_entropy": 4.375207215635591,
+      "max_entropy": 6.1487469793395455
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.258021621815433,
+      "min_entropy": 5.2731083699070425,
+      "max_entropy": 6.860531882536915
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.044009022443364,
+      "min_entropy": 6.372131933482823,
+      "max_entropy": 7.430003162430673
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 7.683331263138049,
+      "min_entropy": 7.683331263138049,
+      "max_entropy": 7.683331263138049
+    }
+  },
+  "entropy": {
+    "mean": 4.686797613572978,
+    "min": 1.1503465389609604,
+    "max": 7.683331263138049
+  }
+}

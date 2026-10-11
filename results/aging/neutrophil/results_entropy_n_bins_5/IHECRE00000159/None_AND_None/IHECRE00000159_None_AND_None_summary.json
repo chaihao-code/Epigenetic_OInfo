@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127896.Blueprint.IHECRE00000159.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127898.Blueprint.IHECRE00000159.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127900.Blueprint.IHECRE00000159.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127892.Blueprint.IHECRE00000159.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127894.Blueprint.IHECRE00000159.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127890.Blueprint.IHECRE00000159.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127905.Blueprint.IHECRE00000159.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.2963847874133676,
+      "min_entropy": 1.2263168354032195,
+      "max_entropy": 1.3481442832697554
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 1.9685454690214836,
+      "min_entropy": 1.7241131936919,
+      "max_entropy": 2.3000477995456974
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 2.502712172763501,
+      "min_entropy": 2.1408700405945877,
+      "max_entropy": 2.9371240092295916
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 2.995516205194185,
+      "min_entropy": 2.5192306285548316,
+      "max_entropy": 3.352776164087526
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 3.4622212181369902,
+      "min_entropy": 2.903989135011582,
+      "max_entropy": 3.723232821917474
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 3.895377726077295,
+      "min_entropy": 3.4270555087189054,
+      "max_entropy": 4.038783013297067
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 4.276951046951121,
+      "min_entropy": 4.276951046951121,
+      "max_entropy": 4.276951046951121
+    }
+  },
+  "entropy": {
+    "mean": 2.7330974984270293,
+    "min": 1.2263168354032195,
+    "max": 4.276951046951121
+  }
+}

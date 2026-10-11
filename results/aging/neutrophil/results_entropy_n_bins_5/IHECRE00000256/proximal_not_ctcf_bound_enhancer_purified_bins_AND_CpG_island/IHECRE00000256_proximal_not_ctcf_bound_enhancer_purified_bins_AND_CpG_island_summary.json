@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128291.Blueprint.IHECRE00000256.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128293.Blueprint.IHECRE00000256.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128295.Blueprint.IHECRE00000256.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128287.Blueprint.IHECRE00000256.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128289.Blueprint.IHECRE00000256.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128285.Blueprint.IHECRE00000256.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128300.Blueprint.IHECRE00000256.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.714533839932131,
+      "min_entropy": 1.2194654845170563,
+      "max_entropy": 2.072161119574873
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.2743309842357657,
+      "min_entropy": 2.3150328092888346,
+      "max_entropy": 4.023448108647459
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.620389186413732,
+      "min_entropy": 3.422683799749844,
+      "max_entropy": 5.645205856445388
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.7149392988721335,
+      "min_entropy": 4.854092925297047,
+      "max_entropy": 6.448828905511838
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.5773473560447595,
+      "min_entropy": 5.750995343427784,
+      "max_entropy": 7.0865475794972435
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.260067538159513,
+      "min_entropy": 6.767281100729068,
+      "max_entropy": 7.506088816357227
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 7.8109609884454265,
+      "min_entropy": 7.8109609884454265,
+      "max_entropy": 7.8109609884454265
+    }
+  },
+  "entropy": {
+    "mean": 5.033503250125851,
+    "min": 1.2194654845170563,
+    "max": 7.8109609884454265
+  }
+}

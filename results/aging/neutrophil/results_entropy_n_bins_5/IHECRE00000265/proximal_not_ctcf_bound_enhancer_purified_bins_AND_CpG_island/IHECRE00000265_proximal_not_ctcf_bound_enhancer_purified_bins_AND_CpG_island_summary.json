@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128403.Blueprint.IHECRE00000265.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128405.Blueprint.IHECRE00000265.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128407.Blueprint.IHECRE00000265.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128399.Blueprint.IHECRE00000265.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128401.Blueprint.IHECRE00000265.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128397.Blueprint.IHECRE00000265.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128412.Blueprint.IHECRE00000265.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.6466370078922972,
+      "min_entropy": 1.1083677697639005,
+      "max_entropy": 1.9749943053592625
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.168095951376348,
+      "min_entropy": 2.35763709175537,
+      "max_entropy": 3.852795699506065
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.509988902631011,
+      "min_entropy": 3.5933145498855965,
+      "max_entropy": 5.380421521827706
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.626415473870974,
+      "min_entropy": 4.945740320966744,
+      "max_entropy": 6.35285890675154
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.503601680500946,
+      "min_entropy": 5.903408941572748,
+      "max_entropy": 6.98297024868445
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.175319754187561,
+      "min_entropy": 6.856848673660087,
+      "max_entropy": 7.437830980848139
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 7.689227752028086,
+      "min_entropy": 7.689227752028086,
+      "max_entropy": 7.689227752028086
+    }
+  },
+  "entropy": {
+    "mean": 4.9395490435714935,
+    "min": 1.1083677697639005,
+    "max": 7.689227752028086
+  }
+}

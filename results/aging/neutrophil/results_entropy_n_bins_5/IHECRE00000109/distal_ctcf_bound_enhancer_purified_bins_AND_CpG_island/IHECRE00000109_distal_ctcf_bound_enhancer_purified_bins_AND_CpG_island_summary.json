@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127530.Blueprint.IHECRE00000109.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127532.Blueprint.IHECRE00000109.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127534.Blueprint.IHECRE00000109.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127526.Blueprint.IHECRE00000109.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127528.Blueprint.IHECRE00000109.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127524.Blueprint.IHECRE00000109.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127539.Blueprint.IHECRE00000109.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.441341783232955,
+      "min_entropy": 0.7834775347708494,
+      "max_entropy": 2.2830629435107586
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.8040588026864675,
+      "min_entropy": 1.483577016247085,
+      "max_entropy": 4.10633454017437
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.079744464581104,
+      "min_entropy": 2.552707096925707,
+      "max_entropy": 5.522391073517821
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.253226050741645,
+      "min_entropy": 3.7279132091000804,
+      "max_entropy": 6.611684461215097
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.30370660920512,
+      "min_entropy": 5.044852921015417,
+      "max_entropy": 7.415869740472297
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.2217076903169035,
+      "min_entropy": 6.376218156387923,
+      "max_entropy": 7.837532714989108
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 8.014231099884292,
+      "min_entropy": 8.014231099884292,
+      "max_entropy": 8.014231099884292
+    }
+  },
+  "entropy": {
+    "mean": 4.618682040163409,
+    "min": 0.7834775347708494,
+    "max": 8.014231099884292
+  }
+}

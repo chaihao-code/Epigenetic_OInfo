@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.27390000476935,
+      "min_entropy": 2.222094431448536,
+      "max_entropy": 2.3124296963327406
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.335223696270718,
+      "min_entropy": 3.98485539925701,
+      "max_entropy": 4.552128509951141
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.23831245177873,
+      "min_entropy": 5.656760829252596,
+      "max_entropy": 6.626775420123884
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.03157992164993,
+      "min_entropy": 7.450112803377168,
+      "max_entropy": 8.448123933620318
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.737589091510491,
+      "min_entropy": 9.195142489104683,
+      "max_entropy": 10.098102813938208
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.341486643449162,
+      "min_entropy": 10.898429504860689,
+      "max_entropy": 11.526244997383287
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.776818482718765,
+      "min_entropy": 12.776818482718765,
+      "max_entropy": 12.776818482718765
+    }
+  },
+  "entropy": {
+    "mean": 7.110707296328007,
+    "min": 2.222094431448536,
+    "max": 12.776818482718765
+  }
+}

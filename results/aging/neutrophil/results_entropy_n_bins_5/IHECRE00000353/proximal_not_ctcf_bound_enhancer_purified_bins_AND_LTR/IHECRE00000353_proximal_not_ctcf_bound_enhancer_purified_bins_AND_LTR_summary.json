@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.278144952895771,
+      "min_entropy": 2.245627540876707,
+      "max_entropy": 2.3180056469516996
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.432434759439014,
+      "min_entropy": 4.020227571439564,
+      "max_entropy": 4.59400161868838
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.464438923048029,
+      "min_entropy": 5.918288702115324,
+      "max_entropy": 6.766386691148382
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.351164568302504,
+      "min_entropy": 7.832227045467036,
+      "max_entropy": 8.74311776259175
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.96730622629427,
+      "min_entropy": 9.605320794213421,
+      "max_entropy": 10.293994001916008
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.106563782959638,
+      "min_entropy": 10.855771276081978,
+      "max_entropy": 11.313343039018928
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 11.754489753198737,
+      "min_entropy": 11.754489753198737,
+      "max_entropy": 11.754489753198737
+    }
+  },
+  "entropy": {
+    "mean": 7.294394754345309,
+    "min": 2.245627540876707,
+    "max": 11.754489753198737
+  }
+}

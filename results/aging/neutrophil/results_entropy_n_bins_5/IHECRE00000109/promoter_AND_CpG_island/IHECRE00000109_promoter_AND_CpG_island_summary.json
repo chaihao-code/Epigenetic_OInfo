@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127530.Blueprint.IHECRE00000109.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127532.Blueprint.IHECRE00000109.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127534.Blueprint.IHECRE00000109.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127526.Blueprint.IHECRE00000109.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127528.Blueprint.IHECRE00000109.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127524.Blueprint.IHECRE00000109.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127539.Blueprint.IHECRE00000109.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.2306950159568122,
+      "min_entropy": 0.3904391801673067,
+      "max_entropy": 2.293976157488496
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.3815958457933486,
+      "min_entropy": 0.8496688084953917,
+      "max_entropy": 3.8870601925802233
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 3.4520317955781086,
+      "min_entropy": 1.3042648342769894,
+      "max_entropy": 5.340053508564156
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 4.445328074656953,
+      "min_entropy": 2.295619190739578,
+      "max_entropy": 6.143977887541826
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 5.360571637249982,
+      "min_entropy": 3.676532199873139,
+      "max_entropy": 6.5783207239668045
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 6.198565070900834,
+      "min_entropy": 5.314268255757161,
+      "max_entropy": 6.894621264228516
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 6.965088250240101,
+      "min_entropy": 6.965088250240101,
+      "max_entropy": 6.965088250240101
+    }
+  },
+  "entropy": {
+    "mean": 3.920968672916383,
+    "min": 0.3904391801673067,
+    "max": 6.965088250240101
+  }
+}

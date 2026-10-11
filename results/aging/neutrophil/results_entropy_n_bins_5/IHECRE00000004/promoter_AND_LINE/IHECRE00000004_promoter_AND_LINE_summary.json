@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2990084665669417,
+      "min_entropy": 2.268809076594072,
+      "max_entropy": 2.3202856656127575
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.317091162091911,
+      "min_entropy": 3.712343035457086,
+      "max_entropy": 4.550230275434755
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.13513443376507,
+      "min_entropy": 5.317018582919001,
+      "max_entropy": 6.643139780673914
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.81487017214729,
+      "min_entropy": 6.8823684841535675,
+      "max_entropy": 8.52344424909881
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.378744094432594,
+      "min_entropy": 8.56514259255287,
+      "max_entropy": 10.103687270790541
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.798875610908985,
+      "min_entropy": 10.321766170647436,
+      "max_entropy": 11.242619163059262
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.003746142969488,
+      "min_entropy": 12.003746142969488,
+      "max_entropy": 12.003746142969488
+    }
+  },
+  "entropy": {
+    "mean": 6.925603435269672,
+    "min": 2.268809076594072,
+    "max": 12.003746142969488
+  }
+}

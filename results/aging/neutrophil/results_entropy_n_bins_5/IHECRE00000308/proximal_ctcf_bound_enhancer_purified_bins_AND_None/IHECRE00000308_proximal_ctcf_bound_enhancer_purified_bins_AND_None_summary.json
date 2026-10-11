@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128761.Blueprint.IHECRE00000308.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128763.Blueprint.IHECRE00000308.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128765.Blueprint.IHECRE00000308.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128757.Blueprint.IHECRE00000308.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128759.Blueprint.IHECRE00000308.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128755.Blueprint.IHECRE00000308.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128770.Blueprint.IHECRE00000308.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.0810415914701577,
+      "min_entropy": 1.7708176028008145,
+      "max_entropy": 2.29009381356254
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.9819532772428103,
+      "min_entropy": 3.5680918096627465,
+      "max_entropy": 4.408647412601091
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.708164069982505,
+      "min_entropy": 5.093509841145772,
+      "max_entropy": 6.208157812777625
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.2618056942864735,
+      "min_entropy": 6.649413331911589,
+      "max_entropy": 7.714301361689358
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.59511149215642,
+      "min_entropy": 8.208062175915472,
+      "max_entropy": 8.91597386665276
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 9.635570125636558,
+      "min_entropy": 9.287638499535912,
+      "max_entropy": 9.843485181891392
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.386956752662563,
+      "min_entropy": 10.386956752662563,
+      "max_entropy": 10.386956752662563
+    }
+  },
+  "entropy": {
+    "mean": 6.381657800623681,
+    "min": 1.7708176028008145,
+    "max": 10.386956752662563
+  }
+}

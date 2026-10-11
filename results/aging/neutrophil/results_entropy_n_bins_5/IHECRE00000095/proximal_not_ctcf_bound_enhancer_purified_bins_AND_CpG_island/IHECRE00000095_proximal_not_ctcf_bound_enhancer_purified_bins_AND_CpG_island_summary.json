@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.5746674671813208,
+      "min_entropy": 0.864574264435745,
+      "max_entropy": 2.1235477506831937
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.039667130237546,
+      "min_entropy": 1.8720069408727673,
+      "max_entropy": 4.033851331638958
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.338519681880679,
+      "min_entropy": 3.0174018387414696,
+      "max_entropy": 5.526463582465722
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.427236558801222,
+      "min_entropy": 4.295207096130261,
+      "max_entropy": 6.461137578081392
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.311205229756676,
+      "min_entropy": 5.550441041454553,
+      "max_entropy": 7.020158833715051
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.0192170402342375,
+      "min_entropy": 6.701136824640382,
+      "max_entropy": 7.473967718173564
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 7.588858200619727,
+      "min_entropy": 7.588858200619727,
+      "max_entropy": 7.588858200619727
+    }
+  },
+  "entropy": {
+    "mean": 4.770990848317115,
+    "min": 0.864574264435745,
+    "max": 7.588858200619727
+  }
+}

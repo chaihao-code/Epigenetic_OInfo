@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127530.Blueprint.IHECRE00000109.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127532.Blueprint.IHECRE00000109.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127534.Blueprint.IHECRE00000109.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127526.Blueprint.IHECRE00000109.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127528.Blueprint.IHECRE00000109.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127524.Blueprint.IHECRE00000109.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127539.Blueprint.IHECRE00000109.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.230609077022091,
+      "min_entropy": 2.097623826757066,
+      "max_entropy": 2.320699766796019
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.35243432886019,
+      "min_entropy": 3.988822022911564,
+      "max_entropy": 4.586936224903232
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.367555119422846,
+      "min_entropy": 5.776442900791293,
+      "max_entropy": 6.796649239729585
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.26984838722269,
+      "min_entropy": 7.681198970128416,
+      "max_entropy": 8.723647166917821
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.991024291641512,
+      "min_entropy": 9.548767186116741,
+      "max_entropy": 10.435391229975936
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.356924060072615,
+      "min_entropy": 11.079278343850982,
+      "max_entropy": 11.635742119795925
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.246351027386392,
+      "min_entropy": 12.246351027386392,
+      "max_entropy": 12.246351027386392
+    }
+  },
+  "entropy": {
+    "mean": 7.2510302106313285,
+    "min": 2.097623826757066,
+    "max": 12.246351027386392
+  }
+}

@@ -1,0 +1,13 @@
+epirr_accession	donor_id	donor_age	age_unit	life_stage	donor_sex	treatment	cell_type	tissue_type	disease	project
+IHECRE00000004	C0010K	60-65	year	adult	female	untreated	mature neutrophil	venous blood	Healthy/None	BLUEPRINT
+IHECRE00000094	C001UY	60-65	year	adult	male	untreated	mature neutrophil	venous blood	Healthy/None	BLUEPRINT
+IHECRE00000095	C00184	0-5	year	child	male	untreated	mature neutrophil	umbilical cord blood	Healthy/None	BLUEPRINT
+IHECRE00000109	C000S5	65-70	year	adult	male	untreated	mature neutrophil	venous blood	Healthy/None	BLUEPRINT
+IHECRE00000124	C004GD	0-5	year	child	female	untreated	mature neutrophil	umbilical cord blood	Healthy/None	BLUEPRINT
+IHECRE00000159	C0011I	50-55	year	adult	female	untreated	mature neutrophil	venous blood	Healthy/None	BLUEPRINT
+IHECRE00000256	PB270313	70-75	year	adult	male	untreated	mature neutrophil	venous blood	Healthy/None	BLUEPRINT
+IHECRE00000265	PB130513	30-35	year	adult	male	G-CSF/Dex treated	mature neutrophil	venous blood	Healthy/None	BLUEPRINT
+IHECRE00000284	PB100713	55-60	year	adult	male	untreated	mature neutrophil	venous blood	Healthy/None	BLUEPRINT
+IHECRE00000308	PB270313	70-75	year	adult	male	G-CSF/Dex treated	mature neutrophil	venous blood	Healthy/None	BLUEPRINT
+IHECRE00000346	PB130513	30-35	year	adult	male	untreated	mature neutrophil	venous blood	Healthy/None	BLUEPRINT
+IHECRE00000353	PB100713	55-60	year	adult	male	G-CSF/Dex treated	mature neutrophil	venous blood	Healthy/None	BLUEPRINT

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129075.Blueprint.IHECRE00000346.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129077.Blueprint.IHECRE00000346.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129079.Blueprint.IHECRE00000346.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129071.Blueprint.IHECRE00000346.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129073.Blueprint.IHECRE00000346.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129069.Blueprint.IHECRE00000346.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129084.Blueprint.IHECRE00000346.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.1154270807168833,
+      "min_entropy": 1.9020780994224877,
+      "max_entropy": 2.317032249715428
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.002178759286302,
+      "min_entropy": 3.3611698735573103,
+      "max_entropy": 4.429385391712173
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.69345609794194,
+      "min_entropy": 4.572378895365279,
+      "max_entropy": 6.29394172464662
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.217755982729054,
+      "min_entropy": 6.277578536523343,
+      "max_entropy": 7.849284946045401
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.566404557153792,
+      "min_entropy": 7.907354036572814,
+      "max_entropy": 9.104853122782101
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 9.69652006635684,
+      "min_entropy": 9.353923199389715,
+      "max_entropy": 9.972050543395424
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.577772702421306,
+      "min_entropy": 10.577772702421306,
+      "max_entropy": 10.577772702421306
+    }
+  },
+  "entropy": {
+    "mean": 6.370819489769008,
+    "min": 1.9020780994224877,
+    "max": 10.577772702421306
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "127635.Blueprint.IHECRE00000124.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "127637.Blueprint.IHECRE00000124.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "127639.Blueprint.IHECRE00000124.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "127631.Blueprint.IHECRE00000124.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "127633.Blueprint.IHECRE00000124.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "127629.Blueprint.IHECRE00000124.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "127644.Blueprint.IHECRE00000124.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2950845293978674,
+      "min_entropy": 2.266449509680862,
+      "max_entropy": 2.3211224019646375
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.432037985129514,
+      "min_entropy": 4.1642494688716996,
+      "max_entropy": 4.559091104455874
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.429291359194429,
+      "min_entropy": 6.000258948302152,
+      "max_entropy": 6.70133980883059
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.309826495184362,
+      "min_entropy": 7.93127252272236,
+      "max_entropy": 8.639587095433225
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.072246629924118,
+      "min_entropy": 9.731989161838552,
+      "max_entropy": 10.402979474904834
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.642877404962508,
+      "min_entropy": 11.430571118131695,
+      "max_entropy": 11.817334306998575
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 12.862493627236212,
+      "min_entropy": 12.862493627236212,
+      "max_entropy": 12.862493627236212
+    }
+  },
+  "entropy": {
+    "mean": 7.329821488087739,
+    "min": 2.266449509680862,
+    "max": 12.862493627236212
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.6375904859126997,
+      "min_entropy": 1.13176588855324,
+      "max_entropy": 1.9640754310471822
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.9964608320808956,
+      "min_entropy": 2.1730779416027595,
+      "max_entropy": 3.7939974953162263
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.157490417126116,
+      "min_entropy": 3.112845853589472,
+      "max_entropy": 5.251585184223693
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.123187293086455,
+      "min_entropy": 3.992086857971591,
+      "max_entropy": 6.0129801203820055
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 5.891345328834299,
+      "min_entropy": 4.8939441050045405,
+      "max_entropy": 6.471596112144095
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 6.49147261525487,
+      "min_entropy": 5.909214053369263,
+      "max_entropy": 6.793104901029839
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 6.964351521282616,
+      "min_entropy": 6.964351521282616,
+      "max_entropy": 6.964351521282616
+    }
+  },
+  "entropy": {
+    "mean": 4.530200334378855,
+    "min": 1.13176588855324,
+    "max": 6.964351521282616
+  }
+}

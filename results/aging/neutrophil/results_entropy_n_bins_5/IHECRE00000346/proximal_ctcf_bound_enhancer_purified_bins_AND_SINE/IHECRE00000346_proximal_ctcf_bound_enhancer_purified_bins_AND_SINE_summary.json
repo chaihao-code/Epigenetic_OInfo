@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129075.Blueprint.IHECRE00000346.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129077.Blueprint.IHECRE00000346.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129079.Blueprint.IHECRE00000346.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129071.Blueprint.IHECRE00000346.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129073.Blueprint.IHECRE00000346.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129069.Blueprint.IHECRE00000346.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129084.Blueprint.IHECRE00000346.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.0228952419763693,
+      "min_entropy": 1.7057821697736415,
+      "max_entropy": 2.3076670238672286
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.8409084146824406,
+      "min_entropy": 3.044531731797653,
+      "max_entropy": 4.390531959373508
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.476487584290265,
+      "min_entropy": 4.194288439328594,
+      "max_entropy": 6.226752135622398
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 6.959424340511376,
+      "min_entropy": 5.869514485235257,
+      "max_entropy": 7.646222081729911
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.29598047622451,
+      "min_entropy": 7.559838306309969,
+      "max_entropy": 8.916831007190503
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 9.458770956388511,
+      "min_entropy": 9.041015667148773,
+      "max_entropy": 9.800521427946752
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.414122580920129,
+      "min_entropy": 10.414122580920129,
+      "max_entropy": 10.414122580920129
+    }
+  },
+  "entropy": {
+    "mean": 6.148955669658093,
+    "min": 1.7057821697736415,
+    "max": 10.414122580920129
+  }
+}

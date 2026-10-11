@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "126756.Blueprint.IHECRE00000004.3.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "126758.Blueprint.IHECRE00000004.3.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "126760.Blueprint.IHECRE00000004.3.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "126752.Blueprint.IHECRE00000004.3.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "126754.Blueprint.IHECRE00000004.3.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "126750.Blueprint.IHECRE00000004.3.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "126765.Blueprint.IHECRE00000004.3.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.1306015563837017,
+      "min_entropy": 1.771574188854913,
+      "max_entropy": 2.299919180112803
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.086266935017521,
+      "min_entropy": 3.7080712768521087,
+      "max_entropy": 4.4746934899150625
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 5.882888248474126,
+      "min_entropy": 5.367547613977775,
+      "max_entropy": 6.23595642338437
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 7.524824367264022,
+      "min_entropy": 7.06609193959535,
+      "max_entropy": 7.856753362030603
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 8.962261642737014,
+      "min_entropy": 8.57581314430725,
+      "max_entropy": 9.316976761574882
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 10.10857185543606,
+      "min_entropy": 9.94643032511614,
+      "max_entropy": 10.319274134049632
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 10.941466176449067,
+      "min_entropy": 10.941466176449067,
+      "max_entropy": 10.941466176449067
+    }
+  },
+  "entropy": {
+    "mean": 6.613423005849351,
+    "min": 1.771574188854913,
+    "max": 10.941466176449067
+  }
+}

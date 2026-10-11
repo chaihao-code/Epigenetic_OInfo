@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.682476123157567,
+      "min_entropy": 1.2403215332718744,
+      "max_entropy": 2.094024110608672
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 3.2281253156482665,
+      "min_entropy": 2.1948019516019963,
+      "max_entropy": 4.040983411720791
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 4.591428754207617,
+      "min_entropy": 3.325480947305758,
+      "max_entropy": 5.644511750742255
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 5.717178462714489,
+      "min_entropy": 4.771317827722177,
+      "max_entropy": 6.49148909998824
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 6.600955772736933,
+      "min_entropy": 5.778120753233646,
+      "max_entropy": 7.146258187408327
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 7.293112797172999,
+      "min_entropy": 6.784147236502147,
+      "max_entropy": 7.561360998756162
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 7.8412417843071225,
+      "min_entropy": 7.8412417843071225,
+      "max_entropy": 7.8412417843071225
+    }
+  },
+  "entropy": {
+    "mean": 5.022695430511687,
+    "min": 1.2403215332718744,
+    "max": 7.8412417843071225
+  }
+}

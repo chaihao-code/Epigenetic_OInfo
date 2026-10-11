@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128559.Blueprint.IHECRE00000284.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128561.Blueprint.IHECRE00000284.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128557.Blueprint.IHECRE00000284.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128572.Blueprint.IHECRE00000284.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.2898173614044253,
+      "min_entropy": 2.207139389444709,
+      "max_entropy": 2.3119917092593076
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.451077580874797,
+      "min_entropy": 4.163024117464736,
+      "max_entropy": 4.600952477750518
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.493255079424946,
+      "min_entropy": 6.082719448985098,
+      "max_entropy": 6.816719977947772
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.436155043645414,
+      "min_entropy": 7.997950888198506,
+      "max_entropy": 8.71907857089307
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 10.291378550983092,
+      "min_entropy": 9.893875678975526,
+      "max_entropy": 10.526563758257174
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 12.03433582116045,
+      "min_entropy": 11.618403277912137,
+      "max_entropy": 12.170749225654653
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.571226707834018,
+      "min_entropy": 13.571226707834018,
+      "max_entropy": 13.571226707834018
+    }
+  },
+  "entropy": {
+    "mean": 7.448513638285562,
+    "min": 2.207139389444709,
+    "max": 13.571226707834018
+  }
+}

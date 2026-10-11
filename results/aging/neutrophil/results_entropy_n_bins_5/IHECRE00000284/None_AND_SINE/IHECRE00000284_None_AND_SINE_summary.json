@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "128559.Blueprint.IHECRE00000284.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "128561.Blueprint.IHECRE00000284.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "128557.Blueprint.IHECRE00000284.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "128572.Blueprint.IHECRE00000284.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 2.259288690998947,
+      "min_entropy": 2.1566959222398654,
+      "max_entropy": 2.3138760907925535
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 4.344233424166229,
+      "min_entropy": 3.944886980451241,
+      "max_entropy": 4.586740299669868
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 6.3055687110505065,
+      "min_entropy": 5.602181411699271,
+      "max_entropy": 6.75650614850042
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 8.18400440911552,
+      "min_entropy": 7.3594771031662,
+      "max_entropy": 8.756427269370576
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 9.99543482764931,
+      "min_entropy": 9.31490150774524,
+      "max_entropy": 10.53322122751121
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 11.719677361483491,
+      "min_entropy": 11.246960172632104,
+      "max_entropy": 12.069789814116916
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 13.278438821791898,
+      "min_entropy": 13.278438821791898,
+      "max_entropy": 13.278438821791898
+    }
+  },
+  "entropy": {
+    "mean": 7.239364517189812,
+    "min": 2.1566959222398654,
+    "max": 13.278438821791898
+  }
+}

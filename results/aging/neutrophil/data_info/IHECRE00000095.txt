@@ -1,0 +1,7 @@
+/lustre/home/2101110354/sequence_entropy/data/aging/neutrophil/input_normed_binned_results/127408.Blueprint.IHECRE00000095.3.H3K4me1.pval_signal.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/neutrophil/input_normed_binned_results/127410.Blueprint.IHECRE00000095.3.H3K4me3.pval_signal.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/neutrophil/input_normed_binned_results/127412.Blueprint.IHECRE00000095.3.H3K9me3.pval_signal.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/neutrophil/input_normed_binned_results/127404.Blueprint.IHECRE00000095.3.H3K27me3.pval_signal.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/neutrophil/input_normed_binned_results/127406.Blueprint.IHECRE00000095.3.H3K36me3.pval_signal.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/neutrophil/input_normed_binned_results/127402.Blueprint.IHECRE00000095.3.H3K27ac.pval_signal.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/neutrophil/input_normed_binned_results/127417.Blueprint.IHECRE00000095.3.WGB-Seq.methylation.bin1000.step1000.bp

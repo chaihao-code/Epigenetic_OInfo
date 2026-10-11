@@ -1,0 +1,62 @@
+{
+  "feature_names": [
+    "129145.Blueprint.IHECRE00000353.2.H3K4me1.pval_signal.bin1000.step1000.divInput",
+    "129147.Blueprint.IHECRE00000353.2.H3K4me3.pval_signal.bin1000.step1000.divInput",
+    "129149.Blueprint.IHECRE00000353.2.H3K9me3.pval_signal.bin1000.step1000.divInput",
+    "129141.Blueprint.IHECRE00000353.2.H3K27me3.pval_signal.bin1000.step1000.divInput",
+    "129143.Blueprint.IHECRE00000353.2.H3K36me3.pval_signal.bin1000.step1000.divInput",
+    "129139.Blueprint.IHECRE00000353.2.H3K27ac.pval_signal.bin1000.step1000.divInput",
+    "129154.Blueprint.IHECRE00000353.2.WGB-Seq.methylation.bin1000.step1000"
+  ],
+  "n_features": 7,
+  "total_records": 127,
+  "subsets_by_order": {
+    "order_1": {
+      "n_subsets": 7,
+      "mean_entropy": 1.3413481467345607,
+      "min_entropy": 0.5879548939218117,
+      "max_entropy": 2.174589643760341
+    },
+    "order_2": {
+      "n_subsets": 21,
+      "mean_entropy": 2.587193354033389,
+      "min_entropy": 1.042826536092929,
+      "max_entropy": 4.035405749395582
+    },
+    "order_3": {
+      "n_subsets": 35,
+      "mean_entropy": 3.7286870599430064,
+      "min_entropy": 1.600224760629274,
+      "max_entropy": 5.410078011680577
+    },
+    "order_4": {
+      "n_subsets": 35,
+      "mean_entropy": 4.770880969202411,
+      "min_entropy": 2.7401938914244592,
+      "max_entropy": 6.3690221863407235
+    },
+    "order_5": {
+      "n_subsets": 21,
+      "mean_entropy": 5.717372660081263,
+      "min_entropy": 4.362982318812807,
+      "max_entropy": 6.89672815095623
+    },
+    "order_6": {
+      "n_subsets": 7,
+      "mean_entropy": 6.573584486957053,
+      "min_entropy": 5.859246410731771,
+      "max_entropy": 7.181315279773845
+    },
+    "order_7": {
+      "n_subsets": 1,
+      "mean_entropy": 7.349934778921,
+      "min_entropy": 7.349934778921,
+      "max_entropy": 7.349934778921
+    }
+  },
+  "entropy": {
+    "mean": 4.209726224655587,
+    "min": 0.5879548939218117,
+    "max": 7.349934778921
+  }
+}
