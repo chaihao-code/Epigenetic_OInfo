@@ -1,0 +1,459 @@
+{
+  "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_development/synergistic_triplets/all_triplets_fdr_10000.tsv.gz",
+  "source_sha256": "20b8682b4eab93795dcfc8a3147fee30f85ba775bb095dfe22907881fad878f1",
+  "source_rows": 114800,
+  "signals": [
+    "ATAC",
+    "H3K4me1",
+    "H3K4me3",
+    "H3K27ac",
+    "H3K9me3",
+    "H3K27me3",
+    "CpG_methyl"
+  ],
+  "n_signals": 7,
+  "H3K36me3_included": false,
+  "n_blocks": 40,
+  "blocks": [
+    "None_AND_CpG_island",
+    "None_AND_LINE",
+    "None_AND_LTR",
+    "None_AND_None",
+    "None_AND_SINE",
+    "distal_ctcf_bound_enhancer_purified_bins_AND_CpG_island",
+    "distal_ctcf_bound_enhancer_purified_bins_AND_LINE",
+    "distal_ctcf_bound_enhancer_purified_bins_AND_LTR",
+    "distal_ctcf_bound_enhancer_purified_bins_AND_None",
+    "distal_ctcf_bound_enhancer_purified_bins_AND_SINE",
+    "distal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island",
+    "distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE",
+    "distal_not_ctcf_bound_enhancer_purified_bins_AND_LTR",
+    "distal_not_ctcf_bound_enhancer_purified_bins_AND_None",
+    "distal_not_ctcf_bound_enhancer_purified_bins_AND_SINE",
+    "exon_purified_bins_AND_CpG_island",
+    "exon_purified_bins_AND_LINE",
+    "exon_purified_bins_AND_LTR",
+    "exon_purified_bins_AND_None",
+    "exon_purified_bins_AND_SINE",
+    "intron_purified_bins_AND_CpG_island",
+    "intron_purified_bins_AND_LINE",
+    "intron_purified_bins_AND_LTR",
+    "intron_purified_bins_AND_None",
+    "intron_purified_bins_AND_SINE",
+    "promoter_AND_CpG_island",
+    "promoter_AND_LINE",
+    "promoter_AND_LTR",
+    "promoter_AND_None",
+    "promoter_AND_SINE",
+    "proximal_ctcf_bound_enhancer_purified_bins_AND_CpG_island",
+    "proximal_ctcf_bound_enhancer_purified_bins_AND_LINE",
+    "proximal_ctcf_bound_enhancer_purified_bins_AND_LTR",
+    "proximal_ctcf_bound_enhancer_purified_bins_AND_None",
+    "proximal_ctcf_bound_enhancer_purified_bins_AND_SINE",
+    "proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island",
+    "proximal_not_ctcf_bound_enhancer_purified_bins_AND_LINE",
+    "proximal_not_ctcf_bound_enhancer_purified_bins_AND_LTR",
+    "proximal_not_ctcf_bound_enhancer_purified_bins_AND_None",
+    "proximal_not_ctcf_bound_enhancer_purified_bins_AND_SINE"
+  ],
+  "n_samples": 82,
+  "n_stages": 17,
+  "stages": [
+    "zygote",
+    "2cell",
+    "4cell",
+    "8cell",
+    "morula",
+    "ICM",
+    "TE",
+    "E6.5",
+    "E7.0",
+    "E7.5",
+    "E11.5",
+    "E12.5",
+    "E13.5",
+    "E14.5",
+    "E15.5",
+    "E16.5",
+    "P0"
+  ],
+  "samples_per_stage": {
+    "zygote": 1,
+    "2cell": 1,
+    "4cell": 1,
+    "8cell": 1,
+    "morula": 1,
+    "ICM": 1,
+    "TE": 1,
+    "E6.5": 2,
+    "E7.0": 3,
+    "E7.5": 4,
+    "E11.5": 8,
+    "E12.5": 8,
+    "E13.5": 8,
+    "E14.5": 12,
+    "E15.5": 12,
+    "E16.5": 9,
+    "P0": 9
+  },
+  "sample_selection": "All available samples per stage; ICM and TE separate; gastrulation included",
+  "criterion": "observed_hoi < 0 and q_down_sample_block_bh <= 0.05",
+  "BH_family": "35 triplets separately within each sample x genomic block",
+  "n_permutations": 10000,
+  "n_complete_test_families": 3280,
+  "BH35_recomputed_and_matched": true,
+  "max_abs_BH_q_error": 0.0,
+  "counting": "For each sample and mark, sum significant triplets containing that mark across all 40 blocks; the same combination in different blocks counts separately",
+  "normalization": "None; raw occurrence counts per sample",
+  "aggregation": "Arithmetic mean across available samples/tissues at each stage",
+  "error_bars": "SEM from sample SD (ddof=1); one-sample SEM=0",
+  "zero_samples_included": true,
+  "mass_balance_mark_counts_equal_three_times_triplet_count": true,
+  "preserved_total_count_table": "/lustre/home/2101110354/sequence_entropy/project/mouse_development/synergistic_triplets/total_synergistic_triplet_count_by_stage.tsv",
+  "preserved_total_count_sha256": "5f4595eed33cd17a8f3fc1b7df46a09a1ae01f4c6cf86579754b1236e499c9f0",
+  "stage_mean_totals_match_preserved_ABC_counts": true,
+  "n_sample_rows": 574,
+  "n_summary_rows": 119,
+  "no_permutations_rerun": true,
+  "figure_size_cm": [
+    8.5,
+    5
+  ],
+  "font_size_pt": 8,
+  "title_font_size_pt": 8,
+  "palette": {
+    "ATAC": "#F2BD61",
+    "H3K4me1": "#EBA16C",
+    "H3K4me3": "#E58078",
+    "H3K27ac": "#D888AA",
+    "H3K9me3": "#9B8ACB",
+    "H3K27me3": "#53B5B3",
+    "CpG_methyl": "#69A9D3"
+  },
+  "palette_source": "/lustre/home/2101110354/sequence_entropy/project/H3K36me3_triplet_robustness/redundancy_core/inputs/analysis_manifest.json",
+  "x_spacing": "Early categorical positions 0-9; E11.5 at 11; later one unit/day, P0=19.5 days",
+  "ICM_TE": "Separate stages",
+  "gastrulation": "E6.5, E7.0 and E7.5 included",
+  "legend_columns": 4,
+  "stage_label_rotation_deg": 90,
+  "validation": {
+    "text_bounds_checked": true,
+    "stage_labels_do_not_overlap": true,
+    "legend_clear_of_stage_labels": true,
+    "all_marks_same_line_weight": true
+  },
+  "text": [
+    {
+      "text": "Zygote",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        1.4758292359815504,
+        0.7093055555555554,
+        0.26485894097222257,
+        0.8466666666666667
+      ]
+    },
+    {
+      "text": "2-cell",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        1.8181177931954813,
+        0.8955722222222222,
+        0.26485894097222207,
+        0.6604
+      ]
+    },
+    {
+      "text": "4-cell",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        2.1604063504094113,
+        0.8955722222222222,
+        0.2648589409722223,
+        0.6604
+      ]
+    },
+    {
+      "text": "8-cell",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        2.5026949076233413,
+        0.8955722222222222,
+        0.26485894097222257,
+        0.6604
+      ]
+    },
+    {
+      "text": "Morula",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        2.8449834648372723,
+        0.7177722222222221,
+        0.26485894097222257,
+        0.8382000000000001
+      ]
+    },
+    {
+      "text": "ICM",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        3.1872720220512027,
+        1.047972222222222,
+        0.26485894097222257,
+        0.508
+      ]
+    },
+    {
+      "text": "TE",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        3.5295605792651332,
+        1.2003722222222222,
+        0.26485894097222257,
+        0.3556
+      ]
+    },
+    {
+      "text": "E6.5",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        3.8718491364790633,
+        0.9887055555555556,
+        0.26485894097222257,
+        0.5672666666666667
+      ]
+    },
+    {
+      "text": "E7.0",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        4.214137693692993,
+        0.9887055555555556,
+        0.26485894097222207,
+        0.5672666666666667
+      ]
+    },
+    {
+      "text": "E7.5",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        4.556426250906924,
+        0.9887055555555556,
+        0.26485894097222157,
+        0.5672666666666667
+      ]
+    },
+    {
+      "text": "E11.5",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        5.241003365334785,
+        0.8572076388888887,
+        0.26485894097222157,
+        0.6987645833333332
+      ]
+    },
+    {
+      "text": "E12.5",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        5.583291922548716,
+        0.8363055555555555,
+        0.26485894097222157,
+        0.7196666666666667
+      ]
+    },
+    {
+      "text": "E13.5",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        5.925580479762646,
+        0.8363055555555555,
+        0.26485894097222157,
+        0.7196666666666667
+      ]
+    },
+    {
+      "text": "E14.5",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        6.267869036976577,
+        0.8363055555555555,
+        0.26485894097222157,
+        0.7196666666666667
+      ]
+    },
+    {
+      "text": "E15.5",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        6.610157594190507,
+        0.8363055555555555,
+        0.26485894097222157,
+        0.7196666666666667
+      ]
+    },
+    {
+      "text": "E16.5",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        6.952446151404438,
+        0.8363055555555555,
+        0.26485894097222157,
+        0.7196666666666667
+      ]
+    },
+    {
+      "text": "P0",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        7.9793118230462285,
+        1.2173055555555554,
+        0.26485894097222157,
+        0.33866666666666667
+      ]
+    },
+    {
+      "text": "Mean count\nper sample",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        0.08388723958333327,
+        2.3803333333333327,
+        0.6143294270833335,
+        1.4393333333333334
+      ]
+    },
+    {
+      "text": "0",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        1.0735722222222222,
+        1.5878738064236109,
+        0.1524,
+        0.2648589409722223
+      ]
+    },
+    {
+      "text": "50",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        0.9211722222222221,
+        2.22405789255488,
+        0.3048,
+        0.26485894097222207
+      ]
+    },
+    {
+      "text": "100",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        0.7687722222222221,
+        2.8602419786861493,
+        0.4572,
+        0.26485894097222207
+      ]
+    },
+    {
+      "text": "150",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        0.7687722222222221,
+        3.4964260648174186,
+        0.4572,
+        0.26485894097222207
+      ]
+    },
+    {
+      "text": "200",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        0.7687722222222221,
+        4.132610150948687,
+        0.4572,
+        0.26485894097222207
+      ]
+    },
+    {
+      "text": "Synergistic triplets containing each signal",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        2.3327,
+        4.531717664930555,
+        5.0546,
+        0.26485894097222257
+      ]
+    },
+    {
+      "text": "ATAC",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        0.7949385416666658,
+        0.3571922743055556,
+        0.7032625,
+        0.2648589409722223
+      ]
+    },
+    {
+      "text": "H3K4me1",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        0.7949385416666658,
+        0.05,
+        1.2276666666666667,
+        0.26485894097222223
+      ]
+    },
+    {
+      "text": "H3K4me3",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        2.4600496527777773,
+        0.3571922743055556,
+        1.2276666666666667,
+        0.2648589409722223
+      ]
+    },
+    {
+      "text": "H3K27ac",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        2.4600496527777773,
+        0.05,
+        1.143,
+        0.26485894097222223
+      ]
+    },
+    {
+      "text": "H3K9me3",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        4.125160763888888,
+        0.3571922743055556,
+        1.2276666666666671,
+        0.2648589409722223
+      ]
+    },
+    {
+      "text": "H3K27me3",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        4.125160763888888,
+        0.05,
+        1.3800666666666672,
+        0.26485894097222223
+      ]
+    },
+    {
+      "text": "DNA methylation",
+      "font_pt": 8.0,
+      "bbox_cm": [
+        5.942671874999999,
+        0.3571922743055556,
+        2.058722916666667,
+        0.2648589409722223
+      ]
+    }
+  ],
+  "legend_rows": 2,
+  "y_axis_label": "Mean count\nper sample"
+}

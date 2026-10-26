@@ -1,0 +1,990 @@
+{
+  ".gitignore": {
+    "bytes": 231,
+    "sha256": "e7098a681859850fe517e4aad060ce25de6aaf2fb6f67117a52effecd7a9270e"
+  },
+  "README.md": {
+    "bytes": 1280,
+    "sha256": "b7f3193da876dab45393e448d93595c89fb9104e48a5d2dcb3f918bafed99d8a"
+  },
+  "UPLOAD_NOTES.md": {
+    "bytes": 3678,
+    "sha256": "97dd1f97b2e30adbe27a161df09fe5b5fd571c56d903b21d1643ff165d0caf67"
+  },
+  "data/input_files/2cell.txt": {
+    "bytes": 828,
+    "sha256": "4435d690f8298f41930b57f0b3f7545541ec24fa692255f728d8b958e80fe8a4"
+  },
+  "data/input_files/4cell.txt": {
+    "bytes": 828,
+    "sha256": "f8f27978071c4e65c72bde1426a452552585121dfd1d5da9c7b332b084c6bc18"
+  },
+  "data/input_files/8cell.txt": {
+    "bytes": 828,
+    "sha256": "4b78faa10203da68de264af382698ff2a6b1855c05d5b7208505b6a846975b30"
+  },
+  "data/input_files/E11.5_Embryonic_Facial_Prominence.txt": {
+    "bytes": 977,
+    "sha256": "a6766c2fadc57aa60fe57dadadb852928cf968581bc0fa2ecfd0e5a082e453d1"
+  },
+  "data/input_files/E11.5_Forebrain.txt": {
+    "bytes": 851,
+    "sha256": "6573638f81ec64eeb71795919365723b951f421b5ba211be3b0cbb21eb3db74e"
+  },
+  "data/input_files/E11.5_Heart.txt": {
+    "bytes": 823,
+    "sha256": "d840ccdb60a15cab69abfc68749ce952df37e0093900abd698a215311f41d210"
+  },
+  "data/input_files/E11.5_Hindbrain.txt": {
+    "bytes": 851,
+    "sha256": "23a6b223a9d8b9662e6162425a98c78a66d75fa7faa2ffd51f6ab8c2dfb1ebf2"
+  },
+  "data/input_files/E11.5_Limb.txt": {
+    "bytes": 816,
+    "sha256": "cb1355d3116f15534309ba838bf9f7110bbbeb17cb3377410a93a70d5633d3eb"
+  },
+  "data/input_files/E11.5_Liver.txt": {
+    "bytes": 823,
+    "sha256": "ce0e52b631d4683b71ff8d970dff3b146b5f5348601b4c2adbe7e45d769fe7c3"
+  },
+  "data/input_files/E11.5_Midbrain.txt": {
+    "bytes": 844,
+    "sha256": "3b0d36c4087632a2398bd54d0117ae769a34a3ecb990a35e795ee640e056b1d9"
+  },
+  "data/input_files/E11.5_Neural_Tube.txt": {
+    "bytes": 865,
+    "sha256": "6c1ca46117358b4db9f8fbc08e7698784d6337a600a849e0c37b455c3673ff2b"
+  },
+  "data/input_files/E12.5_Embryonic_Facial_Prominence.txt": {
+    "bytes": 977,
+    "sha256": "b306adb8e4e651b9a62954abcdae6ea02a7704b508fe37b6f3524907f4e858d1"
+  },
+  "data/input_files/E12.5_Forebrain.txt": {
+    "bytes": 851,
+    "sha256": "5d9a0cd5464563662be5d53bbb245697e2f8a46a3959ae39e538672829861307"
+  },
+  "data/input_files/E12.5_Heart.txt": {
+    "bytes": 823,
+    "sha256": "b310a644f6db4c627c2175bddc6b128bc2885459a4e12c5b283b6a89af3c623d"
+  },
+  "data/input_files/E12.5_Hindbrain.txt": {
+    "bytes": 851,
+    "sha256": "29316bf80300146f40e6f6be1efc69dca6e8621eb92b7a07398828bbf7254b45"
+  },
+  "data/input_files/E12.5_Limb.txt": {
+    "bytes": 816,
+    "sha256": "7535df709aeaf1615747b2db1fab42cd5f9fa78d2af23bd16a2c90c6b7d92ed4"
+  },
+  "data/input_files/E12.5_Liver.txt": {
+    "bytes": 823,
+    "sha256": "a1954ed7af9070f6cdae77886a9d922d314fe35d4f0019ff352fe31e23b2449b"
+  },
+  "data/input_files/E12.5_Midbrain.txt": {
+    "bytes": 844,
+    "sha256": "c976bc8ad8364fbb1f5b31af4935021d2bb2182e28f72978a55e855a7f378e4a"
+  },
+  "data/input_files/E12.5_Neural_Tube.txt": {
+    "bytes": 865,
+    "sha256": "6b4b56a627c4235cd5894a05aa35e89d83ecdee8fb35c639488f3aeb198bb375"
+  },
+  "data/input_files/E13.5_Embryonic_Facial_Prominence.txt": {
+    "bytes": 977,
+    "sha256": "03a548ae82e42cab7e7333ff9a9b177a4518a402f6b7b04d93e9b68812af01df"
+  },
+  "data/input_files/E13.5_Forebrain.txt": {
+    "bytes": 851,
+    "sha256": "06b632ee93878a88d6345b3e2b3021db7dba01dd7594a27f9db4bafd30ceb541"
+  },
+  "data/input_files/E13.5_Heart.txt": {
+    "bytes": 823,
+    "sha256": "d7493bded8a93f87ed98c22a346887df546c722bdfd5b2342e1efbf68f3450f4"
+  },
+  "data/input_files/E13.5_Hindbrain.txt": {
+    "bytes": 851,
+    "sha256": "2423c1e77dd516f7309cfecb1f340cedb538796ccbf155bc36135faf68bccdff"
+  },
+  "data/input_files/E13.5_Limb.txt": {
+    "bytes": 816,
+    "sha256": "04759990dc8a9bd6b05b49737568bc1471ec735ea3902a906d90057a08346b7a"
+  },
+  "data/input_files/E13.5_Liver.txt": {
+    "bytes": 823,
+    "sha256": "75ade5384f74a9fe3f45dbe8f1286f3488854524374b6ffbd56581254a173131"
+  },
+  "data/input_files/E13.5_Midbrain.txt": {
+    "bytes": 844,
+    "sha256": "644b73e7c93146c76aae3cf1a1f20d1c7de3985286b1347f868b12edc762e436"
+  },
+  "data/input_files/E13.5_Neural_Tube.txt": {
+    "bytes": 865,
+    "sha256": "944219ba09e6e2fbf26956d8c2a3d7af613d8c5f560b30a079e7addf7a4e0e76"
+  },
+  "data/input_files/E14.5_Embryonic_Facial_Prominence.txt": {
+    "bytes": 977,
+    "sha256": "03f2efbbc8ed4b35e1c2ad6922df372af53e418e52ba1c9288cd6b99df5aad8f"
+  },
+  "data/input_files/E14.5_Forebrain.txt": {
+    "bytes": 851,
+    "sha256": "534d08023a6225a2eba96ef8ac751aaf95f97c1b9175e7d3fea78a0c18a51625"
+  },
+  "data/input_files/E14.5_Heart.txt": {
+    "bytes": 823,
+    "sha256": "cd112e3163abfbb630cbee8b459f9b4f956cc46bf6f5c3ad586601678c0a35bf"
+  },
+  "data/input_files/E14.5_Hindbrain.txt": {
+    "bytes": 851,
+    "sha256": "8c8f5d4f35d7c487e8243d5330cd1f6b0e5c6a43579bf9e05e65c57498f61024"
+  },
+  "data/input_files/E14.5_Intestine.txt": {
+    "bytes": 851,
+    "sha256": "322110c694ac570562b91091ab55185936dc1110c396ca1331985dc402c9fff9"
+  },
+  "data/input_files/E14.5_Kidney.txt": {
+    "bytes": 830,
+    "sha256": "5d6f9ec2dc7d5029d94e6bcfcd5d6b202c8bb57325a438c305d219a19f619421"
+  },
+  "data/input_files/E14.5_Limb.txt": {
+    "bytes": 816,
+    "sha256": "7a0ed3c1064d23ec839651bc9fafbefc1e44ff09d6f9d0729dab628aa9b276de"
+  },
+  "data/input_files/E14.5_Liver.txt": {
+    "bytes": 823,
+    "sha256": "4288aeb1daf9a238cab9b99c127c43aa9435a9aa9c51cf5f3828be162e01b446"
+  },
+  "data/input_files/E14.5_Lung.txt": {
+    "bytes": 816,
+    "sha256": "b65fdf4da436b1b3977f30ec4a7224fc2e15478a3e0cb8575ae0b214242dfb62"
+  },
+  "data/input_files/E14.5_Midbrain.txt": {
+    "bytes": 844,
+    "sha256": "e671d411678930b5836b02adabaf74b360f82984e0c1cf729e2c85f40f4109fd"
+  },
+  "data/input_files/E14.5_Neural_Tube.txt": {
+    "bytes": 865,
+    "sha256": "c6d7ed5c17de37e2437935cf181450016509fd6117a903b874763210a782f2a7"
+  },
+  "data/input_files/E14.5_Stomach.txt": {
+    "bytes": 837,
+    "sha256": "6b27f8e42c2477e33d15940fcdc9d6825a0dda25d5ea2d45a506473718a1b9f9"
+  },
+  "data/input_files/E15.5_Embryonic_Facial_Prominence.txt": {
+    "bytes": 977,
+    "sha256": "83eb5d2353e32307b93de24315d64b105fe2cb41ca6f4fa124b9839f6a321a3b"
+  },
+  "data/input_files/E15.5_Forebrain.txt": {
+    "bytes": 851,
+    "sha256": "8692928b5cf81c7406f4a234cb5829485a01ee496f0584a5fc6e802833e7b64a"
+  },
+  "data/input_files/E15.5_Heart.txt": {
+    "bytes": 823,
+    "sha256": "e2314e14627d63da0f2e50ae792ff9face89e6ceee8eae327040225cedbc7807"
+  },
+  "data/input_files/E15.5_Hindbrain.txt": {
+    "bytes": 851,
+    "sha256": "e7f1cabaf519882009d6f71de1b6f72edb23f2e4ab593bc386390883bd9ff8e3"
+  },
+  "data/input_files/E15.5_Intestine.txt": {
+    "bytes": 851,
+    "sha256": "8a1ad122f63ad7484a8ba286cb925e00150abc426425ad9233de3525d2ebd234"
+  },
+  "data/input_files/E15.5_Kidney.txt": {
+    "bytes": 830,
+    "sha256": "2c01e96d72b79b345db7fa15baedf6a6d9376481ae1020979e530059b2dfc2ae"
+  },
+  "data/input_files/E15.5_Limb.txt": {
+    "bytes": 816,
+    "sha256": "98dba43087c00745e9d70e125fdbfba2173b5f11f0d425d58db1e506a88b40fa"
+  },
+  "data/input_files/E15.5_Liver.txt": {
+    "bytes": 823,
+    "sha256": "b589f73e631872eef87390540fda90a44fa2a63ff402076ef09f4fc4e3f008b1"
+  },
+  "data/input_files/E15.5_Lung.txt": {
+    "bytes": 816,
+    "sha256": "2b5fd615cd80f58b026d7dd9c058991a73e519c5be765a7418cf46b8bfdaf8e6"
+  },
+  "data/input_files/E15.5_Midbrain.txt": {
+    "bytes": 844,
+    "sha256": "e92f7d0d3056a62d713908232f45dfedfb55231b5ae5f79351cd5b4c4d74d03b"
+  },
+  "data/input_files/E15.5_Neural_Tube.txt": {
+    "bytes": 865,
+    "sha256": "8f9733c7f6700e286493c6d4f539d3dfb13efbce10b58d393449a08364e8582c"
+  },
+  "data/input_files/E15.5_Stomach.txt": {
+    "bytes": 837,
+    "sha256": "6aa2a819249781bb3bf1b63cdf4346d1dc00cca7496bbd696e589ac180a0bb3e"
+  },
+  "data/input_files/E16.5_Forebrain.txt": {
+    "bytes": 851,
+    "sha256": "19a8136ac5e3758270e74a6decd2a524c0b26ce5edf1ebe23493ea8da32f201e"
+  },
+  "data/input_files/E16.5_Heart.txt": {
+    "bytes": 823,
+    "sha256": "52ae76ed2db99057e58f54e00e4273126ad9bc9ca559d41a45bfbf45eaf48339"
+  },
+  "data/input_files/E16.5_Hindbrain.txt": {
+    "bytes": 851,
+    "sha256": "52a8b87a00d78eeba8112fa96380c7e6273ba756637834158e76e6f85ecfa08a"
+  },
+  "data/input_files/E16.5_Intestine.txt": {
+    "bytes": 851,
+    "sha256": "ed47ea41fcf16d29d5a1d3abe6ace8af9bd30e44435abbf7229d471afd1dc215"
+  },
+  "data/input_files/E16.5_Kidney.txt": {
+    "bytes": 830,
+    "sha256": "19cbf60d597ee1b48053c104057e0354d00aaae3870570a987a855deb40b63c0"
+  },
+  "data/input_files/E16.5_Liver.txt": {
+    "bytes": 823,
+    "sha256": "ff6d03f48239a278fe7e0ddf37e619227241e99b4f58d6efd6cf37909cb9f9e5"
+  },
+  "data/input_files/E16.5_Lung.txt": {
+    "bytes": 816,
+    "sha256": "1adb36025c9c84764e6c2a86e3e196f816118609c3fd11ac0d3d351a3009e515"
+  },
+  "data/input_files/E16.5_Midbrain.txt": {
+    "bytes": 844,
+    "sha256": "dac208e0ec95a2cfaa50bbe845fef3e2ebe83f8943daebde8dd46b89e618bff8"
+  },
+  "data/input_files/E16.5_Stomach.txt": {
+    "bytes": 837,
+    "sha256": "9c4e8d69aba2ea01db17dc19167171936a080ed36fc537a5fd9485706d32b049"
+  },
+  "data/input_files/E6.5_Epi.txt": {
+    "bytes": 836,
+    "sha256": "ceadf971d91c5e0750afc5b13961e17824b0e70bff4c2b0ce50ed1059ec2b842"
+  },
+  "data/input_files/E6.5_ExE.txt": {
+    "bytes": 836,
+    "sha256": "4a9bc241f71ed0dd56dda7c88c707ce18fe13fbf42b6b20336b9934f88419c46"
+  },
+  "data/input_files/E7.0_A.txt": {
+    "bytes": 824,
+    "sha256": "5b926d6169fd6c2e4cf5b103dd9e616a883f3f804fde950f7d3ca73f83a0c988"
+  },
+  "data/input_files/E7.0_ExE.txt": {
+    "bytes": 836,
+    "sha256": "7fb412609c425a8fcae5f837ff56f765713f845919e9ad45f889b5ee00a50baf"
+  },
+  "data/input_files/E7.0_P.txt": {
+    "bytes": 824,
+    "sha256": "0fd5baa403b3756ff33c6e8a6af2d5c74411b2318a9d36ef45cc02286afccea1"
+  },
+  "data/input_files/E7.5_A.txt": {
+    "bytes": 824,
+    "sha256": "ac0ad3df19fc273e864b87c21883259f3aa2ce1b2ea2fa7edcf863c45a5e6481"
+  },
+  "data/input_files/E7.5_AM.txt": {
+    "bytes": 830,
+    "sha256": "1898acb464ad58afbc5f71307bafb6dd2588e51af784543e915acd2d3ce5cf07"
+  },
+  "data/input_files/E7.5_ExE.txt": {
+    "bytes": 836,
+    "sha256": "4d6269258795b43df62edf41cddef5ec77ce14fd3d3be90a8651b5fa7b16e977"
+  },
+  "data/input_files/E7.5_P.txt": {
+    "bytes": 824,
+    "sha256": "9e12305d5ad9f896f582de0c0991af86bea46d80d1b1d21e5dcd0b628e0ae1c3"
+  },
+  "data/input_files/ICM.txt": {
+    "bytes": 849,
+    "sha256": "0ff772341a91c1ca418681107c5f08c7a763fa1fc1cb115c62a0a12399ec7817"
+  },
+  "data/input_files/P0_Forebrain.txt": {
+    "bytes": 830,
+    "sha256": "52a2e0f285096d953bafcc1dddddac0d97e3add037512d9786dbda169e38f26a"
+  },
+  "data/input_files/P0_Heart.txt": {
+    "bytes": 802,
+    "sha256": "5fe905175097635c484871c456cad300b4575584af6185bfde1a9d48f5cb96c5"
+  },
+  "data/input_files/P0_Hindbrain.txt": {
+    "bytes": 830,
+    "sha256": "1f2e92b4e8158fd707936b3f751bab00a7c25c8b3e85cd2dd6999e253bec2dd9"
+  },
+  "data/input_files/P0_Intestine.txt": {
+    "bytes": 830,
+    "sha256": "3dd96850a1915a66b2d5a1b86b084e3450483a48a1a4a63f1d8dd92a2fef0cb1"
+  },
+  "data/input_files/P0_Kidney.txt": {
+    "bytes": 809,
+    "sha256": "ec46b9aeaf59d918fee8b2e86eba9dd5b2b5bda095be66679798313dbae1baf7"
+  },
+  "data/input_files/P0_Liver.txt": {
+    "bytes": 802,
+    "sha256": "19177dde3d2fabeb85bc4e0bcff1232d47575ec11a44a96e8f3d61547ea02b4f"
+  },
+  "data/input_files/P0_Lung.txt": {
+    "bytes": 795,
+    "sha256": "130314529071cd15087586da23d90def8e325433516c7716b69f2bb1c0922f21"
+  },
+  "data/input_files/P0_Midbrain.txt": {
+    "bytes": 823,
+    "sha256": "4cb0c3db35d15e49cfae30993f13fdfc6bf44acf68232b263f384a81eff51e93"
+  },
+  "data/input_files/P0_Stomach.txt": {
+    "bytes": 816,
+    "sha256": "1b4ea388c40db6f6541f76d7bdb78310b5eed1517e36e88b7589c73df17e9511"
+  },
+  "data/input_files/TE.txt": {
+    "bytes": 847,
+    "sha256": "7aa16092fa7e6450ea72be1ecfc42a03fb79fa0042048a814570247f40a5400a"
+  },
+  "data/input_files/morula.txt": {
+    "bytes": 835,
+    "sha256": "2ba5677bbd93e11d1c5bbd1dbb05cfdecbe25169284d19cfe9fbfd6c5dc8a6dd"
+  },
+  "data/input_files/zygote.txt": {
+    "bytes": 835,
+    "sha256": "e61882262154a411b809c55bd33500fc79bf9226fc744936af37b58c35fe3da5"
+  },
+  "plot_tc_dtc/README_zh.md": {
+    "bytes": 2748,
+    "sha256": "5fdd073114ae233a3f67c711bca6a39fe82f5fa123cce4a3878b30444924c5f7"
+  },
+  "plot_tc_dtc/combined_tc_dtc_trajectories_6x2_n5_validation.json": {
+    "bytes": 26825,
+    "sha256": "921051231a37f73446f6ab3d4cf4c3d24f6b1adbc86a2d79e8f7ab0ed4ba2e71"
+  },
+  "plot_tc_dtc/inputs/mouse_differentiation_tree.txt": {
+    "bytes": 3720,
+    "sha256": "ae92b4dad85eb7bbe0b786c746e4c20b040fc991fc32813afc12a18b80eb71d5"
+  },
+  "plot_tc_dtc/oinfo_overall_values_for_plot.tsv": {
+    "bytes": 58915,
+    "sha256": "f3c3c81c873146337871148fd57fd538057792406b4dc79bf6f83bd9067ffbfe"
+  },
+  "plot_tc_dtc/plot_combined_hoi_trajectories_2x4.py": {
+    "bytes": 17002,
+    "sha256": "82e64447fb6aa116f6254f9c4949cfa81a9c996913c19d9ced98d52a1ff7762f"
+  },
+  "plot_tc_dtc/plot_tc_dtc_stacked_18cm.py": {
+    "bytes": 14087,
+    "sha256": "126e3bbedcb9edea604d500bd588d81ee9aa17d7291328be9f2b8a6fd72e6dff"
+  },
+  "plot_tc_dtc/plot_total_oinfo_trajectories_18cm.py": {
+    "bytes": 8851,
+    "sha256": "1226dc977724e9b8a0686064fece038373b8fdc448670573d131a849d394d224"
+  },
+  "plot_tc_dtc/tc_dtc_missing_inputs.csv": {
+    "bytes": 58857,
+    "sha256": "dd44ea3abeef366b54fdfddf0dfd57ff26c465f4c3177b6edefb748237115a35"
+  },
+  "plot_tc_dtc/tc_dtc_overall_values_for_plot.tsv": {
+    "bytes": 58905,
+    "sha256": "87f4be41882274dfca3c302f4a06c314bc63e60fff4e920ded5ec8f021c07af0"
+  },
+  "redundancy_core/resize_redundancy_core.py": {
+    "bytes": 5474,
+    "sha256": "8ab38ba47a206f87f8aa5a3a98f51e7ddad8e7e6d09256768f79b655e94240e6"
+  },
+  "requirements.txt": {
+    "bytes": 142,
+    "sha256": "34600b7e9fe4179f52743e8e69dfc9895249936d3d99fadbb99bc4bafe001bc6"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/2cell/job.sh": {
+    "bytes": 2032,
+    "sha256": "9163806e17d5a0e338cd59d3b1d2d89a3b94458c2e9744aa920b9f270f37b11f"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/4cell/job.sh": {
+    "bytes": 2032,
+    "sha256": "5c357e2c393a10d31489407fde6c0f8e28fb7e32a1eee1b366ddf71c49e53d22"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/8cell/job.sh": {
+    "bytes": 2032,
+    "sha256": "dee8a45189a66140040dbc26ab6230323ddfb5bbaf42f326e2be0538bfd45291"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E11.5_Embryonic_Facial_Prominence/job.sh": {
+    "bytes": 2144,
+    "sha256": "9321cff9a2337e10396a86915f2fa15dbb464b25c1d31efe35460ac494703425"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E11.5_Forebrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "cd8c2be65d1abe56edfa0cc2b687e0513f2edb06c181c0973ccaf2938c483904"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E11.5_Heart/job.sh": {
+    "bytes": 2056,
+    "sha256": "f2236ea16e364cb98d496c365c140399a935e108254df747b65a7f79b40d5649"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E11.5_Hindbrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "ab0c5ea80396730e8b8da581035827401c1c330bc08d871f4b097e724817c8e0"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E11.5_Limb/job.sh": {
+    "bytes": 2052,
+    "sha256": "3e08a357997e3cbb4b5a3ebdec4873e6df8c1ce54c2d291847f1fcb2c5358080"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E11.5_Liver/job.sh": {
+    "bytes": 2056,
+    "sha256": "3dbf64400fb1a8b0ca21e2579941440d8d9a20d8faaa1040b1fe0b52bf5b9863"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E11.5_Midbrain/job.sh": {
+    "bytes": 2068,
+    "sha256": "8109975f8f08b9ecd6d73fb190df56d1877e78917f5592fe2fcf5a32b0502015"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E11.5_Neural_Tube/job.sh": {
+    "bytes": 2080,
+    "sha256": "ef6fd878420212fc94e0f1d2c5116fb0ec69a37600b9b13c869f2a22afd5dc3d"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E12.5_Embryonic_Facial_Prominence/job.sh": {
+    "bytes": 2144,
+    "sha256": "7a66127d4b800cd80a0d536ffe8b7ad6a28a9770a767fa713202d55d2f143370"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E12.5_Forebrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "1062c907301b05259f6c40b2aa7f4f79e4e3f8f457a63af9fe3b75da28607450"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E12.5_Heart/job.sh": {
+    "bytes": 2056,
+    "sha256": "1173312bd6a2294b3a0636e75e132e584bf4ccbb15fc9f4b839d7a76e9a82988"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E12.5_Hindbrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "a0184611277753d9da783015f0b9368fce2b74dbec4668d3a181ef3e351687a0"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E12.5_Limb/job.sh": {
+    "bytes": 2052,
+    "sha256": "1a884e62622bc34661dd59aa38f13337fba48917b7871856c49fcf5a836f5ebb"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E12.5_Liver/job.sh": {
+    "bytes": 2056,
+    "sha256": "e094288f29bb328ad4ba920207dd620cc5e6eff4f071f84559324414a52630a7"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E12.5_Midbrain/job.sh": {
+    "bytes": 2068,
+    "sha256": "9c1e2b5a76109bda144a3bc63ef0d58eaabfc656e03656849bd7531ab3111f52"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E12.5_Neural_Tube/job.sh": {
+    "bytes": 2080,
+    "sha256": "d1cf046905f604b7a6859a234c5a3f3e3d6cfda7fc15837c0de57e875d4c254e"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E13.5_Embryonic_Facial_Prominence/job.sh": {
+    "bytes": 2144,
+    "sha256": "cfff4ada3c224152800c0d362f9c2be174cdf7c1802e787e6adf7247835aceef"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E13.5_Forebrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "0abbf6dc21240e2d9cc4dc2a68ff5bed423471482b5dddabfc39c3f6bbb1945d"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E13.5_Heart/job.sh": {
+    "bytes": 2056,
+    "sha256": "3e65c06574a3a21abf09a2c0d6ebaa08fff55e82bb0b4bfe8bf8475ecf672650"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E13.5_Hindbrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "98606117ba9d46d16547d3f5a43eb951cac597743bb20deacf06df94de3dfa8c"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E13.5_Limb/job.sh": {
+    "bytes": 2052,
+    "sha256": "19b20e58d6d04278d0f7bb5712327c5ca760bb1b68215ff8ad714d9df568f4b8"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E13.5_Liver/job.sh": {
+    "bytes": 2056,
+    "sha256": "85992bd8e510e2cc0685106199d53a0ce7676795faf41eceb3310b17f0cfb768"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E13.5_Midbrain/job.sh": {
+    "bytes": 2068,
+    "sha256": "d2f051a9bb873be2966f80ee1fc69c6f3d0c6c86e7d4255fd7ff038e8e096225"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E13.5_Neural_Tube/job.sh": {
+    "bytes": 2080,
+    "sha256": "fb16cd7f3608d8a815e1e9899fd5dd5b8d6baa6a2121c1efa65d7125f0edeeaf"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Embryonic_Facial_Prominence/job.sh": {
+    "bytes": 2144,
+    "sha256": "8ab1a051ff141a9a029ced302da119e3be1a92d47d3703cb1663f1a493f61011"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Forebrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "2177ff9b1d6aaaad83832a39abffb5af865ed1bac51ed64273ac3157cb759c47"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Heart/job.sh": {
+    "bytes": 2056,
+    "sha256": "9de525f66b57dc24c7d3374aa166e46fa06831520adf35f1d943a1a4f9ae3f60"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Hindbrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "1efbe96b201b96843976de2531782af17d76d5200f3c789a328286cb69fdefc6"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Intestine/job.sh": {
+    "bytes": 2072,
+    "sha256": "0797ff66c2569a30c2cf0af9ac858ea021a2958894f751df06a58c5dedf53a10"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Kidney/job.sh": {
+    "bytes": 2060,
+    "sha256": "d1ef14a27027dbc2b347676033eb4e0fcbfceb3c6d283d7cdcd6e50f7f117864"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Limb/job.sh": {
+    "bytes": 2052,
+    "sha256": "835960b31c0673dd32c44b08950a6f5f85b586b767ba1817669024f5b501d66c"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Liver/job.sh": {
+    "bytes": 2056,
+    "sha256": "6ed0fc41b5d86469203688bf8ccd87d9651a1d973e8c58fd729c5dfec7f0aa20"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Lung/job.sh": {
+    "bytes": 2052,
+    "sha256": "a790cb068c2dfef0890a4cacc8250eebb811b9f2e4156ec28eeb4cd588fc6c96"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Midbrain/job.sh": {
+    "bytes": 2068,
+    "sha256": "d84721bc6603fdee25c85cb130e06c626f16c787b298b77b4b88bb6afccd15b1"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Neural_Tube/job.sh": {
+    "bytes": 2080,
+    "sha256": "b25fc0d5c1822800734248e279438f54f085cf702c74e4e7639fca43b3160251"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E14.5_Stomach/job.sh": {
+    "bytes": 2064,
+    "sha256": "49e3bc3051f24c11a200df5052cd30a1eeba029fef566d2bc663a929f3c4bf2c"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Embryonic_Facial_Prominence/job.sh": {
+    "bytes": 2144,
+    "sha256": "3694ea2bd950fbf2e43cd7d6e007a97e25513d347ade37be4da5f455f68111ef"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Forebrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "44d9e266829da8c97d6fe22402afbd4701ffa2d6dfa6e8ea613660eb1365e153"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Heart/job.sh": {
+    "bytes": 2056,
+    "sha256": "99de0b725061192c9320956f1b703e2f957e8b94f3e3d082aa0e83d3a2a4d2c3"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Hindbrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "f32a6220a876129c185359a119c8724a5b10ea15c717d46802fe654c321b6686"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Intestine/job.sh": {
+    "bytes": 2072,
+    "sha256": "ac8ccad6089cc95565ae1f4db34f521960f66fea3ab27f56aaa0d3586c7f3b43"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Kidney/job.sh": {
+    "bytes": 2060,
+    "sha256": "bbdb0e964b39eb1f7c416f6a3db21a37ae8d91599a6eb607ee9e5885002f5b15"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Limb/job.sh": {
+    "bytes": 2052,
+    "sha256": "dd5cdf0c7df8457fe981d26d38a2c6ea9688372a0b1721fa9a8a809551246bdf"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Liver/job.sh": {
+    "bytes": 2056,
+    "sha256": "c1bacbe2e7a026e5609250dc3e0ef6bfd87c67f7768c432a5aa43e2436ce0398"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Lung/job.sh": {
+    "bytes": 2052,
+    "sha256": "01c38eb94c7955dedb8bfbf51026590dfb574375f91b2debc7e1c7473da1a051"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Midbrain/job.sh": {
+    "bytes": 2068,
+    "sha256": "541d51984e25fb44c96f91d33704528c82869bf70d5e16ce618cbb0cc3e8c2d9"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Neural_Tube/job.sh": {
+    "bytes": 2080,
+    "sha256": "1a448d52581569694168246999bd743e4294187fd0eadf82fcac48d0ff564156"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E15.5_Stomach/job.sh": {
+    "bytes": 2064,
+    "sha256": "86ffe818ce581647ed308d0b8c0de673f6e5123be2a13ae5f3cfd5cafe14317a"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E16.5_Forebrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "cec1405647c6dfd7697ebfcae0b7587eb861a13e2bb3133ee322d45fd017781f"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E16.5_Heart/job.sh": {
+    "bytes": 2056,
+    "sha256": "dcc408feaff652150363a7defc24e00ab35e7119f563a9c3f3f9130c5674f3e6"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E16.5_Hindbrain/job.sh": {
+    "bytes": 2072,
+    "sha256": "fba191ed49449915f68c5403c6b89cebb6987b7e92197708ed2ade9f127b281a"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E16.5_Intestine/job.sh": {
+    "bytes": 2072,
+    "sha256": "d8b6f3871647d7b9baa40ddc5c17d3d2e34ecd42fe0e2777e50f23fb7059aa5d"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E16.5_Kidney/job.sh": {
+    "bytes": 2060,
+    "sha256": "e38e954c7c0790ff33d46682b58bb6dc9b1f1fe07cfa6361e4df2321c0bfa9b8"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E16.5_Liver/job.sh": {
+    "bytes": 2056,
+    "sha256": "6fc4820559b6bdaf97b0d530a7f3dd156e7b536d8414cfc0dffa81224dbb50f4"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E16.5_Lung/job.sh": {
+    "bytes": 2052,
+    "sha256": "d6942fa576d4767b2f722403163f0f4995137f632b3c4a9fbae2cf7ba7eeaed4"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E16.5_Midbrain/job.sh": {
+    "bytes": 2068,
+    "sha256": "ea037bf6fea4198aa19aba3287e423a41a88954af129b6576f23d22ad45d9a19"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E16.5_Stomach/job.sh": {
+    "bytes": 2064,
+    "sha256": "4215b38aab24052b79403954010dc36bcceda10a3facdc3cf45efaf0d770eace"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E6.5_Epi/job.sh": {
+    "bytes": 2044,
+    "sha256": "c1782568c745915af343d3efa88dcf8912a9787b1e804cc32aa230da0f3827ec"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E6.5_ExE/job.sh": {
+    "bytes": 2044,
+    "sha256": "032f3a8bc6088144cd79911e782052fd8d969716d3e8a91b273053a6cc685f5d"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E7.0_A/job.sh": {
+    "bytes": 2036,
+    "sha256": "0f1273609f5c212b4d15687b5950c8c5ad6a215527f8d91db54b3e2fc76eb7fa"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E7.0_ExE/job.sh": {
+    "bytes": 2044,
+    "sha256": "bce2099a5d4ec3553a0797255fc52bb80cfeab8f98b8125125a6478f07b8b083"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E7.0_P/job.sh": {
+    "bytes": 2036,
+    "sha256": "c3dc254cf75528f61b546887363b75a862e002c2499e226bc9d90028af97c005"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E7.5_A/job.sh": {
+    "bytes": 2036,
+    "sha256": "75ea28e561db329c2a5656f08f647cdc0bcd9ef3d10888972a86864a705d917c"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E7.5_AM/job.sh": {
+    "bytes": 2040,
+    "sha256": "818dee558f8ad9648c244db9337d4d363ba4f7bd8185ffbb32e1d74268906ec7"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E7.5_ExE/job.sh": {
+    "bytes": 2044,
+    "sha256": "f1c8d12f1615ea082e2ef5dfeef67bca3830c2bde4dbbbd8941db7f273165764"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/E7.5_P/job.sh": {
+    "bytes": 2036,
+    "sha256": "1a087115151e58861d9a8e1fe53c64fb33fd85d0c6e0bedccc3eb013f76852a3"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/ICM/job.sh": {
+    "bytes": 2024,
+    "sha256": "64721545169d8808d6e728e8742e96e5fc8efb587fffdaf341a011db40335274"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/P0_Forebrain/job.sh": {
+    "bytes": 2060,
+    "sha256": "197ba209b47b38743d2c0e21077ed7e9b5259e3317a92c70ad2e2f641893d1ff"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/P0_Heart/job.sh": {
+    "bytes": 2044,
+    "sha256": "771f0e5e05ca8ac92f96c30f7be5c4a647367259ee3671cc614ccf14d3fc07d3"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/P0_Hindbrain/job.sh": {
+    "bytes": 2060,
+    "sha256": "154859f1998211b43d260d7228bac923ba1e1dcac10552c0ccda8f51ab6c0216"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/P0_Intestine/job.sh": {
+    "bytes": 2060,
+    "sha256": "759e8e54a49a5842483085f5c7083d04370170cf32e8c3249017bf7fc0cb1e10"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/P0_Kidney/job.sh": {
+    "bytes": 2048,
+    "sha256": "44b8a918cab766ae57cb2effab00fe659ebd24c39f570f36f0b9238574ac6c6c"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/P0_Liver/job.sh": {
+    "bytes": 2044,
+    "sha256": "0b686536959047b1f1bb5de5b873c7ac6948e8573a554e53ccd94b7b13ed51f1"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/P0_Lung/job.sh": {
+    "bytes": 2040,
+    "sha256": "01a330ef0f6f46edb14cb3d4e09e6d8edd522f35ba1dc5080278930a627d0a2d"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/P0_Midbrain/job.sh": {
+    "bytes": 2056,
+    "sha256": "aab41c8f26944e1370f15f08e8922aabf1765a6be40301eba243c4a05ac42d5b"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/P0_Stomach/job.sh": {
+    "bytes": 2052,
+    "sha256": "a669dca748d6f40ff26aefbf08110ce053129a3b0461a66585f94909bc437bfa"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/README.md": {
+    "bytes": 1425,
+    "sha256": "018597e42eee0f310311c84f8c46e0ec0aeb429694b52007106ede7ecb4adbc9"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/TE/job.sh": {
+    "bytes": 2020,
+    "sha256": "06e555502961d8429fe45b0a14efa9d1feaa9ae312c0c9f243bb977599c6c42a"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/code/block_processor.py": {
+    "bytes": 9226,
+    "sha256": "ded46989fa0f52f5756f72a2154bff83ca3b8afd6847b0b21ce452031e62f858"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/code/compute_hoi_oinfo.py": {
+    "bytes": 32437,
+    "sha256": "080df5b00d293c5226e73f838ecc877c6338940fced9a8b80d0f88648fe65b97"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/code/compute_oinfo_from_entropy.py": {
+    "bytes": 9078,
+    "sha256": "059c1d4bc9c3e849d6cbc1117e9053cd4069a1f7e20c07a90605c8f7804b78cc"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/code/correction_utils.py": {
+    "bytes": 1145,
+    "sha256": "e96fc1998813ea532d46fc4046953f3ea568570e3fb68786fe18e3df3f07fec8"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/code/finish_analysis.py": {
+    "bytes": 1175,
+    "sha256": "5788e8cbb620fa1349bf559e8c5c752085c841fecea9ff2d5ad47254a66ec281"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/code/signal_loader.py": {
+    "bytes": 7717,
+    "sha256": "e24f3ac6ce52225eb5cb3611df910b2124f1826763282f13675a9ba659d706bf"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/code/validate_snapshot.py": {
+    "bytes": 3411,
+    "sha256": "b68e2d653df74e8630e504b3e4c4593e4828d5ead569df9a5bf269033d9c46ae"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/code_provenance.json": {
+    "bytes": 2772,
+    "sha256": "9f821ff07859a5015859e161daa3d290a1dcc079b0de8e94df17c80bdfaa15e7"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/input_manifest.tsv": {
+    "bytes": 25029,
+    "sha256": "8687fd5995cac320bc2229123980ff906b748fe004c1154626003984e4edff4b"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/morula/job.sh": {
+    "bytes": 2036,
+    "sha256": "1dd637ed49c9416ec74f7b5afd24a868ddd398151e1d5f65217cbd37789b9a43"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/negative_fdr/analyze.py": {
+    "bytes": 6095,
+    "sha256": "5776e26035f3556361def0cd9fcb7b8e9dc1b554739e3e7c3c13e77457288cbb"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/run_settings.json": {
+    "bytes": 471,
+    "sha256": "bc2b1cd9148dd2af18651fd80fb55b0d5fc7153b73592e236ab855c9799640cb"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/samples.txt": {
+    "bytes": 1112,
+    "sha256": "e113962ffc70e8bf22fb4b1670cdb8a110fda95fa68b48d8dc3e3c29c11daca4"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/submit.py": {
+    "bytes": 3278,
+    "sha256": "b2d2b041162e869679dd685926fbb32fc9ff22e8844745e90be11e549aa8c4a1"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/submit_array.sh": {
+    "bytes": 739,
+    "sha256": "9fe58090cd4ee05c0f3b06a9cbcfa9654489ba8eaf49c71f6a978ea891e1ec27"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/submit_correction.sh": {
+    "bytes": 772,
+    "sha256": "d3e1c6fa898dca1d81d3c7873c57a7cae52dd759aa8c8dc8f45ed07f8ed4e073"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/validation.json": {
+    "bytes": 263,
+    "sha256": "386fa4e7edd0ea279acef0bbd0b71e896838bcb6c31c77708e803cb8f8521fcf"
+  },
+  "result_oinfo_n_bins_5_triplet_perm10000/zygote/job.sh": {
+    "bytes": 2036,
+    "sha256": "98c6339092022cbc3ff8e394125f6c17d58cfde032d99d8e47897dfca54eff48"
+  },
+  "script/analyze_seven_signal_ABC_regions.py": {
+    "bytes": 4598,
+    "sha256": "2aa487b5bc41db7d0fd62c8748784e33be04bc67afa8b7bd9ce91d1bd3e89e0b"
+  },
+  "script/plot_special_triplet_f1.py": {
+    "bytes": 7759,
+    "sha256": "dd87a6ed4846dadce1708a9a40f5eccdf47edd84c61a9c4beed6a20272b3af29"
+  },
+  "script/plot_synergistic_triplet_mark_trajectories.py": {
+    "bytes": 13137,
+    "sha256": "6397004777b2ed2aec4484c7cd0ed79219ed74c75757463201a8b1e837bfc2ca"
+  },
+  "script/plot_triplet_ABC_and_F1_panels.py": {
+    "bytes": 10317,
+    "sha256": "bad4ccbbdc090fb1050220a2ecdcccdbc850abcbcd9114574722044e4816531d"
+  },
+  "script/plot_triplet_ABC_selected_regions.py": {
+    "bytes": 13567,
+    "sha256": "463f58f1e5576cab7edc65d78031f3644eb7537d424f830b465951698fe0a4a2"
+  },
+  "script/plot_triplet_A_B_C_counts_trajectories.py": {
+    "bytes": 8206,
+    "sha256": "6efff482ec4d7839a6df2711e2b367b3eb919d2b588efdb3b4528b2c7aa116c6"
+  },
+  "script/plot_triplet_A_C_D_counts_trajectories.py": {
+    "bytes": 11394,
+    "sha256": "d8d13636bc1faf01a8f1861ab2a60242ee5072c39515ee8b487407e22d0bfd2f"
+  },
+  "script/plot_triplet_counts_corrected_by_stage.py": {
+    "bytes": 24668,
+    "sha256": "7a0a870269193c11adf67e3eacd715bc0e33b553a7df427373e75a1629276f5b"
+  },
+  "script/recalculate_triplet_fdr.py": {
+    "bytes": 5691,
+    "sha256": "e35130400c6b73a6c357bb7f489d49bde19f8f7d2d4867e9bb99ce864c9ac13a"
+  },
+  "script/submit_entropy_computation.sh": {
+    "bytes": 6234,
+    "sha256": "005ff7fd176be6f6fab6e9a4d2a7407de4c3bacdc18d1dff4537f0c372f08c94"
+  },
+  "shared/hoi_code/SOURCE_MANIFEST.json": {
+    "bytes": 1451,
+    "sha256": "10e7cc8305c8efdce65d7938b1e7e1ad3d7f6f836a8be1123667e31e2cb254cc"
+  },
+  "shared/hoi_code/block_processor.py": {
+    "bytes": 9226,
+    "sha256": "ded46989fa0f52f5756f72a2154bff83ca3b8afd6847b0b21ce452031e62f858"
+  },
+  "shared/hoi_code/compute_hoi_entropy.py": {
+    "bytes": 29977,
+    "sha256": "307231762a527da6d06464debea6cb72c742b2cd4c1bc324d14bd0f3254cf2ae"
+  },
+  "shared/hoi_code/compute_hoi_oinfo.py": {
+    "bytes": 31951,
+    "sha256": "0a30c1c5a2843e165098b50120cff1df866231f3826fe3bed918fcf4075cb872"
+  },
+  "shared/hoi_code/compute_oinfo_from_entropy.py": {
+    "bytes": 9078,
+    "sha256": "059c1d4bc9c3e849d6cbc1117e9053cd4069a1f7e20c07a90605c8f7804b78cc"
+  },
+  "shared/hoi_code/compute_redundancy_core.py": {
+    "bytes": 10558,
+    "sha256": "91d4cc6165acc77260ae27bd4b8b1f7a9975e4946a6b09670809be8343d7abde"
+  },
+  "shared/hoi_code/compute_signal_correlation.py": {
+    "bytes": 8531,
+    "sha256": "06221f66f2ca9820477816626b84b6538c9b3f483c3b916de56655ef1c3c263d"
+  },
+  "shared/hoi_code/convert_entropy_to_mi.py": {
+    "bytes": 5589,
+    "sha256": "ff57109f57ad25f0e6a80e417458b26b6cc92b3133422ea31b63c4cfdd9faa15"
+  },
+  "shared/hoi_code/signal_loader.py": {
+    "bytes": 7717,
+    "sha256": "e24f3ac6ce52225eb5cb3611df910b2124f1826763282f13675a9ba659d706bf"
+  },
+  "synergistic_triplets/README.md": {
+    "bytes": 8646,
+    "sha256": "bc2ca5d1f2a11ac556df820551da938c5940f0083f66ccf807f2033f11834d63"
+  },
+  "synergistic_triplets/all_triplets_fdr_10000.tsv.gz": {
+    "bytes": 6771856,
+    "sha256": "20b8682b4eab93795dcfc8a3147fee30f85ba775bb095dfe22907881fad878f1"
+  },
+  "synergistic_triplets/analysis_metadata.json": {
+    "bytes": 466,
+    "sha256": "729d824c4661beb665d6f88a47e45db770d2df7ade545c2999d0e34fd7260875"
+  },
+  "synergistic_triplets/deleted_runs.json": {
+    "bytes": 618,
+    "sha256": "b4a993b7b921ce06129d03e2d83c27d32e8056a8a4cb4a0100162947de25cdb8"
+  },
+  "synergistic_triplets/f1_by_sample_block.tsv": {
+    "bytes": 271585,
+    "sha256": "89c6031b52add4b160db33e5b09b1148033e25e23794a22fbe66c02f7475f0bb"
+  },
+  "synergistic_triplets/f1_by_stage_block.tsv": {
+    "bytes": 38079,
+    "sha256": "541ee258e1e8b60abe40850ae2a2fb80cc088dea837cb8fcd8b191b1c111ca2c"
+  },
+  "synergistic_triplets/input_snapshot.tsv": {
+    "bytes": 19445,
+    "sha256": "e79794fea8fd2d1a178dd28a8638ba10ba806070b7b26e37c5228f0491663b23"
+  },
+  "synergistic_triplets/plot_validation.json": {
+    "bytes": 195,
+    "sha256": "b9f7c032773b66f261a3471fae3b9d0583d6d2402496baf9533b085c890b0f99"
+  },
+  "synergistic_triplets/significant_negative_triplets_10000.tsv": {
+    "bytes": 7283433,
+    "sha256": "5dbef42ac20e22b2cee9ee43b2935be9e24556c344f6efc97fab6185c2af1c62"
+  },
+  "synergistic_triplets/special_triplet_f1_inputs.tsv": {
+    "bytes": 16222,
+    "sha256": "c630d55c2b932ed7e1e0372f2c05e85749f3edeaf1b8f80fb6259a070ae77efd"
+  },
+  "synergistic_triplets/special_triplet_f1_metadata.json": {
+    "bytes": 570,
+    "sha256": "d18ce5dff73c427f0b3f8eed4f8be0f1d2035b73cf0fe987dc040100ae7885da"
+  },
+  "synergistic_triplets/stage_coverage.tsv": {
+    "bytes": 1265,
+    "sha256": "d06e1a2c9da2fb1a8077826f6f965906ce4f79826310464548b46557259ebf56"
+  },
+  "synergistic_triplets/summary_by_block.tsv": {
+    "bytes": 2384,
+    "sha256": "dd384e427579a295fae6e1a99930087821e0f363744dcc72d8e85e4f7f7d934e"
+  },
+  "synergistic_triplets/summary_by_sample.tsv": {
+    "bytes": 2679,
+    "sha256": "bc51e8cd27729c552ccd27587c02bd5a4fdd61d3721fa6e3ce078d9b2b91bac5"
+  },
+  "synergistic_triplets/summary_by_sample_block.tsv": {
+    "bytes": 208765,
+    "sha256": "93c776a1e900496c0e1713955b23c05afef4eda243d0c7d6b016f26332600644"
+  },
+  "synergistic_triplets/summary_by_stage.tsv": {
+    "bytes": 513,
+    "sha256": "3002a95c5dfe382b92f319b6024e3ace748db743a21c81a155ce285cce29bc3b"
+  },
+  "synergistic_triplets/summary_by_triplet.tsv": {
+    "bytes": 1609,
+    "sha256": "5402b54760f281dc8cb9f6502fc45cb6f93c17af114ceaf8801c03d46b66c6fa"
+  },
+  "synergistic_triplets/summary_by_triplet_class.tsv": {
+    "bytes": 165,
+    "sha256": "46e37358552d12e7d868441348ec727b2f6e9c267d3eb80c34fdedf0873974d9"
+  },
+  "synergistic_triplets/synergistic_triplet_mark_trajectories_7signals_by_sample.tsv": {
+    "bytes": 27368,
+    "sha256": "82f18680edcd5cffcf08c049da4e16194e070b8a45d152d68d320bfa93bf15ef"
+  },
+  "synergistic_triplets/synergistic_triplet_mark_trajectories_7signals_metadata.json": {
+    "bytes": 10978,
+    "sha256": "c053db306f82030b4d630819a9573d296400a43f6554027af060d4f433d1b697"
+  },
+  "synergistic_triplets/synergistic_triplet_mark_trajectories_7signals_summary.tsv": {
+    "bytes": 7348,
+    "sha256": "1d5817ee8472c2256088efec5224c8c64bf26a2a2a19d1075464bf0dea0e8c8f"
+  },
+  "synergistic_triplets/total_synergistic_count_by_stage_region.tsv": {
+    "bytes": 36620,
+    "sha256": "00eb8023398732e13dd66ef6090f39ea5c7e6239f2dfe11a9d9f2cf8799fb723"
+  },
+  "synergistic_triplets/total_synergistic_triplet_count_by_stage.tsv": {
+    "bytes": 807,
+    "sha256": "5f4595eed33cd17a8f3fc1b7df46a09a1ae01f4c6cf86579754b1236e499c9f0"
+  },
+  "synergistic_triplets/triplet_ABC_and_F1_panels_ab_layout.json": {
+    "bytes": 56046,
+    "sha256": "e2de2bb4a0017317203ba8607612278ecb9082edc00b50f730a18a617ee41e7c"
+  },
+  "synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals_by_sample.tsv": {
+    "bytes": 109609,
+    "sha256": "da33eea5f73cbd89e4e1bbfd8d7aceabf457afd5965a9d5460d54dfeefd25856"
+  },
+  "synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals_metadata.json": {
+    "bytes": 3451,
+    "sha256": "212d7572be1cde527fb10b0a30cd25bae4ec1639b5197438f355ce611a5b7dfe"
+  },
+  "synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals_summary.tsv": {
+    "bytes": 28920,
+    "sha256": "3e001dccb2125bb97772858c68bd2db3a85bcf5af358dbf67dd90f22dcb735af"
+  },
+  "synergistic_triplets/triplet_ABC_stacked_layout.json": {
+    "bytes": 36396,
+    "sha256": "9caa21a75d5f24363f0f2627b76fdf66719c91ff168a297eab2ce11434cbf0d5"
+  },
+  "synergistic_triplets/triplet_A_synergistic_count_by_stage.tsv": {
+    "bytes": 40866,
+    "sha256": "a8ae274681b007be022b63040cf715b32a82525b469f3ec8b12266939508c396"
+  },
+  "synergistic_triplets/triplet_B_synergistic_count_by_stage.tsv": {
+    "bytes": 41204,
+    "sha256": "67e0b2c612a1b047e84f04dbab204f4430566a8dc859bc484b12f5c86350bb92"
+  },
+  "synergistic_triplets/triplet_C_synergistic_count_by_stage.tsv": {
+    "bytes": 40671,
+    "sha256": "6357639e13a4d8148441a073e1019ce4609d4a0379af29a4d7d5a27d57055565"
+  },
+  "synergistic_triplets/triplet_counts_plot_metadata.json": {
+    "bytes": 438,
+    "sha256": "92f6fc8e8d7377c179fff7b71c6db75b8185dc57ed2c68081cdcaaca489d6419"
+  },
+  "synergistic_triplets/validation.json": {
+    "bytes": 250,
+    "sha256": "b25806897c544ed5d35198bf136342567e3092eee0e13e513d40c944eb60a15b"
+  }
+}

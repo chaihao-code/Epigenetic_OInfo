@@ -1,0 +1,8 @@
+/lustre/home/2101110354/sequence_entropy/data/mouse_development/histone_and_atac/Intestine_E14.5-ATAC-mm10.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_development/histone_and_atac/Intestine_E14.5-H3K27ac-mm10.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_development/histone_and_atac/Intestine_E14.5-H3K27me3-mm10.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_development/histone_and_atac/Intestine_E14.5-H3K36me3-mm10.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_development/histone_and_atac/Intestine_E14.5-H3K4me1-mm10.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_development/histone_and_atac/Intestine_E14.5-H3K4me3-mm10.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_development/histone_and_atac/Intestine_E14.5-H3K9me3-mm10.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_development/methylation/binned_result/Intestine_E14.5-WGBS-mm10.bin1000.bp

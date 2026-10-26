@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "n_records_per_stage": 2240,
+  "n_genomic_annotation_blocks": 40,
+  "n_possible_triplets": 56,
+  "n_variants": 16,
+  "late_included": false,
+  "unit": "stage \u00d7 genomic annotation block \u00d7 canonical triplet",
+  "checks": [
+    "unique keys",
+    "support range 0\u201316",
+    "0 bin agrees with union",
+    "16 bin agrees with intersection"
+  ]
+}

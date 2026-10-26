@@ -1,0 +1,6 @@
+{
+  "scripts/plot_core_occurrence_frequency_preimp.py": "c05b64b8e097dcce9cc48b7aa27cb6ba3b419d574de05d5cb7645234ad983327",
+  "scripts/plot_core_occurrence_frequency_e11.5.py": "42978b9aac053d111436ee0cb2a448c76d3a63f36abdd47b5a5fd258121acd5c",
+  "scripts/plot_triplet_combination_occurrence_with_H3K9ac_H3K4me2.py": "158c167b957232a4a628b5921abd0e3cab05d0cc6c4fd6dc2bcc467c72eb5aa1",
+  "inputs/analysis_manifest.json": "2f528523dfc7ea50d875a8fd4e13298a88d5e7f79d184883bbf53012dc9d9c07"
+}

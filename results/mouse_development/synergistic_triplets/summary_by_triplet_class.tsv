@@ -1,0 +1,4 @@
+triplet_class	n_tests	n_negative	n_raw_significant_negative	n_bh35_significant_negative
+A	29520	23509	12432	10571
+B	52480	26843	8515	6683
+C	32800	9069	3822	3251

@@ -1,0 +1,4 @@
+stage	n_variants	n_intersection	n_union	intersection_over_union
+2cell	16	109	755	0.14437086092715232
+8cell	16	36	274	0.13138686131386862
+ICM	16	20	338	0.05917159763313609

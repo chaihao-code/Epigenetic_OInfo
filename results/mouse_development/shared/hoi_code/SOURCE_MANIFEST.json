@@ -1,0 +1,34 @@
+{
+  "compute_hoi_entropy.py": {
+    "original_path": "script/hoi_code/compute_hoi_entropy.py",
+    "sha256": "307231762a527da6d06464debea6cb72c742b2cd4c1bc324d14bd0f3254cf2ae"
+  },
+  "compute_hoi_oinfo.py": {
+    "original_path": "script/hoi_code/compute_hoi_oinfo.py",
+    "sha256": "0a30c1c5a2843e165098b50120cff1df866231f3826fe3bed918fcf4075cb872"
+  },
+  "compute_oinfo_from_entropy.py": {
+    "original_path": "script/hoi_code/compute_oinfo_from_entropy.py",
+    "sha256": "059c1d4bc9c3e849d6cbc1117e9053cd4069a1f7e20c07a90605c8f7804b78cc"
+  },
+  "signal_loader.py": {
+    "original_path": "script/hoi_code/signal_loader.py",
+    "sha256": "e24f3ac6ce52225eb5cb3611df910b2124f1826763282f13675a9ba659d706bf"
+  },
+  "block_processor.py": {
+    "original_path": "script/hoi_code/block_processor.py",
+    "sha256": "ded46989fa0f52f5756f72a2154bff83ca3b8afd6847b0b21ce452031e62f858"
+  },
+  "convert_entropy_to_mi.py": {
+    "original_path": "script/hoi_code/convert_entropy_to_mi.py",
+    "sha256": "ff57109f57ad25f0e6a80e417458b26b6cc92b3133422ea31b63c4cfdd9faa15"
+  },
+  "compute_signal_correlation.py": {
+    "original_path": "script/hoi_code/compute_signal_correlation.py",
+    "sha256": "06221f66f2ca9820477816626b84b6538c9b3f483c3b916de56655ef1c3c263d"
+  },
+  "compute_redundancy_core.py": {
+    "original_path": "script/hoi_code/compute_redundancy_core.py",
+    "sha256": "91d4cc6165acc77260ae27bd4b8b1f7a9975e4946a6b09670809be8343d7abde"
+  }
+}

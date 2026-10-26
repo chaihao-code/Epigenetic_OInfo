@@ -1,0 +1,10 @@
+{
+  "deleted_at_utc": "2026-10-20T13:37:27.831868+00:00",
+  "deleted_directories": [
+    "/lustre/home/2101110354/sequence_entropy/project/mouse_development/result_oinfo_n_bins_5",
+    "/lustre/home/2101110354/sequence_entropy/project/mouse_development/result_oinfo_n_bins_5_triplet_perm100000",
+    "/lustre/home/2101110354/sequence_entropy/project/mouse_development/synergistic_triplets/comparison_10000_vs_100000"
+  ],
+  "retained_run": "/lustre/home/2101110354/sequence_entropy/project/mouse_development/result_oinfo_n_bins_5_triplet_perm10000",
+  "comparison_deleted_at_utc": "2026-10-20T13:42:11.092678+00:00"
+}

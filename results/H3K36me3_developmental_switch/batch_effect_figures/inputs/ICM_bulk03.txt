@@ -1,0 +1,8 @@
+/lustre/home/2101110354/sequence_entropy/data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me3.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/ICM.H3K9me3.repMean.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27me3.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/project/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp

@@ -1,0 +1,5 @@
+period	kind	n_signals	n_samples	total_occurrences	n_distinct_combinations	n_plotted	top25_coverage_pct
+preimplantation	synergistic_triplet	9	7	15092	84	25	41.35303472038166
+preimplantation	redundancy_core	9	7	212	22	22	100.0
+post_E11p5	synergistic_triplet	10	66	124654	120	25	39.43555762350186
+post_E11p5	redundancy_core	10	66	2184	100	25	87.63736263736264

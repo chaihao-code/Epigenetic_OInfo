@@ -1,0 +1,147 @@
+# Mouse Embryo Differentiation Tree
+# Format: parent\tchild1,child2,...
+
+# ==================== Preimplementation ====================
+zygote	2cell
+2cell	4cell
+4cell	8cell
+8cell	morula
+morula	ICM
+morula	TE
+
+# Preimplementation to Gastrulation transition
+ICM	E6.5_Epi
+TE	E6.5_ExE
+
+# ==================== Gastrulation (E6.5 → E7.5) ====================
+# Epiblast differentiation
+E6.5_Epi	E7.0_A
+E6.5_Epi	E7.0_P
+
+# ExE maintenance
+E6.5_ExE	E7.0_ExE
+E7.0_ExE	E7.5_ExE
+
+# Anterior region development
+E7.0_A	E7.5_A
+
+# Posterior region development  
+E7.0_P	E7.5_P
+E7.0_P	E7.5_AM
+
+# ==================== Organogenesis (E7.5 → E10.5+) ====================
+# A-derived tissues
+E7.5_A	E10.5_Embryonic_Facial_Prominence
+E7.5_A	E10.5_Forebrain
+E7.5_A	E10.5_Midbrain
+E7.5_A	E10.5_Hindbrain
+E7.5_A	E10.5_Neural_Tube
+
+# AM-derived tissues
+E7.5_AM	E10.5_Heart
+
+# P-derived tissues
+E7.5_P	E10.5_Kidney
+E7.5_P	E10.5_Limb
+E7.5_P	E10.5_Intestine
+E7.5_P	E10.5_Liver
+E7.5_P	E10.5_Lung
+E7.5_P	E10.5_Stomach
+
+# ==================== Development Timeline (E10.5 → P0) ====================
+# Each tissue develops through these stages
+E10.5_Embryonic_Facial_Prominence	E11.5_Embryonic_Facial_Prominence
+E11.5_Embryonic_Facial_Prominence	E12.5_Embryonic_Facial_Prominence
+E12.5_Embryonic_Facial_Prominence	E13.5_Embryonic_Facial_Prominence
+E13.5_Embryonic_Facial_Prominence	E14.5_Embryonic_Facial_Prominence
+E14.5_Embryonic_Facial_Prominence	E15.5_Embryonic_Facial_Prominence
+E15.5_Embryonic_Facial_Prominence	E16.5_Embryonic_Facial_Prominence
+E16.5_Embryonic_Facial_Prominence	P0_Embryonic_Facial_Prominence
+
+E10.5_Forebrain	E11.5_Forebrain
+E11.5_Forebrain	E12.5_Forebrain
+E12.5_Forebrain	E13.5_Forebrain
+E13.5_Forebrain	E14.5_Forebrain
+E14.5_Forebrain	E15.5_Forebrain
+E15.5_Forebrain	E16.5_Forebrain
+E16.5_Forebrain	P0_Forebrain
+
+E10.5_Midbrain	E11.5_Midbrain
+E11.5_Midbrain	E12.5_Midbrain
+E12.5_Midbrain	E13.5_Midbrain
+E13.5_Midbrain	E14.5_Midbrain
+E14.5_Midbrain	E15.5_Midbrain
+E15.5_Midbrain	E16.5_Midbrain
+E16.5_Midbrain	P0_Midbrain
+
+E10.5_Hindbrain	E11.5_Hindbrain
+E11.5_Hindbrain	E12.5_Hindbrain
+E12.5_Hindbrain	E13.5_Hindbrain
+E13.5_Hindbrain	E14.5_Hindbrain
+E14.5_Hindbrain	E15.5_Hindbrain
+E15.5_Hindbrain	E16.5_Hindbrain
+E16.5_Hindbrain	P0_Hindbrain
+
+E10.5_Neural_Tube	E11.5_Neural_Tube
+E11.5_Neural_Tube	E12.5_Neural_Tube
+E12.5_Neural_Tube	E13.5_Neural_Tube
+E13.5_Neural_Tube	E14.5_Neural_Tube
+E14.5_Neural_Tube	E15.5_Neural_Tube
+E15.5_Neural_Tube	E16.5_Neural_Tube
+E16.5_Neural_Tube	P0_Neural_Tube
+
+E10.5_Heart	E11.5_Heart
+E11.5_Heart	E12.5_Heart
+E12.5_Heart	E13.5_Heart
+E13.5_Heart	E14.5_Heart
+E14.5_Heart	E15.5_Heart
+E15.5_Heart	E16.5_Heart
+E16.5_Heart	P0_Heart
+
+E10.5_Kidney	E11.5_Kidney
+E11.5_Kidney	E12.5_Kidney
+E12.5_Kidney	E13.5_Kidney
+E13.5_Kidney	E14.5_Kidney
+E14.5_Kidney	E15.5_Kidney
+E15.5_Kidney	E16.5_Kidney
+E16.5_Kidney	P0_Kidney
+
+E10.5_Limb	E11.5_Limb
+E11.5_Limb	E12.5_Limb
+E12.5_Limb	E13.5_Limb
+E13.5_Limb	E14.5_Limb
+E14.5_Limb	E15.5_Limb
+E15.5_Limb	E16.5_Limb
+E16.5_Limb	P0_Limb
+
+E10.5_Intestine	E11.5_Intestine
+E11.5_Intestine	E12.5_Intestine
+E12.5_Intestine	E13.5_Intestine
+E13.5_Intestine	E14.5_Intestine
+E14.5_Intestine	E15.5_Intestine
+E15.5_Intestine	E16.5_Intestine
+E16.5_Intestine	P0_Intestine
+
+E10.5_Liver	E11.5_Liver
+E11.5_Liver	E12.5_Liver
+E12.5_Liver	E13.5_Liver
+E13.5_Liver	E14.5_Liver
+E14.5_Liver	E15.5_Liver
+E15.5_Liver	E16.5_Liver
+E16.5_Liver	P0_Liver
+
+E10.5_Lung	E11.5_Lung
+E11.5_Lung	E12.5_Lung
+E12.5_Lung	E13.5_Lung
+E13.5_Lung	E14.5_Lung
+E14.5_Lung	E15.5_Lung
+E15.5_Lung	E16.5_Lung
+E16.5_Lung	P0_Lung
+
+E10.5_Stomach	E11.5_Stomach
+E11.5_Stomach	E12.5_Stomach
+E12.5_Stomach	E13.5_Stomach
+E13.5_Stomach	E14.5_Stomach
+E14.5_Stomach	E15.5_Stomach
+E15.5_Stomach	E16.5_Stomach
+E16.5_Stomach	P0_Stomach

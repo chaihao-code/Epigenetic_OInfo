@@ -1,0 +1,237 @@
+{
+  "status": "complete",
+  "summaries": [
+    {
+      "period": "preimplantation",
+      "kind": "synergistic_triplet",
+      "n_signals": 9,
+      "n_samples": 7,
+      "total_occurrences": 15092,
+      "n_distinct_combinations": 84,
+      "n_plotted": 25,
+      "top25_coverage_pct": 41.35303472038166
+    },
+    {
+      "period": "preimplantation",
+      "kind": "redundancy_core",
+      "n_signals": 9,
+      "n_samples": 7,
+      "total_occurrences": 212,
+      "n_distinct_combinations": 22,
+      "n_plotted": 22,
+      "top25_coverage_pct": 100.0
+    },
+    {
+      "period": "post_E11p5",
+      "kind": "synergistic_triplet",
+      "n_signals": 10,
+      "n_samples": 66,
+      "total_occurrences": 124654,
+      "n_distinct_combinations": 120,
+      "n_plotted": 25,
+      "top25_coverage_pct": 39.43555762350186
+    },
+    {
+      "period": "post_E11p5",
+      "kind": "redundancy_core",
+      "n_signals": 10,
+      "n_samples": 66,
+      "total_occurrences": 2184,
+      "n_distinct_combinations": 100,
+      "n_plotted": 25,
+      "top25_coverage_pct": 87.63736263736264
+    }
+  ],
+  "panels": [
+    {
+      "period": "preimplantation",
+      "kind": "synergistic_triplet",
+      "n_columns": 25,
+      "n_signal_rows": 9,
+      "signal_order_top_to_bottom": [
+        "DNA methylation",
+        "H3K9me3",
+        "H3K27me3",
+        "ATAC",
+        "H2A.Z",
+        "H3K4me1",
+        "H3K4me3",
+        "H3K27ac",
+        "H3K36me3"
+      ],
+      "dots_match_all_combination_members": true
+    },
+    {
+      "period": "preimplantation",
+      "kind": "redundancy_core",
+      "n_columns": 22,
+      "n_signal_rows": 9,
+      "signal_order_top_to_bottom": [
+        "DNA methylation",
+        "H3K9me3",
+        "H3K27me3",
+        "ATAC",
+        "H2A.Z",
+        "H3K4me1",
+        "H3K4me3",
+        "H3K27ac",
+        "H3K36me3"
+      ],
+      "dots_match_all_combination_members": true
+    },
+    {
+      "period": "post_E11p5",
+      "kind": "synergistic_triplet",
+      "n_columns": 25,
+      "n_signal_rows": 10,
+      "signal_order_top_to_bottom": [
+        "DNA methylation",
+        "H3K9me3",
+        "H3K27me3",
+        "ATAC",
+        "H3K4me1",
+        "H3K4me2",
+        "H3K4me3",
+        "H3K27ac",
+        "H3K9ac",
+        "H3K36me3"
+      ],
+      "dots_match_all_combination_members": true
+    },
+    {
+      "period": "post_E11p5",
+      "kind": "redundancy_core",
+      "n_columns": 25,
+      "n_signal_rows": 10,
+      "signal_order_top_to_bottom": [
+        "DNA methylation",
+        "H3K9me3",
+        "H3K27me3",
+        "ATAC",
+        "H3K4me1",
+        "H3K4me2",
+        "H3K4me3",
+        "H3K27ac",
+        "H3K9ac",
+        "H3K36me3"
+      ],
+      "dots_match_all_combination_members": true
+    }
+  ],
+  "combined_panels": [
+    {
+      "letter": "a",
+      "row": "top",
+      "column": "left",
+      "period": "preimplantation",
+      "kind": "redundancy_core",
+      "n_columns": 22,
+      "n_signal_rows": 9,
+      "signal_order_top_to_bottom": [
+        "DNA methylation",
+        "H3K9me3",
+        "H3K27me3",
+        "ATAC",
+        "H2A.Z",
+        "H3K4me1",
+        "H3K4me3",
+        "H3K27ac",
+        "H3K36me3"
+      ],
+      "dots_match_all_combination_members": true
+    },
+    {
+      "letter": "b",
+      "row": "top",
+      "column": "right",
+      "period": "post_E11p5",
+      "kind": "redundancy_core",
+      "n_columns": 25,
+      "n_signal_rows": 10,
+      "signal_order_top_to_bottom": [
+        "DNA methylation",
+        "H3K9me3",
+        "H3K27me3",
+        "ATAC",
+        "H3K4me1",
+        "H3K4me2",
+        "H3K4me3",
+        "H3K27ac",
+        "H3K9ac",
+        "H3K36me3"
+      ],
+      "dots_match_all_combination_members": true
+    },
+    {
+      "letter": "c",
+      "row": "bottom",
+      "column": "left",
+      "period": "preimplantation",
+      "kind": "synergistic_triplet",
+      "n_columns": 25,
+      "n_signal_rows": 9,
+      "signal_order_top_to_bottom": [
+        "DNA methylation",
+        "H3K9me3",
+        "H3K27me3",
+        "ATAC",
+        "H2A.Z",
+        "H3K4me1",
+        "H3K4me3",
+        "H3K27ac",
+        "H3K36me3"
+      ],
+      "dots_match_all_combination_members": true
+    },
+    {
+      "letter": "d",
+      "row": "bottom",
+      "column": "right",
+      "period": "post_E11p5",
+      "kind": "synergistic_triplet",
+      "n_columns": 25,
+      "n_signal_rows": 10,
+      "signal_order_top_to_bottom": [
+        "DNA methylation",
+        "H3K9me3",
+        "H3K27me3",
+        "ATAC",
+        "H3K4me1",
+        "H3K4me2",
+        "H3K4me3",
+        "H3K27ac",
+        "H3K9ac",
+        "H3K36me3"
+      ],
+      "dots_match_all_combination_members": true
+    }
+  ],
+  "combined_rows": [
+    "Redundancy cores",
+    "Synergistic triplets"
+  ],
+  "combined_columns": [
+    "Preimplantation",
+    "Post-E11.5"
+  ],
+  "individual_size_cm": [
+    9.0,
+    7.5
+  ],
+  "combined_size_cm": [
+    18.0,
+    15.0
+  ],
+  "all_font_sizes_pt": 8,
+  "font_family": "Arial",
+  "font_file": "/lustre/home/2101110354/.local/share/fonts/arial.ttf",
+  "text_bounds_checked": true,
+  "y_tick_overlap_checked": true,
+  "full_signal_cores_recomputed": true,
+  "triplet_FDR_applied": false,
+  "triplet_criterion": "observed O-information < 0 (interpretation == Synergy); no P-value/FDR filter, matching supplied script",
+  "top_n": 25,
+  "n_core_samples": 73,
+  "script_sha256": "696c90806ab0bad87afc8d54b6b1a312d03b108da25a5d2a8818c1329f11b5e5",
+  "core_engine_sha256": "91d4cc6165acc77260ae27bd4b8b1f7a9975e4946a6b09670809be8343d7abde"
+}

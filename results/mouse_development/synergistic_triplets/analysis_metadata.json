@@ -1,0 +1,16 @@
+{
+  "created_at_utc": "2026-10-20T13:31:44.671147+00:00",
+  "method": "Benjamini-Hochberg",
+  "family": "35 p_down values per sample x annotation block",
+  "alpha": 0.05,
+  "selection": "observed_hoi < 0 and q_down_sample_block_bh <= .05",
+  "n_permutations": 10000,
+  "n_samples": 82,
+  "missing_10k_samples": [],
+  "summary": {
+    "n_tests": 114800,
+    "n_negative": 59421,
+    "n_raw_significant_negative": 24769,
+    "n_bh35_significant_negative": 20505
+  }
+}

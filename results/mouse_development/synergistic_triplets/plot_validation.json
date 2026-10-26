@@ -1,0 +1,9 @@
+{
+  "n_samples": 82,
+  "n_stages": 17,
+  "n_blocks": 40,
+  "weighted_discovery_count": 20505.0,
+  "expected_discovery_count": 20505,
+  "f1_cells_verified": 3280,
+  "pdf_and_png_verified": true
+}

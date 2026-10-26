@@ -1,0 +1,9 @@
+{
+  "n_samples": 82,
+  "n_families": 3280,
+  "n_tests": 114800,
+  "tests_per_family": 35,
+  "reference": "BH threshold formula: min over thresholds t >= p of min(1,35*t/count(p<=t))",
+  "max_absolute_q_error": 0,
+  "discovery_count_verified": true
+}

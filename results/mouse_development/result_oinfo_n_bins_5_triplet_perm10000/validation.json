@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "n_signals": 7,
+  "n_blocks": 2,
+  "n_permutations": 3,
+  "original_null_subsystems": 56,
+  "snapshot_null_subsystems": 35,
+  "null_values_bitwise_equal": true,
+  "observed_outputs_bytewise_equal": true,
+  "triplet_only_summary": true
+}

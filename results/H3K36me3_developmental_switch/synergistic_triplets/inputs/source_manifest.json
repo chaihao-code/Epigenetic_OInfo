@@ -1,0 +1,18 @@
+{
+  "late_reference_tissues": [
+    "Forebrain",
+    "Midbrain",
+    "Hindbrain",
+    "Heart",
+    "Liver"
+  ],
+  "n_permutations": 10000,
+  "BH_family_size": 56,
+  "criterion": "observed_hoi < 0 and BH q <= 0.05",
+  "additional_early_snapshot": "/lustre/home/2101110354/sequence_entropy/project/H3K36me3_developmental_switch/synergistic_triplets/inputs/preimplantation_additional_stages_bh56.tsv.gz",
+  "snapshot_sha256": "c09c5c60c3d887a8e6c5c9d44ad6b1d8edde99747eef65da1fc31440b5753fd3",
+  "snapshot_source_before_cleanup": "/lustre/home/2101110354/sequence_entropy/project/H3K36me3_triplet_robustness/ABC_triplet_classes/data/all_shared_triplets_bh56.tsv.gz",
+  "additional_early_upstream": "project/mouse_preimp/synergy_redundancy/synergistic_triplets/permutation_results",
+  "original_2cell_8cell_ICM_and_late": "../batch_effect_figures/data",
+  "late_upstream": "project/mouse_after_E11.5/synergistic_triplets/permutation_results"
+}

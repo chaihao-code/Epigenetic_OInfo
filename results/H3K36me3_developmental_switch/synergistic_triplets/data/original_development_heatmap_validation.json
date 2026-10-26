@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "criterion": "observed O-information < 0 and BH56 q <= 0.05",
+  "n_permutations": 10000,
+  "n_signals": 8,
+  "n_stages": 14,
+  "n_blocks": 40,
+  "n_triplets_per_signal_per_block": 21,
+  "late_tissues": [
+    "Forebrain",
+    "Midbrain",
+    "Hindbrain",
+    "Heart",
+    "Liver"
+  ],
+  "aggregation": "Mean across 40 blocks per sample, then equal mean of five common tissues per late stage",
+  "early_sources": "Original mask 0 for 2cell/8cell/ICM; current mouse_preimp BH56 for other four stages",
+  "late_source": "Current mouse_after_E11.5 BH56 tests for five common tissues",
+  "original_bar_values_match": true,
+  "mean_late_matches_original_Late_reference": true
+}

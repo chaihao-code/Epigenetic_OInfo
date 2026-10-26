@@ -1,0 +1,11 @@
+{
+  "n_samples": 82,
+  "n_permutations": 10000,
+  "n_bins": 5,
+  "n_max": 100000,
+  "cpus_per_task": 32,
+  "array_task_throttle": 0,
+  "parent_run": "/lustre/home/2101110354/sequence_entropy/project/mouse_development/result_oinfo_n_bins_5_triplet_perm100000",
+  "correction": "BH of 35 p_down values per sample x block; negative O-info and q <= .05",
+  "validation": "Computing code copied unchanged from previously validated 100k snapshot; validation.json inherited."
+}

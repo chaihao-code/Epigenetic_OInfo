@@ -1,0 +1,8 @@
+# Python dependencies for the archived mouse source; versions are not locked.
+numpy
+pandas
+scipy
+matplotlib
+networkx
+scikit-learn
+statsmodels

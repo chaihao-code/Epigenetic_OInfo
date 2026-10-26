@@ -1,0 +1,18 @@
+# Excluded from this source export
+legacy/
+provenance/
+__pycache__/
+*.py[cod]
+.cache/
+.venv/
+logs/
+*.out
+*.err
+*.log
+.submission.lock
+*.npy
+*.rds
+# TF binding-site / motif analyses are outside this export.
+*tfbs*/
+*TFBS*/
+*motif*/

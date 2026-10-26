@@ -1,0 +1,43 @@
+{
+  "status": "complete",
+  "n_signals": 8,
+  "n_early_stages": 7,
+  "n_late_stages": 7,
+  "n_early_samples": 7,
+  "n_late_samples": 35,
+  "original_only": true,
+  "late_tissues": [
+    "Forebrain",
+    "Midbrain",
+    "Hindbrain",
+    "Heart",
+    "Liver"
+  ],
+  "criterion": "observed O-information < 0 and BH56 FDR <= 0.05",
+  "unit": "Number of significant genomic annotation block \u00d7 triplet records involving each mark",
+  "aggregation": "Sum across 40 annotation blocks within sample; equal mean of five tissues per late stage",
+  "checked_against_heatmap": true,
+  "conversion_from_heatmap": "occurrence = fraction \u00d7 40 \u00d7 21",
+  "figure_size_cm": [
+    10,
+    6
+  ],
+  "combined_figure_size_cm": [
+    18,
+    6
+  ],
+  "font_family": "Arial",
+  "font_file": "/lustre/home/2101110354/.local/share/fonts/arial.ttf",
+  "font_size_pt": 8,
+  "title_font_size_pt": 10,
+  "palette": {
+    "DNA_methylation": "#69A9D3",
+    "H3K9me3": "#9B8ACB",
+    "H3K27me3": "#53B5B3",
+    "ATAC": "#F2BD61",
+    "H3K4me1": "#EBA16C",
+    "H3K4me3": "#E58078",
+    "H3K27ac": "#D888AA",
+    "H3K36me3": "#AAAAAA"
+  }
+}

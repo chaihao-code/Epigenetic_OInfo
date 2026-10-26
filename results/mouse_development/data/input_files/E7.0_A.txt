@@ -1,0 +1,7 @@
+/lustre/home/2101110354/sequence_entropy/data/mouse_gastrulation/atac/E7.0_A.ATAC.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_gastrulation/histone/GSE97778_E65Epi.H3K9me3.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_gastrulation/histone/GSE98101_E7-0-A-K27ac.tagAlign.fc.signal.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_gastrulation/histone/GSE98101_E7-0-A-K4M3.tagAlign.fc.signal.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_gastrulation/histone/GSE98101_E7-0-A-K4me1.tagAlign.fc.signal.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_gastrulation/histone/GSM2793694_E7-0-A-H3K27me3.repMerge.fc.signal.bin1000.bp
+/lustre/home/2101110354/sequence_entropy/data/mouse_gastrulation/methylation/rep_averaged/E7-0-A.CpG_methyl.bin1000.bp

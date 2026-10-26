@@ -1,0 +1,106 @@
+{
+  "cleanup_date": "2026-10-22",
+  "status": "complete",
+  "scope": "Superseded ABC trajectory outputs and exploratory region-selection results only",
+  "deleted_files": [
+    {
+      "path": "project/mouse_development/synergistic_triplets/triplet_A_B_C_counts_trajectories_n5.png",
+      "bytes": 354021,
+      "sha256": "595cc4b41f9abe4892214272d204461e88f9ebcc5b964e8dca42713fbb21bba6"
+    },
+    {
+      "path": "project/mouse_development/synergistic_triplets/triplet_A_B_C_counts_trajectories_n5.pdf",
+      "bytes": 54291,
+      "sha256": "be9c2f04b07cd49f3362db068dd109dc60a743dddaa8ce6b4dd570482ce6b44a"
+    },
+    {
+      "path": "project/mouse_development/synergistic_triplets/triplet_A_B_C_relative_counts_summary.tsv",
+      "bytes": 22231,
+      "sha256": "fbea6350dcbee55f419c2de39fe8cad30ec9fa1ff37e2c1659aa99d6832fa789"
+    },
+    {
+      "path": "project/mouse_development/synergistic_triplets/triplet_A_B_C_trajectories_metadata.json",
+      "bytes": 1064,
+      "sha256": "aa702be22a445912216ce4aa31fec751373dc463b3952b5f8c630fe096355bb0"
+    },
+    {
+      "path": "project/mouse_development/synergistic_triplets/triplet_A_B_C_trajectories_validation.json",
+      "bytes": 210,
+      "sha256": "8935205fa07778f0fab91a0bab56e8cf6bc7acb77747551ed44a451dc0e29420"
+    },
+    {
+      "path": "project/mouse_development/synergistic_triplets/plot_triplet_A_B_C_counts_trajectories.log",
+      "bytes": 1334,
+      "sha256": "60d83be5b91d6153cb7bfc882ab46aff328cd6d00e6cf839472675f8760e5daf"
+    },
+    {
+      "path": "project/mouse_development/synergistic_triplets/seven_signal_ABC_region_separation.tsv",
+      "bytes": 27280,
+      "sha256": "1749fbd82b74da622cee551beb0ee5d7a03e1d78d3e2e0f478540630b87b03cc"
+    },
+    {
+      "path": "project/mouse_development/synergistic_triplets/seven_signal_ABC_region_separation_metadata.json",
+      "bytes": 1073,
+      "sha256": "ed19fd75c9f56c27f42988781bd5ab5b1a9eab21cfe497ba123a7d3ef9e2c1fa"
+    },
+    {
+      "path": "project/H3K36me3_triplet_robustness/synergistic_triplets/plots/triplet_A_B_C_counts_trajectories_post_E11p5_n5.png",
+      "bytes": 291036,
+      "sha256": "b53fc5289d9973508ca1f7c9cfe7bbff53db284c78bd25efdf3d878d5958d4de"
+    },
+    {
+      "path": "project/H3K36me3_triplet_robustness/synergistic_triplets/plots/triplet_A_B_C_counts_trajectories_post_E11p5_n5.pdf",
+      "bytes": 47962,
+      "sha256": "d3c5d0a54a73c4b3a7716ccee55c025824b0ef5e717695dced2b4a8a44f817ca"
+    },
+    {
+      "path": "project/H3K36me3_triplet_robustness/synergistic_triplets/data/triplet_A_B_C_counts_trajectories_post_E11p5_n5_by_sample.tsv",
+      "bytes": 41188,
+      "sha256": "264fc3225842cebface55d9a702d2b11c4cbd126c97730175ba2196855575a8f"
+    },
+    {
+      "path": "project/H3K36me3_triplet_robustness/synergistic_triplets/data/triplet_A_B_C_counts_trajectories_post_E11p5_n5_summary.tsv",
+      "bytes": 10370,
+      "sha256": "1d6b0f2a2d27aaf6192fa1cac1404e4eff0d2fe19fd89246e97e0539b0f76480"
+    },
+    {
+      "path": "project/H3K36me3_triplet_robustness/synergistic_triplets/data/triplet_A_B_C_counts_trajectories_post_E11p5_n5_validation.json",
+      "bytes": 1841,
+      "sha256": "72b39af8746876e00c92085ce97c2a93d0addb112183982475f72b03cdda7a20"
+    },
+    {
+      "path": "project/H3K36me3_triplet_robustness/synergistic_triplets/data/ABC_region_comparison_matched_late_n5.tsv",
+      "bytes": 7451,
+      "sha256": "e7f450ebd4a3613e84e4bd909eedc18076cd6a19834317bd99f0d0d51e37a224"
+    }
+  ],
+  "retained_final_files": [
+    "project/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals.pdf",
+    "project/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals.png",
+    "project/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals_by_sample.tsv",
+    "project/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals_metadata.json",
+    "project/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals_summary.tsv",
+    "project/H3K36me3_triplet_robustness/synergistic_triplets/plots/triplet_ABC_selected_region_trajectories_8signals_post_E11p5_n5.pdf",
+    "project/H3K36me3_triplet_robustness/synergistic_triplets/plots/triplet_ABC_selected_region_trajectories_8signals_post_E11p5_n5.png",
+    "project/H3K36me3_triplet_robustness/synergistic_triplets/data/triplet_ABC_selected_region_trajectories_8signals_post_E11p5_n5_by_sample.tsv",
+    "project/H3K36me3_triplet_robustness/synergistic_triplets/data/triplet_ABC_selected_region_trajectories_8signals_post_E11p5_n5_metadata.json",
+    "project/H3K36me3_triplet_robustness/synergistic_triplets/data/triplet_ABC_selected_region_trajectories_8signals_post_E11p5_n5_summary.tsv"
+  ],
+  "retained_categories": [
+    "Source code",
+    "Raw input data",
+    "Full-region count tables",
+    "Final selected-region figures and supporting tables",
+    "Heatmaps and other analysis figures"
+  ],
+  "dependency_updates": [
+    "Seven-signal region analysis validates against final trajectory summary",
+    "Eight-signal stacked heatmap validates against final trajectory summary"
+  ],
+  "verification": {
+    "final_means_checked": 432,
+    "protected_file_hashes_unchanged": true,
+    "final_plot_imports_work": true,
+    "obsolete_outputs_absent": true
+  }
+}

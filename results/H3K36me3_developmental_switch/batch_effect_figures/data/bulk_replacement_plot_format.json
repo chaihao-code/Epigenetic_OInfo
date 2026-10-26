@@ -1,0 +1,31 @@
+{
+  "width_cm": 18,
+  "total_height_cm": 15,
+  "subplot_height_cm": 3,
+  "n_subplots": 3,
+  "legend_columns": 4,
+  "font_family": "Arial",
+  "font_file": "/lustre/home/2101110354/.local/share/fonts/arial.ttf",
+  "font_size_pt": 8,
+  "legend": "bottom",
+  "variant_colors": {
+    "Original": "#999999",
+    "K36": "#758EC4",
+    "K9": "#819DD0",
+    "K27": "#69A9D3",
+    "K4": "#63B5C5",
+    "K36+K9": "#53B5B3",
+    "K36+K27": "#79BFAC",
+    "K9+K27": "#94C19F",
+    "K36+K4": "#B0C38C",
+    "K9+K4": "#CDD08D",
+    "K27+K4": "#E8CA79",
+    "K36+K9+K27": "#F2BD61",
+    "K36+K9+K4": "#EBA16C",
+    "K36+K27+K4": "#E59876",
+    "K9+K27+K4": "#E58078",
+    "K36+K9+K27+K4": "#CD7F91"
+  },
+  "late_color": "#000000",
+  "only_primary_figure": true
+}
