@@ -1,0 +1,38 @@
+{
+  "GROUP_DEFS": {
+    "Group2": [
+      "CEMT0004",
+      "CEMT0005",
+      "CEMT0025",
+      "CEMT0026",
+      "CEMT0027",
+      "CEMT0028",
+      "CEMT0029",
+      "CEMT0030"
+    ],
+    "Group3": [
+      "CEMT0006",
+      "CEMT0094",
+      "CEMT0095",
+      "CEMT0096",
+      "CEMT0097"
+    ]
+  },
+  "REGION_ORDER": [
+    "promoter",
+    "proximal_ctcf_bound_enhancer_purified_bins",
+    "proximal_not_ctcf_bound_enhancer_purified_bins",
+    "distal_ctcf_bound_enhancer_purified_bins",
+    "distal_not_ctcf_bound_enhancer_purified_bins",
+    "exon_purified_bins",
+    "intron_purified_bins",
+    "None"
+  ],
+  "FEATURE_ORDER": [
+    "CpG_island",
+    "LINE",
+    "SINE",
+    "LTR",
+    "None"
+  ]
+}

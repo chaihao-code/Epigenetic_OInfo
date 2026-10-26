@@ -1,0 +1,290 @@
+{
+  ".gitignore": {
+    "bytes": 994,
+    "sha256": "90cb862b7a03073ea1c75a9e9da1d542d1f9aaa1c33b6aec3d1400d4c9ab6feb"
+  },
+  "ABC_triplet_classes/README_zh.md": {
+    "bytes": 2511,
+    "sha256": "19c068ac7e8fb0f3c72fc14fcd572c07b0abb8df0ae0f84234c4e4713b7db5ea"
+  },
+  "CODE_MAP.md": {
+    "bytes": 5534,
+    "sha256": "ab8883731aaa570448ab5c21a54650afb6dcd4fe3260969ec607451e592f0e1c"
+  },
+  "README.md": {
+    "bytes": 6824,
+    "sha256": "15fe046d2177ea60d985bed9a7a6aa0e04d35095aa0283aa468de9344ecd0a5f"
+  },
+  "data_info/CEEHRC.CEMT0004.txt": {
+    "bytes": 1143,
+    "sha256": "d9d90f13e5a48cd92732ae8ea687c7cb44325e84805b73ec1f7c99399fad92b0"
+  },
+  "data_info/CEEHRC.CEMT0005.txt": {
+    "bytes": 1143,
+    "sha256": "26fc56218b362cb93f3c424e38912582cdbc0ba41a6b15b6cf88b52d7a690e26"
+  },
+  "data_info/CEEHRC.CEMT0006.txt": {
+    "bytes": 1143,
+    "sha256": "b0db203ca3d8ad391d7a8e5db342f5d4a62f0810c08c91f7c6705808eece2333"
+  },
+  "data_info/CEEHRC.CEMT0025.txt": {
+    "bytes": 1143,
+    "sha256": "7e8786e5410e9c6d0e088bd46794ec4b3c1330f16ba4ced73e20445902fae621"
+  },
+  "data_info/CEEHRC.CEMT0026.txt": {
+    "bytes": 1143,
+    "sha256": "2340c04318c07ee2d8f224d9d436f1c148f983ddc21e8513349c18a5fd3b8627"
+  },
+  "data_info/CEEHRC.CEMT0027.txt": {
+    "bytes": 1143,
+    "sha256": "308d2bc7b0222dfd472e1caaa76490e7d8a8cb2b83273a73204e103995dc6faa"
+  },
+  "data_info/CEEHRC.CEMT0028.txt": {
+    "bytes": 1143,
+    "sha256": "24bfb873376d49031289203a5520233b37a7304bf4e85d06a02cd462f3d9449f"
+  },
+  "data_info/CEEHRC.CEMT0029.txt": {
+    "bytes": 1143,
+    "sha256": "42ef3c627ecb0ae66d0281027b7036b4773299ac18a897c8c384639a6ccf8246"
+  },
+  "data_info/CEEHRC.CEMT0030.txt": {
+    "bytes": 1143,
+    "sha256": "3f51c894b3dc31ddd4920bb8c8b12aa1bc977353782e22cb8bc03ad6e01521c3"
+  },
+  "data_info/CEEHRC.CEMT0094.txt": {
+    "bytes": 1143,
+    "sha256": "1270fd079d31b0120a7168feb56fa4249300be0c42f4b02a8ffb96b4b4382214"
+  },
+  "data_info/CEEHRC.CEMT0095.txt": {
+    "bytes": 1143,
+    "sha256": "9b313b7d7038c85d65c27fdcc741f5e31ccf2de3e600aab92af5492e439eb305"
+  },
+  "data_info/CEEHRC.CEMT0096.txt": {
+    "bytes": 1143,
+    "sha256": "026990a15182c622c9852db76b4405262e4d309622a9b17c1ae4c2277180833d"
+  },
+  "data_info/CEEHRC.CEMT0097.txt": {
+    "bytes": 1143,
+    "sha256": "16c2a326c943e85c72cfd795be41c367b9bb3fdcc40c7ddc98ffd611ec3ebbda"
+  },
+  "data_info/CEEHRC.CEMT0129.txt": {
+    "bytes": 1143,
+    "sha256": "8e11e9b93532fb87ae514ef9c61401e750006af84fc6975eccfd6141f39affb4"
+  },
+  "data_info/CEEHRC.CEMT0134.txt": {
+    "bytes": 1143,
+    "sha256": "49467846326e1fa1d732899ab2bbf8d636ef5499f2fb7d6eba57febdb614ad84"
+  },
+  "data_info/CEEHRC.CEMT0135.txt": {
+    "bytes": 1143,
+    "sha256": "dbd1c94d464f951c52df3beb6eae0fc5c093a404de6277d836727b8d2d4a181d"
+  },
+  "data_info/CEEHRC.CEMT0138.txt": {
+    "bytes": 1143,
+    "sha256": "9abfba5884e3e732322a4fb538d91c67720de36894b12924d4f25773533a9848"
+  },
+  "data_info/cll_metadata.tsv": {
+    "bytes": 698,
+    "sha256": "0ae600ea67bd55d25037c5b7802ae8021630498ec1245c93df6bed747b281bfb"
+  },
+  "data_info/external_input_provenance.json": {
+    "bytes": 2440,
+    "sha256": "fd36e2bd9bfca1c3a9b3ddd80993d3719ad355feb3e68bf65927f6315f54518f"
+  },
+  "data_info/ihec_rna_lookup/RNA_download_guide_zh.md": {
+    "bytes": 6526,
+    "sha256": "cd6021e723f9d7cf7ebfb2828658068d52c8fc4ef8cabe6b9229ec97aa7e0921"
+  },
+  "data_info/ihec_rna_lookup/download_rna_cll13.sh": {
+    "bytes": 5487,
+    "sha256": "1fc3851f32a84a20535861d16a6cd3ce2d8032217d9251cbbf1f957f2d8be105"
+  },
+  "data_info/ihec_rna_lookup/rna_genes_cll13.urls.txt": {
+    "bytes": 2431,
+    "sha256": "754a1d104ac3869062abb1096bdf044bca9666f82242b035a116ac03c5deddc2"
+  },
+  "data_info/ihec_rna_lookup/rna_isoforms_cll13.urls.txt": {
+    "bytes": 2470,
+    "sha256": "31c8f0e23a2bfe8e1ca60038b85973364d82be7e786b034e8529973925ea9a3b"
+  },
+  "data_info/ihec_rna_lookup/rna_qc_cll13.urls.txt": {
+    "bytes": 6149,
+    "sha256": "cb12bcbe4ed30369ec2e448655c576852448bdac77c97006edec5a7c7f673c8a"
+  },
+  "data_info/ihec_rna_lookup/rna_sample_metadata.tsv": {
+    "bytes": 11367,
+    "sha256": "d5241a630047a9907875cd44706ff8b2ee0f823b404c795db9b434a0f9d86091"
+  },
+  "dmr_repro_cemt/README.md": {
+    "bytes": 4509,
+    "sha256": "6db102b58be224752687e96eb2825bd2244b4fffcff9f7f0a26dc970a0eefad6"
+  },
+  "dmr_repro_cemt/scripts/check_input.py": {
+    "bytes": 2456,
+    "sha256": "12aa6966497d638aba7709cd5677bbeb332c776f890ba5a3b4262c8a5d70ee93"
+  },
+  "dmr_repro_cemt/scripts/dmr_limma_1kb_cemt_g2_g3.R": {
+    "bytes": 4926,
+    "sha256": "35b2a2a8319a32c812f8843ace043e3977a55811fe8814d5c8176ed3325e928a"
+  },
+  "dmr_repro_cemt/scripts/install_r_packages.R": {
+    "bytes": 593,
+    "sha256": "345e187f9fad8df1d0beae6898eb0d33519aedf70b64cb6d4097b2cb2a2f002b"
+  },
+  "dmr_repro_cemt/scripts/plot_dmr_volcano.py": {
+    "bytes": 5820,
+    "sha256": "10bc8d802c975a800c6b28e9be3507ec5ccc6018603274fb9061070f3f93ab8b"
+  },
+  "dmr_repro_cemt/scripts/plot_igh_tracks_corrected.py": {
+    "bytes": 11330,
+    "sha256": "ab2fbfbe38b2c706b3f25a1797ae04645b9384102d6510659552e91c50aa0060"
+  },
+  "dmr_repro_cemt/scripts/run_dmr.R": {
+    "bytes": 2128,
+    "sha256": "e1dccb152745a0e5b1b6d7bc8b277f9bf878c71b20eda8d6916fcfd632781f28"
+  },
+  "dmr_repro_cemt/scripts/submit_dmr.slurm": {
+    "bytes": 568,
+    "sha256": "8d3745d398f2e70475dcd9a9ff0e0319f41745b654b26f5c2b62b679d28525e3"
+  },
+  "global_oinfo_and_triplets/README_zh.md": {
+    "bytes": 2157,
+    "sha256": "568f8b51a2a316cdf9dc175006134a1262831f3b805ae7b37ea5323b86805fb1"
+  },
+  "global_oinfo_and_triplets/plot_global_oinfo_and_ABC_triplets.py": {
+    "bytes": 15028,
+    "sha256": "c6dcbfc617cd89f906b0ce44e9739ab38a8df5884e8d6c512994e0e50e8e2d1f"
+  },
+  "global_oinfo_and_triplets/reference_config.json": {
+    "bytes": 703,
+    "sha256": "cddc39dde3b59ea351edc30ade2f86efc6567a4cb9c4b3c0bee46436b085c5de"
+  },
+  "requirements.txt": {
+    "bytes": 304,
+    "sha256": "5c0240d0f69728e1526ec590dffc522e1f4324e1b9c5127417ddc345fa6d918c"
+  },
+  "results_oinfo_triplet_n_bins_5/README.md": {
+    "bytes": 1521,
+    "sha256": "f827181d71a675d095553ad9300f02a0d9554fd39f15bc726567ac29ac5e7f07"
+  },
+  "results_rna_de_female_validation/README_zh.md": {
+    "bytes": 4224,
+    "sha256": "a4e1638ccf67a26bf82f052754582f3485f9f83b46070504db26c57b96a226bc"
+  },
+  "results_rna_de_slurm/README.md": {
+    "bytes": 177,
+    "sha256": "601d835282610a081eadda396705840721c3d4bc9637a03f1de17c4c95a839e2"
+  },
+  "results_rna_de_slurm/gene_annotation.tsv": {
+    "bytes": 3557432,
+    "sha256": "82fe0c5eb242b7e12000586758c622dd1966f9b300d2f7c49d384d3f3920747a"
+  },
+  "results_rna_de_slurm/sample_metadata.tsv": {
+    "bytes": 16966,
+    "sha256": "92b067e9e54f2adf1dc8973ae53771798205c55a4e5fea5aa4f6ee3a80cf0197"
+  },
+  "results_rna_de_slurm/sample_qc.tsv": {
+    "bytes": 1738,
+    "sha256": "022c89f147fae7722c7e198d88af4ab9b302246dabcffc0fb1125da9c201c1ae"
+  },
+  "scripts/aggregate_oinfo_triplets.slurm": {
+    "bytes": 621,
+    "sha256": "e9018a912ffa4e53c4e259658ea2fbb4675c48e159d00259aa288a985ab79920"
+  },
+  "scripts/analyze_rna_de_male.py": {
+    "bytes": 4661,
+    "sha256": "8577142013a275a7ef34d5ca61e035160707e7437d23114704a26960c49752eb"
+  },
+  "scripts/export_github.py": {
+    "bytes": 2861,
+    "sha256": "f5d07380af8fc5f351c2b9df784072d08ceade5f9c8be1b6e264c4bce356fc67"
+  },
+  "scripts/gsea_rna_male.py": {
+    "bytes": 7946,
+    "sha256": "7cce8df73e56b30278d6b31e47282bc3b9448bf5bf0ca435e2780f33b9273723"
+  },
+  "scripts/hoi_code/block_processor.py": {
+    "bytes": 9226,
+    "sha256": "ded46989fa0f52f5756f72a2154bff83ca3b8afd6847b0b21ce452031e62f858"
+  },
+  "scripts/hoi_code/compute_hoi_oinfo.py": {
+    "bytes": 31951,
+    "sha256": "0a30c1c5a2843e165098b50120cff1df866231f3826fe3bed918fcf4075cb872"
+  },
+  "scripts/hoi_code/compute_oinfo_from_entropy.py": {
+    "bytes": 9078,
+    "sha256": "059c1d4bc9c3e849d6cbc1117e9053cd4069a1f7e20c07a90605c8f7804b78cc"
+  },
+  "scripts/hoi_code/signal_loader.py": {
+    "bytes": 7717,
+    "sha256": "e24f3ac6ce52225eb5cb3611df910b2124f1826763282f13675a9ba659d706bf"
+  },
+  "scripts/hoi_code/source_manifest.json": {
+    "bytes": 681,
+    "sha256": "0c0f42d3a4f06e2a8b267f415377e78fd0573353b27cd669b9fe4183881028de"
+  },
+  "scripts/import_rna_rsem.R": {
+    "bytes": 1420,
+    "sha256": "609c1e7adef7fd96f611949660a5f9fffff505d8e5d30031d607580e72fe8634"
+  },
+  "scripts/plot_abc_pooled_combined.py": {
+    "bytes": 11509,
+    "sha256": "e3cb88b6c29592ed758e8fc9be710c48abf2ad4c1f9558c76968f5339d9bea20"
+  },
+  "scripts/plot_abc_pooled_compact_preview.py": {
+    "bytes": 6433,
+    "sha256": "d99b5662c36004affa46eb6d0713938e0b5354011b0a3f02423a9de4bb9ec954"
+  },
+  "scripts/plot_abc_triplet_classes.py": {
+    "bytes": 13733,
+    "sha256": "5c363e6440323425f42b99c5e030cc873dfaa603248418b127c7bb89070479e2"
+  },
+  "scripts/plot_de_male_ighv_volcano_clear.py": {
+    "bytes": 3837,
+    "sha256": "6f68135c735dd4f1b013b931b35d3fd53f7b44ece7872509057d155e42603a3e"
+  },
+  "scripts/plot_gsea_eight_panel_v2_18x10cm.py": {
+    "bytes": 3821,
+    "sha256": "39820ccb24f7e332d6300269d6e28709c4a23f0197938a3f6521a3a899144913"
+  },
+  "scripts/plot_gsea_representative_bars.py": {
+    "bytes": 4880,
+    "sha256": "a55052dec38f231f9a3302421e1b864b409795bb6aded59d9c5ffe0c9f458c55"
+  },
+  "scripts/plot_gsea_top20_bars.py": {
+    "bytes": 5114,
+    "sha256": "1ad64b572d4de17b30e4ab3f9a15d6bbf9375cb6a2c9159d4fc10c4d2671e873"
+  },
+  "scripts/resolve_signal_list.py": {
+    "bytes": 1020,
+    "sha256": "63bdcd30d410761fdcc754f699dfc9efb65d274fd59ab180f3275f8ea50789f4"
+  },
+  "scripts/run_final_rna.slurm": {
+    "bytes": 1350,
+    "sha256": "c87209bf725f42800496ecd9b2c855219f38baf41e52f229ee42835fed8f27d9"
+  },
+  "scripts/submit_final_rna.sh": {
+    "bytes": 413,
+    "sha256": "b771d7cbaf3caccae3c6a519296ed8cdd8e988b021ed83303f07bbb8a1220174"
+  },
+  "scripts/submit_oinfo_hoi.slurm": {
+    "bytes": 2834,
+    "sha256": "be0f8e4e972a7a22972cf553d782a6584e17e161810913d363eed42059db7dfb"
+  },
+  "scripts/submit_oinfo_triplets.slurm": {
+    "bytes": 2964,
+    "sha256": "2ed18e8ed39b184e2accf3cca8e0e85e3ea8da87bc10c0c1ede5f6b808f68097"
+  },
+  "scripts/summarize_c_triplet_recurrence.py": {
+    "bytes": 3534,
+    "sha256": "8fb03216f985a0aa87deca3f1b0ee25c878223062ca112557981b1dcaf38fdb4"
+  },
+  "scripts/summarize_triplet_significance.py": {
+    "bytes": 1947,
+    "sha256": "41de8152ad525bec70596f282006364f59ff7889a6a8e2d920b52388e5367a16"
+  },
+  "scripts/validate_male_de_in_females.py": {
+    "bytes": 14902,
+    "sha256": "94befe79eb996af308fdd22a006bcfd3378f185b192a2a661d05985c6260688d"
+  }
+}

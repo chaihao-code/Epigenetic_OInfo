@@ -1,0 +1,7 @@
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/97140.CEEHRC.CEMT0025.H3K27me3.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/97143.CEEHRC.CEMT0025.H3K36me3.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/97363.CEEHRC.CEMT0025.WGB-Seq.methylation_profile.bin1000.step1000.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/97137.CEEHRC.CEMT0025.H3K9me3.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/97131.CEEHRC.CEMT0025.H3K4me1.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/97146.CEEHRC.CEMT0025.H3K27ac.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/97134.CEEHRC.CEMT0025.H3K4me3.signal_unstranded.bin1000.step1000.divInput.bp

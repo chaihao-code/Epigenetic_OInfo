@@ -1,0 +1,21 @@
+args <- commandArgs(trailingOnly=TRUE)
+if (length(args) < 1) stop('Usage: Rscript import_rna_rsem.R PROJECT_DIR [OUTPUT_DIR]')
+project <- normalizePath(args[1])
+data_root <- Sys.getenv('BCELLS_DATA_ROOT', file.path(project, '../../..', 'data'))
+library(tximport)
+out <- if (length(args) >= 2) args[2] else file.path(project, 'results_rna_de_slurm')
+dir.create(out, recursive=TRUE, showWarnings=FALSE)
+meta <- read.delim(file.path(project, 'data_info/cll_metadata.tsv'), comment.char='#')
+files <- file.path(data_root, 'aging/bcells/rna_epiatlas_cll13', paste0(meta$sample, '.isoforms.results'))
+names(files) <- meta$sample
+first <- read.delim(files[1], check.names=FALSE)
+tx2gene <- first[,c('transcript_id','gene_id')]
+stopifnot(!anyDuplicated(tx2gene$transcript_id))
+txi <- tximport(files, type='rsem', txIn=TRUE, txOut=FALSE,
+                tx2gene=tx2gene, countsFromAbundance='lengthScaledTPM')
+write.table(txi$counts, file.path(out, 'length_scaled_counts.tsv'), sep='\t', quote=FALSE, col.names=NA)
+write.table(txi$abundance, file.path(out, 'gene_tpm_tximport.tsv'), sep='\t', quote=FALSE, col.names=NA)
+write.table(txi$length, file.path(out, 'gene_effective_lengths.tsv'), sep='\t', quote=FALSE, col.names=NA)
+saveRDS(txi, file.path(out, 'tximport.rds'))
+capture.output(sessionInfo(), file=file.path(out, 'tximport_session_info.txt'))
+cat('Imported',nrow(txi$counts),'genes across',ncol(txi$counts),'donors.\n')

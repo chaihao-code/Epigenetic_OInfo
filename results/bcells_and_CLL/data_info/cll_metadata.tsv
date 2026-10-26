@@ -1,0 +1,19 @@
+# CLL sample clinical annotation for the bcells panel
+# group: CLL-R (responders) / CLL-S (non-responders?); source: user-provided table
+# ighv_mutation_pct: IGHV mutation percentage (%)
+# ighv_class: IGHV-UM (unmutated) / IGHV-M (mutated)
+# NOTE: CEMT0129 / CEMT0134 / CEMT0135 / CEMT0138 have no annotation here.
+sample	group	ighv_mutation_pct	ighv_class
+CEMT0004	CLL-R	0	IGHV-UM
+CEMT0005	CLL-R	2.4	IGHV-M
+CEMT0006	CLL-S	15.6	IGHV-M
+CEMT0025	CLL-R	11.5	IGHV-M
+CEMT0026	CLL-R	3.1	IGHV-M
+CEMT0027	CLL-R	0	IGHV-UM
+CEMT0028	CLL-R	5.8	IGHV-M
+CEMT0029	CLL-R	0.3	IGHV-UM
+CEMT0030	CLL-R	0.3	IGHV-UM
+CEMT0094	CLL-S	3.3	IGHV-M
+CEMT0095	CLL-S	1.7	IGHV-UM
+CEMT0096	CLL-S	5.8	IGHV-M
+CEMT0097	CLL-S	5.8	IGHV-M

@@ -1,0 +1,13 @@
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00000241/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00000241.3.cb8a19fe-5d54-4cf1-bc64-25ee6aaff71a.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00000246/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00000246.3.03d538cd-6d19-45ed-979a-aaddf3c80691.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00000229/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00000229.3.52b09d83-6991-4941-819d-d40c3ee0ccb6.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00000247/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00000247.3.ba73344b-b40f-4988-a9be-2e22b9a90c7d.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00000239/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00000239.3.3e7be691-1aee-4535-8892-99521536f514.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00000234/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00000234.3.2b4b3889-7f86-46e5-9926-44238a1e6376.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00000232/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00000232.3.b033909e-a5e3-4621-8f62-c2be73940b47.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00000244/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00000244.3.ffe5a319-b9ad-4314-8388-2502c9996d8d.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00000226/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00000226.3.500162af-591d-4441-82b1-2c758c535bd9.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003687/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00003687.3.a6730b71-4d60-426b-a42a-6718e02107f0.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003660/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00003660.4.09116c11-7fa8-4e48-b956-872689e48f48.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003688/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00003688.3.85155a2c-d4ed-4bc1-ae2c-9c9aa8aa791e.genes.results
+https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003689/mRNA-Seq/ihec.rna-seq.ihec-grapenf-containerv1.1.0.IHECRE00003689.3.7b8e570d-9224-4f8b-afff-60e9e34e5dc2.genes.results

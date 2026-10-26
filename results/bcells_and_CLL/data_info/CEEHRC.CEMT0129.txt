@@ -1,0 +1,7 @@
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/98264.CEEHRC.CEMT0129.H3K36me3.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/98261.CEEHRC.CEMT0129.H3K27me3.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/98258.CEEHRC.CEMT0129.H3K9me3.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/98255.CEEHRC.CEMT0129.H3K4me3.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/98267.CEEHRC.CEMT0129.H3K27ac.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/98252.CEEHRC.CEMT0129.H3K4me1.signal_unstranded.bin1000.step1000.divInput.bp
+/lustre/home/2101110354/sequence_entropy/data/aging/bcells/input_normed_binned_results/98646.CEEHRC.CEMT0129.WGB-Seq.methylation_profile.bin1000.step1000.bp
