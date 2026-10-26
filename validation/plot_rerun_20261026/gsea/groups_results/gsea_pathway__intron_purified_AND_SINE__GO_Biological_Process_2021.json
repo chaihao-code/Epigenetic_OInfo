@@ -1,0 +1,61 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "regulation of oligodendrocyte differentiation (GO_0048713).pdf",
+    "regulation of protein localization to nucleus (GO_1900180).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "regulation of oligodendrocyte differentiation (GO:0048713)",
+      "historical_pdf_name": "regulation of oligodendrocyte differentiation (GO_0048713).pdf",
+      "n_ranked": 49756,
+      "n_hits": 10,
+      "saved_ES": 0.829725,
+      "recomputed_ES": 0.8297249570170092,
+      "absolute_ES_error": 4.2982990833273504e-08,
+      "NES": 2.100845,
+      "nominal_P": 0.0,
+      "FDR_q": 0.235946,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of oligodendrocyte differentiation (GO_0048713).pdf",
+          "bytes": 29054,
+          "sha256": "7e621664c0b1de193b89039d786691055af9808fd0ffb30f0255ee03b3deed3d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of oligodendrocyte differentiation (GO_0048713).png",
+          "bytes": 99446,
+          "sha256": "6244b2f27a00b90a2e8c7e08576fa49598b7e43768a94a33e57fc518adfdf09e"
+        }
+      ]
+    },
+    {
+      "term": "regulation of protein localization to nucleus (GO:1900180)",
+      "historical_pdf_name": "regulation of protein localization to nucleus (GO_1900180).pdf",
+      "n_ranked": 49756,
+      "n_hits": 32,
+      "saved_ES": 0.5736702,
+      "recomputed_ES": 0.5736702275946,
+      "absolute_ES_error": 2.7594599938396414e-08,
+      "NES": 2.058091,
+      "nominal_P": 0.0,
+      "FDR_q": 0.2307604,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of protein localization to nucleus (GO_1900180).pdf",
+          "bytes": 29791,
+          "sha256": "5daafa181f6d7c6343ef6e74c837ddac91e11435336e4bd458cf29c701764c25"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of protein localization to nucleus (GO_1900180).png",
+          "bytes": 104324,
+          "sha256": "f6a829107ae6451cd82b938945370a2aa11d8fff176271c25ca40f3bf36aa885"
+        }
+      ]
+    }
+  ],
+  "seconds": 1.1
+}

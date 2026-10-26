@@ -1,0 +1,187 @@
+{
+  "sample": "CEEHRC.CEMT0098",
+  "donor": "CEMT0098",
+  "age": 30,
+  "sex": "female",
+  "genome": "hg38",
+  "included_donors": [
+    "CEMT0098",
+    "CEMT0130",
+    "CEMT0132",
+    "CEMT0042",
+    "CEMT0044",
+    "CEMT0040"
+  ],
+  "fixed_grid": "demo/input/hg38_bins_1kb.bed.gz",
+  "fixed_grid_sha256": "14d507ddec00937dd6f691f64383e4b38c0360baa9dd224068ea016f6a87bd07",
+  "n_genome_bins": 3209513,
+  "n_autosomal_bins": 2875012,
+  "n_classes": 40,
+  "functional_masks": [
+    "data/genome_features/hg38/promoter_bins.tsv.gz",
+    "data/genome_features/hg38/proximal_ctcf_bound_enhancer_purified_bins.tsv.gz",
+    "data/genome_features/hg38/proximal_not_ctcf_bound_enhancer_purified_bins.tsv.gz",
+    "data/genome_features/hg38/distal_ctcf_bound_enhancer_purified_bins.tsv.gz",
+    "data/genome_features/hg38/distal_not_ctcf_bound_enhancer_purified_bins.tsv.gz",
+    "data/genome_features/hg38/exon_purified_bins.tsv.gz",
+    "data/genome_features/hg38/intron_purified_bins.tsv.gz"
+  ],
+  "repeat_masks": [
+    "data/genome_features/hg38/CpG_island_bins.tsv.gz",
+    "data/genome_features/hg38/LINE_bins.tsv.gz",
+    "data/genome_features/hg38/SINE_bins.tsv.gz",
+    "data/genome_features/hg38/LTR_bins.tsv.gz"
+  ],
+  "mask_hashes": [
+    {
+      "file": "data/genome_features/hg38/promoter_bins.tsv.gz",
+      "source_sha256": "57addf94664b3a16669cd9307462ed0ad813dab11e1df53cebe63c109509be19"
+    },
+    {
+      "file": "data/genome_features/hg38/proximal_ctcf_bound_enhancer_purified_bins.tsv.gz",
+      "source_sha256": "902959d9965ebd6f8b18b7fdefffc272590a6a75bdbab0d3001ada2fa5f30ad7"
+    },
+    {
+      "file": "data/genome_features/hg38/proximal_not_ctcf_bound_enhancer_purified_bins.tsv.gz",
+      "source_sha256": "233eefaea8a72266a1a47ea6560c29beae0e80a3e3eab1adfa5b6638238a8cf9"
+    },
+    {
+      "file": "data/genome_features/hg38/distal_ctcf_bound_enhancer_purified_bins.tsv.gz",
+      "source_sha256": "98e4f7f61543ae89796250f6faccc3c1520c46aa70eb05742af514d96ed07278"
+    },
+    {
+      "file": "data/genome_features/hg38/distal_not_ctcf_bound_enhancer_purified_bins.tsv.gz",
+      "source_sha256": "e2b0ce3124f6417aee8d83bde01bfe3b01889ba5f2c8793f7e55fcd4381d6ca9"
+    },
+    {
+      "file": "data/genome_features/hg38/exon_purified_bins.tsv.gz",
+      "source_sha256": "41205eae8625007a4eabf25c148161c5ff981ce2ac4767a43d42ed62adcbd3eb"
+    },
+    {
+      "file": "data/genome_features/hg38/intron_purified_bins.tsv.gz",
+      "source_sha256": "afd84378d2ad15b08279b38d3657a263dc5443e027bc9adc970fc5c27ee92307"
+    },
+    {
+      "file": "data/genome_features/hg38/CpG_island_bins.tsv.gz",
+      "source_sha256": "d9e1d14ba9ac45d459c8695e1e4e20f188ef8233ef3dbf7b9bf3492134d2e61e"
+    },
+    {
+      "file": "data/genome_features/hg38/LINE_bins.tsv.gz",
+      "source_sha256": "dc5aec58b82fce66df144de81eacffd4dcd098082210911073be6d1ff31003bd"
+    },
+    {
+      "file": "data/genome_features/hg38/SINE_bins.tsv.gz",
+      "source_sha256": "2c41be26fe9a5a0c037af2515be158fcb684c7850b9e1c959b7161453fa5c6ce"
+    },
+    {
+      "file": "data/genome_features/hg38/LTR_bins.tsv.gz",
+      "source_sha256": "47c51e4c464c01d8544d8a85f33fe5be941a6114b85fd7ba523ca0b9589db465"
+    }
+  ],
+  "signals": [
+    {
+      "mark": "H3K36me3",
+      "original_binned": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/input_normed_binned_results/98320.CEEHRC.CEMT0098.H3K36me3.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_file": "demo/input/binned/98320.CEEHRC.CEMT0098.H3K36me3.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_sha256": "ac7faca628ac771c60b6f1df762ee87f43f199d21cb0a22bb9783ad53b631a46",
+      "bigwig_file": "demo/input/bigwig/98320.CEEHRC.CEMT0098.H3K36me3.signal_unstranded.bigWig",
+      "bigwig_source": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/bigwig_files/98320.CEEHRC.CEMT0098.H3K36me3.signal_unstranded.bigWig",
+      "bigwig_bytes": 1750096379,
+      "public_source_url": "",
+      "source_format": "bigWig",
+      "raw_binned_name": "98320.CEEHRC.CEMT0098.H3K36me3.signal_unstranded.bin1000.step1000.bp"
+    },
+    {
+      "mark": "H3K4me3",
+      "original_binned": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/input_normed_binned_results/98311.CEEHRC.CEMT0098.H3K4me3.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_file": "demo/input/binned/98311.CEEHRC.CEMT0098.H3K4me3.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_sha256": "343d8654316d82f4de2f11c1a46efa9d140144638c9ac7f4778ca2deea3d4edd",
+      "bigwig_file": "demo/input/bigwig/98311.CEEHRC.CEMT0098.H3K4me3.signal_unstranded.bigWig",
+      "bigwig_source": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/bigwig_files/98311.CEEHRC.CEMT0098.H3K4me3.signal_unstranded.bigWig",
+      "bigwig_bytes": 1033287725,
+      "public_source_url": "https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003690/H3K4me3/ihec.chipseq.ihec-chipseq-containerv1.1.4.IHECRE00003690.3.e849a0a4-b91f-4930-9a8d-97e433f1508c.pval.signal.bigwig",
+      "source_format": "bigWig",
+      "raw_binned_name": "98311.CEEHRC.CEMT0098.H3K4me3.signal_unstranded.bin1000.step1000.bp"
+    },
+    {
+      "mark": "H3K27me3",
+      "original_binned": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/input_normed_binned_results/98317.CEEHRC.CEMT0098.H3K27me3.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_file": "demo/input/binned/98317.CEEHRC.CEMT0098.H3K27me3.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_sha256": "a675c812eb9c520f13b8ee96c7da4e766add08af8207983f584933229de4811c",
+      "bigwig_file": "demo/input/bigwig/98317.CEEHRC.CEMT0098.H3K27me3.signal_unstranded.bigWig",
+      "bigwig_source": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/bigwig_files/98317.CEEHRC.CEMT0098.H3K27me3.signal_unstranded.bigWig",
+      "bigwig_bytes": 1672079783,
+      "public_source_url": "https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003690/H3K27me3/ihec.chipseq.ihec-chipseq-containerv1.1.4.IHECRE00003690.3.6941f4c2-9444-41d7-82bb-38a8112f3f75.pval.signal.bigwig",
+      "source_format": "bigWig",
+      "raw_binned_name": "98317.CEEHRC.CEMT0098.H3K27me3.signal_unstranded.bin1000.step1000.bp"
+    },
+    {
+      "mark": "WGB-Seq",
+      "original_binned": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/input_normed_binned_results/98642.CEEHRC.CEMT0098.WGB-Seq.methylation_profile.bin1000.step1000.bp",
+      "binned_file": "demo/input/binned/98642.CEEHRC.CEMT0098.WGB-Seq.methylation_profile.bin1000.step1000.bp",
+      "binned_sha256": "9abb12628cb659f729c2cc2a48b33c4dc2b9df816ffc03131156e0e7ad3497ba",
+      "bigwig_file": "demo/input/bigwig/98642.CEEHRC.CEMT0098.WGB-Seq.methylation_profile.bigWig",
+      "bigwig_source": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/bigwig_files/methyl_bigwig/98642.CEEHRC.CEMT0098.WGB-Seq.methylation_profile.bigWig",
+      "bigwig_bytes": 426707803,
+      "public_source_url": "https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003690/WGBS/ihec.wgbs.ihec-gembs-containerv3.5.0.IHECRE00003690.3.8703ccf1-2604-4042-aa7f-0e10c68acee8.cpg.bed.gz",
+      "source_format": "gembs cpg.bed.gz; local methylation bigWig is a derived conversion",
+      "raw_binned_name": "98642.CEEHRC.CEMT0098.WGB-Seq.methylation_profile.bin1000.step1000.bp"
+    },
+    {
+      "mark": "H3K4me1",
+      "original_binned": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/input_normed_binned_results/98308.CEEHRC.CEMT0098.H3K4me1.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_file": "demo/input/binned/98308.CEEHRC.CEMT0098.H3K4me1.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_sha256": "da2530f9c5333ce08d33bd3e7cf921ff8ddd24f6ec1480adad7c7bd0afb920a9",
+      "bigwig_file": "demo/input/bigwig/98308.CEEHRC.CEMT0098.H3K4me1.signal_unstranded.bigWig",
+      "bigwig_source": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/bigwig_files/98308.CEEHRC.CEMT0098.H3K4me1.signal_unstranded.bigWig",
+      "bigwig_bytes": 1523667986,
+      "public_source_url": "https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003690/H3K4me1/ihec.chipseq.ihec-chipseq-containerv1.1.4.IHECRE00003690.3.3012eb3e-9d87-4c93-aaf5-58e99d8aaa84.pval.signal.bigwig",
+      "source_format": "bigWig",
+      "raw_binned_name": "98308.CEEHRC.CEMT0098.H3K4me1.signal_unstranded.bin1000.step1000.bp"
+    },
+    {
+      "mark": "H3K9me3",
+      "original_binned": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/input_normed_binned_results/98314.CEEHRC.CEMT0098.H3K9me3.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_file": "demo/input/binned/98314.CEEHRC.CEMT0098.H3K9me3.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_sha256": "c0dc2248c8c26fff87a4dcb7e23c55c44800a39a51ee579a739d1ac8aa588379",
+      "bigwig_file": "demo/input/bigwig/98314.CEEHRC.CEMT0098.H3K9me3.signal_unstranded.bigWig",
+      "bigwig_source": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/bigwig_files/98314.CEEHRC.CEMT0098.H3K9me3.signal_unstranded.bigWig",
+      "bigwig_bytes": 1517079773,
+      "public_source_url": "https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003690/H3K9me3/ihec.chipseq.ihec-chipseq-containerv1.1.4.IHECRE00003690.3.dc1d2dc3-279f-44dc-a6f1-0d5154726fd5.pval.signal.bigwig",
+      "source_format": "bigWig",
+      "raw_binned_name": "98314.CEEHRC.CEMT0098.H3K9me3.signal_unstranded.bin1000.step1000.bp"
+    },
+    {
+      "mark": "H3K27ac",
+      "original_binned": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/input_normed_binned_results/98323.CEEHRC.CEMT0098.H3K27ac.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_file": "demo/input/binned/98323.CEEHRC.CEMT0098.H3K27ac.signal_unstranded.bin1000.step1000.divInput.bp",
+      "binned_sha256": "33d88997718161004c243b5678c338b0e7836ced57941a3719e20ed0164bca94",
+      "bigwig_file": "demo/input/bigwig/98323.CEEHRC.CEMT0098.H3K27ac.signal_unstranded.bigWig",
+      "bigwig_source": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/bigwig_files/98323.CEEHRC.CEMT0098.H3K27ac.signal_unstranded.bigWig",
+      "bigwig_bytes": 1046183729,
+      "public_source_url": "https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003690/H3K27ac/ihec.chipseq.ihec-chipseq-containerv1.1.4.IHECRE00003690.3.bb55a212-99c2-4448-84cc-6786b9df2691.pval.signal.bigwig",
+      "source_format": "bigWig",
+      "raw_binned_name": "98323.CEEHRC.CEMT0098.H3K27ac.signal_unstranded.bin1000.step1000.bp"
+    },
+    {
+      "mark": "Input",
+      "bigwig_file": "demo/input/bigwig/98326.CEEHRC.CEMT0098.Input.signal_unstranded.bigWig",
+      "bigwig_source": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/bigwig_files/98326.CEEHRC.CEMT0098.Input.signal_unstranded.bigWig",
+      "bigwig_bytes": 1524465543,
+      "public_source_url": "https://ihec-epigenomes.org/epiatlas/index/base_data/IHECRE00003690/Input/ihec.chipseq.ihec-chipseq-containerv1.1.4.IHECRE00003690.3.2cafda9b-dfc1-4231-8ed9-6249d923a6a9.ctl_raw.bigwig",
+      "source_format": "bigWig",
+      "raw_binned_name": "98326.CEEHRC.CEMT0098.Input.signal_unstranded.bin1000.step1000.bp"
+    }
+  ],
+  "n_states": 5,
+  "n_max": 100000,
+  "random_seed": 42,
+  "n_permutations": 10000,
+  "permutation_seed": 1234,
+  "default_null": "system",
+  "binning": "Original fixed grid, UCSC covered-base mean (sixth field), histone signal/(Input+0.01), methylation unchanged",
+  "local_scope": "Same sampled loci as global Omega; coordinates are saved. The original complete annotation classes remain unchanged.",
+  "normalization_epsilon": 0.01,
+  "normalization_source": "/lustre/home/2101110354/sequence_entropy/data/aging/thyroid/input_normed_binned_results/slurm_scripts/CEEHRC.CEMT0098.slurm",
+  "normalization_source_sha256": "0bb8010b242d11b4bbaea21b5a8ea8779fc52e4708eb0986fd4cea59b4c049f2"
+}

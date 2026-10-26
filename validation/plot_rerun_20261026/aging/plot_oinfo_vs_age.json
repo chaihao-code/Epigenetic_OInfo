@@ -1,0 +1,115 @@
+{
+  "script": "cases/aging/neutrophil/scripts/plot_oinfo_vs_age.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only plot_oinfo_vs_age.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/plot_oinfo_vs_age.log",
+  "started_unix": 1793013720.6703305,
+  "status": "success",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/donor_metadata.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/donor_metadata.tsv",
+      "bytes": 1476,
+      "sha256": "e4c8a053fabc3f836c344874754d7ba9d13de2cf13766344cf4010e62e66b31b"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000004/IHECRE00000004_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000004/IHECRE00000004_oinfo.csv",
+      "bytes": 3422808,
+      "sha256": "7e53483362c783c985d8b244922f42e3c1e29a63d44519f1ad667acb7624c6d6"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000094/IHECRE00000094_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000094/IHECRE00000094_oinfo.csv",
+      "bytes": 3422258,
+      "sha256": "3cbfdbea0bc8f36aaa4eaa4f98724e85c3bf2d4ee70e7667361347f753fac8fb"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000095/IHECRE00000095_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000095/IHECRE00000095_oinfo.csv",
+      "bytes": 3423889,
+      "sha256": "817bd6249ba961392d954ee5b0bd18aa53a9f7f732b53815e35bfe4c5ef86fff"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000109/IHECRE00000109_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000109/IHECRE00000109_oinfo.csv",
+      "bytes": 3423879,
+      "sha256": "d15d5d2defdd83121e5682e429d3e2c3c79bb2dddd85580afecdd70befcea82a"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000124/IHECRE00000124_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000124/IHECRE00000124_oinfo.csv",
+      "bytes": 3424033,
+      "sha256": "beeea21ba54b8f6e9467a9b9c5ac95a9bf94b3576636e61f4fbad43a07418892"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000159/IHECRE00000159_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000159/IHECRE00000159_oinfo.csv",
+      "bytes": 3422813,
+      "sha256": "6197715141ff375c2a1836129d3592b1b97fb16f18f9ab73b89a7dc55f7d59eb"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000256/IHECRE00000256_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000256/IHECRE00000256_oinfo.csv",
+      "bytes": 3422176,
+      "sha256": "95fcc767feae1e54d62e870c2acb3e575f44d948bd70c8885ed6cfd5b1e258cd"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000265/IHECRE00000265_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000265/IHECRE00000265_oinfo.csv",
+      "bytes": 3423708,
+      "sha256": "3306279b318683a6071b4bc392fd5c0c96012670a59bf7a9589dc36697d459d4"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000284/IHECRE00000284_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000284/IHECRE00000284_oinfo.csv",
+      "bytes": 3423686,
+      "sha256": "f731a3b0e32f22ba668a69b309e160201f3fa8e7258f7628c6c909743a52ab26"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000308/IHECRE00000308_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000308/IHECRE00000308_oinfo.csv",
+      "bytes": 3422253,
+      "sha256": "e3bb3f550aeddec11cb9a18941783bb0885fd6302568fe8d1ac9cf688a1a3225"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000346/IHECRE00000346_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000346/IHECRE00000346_oinfo.csv",
+      "bytes": 3421686,
+      "sha256": "536c99397023bed483d2358effa05cf704fb792baa467039f8d060e55b4f699b"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000353/IHECRE00000353_oinfo.csv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000353/IHECRE00000353_oinfo.csv",
+      "bytes": 3423040,
+      "sha256": "774f7bd76e796c69636cd6b94488ad6e6c8a458ecac24b92da5f45f6092807a9"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "cases/aging/neutrophil/plots/oinfo_vs_age_all_blocks.png",
+      "bytes": 354694,
+      "sha256": "f39c1308d00defe89e8a1c0a519f3d0ad16b63d4fcfeefaa19b34938266da5b8"
+    },
+    {
+      "path": "cases/aging/neutrophil/plots/oinfo_vs_age_all_blocks_adults.png",
+      "bytes": 519558,
+      "sha256": "2bd5a84fd233a146c7d3d2924b2b673aa52cb5b1e98081e9b4c5f7821167e4e3"
+    },
+    {
+      "path": "cases/aging/neutrophil/plots/oinfo_vs_age_cpg_blocks.png",
+      "bytes": 110722,
+      "sha256": "3491a6f5c541aed6a950605be5231000808c3eba7802f071ee44af55ce181dac"
+    },
+    {
+      "path": "cases/aging/neutrophil/plots/oinfo_vs_age_cpg_blocks_adults.png",
+      "bytes": 133645,
+      "sha256": "5bfb24aa58dede5c2a23064e2b3c1d4dfb494597b3bea0ce6a81cf99bada417a"
+    }
+  ],
+  "elapsed_seconds": 12.63,
+  "description_zh": "40区域及CpG区域O-info与年龄散点：全部/仅成人，共4图",
+  "input_nature_zh": "中间O-information CSV+供体元数据；拟合图中趋势线",
+  "source_sha256": "badc525fc786d03063c7a0875497d31a8f0ee148d1de1fdac4c1af1fa22cba26",
+  "figure_count": 4,
+  "file_count": 4
+}

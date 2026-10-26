@@ -1,0 +1,31 @@
+{
+  "python_executable": "/lustre/home/2101110354/anaconda3/bin/python",
+  "python": "3.11.7 (main, Dec 15 2023, 18:12:31) [GCC 11.2.0]",
+  "platform": "Linux-4.18.0-425.3.1.el8.x86_64-x86_64-with-glibc2.28",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.1.4",
+    "matplotlib": "3.8.0",
+    "scipy": "1.11.4",
+    "statsmodels": "0.14.0",
+    "PyYAML": "6.0.1",
+    "seaborn": "0.12.2",
+    "pyBigWig": "0.3.26",
+    "Pillow": "10.2.0",
+    "scikit-learn": "1.2.2"
+  },
+  "utilities": {
+    "pdftocairo": "/usr/bin/pdftocairo",
+    "pdfinfo": "/usr/bin/pdfinfo",
+    "pdftoppm": "/usr/bin/pdftoppm",
+    "pdftotext": "/usr/bin/pdftotext"
+  },
+  "font": {
+    "path": "data/fonts/arial.ttf",
+    "is_regular_file": true
+  },
+  "notes": [
+    "No package installation or network download was required.",
+    "GSEA re-rendering uses NumPy/pandas/matplotlib with saved RNK/GMT/reports, not the GSEA permutation engine."
+  ]
+}

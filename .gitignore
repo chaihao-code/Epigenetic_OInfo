@@ -1,17 +1,34 @@
-# This repository only tracks the preprocessing and hoi_code pipelines
-/*
-!.gitignore
-!/preprocessing/
-!/results/
-!/results/aging/
-!/results/aging/thyroid/
-!/results/aging/thyroid/local_O_info_regression/
-!/hoi_code/
-
-# Exclude job logs and scratch files
-preprocessing/**/logs/
-hoi_code/**/logs/
+# Local runtime files and workspace metadata
+.git/
+.agents/
+.aws/
+.codex/
 __pycache__/
 *.pyc
-!results/aging/thyroid/local_O_info_regression/
-!/genome_annotation_pipeline/
+.venv/
+.Rlib/
+*.out
+*.err
+*.log
+**/logs/
+**/cache/
+.DS_Store
+
+# Local-only archives, external software and raw bigWig links
+release_archives/
+external/
+tools/bin/*
+!tools/bin/README.md
+demo/input/bigwig/*
+!demo/input/bigwig/README.md
+
+# Regenerable full-bigWig preprocessing output; prepared inputs are supplied.
+demo/results/from_bigwig/preprocessing/**
+!demo/results/from_bigwig/preprocessing/**/
+!demo/results/from_bigwig/preprocessing/**/README.md
+
+# This complete result table is supplied as byte-identical CSV.gz.
+cases/bcells_and_CLL/dmr_repro_cemt/output/all_bins_1kb_cemt_g2_g3_limma_results.csv
+
+# Supplementary exports are kept locally and are not published to GitHub.
+supplementary_data/

@@ -1,0 +1,1453 @@
+{
+  "tasks": [
+    {
+      "name": "2cell_bulk00",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk00.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 0,
+      "code": "0000",
+      "n_bulk": 0,
+      "replaced_marks": [],
+      "label": "Original"
+    },
+    {
+      "name": "2cell_bulk01",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk01.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 1,
+      "code": "0001",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K36me3"
+      ],
+      "label": "H3K36me3"
+    },
+    {
+      "name": "2cell_bulk02",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk02.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/2cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 2,
+      "code": "0010",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K9me3"
+      ],
+      "label": "H3K9me3"
+    },
+    {
+      "name": "2cell_bulk03",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk03.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/2cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 3,
+      "code": "0011",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3"
+      ],
+      "label": "H3K36me3+H3K9me3"
+    },
+    {
+      "name": "2cell_bulk04",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk04.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 4,
+      "code": "0100",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K27me3"
+      ],
+      "label": "H3K27me3"
+    },
+    {
+      "name": "2cell_bulk05",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk05.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 5,
+      "code": "0101",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K27me3"
+      ],
+      "label": "H3K36me3+H3K27me3"
+    },
+    {
+      "name": "2cell_bulk06",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk06.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/2cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 6,
+      "code": "0110",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K27me3"
+      ],
+      "label": "H3K9me3+H3K27me3"
+    },
+    {
+      "name": "2cell_bulk07",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk07.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/2cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 7,
+      "code": "0111",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K27me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K27me3"
+    },
+    {
+      "name": "2cell_bulk08",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk08.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 8,
+      "code": "1000",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K4me3"
+      ],
+      "label": "H3K4me3"
+    },
+    {
+      "name": "2cell_bulk09",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk09.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 9,
+      "code": "1001",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K4me3"
+    },
+    {
+      "name": "2cell_bulk10",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk10.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/2cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 10,
+      "code": "1010",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K4me3"
+      ],
+      "label": "H3K9me3+H3K4me3"
+    },
+    {
+      "name": "2cell_bulk11",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk11.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/2cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 11,
+      "code": "1011",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K4me3"
+    },
+    {
+      "name": "2cell_bulk12",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk12.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 12,
+      "code": "1100",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K27me3+H3K4me3"
+    },
+    {
+      "name": "2cell_bulk13",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk13.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 13,
+      "code": "1101",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K27me3+H3K4me3"
+    },
+    {
+      "name": "2cell_bulk14",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk14.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/2cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 14,
+      "code": "1110",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K9me3+H3K27me3+H3K4me3"
+    },
+    {
+      "name": "2cell_bulk15",
+      "stage": "2cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/2cell_bulk15.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/2cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/2cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/2cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/2cell.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/2cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 15,
+      "code": "1111",
+      "n_bulk": 4,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K27me3+H3K4me3"
+    },
+    {
+      "name": "8cell_bulk00",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk00.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 0,
+      "code": "0000",
+      "n_bulk": 0,
+      "replaced_marks": [],
+      "label": "Original"
+    },
+    {
+      "name": "8cell_bulk01",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk01.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 1,
+      "code": "0001",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K36me3"
+      ],
+      "label": "H3K36me3"
+    },
+    {
+      "name": "8cell_bulk02",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk02.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/8cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 2,
+      "code": "0010",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K9me3"
+      ],
+      "label": "H3K9me3"
+    },
+    {
+      "name": "8cell_bulk03",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk03.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/8cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 3,
+      "code": "0011",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3"
+      ],
+      "label": "H3K36me3+H3K9me3"
+    },
+    {
+      "name": "8cell_bulk04",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk04.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 4,
+      "code": "0100",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K27me3"
+      ],
+      "label": "H3K27me3"
+    },
+    {
+      "name": "8cell_bulk05",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk05.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 5,
+      "code": "0101",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K27me3"
+      ],
+      "label": "H3K36me3+H3K27me3"
+    },
+    {
+      "name": "8cell_bulk06",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk06.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/8cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 6,
+      "code": "0110",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K27me3"
+      ],
+      "label": "H3K9me3+H3K27me3"
+    },
+    {
+      "name": "8cell_bulk07",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk07.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/8cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 7,
+      "code": "0111",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K27me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K27me3"
+    },
+    {
+      "name": "8cell_bulk08",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk08.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 8,
+      "code": "1000",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K4me3"
+      ],
+      "label": "H3K4me3"
+    },
+    {
+      "name": "8cell_bulk09",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk09.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 9,
+      "code": "1001",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K4me3"
+    },
+    {
+      "name": "8cell_bulk10",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk10.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/8cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 10,
+      "code": "1010",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K4me3"
+      ],
+      "label": "H3K9me3+H3K4me3"
+    },
+    {
+      "name": "8cell_bulk11",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk11.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/8cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 11,
+      "code": "1011",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K4me3"
+    },
+    {
+      "name": "8cell_bulk12",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk12.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 12,
+      "code": "1100",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K27me3+H3K4me3"
+    },
+    {
+      "name": "8cell_bulk13",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk13.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 13,
+      "code": "1101",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K27me3+H3K4me3"
+    },
+    {
+      "name": "8cell_bulk14",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk14.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/8cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 14,
+      "code": "1110",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K9me3+H3K27me3+H3K4me3"
+    },
+    {
+      "name": "8cell_bulk15",
+      "stage": "8cell",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/8cell_bulk15.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/8cell.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 15,
+      "code": "1111",
+      "n_bulk": 4,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K27me3+H3K4me3"
+    },
+    {
+      "name": "ICM_bulk00",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk00.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 0,
+      "code": "0000",
+      "n_bulk": 0,
+      "replaced_marks": [],
+      "label": "Original"
+    },
+    {
+      "name": "ICM_bulk01",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk01.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 1,
+      "code": "0001",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K36me3"
+      ],
+      "label": "H3K36me3"
+    },
+    {
+      "name": "ICM_bulk02",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk02.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/ICM.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 2,
+      "code": "0010",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K9me3"
+      ],
+      "label": "H3K9me3"
+    },
+    {
+      "name": "ICM_bulk03",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk03.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/ICM.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 3,
+      "code": "0011",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3"
+      ],
+      "label": "H3K36me3+H3K9me3"
+    },
+    {
+      "name": "ICM_bulk04",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk04.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 4,
+      "code": "0100",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K27me3"
+      ],
+      "label": "H3K27me3"
+    },
+    {
+      "name": "ICM_bulk05",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk05.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 5,
+      "code": "0101",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K27me3"
+      ],
+      "label": "H3K36me3+H3K27me3"
+    },
+    {
+      "name": "ICM_bulk06",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk06.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/ICM.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 6,
+      "code": "0110",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K27me3"
+      ],
+      "label": "H3K9me3+H3K27me3"
+    },
+    {
+      "name": "ICM_bulk07",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk07.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me3.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/ICM.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 7,
+      "code": "0111",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K27me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K27me3"
+    },
+    {
+      "name": "ICM_bulk08",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk08.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 8,
+      "code": "1000",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K4me3"
+      ],
+      "label": "H3K4me3"
+    },
+    {
+      "name": "ICM_bulk09",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk09.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 9,
+      "code": "1001",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K4me3"
+    },
+    {
+      "name": "ICM_bulk10",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk10.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/ICM.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 10,
+      "code": "1010",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K4me3"
+      ],
+      "label": "H3K9me3+H3K4me3"
+    },
+    {
+      "name": "ICM_bulk11",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk11.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/ICM.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27me3.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 11,
+      "code": "1011",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K4me3"
+    },
+    {
+      "name": "ICM_bulk12",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk12.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 12,
+      "code": "1100",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K27me3+H3K4me3"
+    },
+    {
+      "name": "ICM_bulk13",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk13.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K9me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 13,
+      "code": "1101",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K27me3+H3K4me3"
+    },
+    {
+      "name": "ICM_bulk14",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk14.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/ICM.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K27me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K36me3.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 14,
+      "code": "1110",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K9me3+H3K27me3+H3K4me3"
+    },
+    {
+      "name": "ICM_bulk15",
+      "stage": "ICM",
+      "input": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/ICM_bulk15.txt",
+      "tracks": [
+        "data/mouse_preimplementation/binned_results/atac/ICM.ATAC.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K4me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE97778/replicate_averaged/ICM.H3K9me3.repMean.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp",
+        "data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/ICM.H3K27me3.repMean.bin1000.bp",
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+        "data/mouse_preimplementation/binned_results/methylation/ICM.CpG_methyl.bin1000.bp"
+      ],
+      "mask": 15,
+      "code": "1111",
+      "n_bulk": 4,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K27me3+H3K4me3"
+    }
+  ],
+  "variants": [
+    {
+      "mask": 0,
+      "code": "0000",
+      "n_bulk": 0,
+      "replaced_marks": [],
+      "label": "Original"
+    },
+    {
+      "mask": 1,
+      "code": "0001",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K36me3"
+      ],
+      "label": "H3K36me3"
+    },
+    {
+      "mask": 2,
+      "code": "0010",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K9me3"
+      ],
+      "label": "H3K9me3"
+    },
+    {
+      "mask": 3,
+      "code": "0011",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3"
+      ],
+      "label": "H3K36me3+H3K9me3"
+    },
+    {
+      "mask": 4,
+      "code": "0100",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K27me3"
+      ],
+      "label": "H3K27me3"
+    },
+    {
+      "mask": 5,
+      "code": "0101",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K27me3"
+      ],
+      "label": "H3K36me3+H3K27me3"
+    },
+    {
+      "mask": 6,
+      "code": "0110",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K27me3"
+      ],
+      "label": "H3K9me3+H3K27me3"
+    },
+    {
+      "mask": 7,
+      "code": "0111",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K27me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K27me3"
+    },
+    {
+      "mask": 8,
+      "code": "1000",
+      "n_bulk": 1,
+      "replaced_marks": [
+        "H3K4me3"
+      ],
+      "label": "H3K4me3"
+    },
+    {
+      "mask": 9,
+      "code": "1001",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K4me3"
+    },
+    {
+      "mask": 10,
+      "code": "1010",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K4me3"
+      ],
+      "label": "H3K9me3+H3K4me3"
+    },
+    {
+      "mask": 11,
+      "code": "1011",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K4me3"
+    },
+    {
+      "mask": 12,
+      "code": "1100",
+      "n_bulk": 2,
+      "replaced_marks": [
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K27me3+H3K4me3"
+    },
+    {
+      "mask": 13,
+      "code": "1101",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K27me3+H3K4me3"
+    },
+    {
+      "mask": 14,
+      "code": "1110",
+      "n_bulk": 3,
+      "replaced_marks": [
+        "H3K9me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K9me3+H3K27me3+H3K4me3"
+    },
+    {
+      "mask": 15,
+      "code": "1111",
+      "n_bulk": 4,
+      "replaced_marks": [
+        "H3K36me3",
+        "H3K9me3",
+        "H3K27me3",
+        "H3K4me3"
+      ],
+      "label": "H3K36me3+H3K9me3+H3K27me3+H3K4me3"
+    }
+  ],
+  "replacement_bit_order": [
+    "H3K36me3",
+    "H3K9me3",
+    "H3K27me3",
+    "H3K4me3"
+  ],
+  "shared_signals": [
+    "ATAC",
+    "H3K4me1",
+    "H3K4me3",
+    "H3K9me3",
+    "H3K27ac",
+    "H3K27me3",
+    "H3K36me3",
+    "DNA_methylation"
+  ],
+  "n_permutations": 10000,
+  "n_bins": 5,
+  "n_max": 100000,
+  "random_seed": 42,
+  "permutation_seed": 1234,
+  "permutation_scope": "block",
+  "BH_family_size": 56,
+  "alpha": 0.05,
+  "late_source": "cases/mouse_after_E11.5/synergistic_triplets/permutation_results",
+  "late_reference_tissues": [
+    "Forebrain",
+    "Midbrain",
+    "Hindbrain",
+    "Heart",
+    "Liver"
+  ],
+  "stability": "Intersection / union of significant (block, triplet) keys across all 16 masks, including original",
+  "empty_union": "undefined; exported as blank, not 1",
+  "prepared_utc": "2026-10-21T09:24:17.668103+00:00",
+  "original_design": "project/bulk_factorial_triplets/manifest.json",
+  "original_design_sha256": "c856ee19901ea7a56100a732dc2719748024c317a0cae2c7f123c62f609a3e7f",
+  "historical_alias_repairs": [
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/2cell/2cell.H3K36me3.GSE112834_Late_2C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/Late_2C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/2cell/2cell.H3K36me3.GSE112834_Late_2C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/Late_2C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/2cell/2cell.H3K36me3.GSE112834_Late_2C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/Late_2C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/2cell/2cell.H3K36me3.GSE112834_Late_2C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/Late_2C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/2cell/2cell.H3K36me3.GSE112834_Late_2C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/Late_2C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/2cell/2cell.H3K36me3.GSE112834_Late_2C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/Late_2C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/2cell/2cell.H3K36me3.GSE112834_Late_2C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/Late_2C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/2cell/2cell.H3K36me3.GSE112834_Late_2C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/2cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/Late_2C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/8cell/8cell.H3K36me3.GSE112834_8C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/8C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/8cell/8cell.H3K36me3.GSE112834_8C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/8C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/8cell/8cell.H3K36me3.GSE112834_8C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/8C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/8cell/8cell.H3K36me3.GSE112834_8C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/8C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/8cell/8cell.H3K36me3.GSE112834_8C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/8C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/8cell/8cell.H3K36me3.GSE112834_8C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/8C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/8cell/8cell.H3K36me3.GSE112834_8C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/8C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/8cell/8cell.H3K36me3.GSE112834_8C_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/8cell.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/8C_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/ICM/blastocyst.H3K36me3.GSE112834_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/ICM_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/ICM/blastocyst.H3K36me3.GSE112834_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/ICM_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/ICM/blastocyst.H3K36me3.GSE112834_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/ICM_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/ICM/blastocyst.H3K36me3.GSE112834_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/ICM_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/ICM/blastocyst.H3K36me3.GSE112834_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/ICM_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/ICM/blastocyst.H3K36me3.GSE112834_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/ICM_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/ICM/blastocyst.H3K36me3.GSE112834_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/ICM_H3K36me3.mm10.bin1000.step1000.bp"
+    },
+    {
+      "historical": "project/batch_effect/2026-09-26/replacement_inputs/signals/ICM/blastocyst.H3K36me3.GSE112834_bin1000_step1000.bin1000.bp",
+      "current": "cases/H3K36me3_developmental_switch/batch_effect_figures/inputs/signals/ICM.H3K36me3.GSE112834.bin1000.bp",
+      "source": "data/mouse_preimplementation_complement_data/GSE112834/binned_results/ICM_H3K36me3.mm10.bin1000.step1000.bp"
+    }
+  ],
+  "cleared_local_products_sha256": {
+    "same_stage_mark_summary.tsv": "80dd8d4a95541ca42b2e7f3d25ac5e287f931ea96160e45c4e5a76d4e22da68c",
+    "late_common_tissue_means.tsv": "fbaf3ae233ab590b982305c2ccfa4c5752b560425eff1134337e36ef0101a8ca",
+    "captions_zh.txt": "847be314a4cd3197929714f7fadfb1800a4cbed36cbee9ca23258099cd78a780",
+    "H3K36me3_region_contrasts.tsv": "1797cf64901399a8a7742ad0e8d9d192b994132067102a64102934c463b6cdac",
+    "all_mark_region_participation.tsv": "3ee01503473fb4e1def5f3d46abcaf1e4c18714fbf745c558904b17958f124f4",
+    "method.json": "42d1aaf3d5ae5df19f417596069ad83cb7b38d95d3c9d28022e080dbe10f6dc2",
+    "H3K36me3_AB_summary.tsv": "fc28bea3d2a9f64dba6520cc8c0cba96780262402051e0226677fdfabea1f888"
+  },
+  "status": "complete",
+  "compute_job_id": "15959822",
+  "report_job_id": "15959874",
+  "dependency": "afterok:15959822",
+  "code_sha256": {
+    "script/hoi_code/compute_hoi_oinfo.py": "0a30c1c5a2843e165098b50120cff1df866231f3826fe3bed918fcf4075cb872",
+    "script/hoi_code/signal_loader.py": "e24f3ac6ce52225eb5cb3611df910b2124f1826763282f13675a9ba659d706bf",
+    "script/hoi_code/block_processor.py": "ded46989fa0f52f5756f72a2154bff83ca3b8afd6847b0b21ce452031e62f858",
+    "script/hoi_code/compute_oinfo_from_entropy.py": "059c1d4bc9c3e849d6cbc1117e9053cd4069a1f7e20c07a90605c8f7804b78cc",
+    "project/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_batch_effect.py": "de3ee8721712665b62e292d470536df6768113f595fb5fc836c8d054d30e1ed7"
+  },
+  "figures": [
+    "plots/same_stage_16variant_participation_heatmap.pdf",
+    "plots/same_stage_16variant_participation_heatmap.png",
+    "plots/same_stage_bulk_replacement_all_marks.pdf",
+    "plots/same_stage_bulk_replacement_all_marks.png",
+    "plots/stability_16_variants.pdf",
+    "plots/stability_16_variants.png"
+  ]
+}

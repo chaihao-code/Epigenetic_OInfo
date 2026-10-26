@@ -1,0 +1,286 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Complement.pdf",
+    "DNA Repair.pdf",
+    "E2F Targets.pdf",
+    "Glycolysis.pdf",
+    "Hedgehog Signaling.pdf",
+    "Hypoxia.pdf",
+    "Myc Targets V1.pdf",
+    "Oxidative Phosphorylation.pdf",
+    "PI3K-AKT-mTOR  Signaling.pdf",
+    "TNF-alpha Signaling via NF-kB.pdf",
+    "p53 Pathway.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Complement",
+      "historical_pdf_name": "Complement.pdf",
+      "n_ranked": 53462,
+      "n_hits": 135,
+      "saved_ES": 0.3383714,
+      "recomputed_ES": 0.3383714454314658,
+      "absolute_ES_error": 4.5431465811596183e-08,
+      "NES": 1.594896,
+      "nominal_P": 0.0,
+      "FDR_q": 0.106625,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Complement.pdf",
+          "bytes": 32978,
+          "sha256": "fac7f751ec019729560ed575d5791a6ae0eade2ceb357799fb143514819ed509"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Complement.png",
+          "bytes": 97907,
+          "sha256": "34dc87aed5fac7b478ebea093c7f5ae90e76152e3f351b9a5fa4032daad0f62d"
+        }
+      ]
+    },
+    {
+      "term": "DNA Repair",
+      "historical_pdf_name": "DNA Repair.pdf",
+      "n_ranked": 53462,
+      "n_hits": 137,
+      "saved_ES": 0.2689037,
+      "recomputed_ES": 0.268903688484776,
+      "absolute_ES_error": 1.151522399656102e-08,
+      "NES": 1.277917,
+      "nominal_P": 0.07070707,
+      "FDR_q": 0.248763,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/DNA Repair.pdf",
+          "bytes": 34987,
+          "sha256": "565ec5ebb55b929cd74ccd4f4b00164788a60c1a59cdfc7afa617d852fed947d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/DNA Repair.png",
+          "bytes": 107133,
+          "sha256": "f54ca0babe812c173e533e5b9d6ac0107279dca8d2254d38112369fb28174c38"
+        }
+      ]
+    },
+    {
+      "term": "E2F Targets",
+      "historical_pdf_name": "E2F Targets.pdf",
+      "n_ranked": 53462,
+      "n_hits": 190,
+      "saved_ES": 0.2806766,
+      "recomputed_ES": 0.28067657135682794,
+      "absolute_ES_error": 2.864317205641953e-08,
+      "NES": 1.390357,
+      "nominal_P": 0.01690141,
+      "FDR_q": 0.2343862,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/E2F Targets.pdf",
+          "bytes": 34154,
+          "sha256": "9978614bf63bf05a9ad7a81ecf025ad7074a75f6b5fa82ba10742ba37cb3f9fd"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/E2F Targets.png",
+          "bytes": 106713,
+          "sha256": "bac7e7262008bd7e198983d60502d8c04578d176cd2a5b98547ae99730c5d096"
+        }
+      ]
+    },
+    {
+      "term": "Glycolysis",
+      "historical_pdf_name": "Glycolysis.pdf",
+      "n_ranked": 53462,
+      "n_hits": 171,
+      "saved_ES": 0.2778381,
+      "recomputed_ES": 0.2778381389521744,
+      "absolute_ES_error": 3.895217443039556e-08,
+      "NES": 1.367269,
+      "nominal_P": 0.01436782,
+      "FDR_q": 0.2308635,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Glycolysis.pdf",
+          "bytes": 34129,
+          "sha256": "798e847b06bdd3ded48233855bbdfa877bde849b4612dcefaa72d5055e1de298"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Glycolysis.png",
+          "bytes": 105428,
+          "sha256": "815509e1cb33654c52a2b67e5e52449057721ff19682cc565d81c145030b5056"
+        }
+      ]
+    },
+    {
+      "term": "Hedgehog Signaling",
+      "historical_pdf_name": "Hedgehog Signaling.pdf",
+      "n_ranked": 53462,
+      "n_hits": 29,
+      "saved_ES": 0.3758325,
+      "recomputed_ES": 0.37583249157916376,
+      "absolute_ES_error": 8.420836250522257e-09,
+      "NES": 1.293228,
+      "nominal_P": 0.1118143,
+      "FDR_q": 0.2447656,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Hedgehog Signaling.pdf",
+          "bytes": 33760,
+          "sha256": "03d4a606f7281849e89eef9867c12d248aa0ae16dbc594a8febb4f32c276f1ee"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Hedgehog Signaling.png",
+          "bytes": 99041,
+          "sha256": "bd0a8c1ba079d95974579f2efadcd6e783622b678410f223c430722eaf40ca20"
+        }
+      ]
+    },
+    {
+      "term": "Hypoxia",
+      "historical_pdf_name": "Hypoxia.pdf",
+      "n_ranked": 53462,
+      "n_hits": 168,
+      "saved_ES": 0.3278979,
+      "recomputed_ES": 0.3278978970779531,
+      "absolute_ES_error": 2.92204693774778e-09,
+      "NES": 1.611606,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1924911,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Hypoxia.pdf",
+          "bytes": 33970,
+          "sha256": "c88e9955bb8582a5d01be5c5c2d28f38770c3207b8fbfd175f00820afe705fdb"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Hypoxia.png",
+          "bytes": 97500,
+          "sha256": "b7f4f0d8d2eaa68d441c565c6d377ce11ab65c958d84216d4c4e7fa19a139653"
+        }
+      ]
+    },
+    {
+      "term": "Myc Targets V1",
+      "historical_pdf_name": "Myc Targets V1.pdf",
+      "n_ranked": 53462,
+      "n_hits": 191,
+      "saved_ES": 0.2699006,
+      "recomputed_ES": 0.26990064524626606,
+      "absolute_ES_error": 4.5246266067167085e-08,
+      "NES": 1.34701,
+      "nominal_P": 0.008130081,
+      "FDR_q": 0.2038141,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Myc Targets V1.pdf",
+          "bytes": 33803,
+          "sha256": "b98c75242e7dbd6004d0285afa6045d24285b47a0012eaff00bbb237f32a235d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png",
+          "bytes": 107729,
+          "sha256": "b04be3830726d979cde7094985059e6b82e1eccd2da070d006030790a6ebcae1"
+        }
+      ]
+    },
+    {
+      "term": "Oxidative Phosphorylation",
+      "historical_pdf_name": "Oxidative Phosphorylation.pdf",
+      "n_ranked": 53462,
+      "n_hits": 179,
+      "saved_ES": 0.2735045,
+      "recomputed_ES": 0.2735045047084407,
+      "absolute_ES_error": 4.708440692891003e-09,
+      "NES": 1.355277,
+      "nominal_P": 0.01827676,
+      "FDR_q": 0.2162154,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Oxidative Phosphorylation.pdf",
+          "bytes": 34581,
+          "sha256": "945bd5555a570bacc1f90836eb6640ba49b4350cc10af3618317f358f99dde61"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Oxidative Phosphorylation.png",
+          "bytes": 107401,
+          "sha256": "bbbb295ae1ad610a85a9e52bd4aead8add543abf1add03a0d22bc22db824cac3"
+        }
+      ]
+    },
+    {
+      "term": "PI3K/AKT/mTOR  Signaling",
+      "historical_pdf_name": "PI3K-AKT-mTOR  Signaling.pdf",
+      "n_ranked": 53462,
+      "n_hits": 94,
+      "saved_ES": 0.3212296,
+      "recomputed_ES": 0.3212296324427266,
+      "absolute_ES_error": 3.244272661628855e-08,
+      "NES": 1.441867,
+      "nominal_P": 0.01477833,
+      "FDR_q": 0.1896603,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/PI3K-AKT-mTOR  Signaling.pdf",
+          "bytes": 33101,
+          "sha256": "7b29627bee95e7e9f9a8818ee8afb0fe54cfe5d718ae16cc49a9411956b50228"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/PI3K-AKT-mTOR  Signaling.png",
+          "bytes": 102552,
+          "sha256": "b53af43c55a0a231491cf9c876a5380d38344d4208cc5997953bfe5f48a71298"
+        }
+      ]
+    },
+    {
+      "term": "TNF-alpha Signaling via NF-kB",
+      "historical_pdf_name": "TNF-alpha Signaling via NF-kB.pdf",
+      "n_ranked": 53462,
+      "n_hits": 167,
+      "saved_ES": 0.3042998,
+      "recomputed_ES": 0.30429979313540517,
+      "absolute_ES_error": 6.864594837008298e-09,
+      "NES": 1.496156,
+      "nominal_P": 0.005390836,
+      "FDR_q": 0.1553768,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/TNF-alpha Signaling via NF-kB.pdf",
+          "bytes": 33311,
+          "sha256": "55de7376e401350116fa43337c81244c6de55b5f1069950c53ce66215d83c65e"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/TNF-alpha Signaling via NF-kB.png",
+          "bytes": 103547,
+          "sha256": "5b32acc21d7ae7aa8938811ba6c67d205b8a40a8c0aa63a1e1380c0028419cb6"
+        }
+      ]
+    },
+    {
+      "term": "p53 Pathway",
+      "historical_pdf_name": "p53 Pathway.pdf",
+      "n_ranked": 53462,
+      "n_hits": 173,
+      "saved_ES": 0.2656838,
+      "recomputed_ES": 0.2656838498258395,
+      "absolute_ES_error": 4.982583945434271e-08,
+      "NES": 1.315361,
+      "nominal_P": 0.02307692,
+      "FDR_q": 0.2275085,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/p53 Pathway.pdf",
+          "bytes": 33520,
+          "sha256": "02017aac3a82121410dee6db4b8a5b4a364adf8e997fc084460be697ea7ef0b9"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/p53 Pathway.png",
+          "bytes": 100607,
+          "sha256": "366ab1ca3dd01149f7e80806bd8525c1c069ef27840f065ea9530582c06d5f0c"
+        }
+      ]
+    }
+  ],
+  "seconds": 5.6
+}

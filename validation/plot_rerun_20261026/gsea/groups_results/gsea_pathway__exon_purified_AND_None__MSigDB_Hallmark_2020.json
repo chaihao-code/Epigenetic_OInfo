@@ -1,0 +1,86 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Apoptosis.pdf",
+    "Myc Targets V1.pdf",
+    "Protein Secretion.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Apoptosis",
+      "historical_pdf_name": "Apoptosis.pdf",
+      "n_ranked": 22147,
+      "n_hits": 53,
+      "saved_ES": 0.4110063,
+      "recomputed_ES": 0.41100630859809406,
+      "absolute_ES_error": 8.59809407005585e-09,
+      "NES": 1.5009,
+      "nominal_P": 0.01727447,
+      "FDR_q": 0.2049841,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank/Apoptosis.pdf",
+          "bytes": 31884,
+          "sha256": "0ce906d007b94e600e914a307cf63201cebc0d2fa085a6057452a6de3fb00308"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank/Apoptosis.png",
+          "bytes": 97122,
+          "sha256": "4c00390924d92895d54352a684262e8f3792ccebf469ab4c9c6be882da230ffd"
+        }
+      ]
+    },
+    {
+      "term": "Myc Targets V1",
+      "historical_pdf_name": "Myc Targets V1.pdf",
+      "n_ranked": 22147,
+      "n_hits": 65,
+      "saved_ES": 0.4141983,
+      "recomputed_ES": 0.41419832407060236,
+      "absolute_ES_error": 2.4070602344661296e-08,
+      "NES": 1.58461,
+      "nominal_P": 0.003669725,
+      "FDR_q": 0.2473947,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank/Myc Targets V1.pdf",
+          "bytes": 33578,
+          "sha256": "a515e9713990ca54c911674a335deb8e1bb7d6f7e97166b573ec3707dfdd4df1"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png",
+          "bytes": 100210,
+          "sha256": "1029a6ea3cbc3788ac81f185a0622f621d21288131cfafd6c3f5d36ad6983873"
+        }
+      ]
+    },
+    {
+      "term": "Protein Secretion",
+      "historical_pdf_name": "Protein Secretion.pdf",
+      "n_ranked": 22147,
+      "n_hits": 40,
+      "saved_ES": 0.4458543,
+      "recomputed_ES": 0.44585427859521265,
+      "absolute_ES_error": 2.1404787331480435e-08,
+      "NES": 1.517262,
+      "nominal_P": 0.03462322,
+      "FDR_q": 0.2227288,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank/Protein Secretion.pdf",
+          "bytes": 31790,
+          "sha256": "961c16aa70dedc97de71bdb3dd0f591e9319c936386f846bb5c35e8fcad8af05"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank/Protein Secretion.png",
+          "bytes": 98470,
+          "sha256": "22b2bd46f80a2035b0944a9df2bec7a0b1aa6ffe5b0ea1322592bd4063685f86"
+        }
+      ]
+    }
+  ],
+  "seconds": 1.69
+}

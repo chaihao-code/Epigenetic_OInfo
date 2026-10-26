@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Coagulation.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Coagulation",
+      "historical_pdf_name": "Coagulation.pdf",
+      "n_ranked": 29985,
+      "n_hits": 61,
+      "saved_ES": 0.4021496,
+      "recomputed_ES": 0.4021495703627377,
+      "absolute_ES_error": 2.963726231097752e-08,
+      "NES": 1.714796,
+      "nominal_P": 0.01298701,
+      "FDR_q": 0.05570434,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Coagulation.pdf",
+          "bytes": 32387,
+          "sha256": "a14fb30ad722d9c415469800ab66a320e4705e4dc954ea5a3c23bee2471520de"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Coagulation.png",
+          "bytes": 98268,
+          "sha256": "bc238254a560a76157044144f509b71417f60ba8be2bb3805c3df2769aa543c1"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.53
+}

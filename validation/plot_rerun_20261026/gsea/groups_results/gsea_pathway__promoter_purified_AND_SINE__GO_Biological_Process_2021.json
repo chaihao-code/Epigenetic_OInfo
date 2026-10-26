@@ -1,0 +1,136 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "positive regulation of lymphocyte chemotaxis (GO_0140131).pdf",
+    "regulation of cell cycle G1-S phase transition (GO_1902806).pdf",
+    "regulation of cell cycle process (GO_0010564).pdf",
+    "regulation of nuclear division (GO_0051783).pdf",
+    "regulation of type I interferon production (GO_0032479).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "positive regulation of lymphocyte chemotaxis (GO:0140131)",
+      "historical_pdf_name": "positive regulation of lymphocyte chemotaxis (GO_0140131).pdf",
+      "n_ranked": 69309,
+      "n_hits": 15,
+      "saved_ES": 0.6939137,
+      "recomputed_ES": 0.6939136691161107,
+      "absolute_ES_error": 3.0883889223787264e-08,
+      "NES": 2.019808,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1959644,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of lymphocyte chemotaxis (GO_0140131).pdf",
+          "bytes": 30342,
+          "sha256": "6be1ae2971b0a31fffaa5b735fb7b906ec375557dc694c3a7abd2f0b034d9226"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of lymphocyte chemotaxis (GO_0140131).png",
+          "bytes": 104808,
+          "sha256": "9ad117c43a7d429a8d63a1c86a4872ed56cbfdfdf052ea5cc8c6e51885342155"
+        }
+      ]
+    },
+    {
+      "term": "regulation of cell cycle G1/S phase transition (GO:1902806)",
+      "historical_pdf_name": "regulation of cell cycle G1-S phase transition (GO_1902806).pdf",
+      "n_ranked": 69309,
+      "n_hits": 26,
+      "saved_ES": 0.5936753,
+      "recomputed_ES": 0.5936753075458063,
+      "absolute_ES_error": 7.54580631312507e-09,
+      "NES": 2.002615,
+      "nominal_P": 0.0,
+      "FDR_q": 0.2125831,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of cell cycle G1-S phase transition (GO_1902806).pdf",
+          "bytes": 31087,
+          "sha256": "fb6ccc2c46a8ec7d824050e563e03f145b5b31d548a8c05254e1a3746de083b4"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of cell cycle G1-S phase transition (GO_1902806).png",
+          "bytes": 105731,
+          "sha256": "6836bfff6b3f0bec1bc39a477667c03dc3322e8fac4103c96b48497cc1848e0f"
+        }
+      ]
+    },
+    {
+      "term": "regulation of cell cycle process (GO:0010564)",
+      "historical_pdf_name": "regulation of cell cycle process (GO_0010564).pdf",
+      "n_ranked": 69309,
+      "n_hits": 80,
+      "saved_ES": 0.4766409,
+      "recomputed_ES": 0.4766409163633436,
+      "absolute_ES_error": 1.6363343624536952e-08,
+      "NES": 2.087118,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1926616,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of cell cycle process (GO_0010564).pdf",
+          "bytes": 31015,
+          "sha256": "cf171ffb59cd1f948fa9370f29d4395e1f2b2c4a6bd8b3e7ce71903a2112aaf5"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of cell cycle process (GO_0010564).png",
+          "bytes": 105113,
+          "sha256": "c7bbb6daa19942d48d8c26afd3ea770b5713db98e650663fd011e20c8459bb6f"
+        }
+      ]
+    },
+    {
+      "term": "regulation of nuclear division (GO:0051783)",
+      "historical_pdf_name": "regulation of nuclear division (GO_0051783).pdf",
+      "n_ranked": 69309,
+      "n_hits": 16,
+      "saved_ES": 0.6738738,
+      "recomputed_ES": 0.6738738412572959,
+      "absolute_ES_error": 4.1257295912977554e-08,
+      "NES": 2.045351,
+      "nominal_P": 0.0,
+      "FDR_q": 0.2296212,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of nuclear division (GO_0051783).pdf",
+          "bytes": 29475,
+          "sha256": "d860db92f81ee6562635f228095aa24cd22c3ba79b76120fa9e65589402b8308"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of nuclear division (GO_0051783).png",
+          "bytes": 98854,
+          "sha256": "2be3de11b9aac01894d3e43f13aee3e30057ad7eae0ad34a74f9b3d5929f2a56"
+        }
+      ]
+    },
+    {
+      "term": "regulation of type I interferon production (GO:0032479)",
+      "historical_pdf_name": "regulation of type I interferon production (GO_0032479).pdf",
+      "n_ranked": 69309,
+      "n_hits": 73,
+      "saved_ES": 0.4816381,
+      "recomputed_ES": 0.48163807150616267,
+      "absolute_ES_error": 2.849383734515598e-08,
+      "NES": 2.021283,
+      "nominal_P": 0.0,
+      "FDR_q": 0.2386645,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of type I interferon production (GO_0032479).pdf",
+          "bytes": 31587,
+          "sha256": "65225dacfce41f6f6239aaefefdd960aeb848fe5bcd161510599fd30ea5b57fc"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of type I interferon production (GO_0032479).png",
+          "bytes": 106224,
+          "sha256": "b259fd3ebacb350b493a372bbc31c90d8405fd8368da107d0e9bf785926ab3f1"
+        }
+      ]
+    }
+  ],
+  "seconds": 2.87
+}

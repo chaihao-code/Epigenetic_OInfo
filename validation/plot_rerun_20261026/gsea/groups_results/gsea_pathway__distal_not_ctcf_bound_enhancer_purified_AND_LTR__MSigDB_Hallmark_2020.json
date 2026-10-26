@@ -1,0 +1,86 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "DNA Repair.pdf",
+    "G2-M Checkpoint.pdf",
+    "Oxidative Phosphorylation.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "DNA Repair",
+      "historical_pdf_name": "DNA Repair.pdf",
+      "n_ranked": 8702,
+      "n_hits": 15,
+      "saved_ES": 0.5945024,
+      "recomputed_ES": 0.594502374450459,
+      "absolute_ES_error": 2.5549541038394352e-08,
+      "NES": 1.680691,
+      "nominal_P": 0.02402402,
+      "FDR_q": 0.2456367,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/DNA Repair.pdf",
+          "bytes": 30980,
+          "sha256": "94d917d37369bf7d9a9c1a0c93536f52034f16a7704e05d8439546285aa84ed4"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/DNA Repair.png",
+          "bytes": 101800,
+          "sha256": "b19f8a9a22bf2aee51a7afd660f15367b399c118d3f4a6f62f86e6a580f17d0a"
+        }
+      ]
+    },
+    {
+      "term": "G2-M Checkpoint",
+      "historical_pdf_name": "G2-M Checkpoint.pdf",
+      "n_ranked": 8702,
+      "n_hits": 17,
+      "saved_ES": 0.5564403,
+      "recomputed_ES": 0.5564402642212556,
+      "absolute_ES_error": 3.577874441162976e-08,
+      "NES": 1.596236,
+      "nominal_P": 0.03020134,
+      "FDR_q": 0.2306256,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.pdf",
+          "bytes": 31860,
+          "sha256": "572e349c6b31c68bcf53a0951821bece7be0477af2c6ea442c1fc261409f382c"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.png",
+          "bytes": 102192,
+          "sha256": "870d3ec2d75b13da83a4d2abe0d110503b955754098c180ee419cd9dd4f97095"
+        }
+      ]
+    },
+    {
+      "term": "Oxidative Phosphorylation",
+      "historical_pdf_name": "Oxidative Phosphorylation.pdf",
+      "n_ranked": 8702,
+      "n_hits": 26,
+      "saved_ES": 0.472698,
+      "recomputed_ES": 0.4726980199999077,
+      "absolute_ES_error": 1.9999907674428385e-08,
+      "NES": 1.524932,
+      "nominal_P": 0.02807018,
+      "FDR_q": 0.2488209,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Oxidative Phosphorylation.pdf",
+          "bytes": 32846,
+          "sha256": "9454d2e977b4e39053097555b754fd50f6e7e04f77b0c1c77871fc6c7f39ba3c"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Oxidative Phosphorylation.png",
+          "bytes": 106503,
+          "sha256": "eefd299d1dd0d2dcbc2e5938bb854f56ac1f3054b29167f5dccab3ce2810d957"
+        }
+      ]
+    }
+  ],
+  "seconds": 1.44
+}

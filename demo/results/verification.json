@@ -1,0 +1,79 @@
+{
+  "status": "passed",
+  "sample": "CEEHRC.CEMT0098",
+  "full_genome_windows": 3209513,
+  "autosomal_windows": 2875012,
+  "classes": 40,
+  "signals": 7,
+  "n_permutations": 10000,
+  "slurm_jobs": {
+    "from_bins": "16241246",
+    "from_bigwig": "16241245"
+  },
+  "n_sampled_loci": 1955604,
+  "maximum_local_global_difference": 3.141931159689193e-14,
+  "identical_decoded_result_files": {
+    "_oinfo.csv": true,
+    "_entropy_all_subsets.csv": true,
+    "_permutation_oinfo.csv": true,
+    "_permutation_summary.csv": true,
+    "_sampled_bins.tsv.gz": true,
+    "_discrete_states.tsv.gz": true,
+    "_local_oinfo.tsv.gz": true,
+    "_local_global_check.tsv": true
+  },
+  "signal_input_comparisons": [
+    {
+      "mark": "H3K36me3",
+      "n_rows": 3209513,
+      "n_NA": 0,
+      "n_different_signal_values": 0,
+      "max_abs_signal_difference": 0.0
+    },
+    {
+      "mark": "H3K4me3",
+      "n_rows": 3209513,
+      "n_NA": 0,
+      "n_different_signal_values": 0,
+      "max_abs_signal_difference": 0.0
+    },
+    {
+      "mark": "H3K27me3",
+      "n_rows": 3209513,
+      "n_NA": 0,
+      "n_different_signal_values": 0,
+      "max_abs_signal_difference": 0.0
+    },
+    {
+      "mark": "WGB-Seq",
+      "n_rows": 3209513,
+      "n_NA": 0,
+      "n_different_signal_values": 1698944,
+      "max_abs_signal_difference": 5.000000000165983e-05
+    },
+    {
+      "mark": "H3K4me1",
+      "n_rows": 3209513,
+      "n_NA": 0,
+      "n_different_signal_values": 0,
+      "max_abs_signal_difference": 0.0
+    },
+    {
+      "mark": "H3K9me3",
+      "n_rows": 3209513,
+      "n_NA": 0,
+      "n_different_signal_values": 0,
+      "max_abs_signal_difference": 0.0
+    },
+    {
+      "mark": "H3K27ac",
+      "n_rows": 3209513,
+      "n_NA": 0,
+      "n_different_signal_values": 0,
+      "max_abs_signal_difference": 0.0
+    }
+  ],
+  "historical_values_reproduced": false,
+  "historical_max_difference": 1.3536932507018786,
+  "historical_note": "The upstream QC reports already document unavailable paper-era histone inputs. This validates available complete inputs and does not claim reproduction of archived paper-era values."
+}

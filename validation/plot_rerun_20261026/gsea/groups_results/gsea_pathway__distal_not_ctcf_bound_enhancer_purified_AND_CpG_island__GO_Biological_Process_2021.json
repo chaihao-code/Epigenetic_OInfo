@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "cilium assembly (GO_0060271).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "cilium assembly (GO:0060271)",
+      "historical_pdf_name": "cilium assembly (GO_0060271).pdf",
+      "n_ranked": 720,
+      "n_hits": 6,
+      "saved_ES": 0.8845037,
+      "recomputed_ES": 0.8845037182979654,
+      "absolute_ES_error": 1.8297965365121627e-08,
+      "NES": 1.908459,
+      "nominal_P": 0.0,
+      "FDR_q": 0.04189352,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/cilium assembly (GO_0060271).pdf",
+          "bytes": 30307,
+          "sha256": "d1a67968086fa02245e651c8803fa5b3f528dc97084b1013ea8887027afc8512"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/cilium assembly (GO_0060271).png",
+          "bytes": 105168,
+          "sha256": "e4a71d297850150f535304e7bc5b31f39cfbeafe804e0881178824014363609e"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.48
+}

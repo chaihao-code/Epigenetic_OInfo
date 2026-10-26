@@ -1,0 +1,30 @@
+{
+  "script": "cases/aging/thyroid/deconvolution/scripts/04_select_markers.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 04_select_markers.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/04_select_markers.log",
+  "started_unix": 1793013041.9786658,
+  "status": "removed_by_request",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/processed/reference_matrix_A.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/processed/reference_matrix_A.tsv",
+      "bytes": 643428,
+      "sha256": "b5b2cb9395cffd35891e51c83742919b38852c9e6c04d9d2664c26ef8bf5b39b"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/processed/reference_matrix_B.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/processed/reference_matrix_B.tsv",
+      "bytes": 686411,
+      "sha256": "4836cd2825ec6285d63d0b4c4ab3c8fc14638e31d3b5cd1fb812ed09719bd4cd"
+    }
+  ],
+  "outputs": [],
+  "elapsed_seconds": 23.3,
+  "description_zh": "参考细胞甲基化marker热图：Panel A/B",
+  "input_nature_zh": "原入口从参考beta/npz重选marker；本次从reference_matrix_A/B中间表调用heatmap()",
+  "source_sha256": "e3851ab4076809ed37ee4ec465a68a28ae518afefb8dfbf0c1c0a727cbd1ff64",
+  "figure_count": 1,
+  "file_count": 1,
+  "previous_status": "success",
+  "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+}

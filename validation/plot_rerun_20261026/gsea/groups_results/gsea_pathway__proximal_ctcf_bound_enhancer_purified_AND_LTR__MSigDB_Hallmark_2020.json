@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Spermatogenesis.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Spermatogenesis",
+      "historical_pdf_name": "Spermatogenesis.pdf",
+      "n_ranked": 7708,
+      "n_hits": 14,
+      "saved_ES": 0.5066812,
+      "recomputed_ES": 0.5066812062915285,
+      "absolute_ES_error": 6.291528409363423e-09,
+      "NES": 1.570105,
+      "nominal_P": 0.02020202,
+      "FDR_q": 0.2327349,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Spermatogenesis.pdf",
+          "bytes": 31221,
+          "sha256": "1795e9f9233d3081d67f91342e530238d5b41fb1d604763e03073c657a89b064"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Spermatogenesis.png",
+          "bytes": 104370,
+          "sha256": "8743212a608817f141a5046de73c5af0dee9f341882cefbea63c9cf316249646"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.49
+}

@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "protein stabilization (GO_0050821).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "protein stabilization (GO:0050821)",
+      "historical_pdf_name": "protein stabilization (GO_0050821).pdf",
+      "n_ranked": 7708,
+      "n_hits": 13,
+      "saved_ES": -0.801486,
+      "recomputed_ES": -0.8014859955322147,
+      "absolute_ES_error": 4.467785363893029e-09,
+      "NES": -1.886051,
+      "nominal_P": 0.0,
+      "FDR_q": 0.04009769,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank/protein stabilization (GO_0050821).pdf",
+          "bytes": 28570,
+          "sha256": "b89f0a3055595bed187dd3538d2c2a9247ddcdcc08f799d1705d512e856d31f1"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank/protein stabilization (GO_0050821).png",
+          "bytes": 94748,
+          "sha256": "fdbe9582e9c6ce082eb7306c6171646cbceeedaceac5612e9d78307fe7895527"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.58
+}

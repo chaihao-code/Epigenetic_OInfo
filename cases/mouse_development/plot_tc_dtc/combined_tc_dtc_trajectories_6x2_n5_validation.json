@@ -1,0 +1,367 @@
+{
+  "figure_size_cm": [
+    18.0,
+    20.0
+  ],
+  "label_font_size_pt": 8,
+  "stack_order": [
+    "TC",
+    "DTC"
+  ],
+  "metric_heading_font_size_pt": 10,
+  "legend_right_margin_at_least_cm": 0.4,
+  "metric_gap_cm": 0.5,
+  "original_metric_aspect_ratios": {
+    "tc": 0.6115615887418628,
+    "dtc": 0.6200183311852661
+  },
+  "standalone_layouts": {
+    "tc": {
+      "metric": "tc",
+      "height_cm": 9.75,
+      "panel_size_cm": [
+        6.3,
+        2.1966666666666668
+      ],
+      "y_axis_limits": [
+        [
+          -0.07212249121838339,
+          1.5145723155860413
+        ],
+        [
+          -0.27982442286939774,
+          5.876312880257352
+        ],
+        [
+          -0.13456004403705044,
+          2.8257609247780784
+        ],
+        [
+          -0.18547226156679592,
+          3.8949174929027115
+        ],
+        [
+          -0.23111864478897337,
+          4.853491540568441
+        ],
+        [
+          -0.11579178764877093,
+          2.4316275406241896
+        ]
+      ],
+      "x_axis_limits": [
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ]
+      ],
+      "line_signature_sha256": [
+        "28eade44d3b7694bfea070454eae3f3db9491903755ab5ed0a8a0d292920ffd2",
+        "2c56a03809d1929c6f09db237721c109f00ff866ba29960a012ab7b942de6684",
+        "c50dcb591212a354ea7f630c54e84c1f30046c8e0fdab8ac64e08163699b146d",
+        "d7d0a28d11dfa9df223d2311c6216b3d84fc042331371fe318c61ad25694f53f",
+        "9605689dc1f38c84a65824ed187edb3b80c82fd9019406270bc1baba882b42f4",
+        "cf038bd4f5ee1824546220ba70baadbd5f84c12ad75bfc068680d212373c6e7b"
+      ],
+      "display_coordinates_unchanged_during_styling": true,
+      "trajectory_days_values_colors_and_styles_preserved": true
+    },
+    "dtc": {
+      "metric": "dtc",
+      "height_cm": 9.75,
+      "panel_size_cm": [
+        6.3,
+        2.1966666666666668
+      ],
+      "y_axis_limits": [
+        [
+          -0.1695766560918126,
+          3.561109777928104
+        ],
+        [
+          -0.3590440130286805,
+          7.539924273602289
+        ],
+        [
+          -0.2961773392676534,
+          6.219724124620721
+        ],
+        [
+          -0.3292684591722761,
+          6.914637642617798
+        ],
+        [
+          -0.4048400838868944,
+          8.501641761624773
+        ],
+        [
+          -0.2522618660676573,
+          5.297499187420799
+        ]
+      ],
+      "x_axis_limits": [
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ]
+      ],
+      "line_signature_sha256": [
+        "08bf3ab4974a23d5c0e15334c1efa2307e179a91e0d8b7bd7538da093e74ac82",
+        "0abd123da917f0fd3571a1dbbeda91b94260b2a36a99bd1ad74a3c62035737f6",
+        "fff88ffbe5e693a067d3f6f032cd6683ee9e884ef95bf5b02ef33427c3999e2d",
+        "58e92b34fbedf47dbc16fa8987a96428a988d9557f04de23c1482ad9bfd9a8d5",
+        "d1ffdcd0e759628d7ab0ee67eec078d1c20118ee8ba9f90370201938e6977fa8",
+        "61029db07a05237cb1bf4b70dfa1937e43f9471de0994cb8068af3f512a1a686"
+      ],
+      "display_coordinates_unchanged_during_styling": true,
+      "trajectory_days_values_colors_and_styles_preserved": true
+    }
+  },
+  "combined_layouts": {
+    "tc": {
+      "metric": "tc",
+      "height_cm": 9.75,
+      "panel_size_cm": [
+        6.3,
+        2.1966666666666668
+      ],
+      "y_axis_limits": [
+        [
+          -0.0721224912183848,
+          1.5145723155860416
+        ],
+        [
+          -0.27982442286939585,
+          5.876312880257352
+        ],
+        [
+          -0.13456004403705135,
+          2.8257609247780784
+        ],
+        [
+          -0.1854722615667958,
+          3.8949174929027115
+        ],
+        [
+          -0.23111864478897337,
+          4.853491540568441
+        ],
+        [
+          -0.11579178764877002,
+          2.4316275406241896
+        ]
+      ],
+      "x_axis_limits": [
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ]
+      ],
+      "line_signature_sha256": [
+        "28eade44d3b7694bfea070454eae3f3db9491903755ab5ed0a8a0d292920ffd2",
+        "2c56a03809d1929c6f09db237721c109f00ff866ba29960a012ab7b942de6684",
+        "c50dcb591212a354ea7f630c54e84c1f30046c8e0fdab8ac64e08163699b146d",
+        "d7d0a28d11dfa9df223d2311c6216b3d84fc042331371fe318c61ad25694f53f",
+        "9605689dc1f38c84a65824ed187edb3b80c82fd9019406270bc1baba882b42f4",
+        "cf038bd4f5ee1824546220ba70baadbd5f84c12ad75bfc068680d212373c6e7b"
+      ],
+      "display_coordinates_unchanged_during_styling": true,
+      "trajectory_days_values_colors_and_styles_preserved": true
+    },
+    "dtc": {
+      "metric": "dtc",
+      "height_cm": 9.75,
+      "panel_size_cm": [
+        6.3,
+        2.1966666666666668
+      ],
+      "y_axis_limits": [
+        [
+          -0.1695766560918126,
+          3.561109777928104
+        ],
+        [
+          -0.3590440130286805,
+          7.539924273602289
+        ],
+        [
+          -0.2961773392676534,
+          6.219724124620721
+        ],
+        [
+          -0.3292684591722761,
+          6.914637642617798
+        ],
+        [
+          -0.4048400838868944,
+          8.501641761624773
+        ],
+        [
+          -0.2522618660676575,
+          5.297499187420799
+        ]
+      ],
+      "x_axis_limits": [
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ],
+        [
+          -0.2725,
+          27.5225
+        ]
+      ],
+      "line_signature_sha256": [
+        "08bf3ab4974a23d5c0e15334c1efa2307e179a91e0d8b7bd7538da093e74ac82",
+        "0abd123da917f0fd3571a1dbbeda91b94260b2a36a99bd1ad74a3c62035737f6",
+        "fff88ffbe5e693a067d3f6f032cd6683ee9e884ef95bf5b02ef33427c3999e2d",
+        "58e92b34fbedf47dbc16fa8987a96428a988d9557f04de23c1482ad9bfd9a8d5",
+        "d1ffdcd0e759628d7ab0ee67eec078d1c20118ee8ba9f90370201938e6977fa8",
+        "61029db07a05237cb1bf4b70dfa1937e43f9471de0994cb8068af3f512a1a686"
+      ],
+      "display_coordinates_unchanged_during_styling": true,
+      "trajectory_days_values_colors_and_styles_preserved": true
+    }
+  },
+  "shared_legend": true,
+  "region_titles": [
+    "Promoter / CpG island",
+    "Promoter / LINE",
+    "Proximal enhancer CTCF- / CpG island",
+    "Proximal enhancer CTCF- / LINE",
+    "Distal enhancer CTCF- / CpG island",
+    "Distal enhancer CTCF- / LINE"
+  ],
+  "x_tick_rotation_degrees": 90,
+  "x_coordinates": "Categorical preimplantation/gastrulation: 1.25 units per time point; organogenesis: original 2 units per day; ICM and TE share E3.5",
+  "early_categorical_time_step": 1.25,
+  "time_spacing_adjusted_for_8pt_labels": true,
+  "text_bounds_checked": true,
+  "time_labels_do_not_overlap": true,
+  "original_missing_input_report_unchanged": true,
+  "source_directory": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/plot_tc_dtc",
+  "source_file_sha256": {
+    "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/plot_tc_dtc/tc_dtc_overall_values_for_plot.tsv": "87f4be41882274dfca3c302f4a06c314bc63e60fff4e920ded5ec8f021c07af0"
+  },
+  "n_samples": 82,
+  "n_blocks": 6,
+  "n_values": 984,
+  "n_signals": 7,
+  "n_bins": 5,
+  "order": 7,
+  "n_missing": 0,
+  "no_recomputation": true,
+  "input_kind": "retained overall-system intermediate TSV",
+  "differentiation_tree": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/plot_tc_dtc/inputs/mouse_differentiation_tree.txt",
+  "tree_sha256": "ae92b4dad85eb7bbe0b786c746e4c20b040fc991fc32813afc12a18b80eb71d5",
+  "original_missing_inputs_report_sha256": "c4cdd433bba602f1014956a5acff9751b756941217cc474c87323f3965f1f629",
+  "excluded_missing_tree_samples": [
+    "E10.5_Embryonic_Facial_Prominence",
+    "E10.5_Forebrain",
+    "E10.5_Heart",
+    "E10.5_Hindbrain",
+    "E10.5_Intestine",
+    "E10.5_Kidney",
+    "E10.5_Limb",
+    "E10.5_Liver",
+    "E10.5_Lung",
+    "E10.5_Midbrain",
+    "E10.5_Neural_Tube",
+    "E10.5_Stomach",
+    "E11.5_Intestine",
+    "E11.5_Kidney",
+    "E11.5_Lung",
+    "E11.5_Stomach",
+    "E12.5_Intestine",
+    "E12.5_Kidney",
+    "E12.5_Lung",
+    "E12.5_Stomach",
+    "E13.5_Intestine",
+    "E13.5_Kidney",
+    "E13.5_Lung",
+    "E13.5_Stomach",
+    "E16.5_Embryonic_Facial_Prominence",
+    "E16.5_Limb",
+    "E16.5_Neural_Tube",
+    "P0_Embryonic_Facial_Prominence",
+    "P0_Limb",
+    "P0_Neural_Tube"
+  ],
+  "original_sample_coverage_preserved": true
+}

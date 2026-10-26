@@ -1,0 +1,3933 @@
+{
+  "schema_version": 2,
+  "audit_date": "2026-10-26",
+  "scope": "All repository-visible Python/R/notebook/Shell/Slurm sources returned by rg --files, excluding validation/** rerun/audit tooling. Sources were inspected without executing other groups or modifying their code.",
+  "counts": {
+    "scanned_sources": 271,
+    "by_language": {
+      "Python": 125,
+      "Slurm": 20,
+      "Shell": 118,
+      "R": 8
+    },
+    "direct_export_sources": 54,
+    "direct_export_helpers": 1,
+    "direct_export_independent": 53,
+    "delegating_wrapper_entrypoints": 4,
+    "library_internal_plotting_entrypoints": 2,
+    "independent_plot_entrypoints": 59,
+    "independent_by_group": {
+      "switch": 16,
+      "aging": 14,
+      "thyroid_local_gsea": 2,
+      "bcells": 11,
+      "mouse": 16
+    },
+    "duplicate_plot_launchers": 11,
+    "notebooks": 0,
+    "R_plot_entrypoints": 0
+  },
+  "count_identity": "54 direct exporters - 1 helper + 4 delegating wrappers + 2 library-internal GSEA plot sources = 59 independent plotting entrypoints.",
+  "audit_methods": [
+    "Concrete figure exporter search (savefig/ggsave/pdf/png).",
+    "Plotting-library import and drawing call search, including matplotlib, seaborn, plotly, bokeh, altair and R plotting libraries.",
+    "Library plotting search including GSEApy prerank/gsea/ssgsea/replot/enrichr and graph_num/no_plot controls.",
+    "Shared plotting wrapper and subprocess/shell launcher tracing.",
+    "Inspection of broad figure/plot/image keyword candidates; exclusion of misleading docstrings and file-path constants.",
+    "Inspection of all R sources: none contains a graphics device or plotting call. No notebooks present."
+  ],
+  "excluded_library_plot_calls": [
+    {
+      "path": "common/06_de_and_gsea/gsea_rna_male.py",
+      "reason": "Explicit graph_num=0 and no_plot=True; not a plotting entrypoint."
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/gsea_rna_male.py",
+      "reason": "Explicit graph_num=0 and no_plot=True; not a plotting entrypoint."
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/09_marker_go_analysis.py",
+      "reason": "GSEA subcall uses no_plot=True. Source remains counted once because it has separate explicit figure exports."
+    }
+  ],
+  "additional_uncovered_plot_entrypoints": [],
+  "independent_entrypoints": [
+    "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_batch_effect.py",
+    "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_support_without_h3k27me3_replacement.py",
+    "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_triplet_support_distribution.py",
+    "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_combined_trajectories.py",
+    "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_core_occurrence_frequency_e11.5.py",
+    "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_core_occurrence_frequency_preimp.py",
+    "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_full_signal_combination_occurrence.py",
+    "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_redundancy_core_trajectories.py",
+    "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_synergistic_triplet_trajectories.py",
+    "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_triplet_combination_occurrence_with_H3K9ac_H3K4me2.py",
+    "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_mark_occurrence_per_tissue_by_stage.py",
+    "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_original_development_heatmap.py",
+    "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_selected_regions_post_E11p5.py",
+    "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_stacked_post_E11p5.py",
+    "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_stacked_preimplantation.py",
+    "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_A_B_C_post_E11p5.py",
+    "cases/aging/neutrophil/scripts/plot_oinfo_vs_age.py",
+    "cases/aging/neutrophil/scripts/plot_paper_figures.py",
+    "cases/aging/neutrophil/scripts/plot_volcano_oinfo_age.py",
+    "cases/aging/thyroid/deconvolution/scripts/04_select_markers.py",
+    "cases/aging/thyroid/deconvolution/scripts/05_validate_deconvolution.py",
+    "cases/aging/thyroid/deconvolution/scripts/06_deconvolve_samples.py",
+    "cases/aging/thyroid/deconvolution/scripts/06_immune_age_association.py",
+    "cases/aging/thyroid/deconvolution/scripts/07_oinfo_age_adjustment.py",
+    "cases/aging/thyroid/deconvolution/scripts/08_region_filtering.py",
+    "cases/aging/thyroid/deconvolution/scripts/09_marker_go_analysis.py",
+    "cases/aging/thyroid/deconvolution/scripts/10_histone_association.py",
+    "cases/aging/thyroid/deconvolution/scripts/12_fig_q1_composition.py",
+    "cases/aging/thyroid/deconvolution/scripts/15_fig_volcano.py",
+    "cases/aging/thyroid/deconvolution/scripts/16_fig_lollipop.py",
+    "cases/aging/thyroid/local_O_info_regression/scripts/02_gsea_pathway.py",
+    "cases/aging/thyroid/local_O_info_regression/scripts/03_gsea_marginal.py",
+    "cases/bcells_and_CLL/dmr_repro_cemt/scripts/plot_dmr_volcano.py",
+    "cases/bcells_and_CLL/dmr_repro_cemt/scripts/plot_igh_tracks_corrected.py",
+    "cases/bcells_and_CLL/global_oinfo_and_triplets/plot_global_oinfo_and_ABC_triplets.py",
+    "cases/bcells_and_CLL/scripts/plot_abc_pooled_combined.py",
+    "cases/bcells_and_CLL/scripts/plot_abc_pooled_compact_preview.py",
+    "cases/bcells_and_CLL/scripts/plot_abc_triplet_classes.py",
+    "cases/bcells_and_CLL/scripts/plot_de_male_ighv_volcano_clear.py",
+    "cases/bcells_and_CLL/scripts/plot_gsea_eight_panel_v2_18x10cm.py",
+    "cases/bcells_and_CLL/scripts/plot_gsea_representative_bars.py",
+    "cases/bcells_and_CLL/scripts/plot_gsea_top20_bars.py",
+    "cases/bcells_and_CLL/scripts/validate_male_de_in_females.py",
+    "cases/mouse_development/plot_tc_dtc/plot_combined_hoi_trajectories_2x4.py",
+    "cases/mouse_development/plot_tc_dtc/plot_tc_dtc_stacked_18cm.py",
+    "cases/mouse_development/plot_tc_dtc/plot_total_oinfo_trajectories_18cm.py",
+    "cases/mouse_development/redundancy_core/resize_redundancy_core.py",
+    "cases/mouse_development/script/plot_special_triplet_f1.py",
+    "cases/mouse_development/script/plot_synergistic_triplet_mark_trajectories.py",
+    "cases/mouse_development/script/plot_triplet_ABC_and_F1_panels.py",
+    "cases/mouse_development/script/plot_triplet_ABC_selected_regions.py",
+    "cases/mouse_development/script/plot_triplet_A_B_C_counts_trajectories.py",
+    "cases/mouse_development/script/plot_triplet_A_C_D_counts_trajectories.py",
+    "cases/mouse_development/script/plot_triplet_counts_corrected_by_stage.py",
+    "cases/mouse_preimp/mutual_information/scripts/plot_by_block_all_anchors.py",
+    "cases/mouse_preimp/mutual_information/scripts/plot_composite_trend_hist_n3_n5_n10.py",
+    "cases/mouse_preimp/mutual_information/scripts/plot_composite_trend_hist_n3_n5_n10_transposed.py",
+    "cases/mouse_preimp/mutual_information/scripts/plot_joint_vs_pairwise_ratio_heatmap_v3.py",
+    "cases/mouse_preimp/mutual_information/scripts/plot_mi_ratio_hist.py"
+  ],
+  "sources": [
+    {
+      "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/compare_stability_fdr_thresholds.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "9f70e1158bfd0913843a51af489b5fdee386cc68a983e69025159cd002460996"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/compute_bulk16.slurm",
+      "language": "Slurm",
+      "group": "switch",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "61d954c2c489a58ab430eac1751eb033663eecb55b9880131b08c88a0c99f863"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/intersection_fraction_of_each_set.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "215f6955ffc50ef5a30e71f5c4a7ef0bbbc1f8af79b1848a690340736f1a36a0"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot.slurm",
+      "language": "Slurm",
+      "group": "switch",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 12,
+          "text": "python3 ${EPINFO_ROOT}/cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_batch_effect.py"
+        }
+      ],
+      "targets": [
+        "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_batch_effect.py"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "ccbf656d18776092906479656cf4dd695f821aff41315a804f3d1ffed0c57535"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_batch_effect.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 243,
+          "text": "for ext in ['pdf','png']:fig.savefig(ROOT/'plots'/('same_stage_bulk_replacement_all_marks.'+ext),dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "3d803dd0d6bd42788007375ee1b42c78af62172c1ef1e98280b7705c10edc8cc"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_support_without_h3k27me3_replacement.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 113,
+          "text": "fig.savefig(OUT / f'triplet_support_distribution_{suffix}.{ext}', dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "05b2b579a319d5f0af5bb164cceb3630f102e9cb3531078e622b7c8eb65f0553"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_triplet_support_distribution.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 62,
+          "text": "fig.savefig(ROOT / 'plots' / f'triplet_support_distribution_{suffix}.{ext}', dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "8576a92cec592c573215819c81c3458407a25bc0130b75efb46d845b563419c5"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/compute_full_signal_occurrence_cores.slurm",
+      "language": "Slurm",
+      "group": "switch",
+      "role": "non_plot_support",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "Invokes a multipurpose plotting-named program using --core-task; this mode computes cores and does not call plot().",
+      "sha256": "6c593a49e59c551aa45dae264c106010bca17ed0ef9b3e72d4fd055dd0ef5796"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/compute_redundancy_cores.slurm",
+      "language": "Slurm",
+      "group": "switch",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "31f8d10c9cea7b53c6cf6cac11864c8971d40f989244013e558015a9999a0ea3"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/finalize_analysis.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "non_plot_support",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "Validation-only support: checks already-existing figures and metadata; does not draw them.",
+      "sha256": "2cc6194ca77d8a6b0047fe205ec5356b1e05e2624f6e0145d0b658bc0598a3e5"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_combined_trajectories.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 79,
+          "text": "fig.savefig(ROOT / 'plots' / ('combined_triplet_core_trajectories.' + ext), dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "135a946f9de254245de317e8f47af6fb32f14ed829e4b2f01a578b5c0287faa3"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_core_occurrence_frequency_e11.5.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 146,
+          "text": "plt.savefig(f'{OUT_PREFIX}.pdf', dpi=300, bbox_inches='tight', pad_inches=0.02)"
+        },
+        {
+          "line": 147,
+          "text": "plt.savefig(f'{OUT_PREFIX}.png', dpi=300, bbox_inches='tight', pad_inches=0.02)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "5a12fe8dcb6517cef0af9b4982e906e00b53d6758ee8d990c0a831c77559c801"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_core_occurrence_frequency_preimp.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 145,
+          "text": "plt.savefig(f'{OUT_PREFIX}.pdf', dpi=300, bbox_inches='tight', pad_inches=0.02)"
+        },
+        {
+          "line": 146,
+          "text": "plt.savefig(f'{OUT_PREFIX}.png', dpi=300, bbox_inches='tight', pad_inches=0.02)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "0db59b3c06b58b3eee56cb2a76109e98b3504da4f809c8480a2a9ed66eb35d8e"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_full_signal_combination_occurrence.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 362,
+          "text": "fig.savefig(prefix.with_suffix('.' + extension), dpi=300)"
+        },
+        {
+          "line": 374,
+          "text": "fig.savefig(OUTPUT / 'plots' / ('full_signal_triplets_and_cores_2x2.' + extension), dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "7002dffce85497ca3c83ed4bcde116a9a3b870ec201f2787a82b1c4871c173b3"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_redundancy_core_trajectories.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_wrapper_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "delegated_plotting",
+      "evidence": [
+        {
+          "line": 6,
+          "text": "plot_trajectories('redundancy_core')"
+        }
+      ],
+      "targets": [
+        "trajectory_utils.plot_trajectories"
+      ],
+      "notes": "Executable wrapper invokes a shared plotting function.",
+      "sha256": "c86e4dbf81d0a82ff0ee260b59b26182e8c3791f7428c65fa37f86ae816ba951"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_synergistic_triplet_trajectories.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_wrapper_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "delegated_plotting",
+      "evidence": [
+        {
+          "line": 6,
+          "text": "plot_trajectories('synergistic_triplet')"
+        }
+      ],
+      "targets": [
+        "trajectory_utils.plot_trajectories"
+      ],
+      "notes": "Executable wrapper invokes a shared plotting function.",
+      "sha256": "21e853bf41dc0152abc9060e07aaa0253677ccdfd7f92d3e87e5ef9e0df1de44"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_trajectories.slurm",
+      "language": "Slurm",
+      "group": "switch",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 13,
+          "text": "python3 scripts/plot_synergistic_triplet_trajectories.py"
+        },
+        {
+          "line": 14,
+          "text": "python3 scripts/plot_redundancy_core_trajectories.py"
+        }
+      ],
+      "targets": [
+        "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_redundancy_core_trajectories.py",
+        "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_synergistic_triplet_trajectories.py"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "059a49c89cd747a64f5e54e959bde4b9c456d3f9d72541d6b50b6d8e3297856a"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_triplet_combination_occurrence_with_H3K9ac_H3K4me2.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 230,
+          "text": "plt.savefig(f'{out_path}.pdf', dpi=300, bbox_inches='tight', pad_inches=0.02)"
+        },
+        {
+          "line": 231,
+          "text": "plt.savefig(f'{out_path}.png', dpi=300, bbox_inches='tight', pad_inches=0.02)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "78339981a3fa9cbb869c3b91c341553d8128e0e319e7ec55f61479006b4ecc8f"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/run_core_task.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "3d62ca1857e762a051fd21c1713540e098132b4f5cf8b8876092b0ebf92d401a"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/trajectory_utils.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_helper",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 171,
+          "text": "fig.savefig(ROOT / 'plots' / (kind + '_mark_trajectories.' + ext), dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "No main guard or top-level plotting invocation; called by two independently counted trajectory wrappers.",
+      "sha256": "19664250ff3e25076f893f50622271d731d25f95e4683af34f2f3f6cb950ac9d"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_mark_occurrence_per_tissue_by_stage.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 105,
+          "text": "fig.savefig(ROOT / 'plots' / f'mark_occurrence_per_tissue_by_stage_{period}.{ext}', dpi=300)"
+        },
+        {
+          "line": 129,
+          "text": "fig.savefig(ROOT / 'plots' / f'mark_occurrence_per_tissue_by_stage_combined.{ext}', dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "3bbd16633179eaf571d8d83e40b3dca06d5647ef480f0ee35bed7f3aab3a0388"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_original_development_heatmap.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 121,
+          "text": "fig.savefig(ROOT / 'plots' / f'original_development_mark_participation_heatmap.{ext}', dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "efeaa84b33d5e138cb4919aedbc8586c2fccb259809ca06c5d3e32152617a972"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_selected_regions_post_E11p5.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 177,
+          "text": "fig.savefig(path, dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "2eb0dc5d63243459e6b2ac9a958ac62cbd1d09f29e464cac8b89263aee6dbfbd"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_stacked_post_E11p5.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 114,
+          "text": "fig.savefig(ROOT / 'plots' / (prefix + '.' + ext), dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "e875b5f5dd9cb9da6723f1eb5ef562377a719d9bcbe7e833c68af52588965b7e"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_stacked_preimplantation.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_wrapper_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "delegated_plotting",
+      "evidence": [
+        {
+          "line": 102,
+          "text": "titles, figure_metadata = draw_heatmaps("
+        }
+      ],
+      "targets": [
+        "plot_triplet_ABC_stacked_post_E11p5.draw_heatmaps"
+      ],
+      "notes": "Executable wrapper invokes a shared plotting function.",
+      "sha256": "c9b11d7561a42b9d722bba73f22a8bcb40e8e6ceda98cfdf1b3cacf9020e931a"
+    },
+    {
+      "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_A_B_C_post_E11p5.py",
+      "language": "Python",
+      "group": "switch",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 146,
+          "text": "fig.savefig(ROOT / 'plots' / (PREFIX + '.' + ext), dpi=300, bbox_inches='tight', pad_inches=.03)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "f7b2d30d9eb6c0d9d2e4b4f5a2aeee27d89a7d89e9b08b089ea2774ad5c07980"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/bin_histone.sh",
+      "language": "Shell",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "3c865eeba7b8ae41f7452a9d5d346511bac912838f80567cc51b872f7b949faf"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/discretize.sh",
+      "language": "Shell",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "9290c277a0a644ed5637a8abb1ae2a7ba0cde011879a0a4cb2d4f6ac1576f1a3"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/divinput.sh",
+      "language": "Shell",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "0168e5dfabd8d43b1137ed82a468b54239b052d5563d330a59644dca6074af50"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/make_datainfo.sh",
+      "language": "Shell",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "9c4999f123de3a0f044b141dbad3b07d496b11b1bbcdaeb07869dabe16cfc7b1"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/oinfo_age_regression.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "799427e6e11581d0917128132da55e02afd63dc1dbb51acc4373359b37b236c9"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/plot_oinfo_vs_age.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 84,
+          "text": "fig.savefig(out_path, dpi=150)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "badc525fc786d03063c7a0875497d31a8f0ee148d1de1fdac4c1af1fa22cba26"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/plot_paper_figures.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 74,
+          "text": "fig.savefig(out, dpi=200)"
+        },
+        {
+          "line": 107,
+          "text": "fig.savefig(out, dpi=200)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "935bce051e037141b9d7c47dbe1baec8daaa727bbe24e87409246039728eb025"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/plot_volcano_oinfo_age.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 52,
+          "text": "fig.savefig(out, dpi=200)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "80394aeffcf7d403befd43b006b2fcc2dadcd83fd4720a90310f5affd1851849"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/run_all.slurm",
+      "language": "Slurm",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "d6de38ab746dc000f2517443223258de1b90813f37f87dfcd1a2c683042e8ae8"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/submit_oinfo_hoi.slurm",
+      "language": "Slurm",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "dbf3bd4c9e656a1124604a6b8979837ab084462bf484e2394f3f501a12511736"
+    },
+    {
+      "path": "cases/aging/neutrophil/scripts/weighted_methylation.sh",
+      "language": "Shell",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "5943cbc45a21d83ad68b48810d29328f7f4998a19765c0aebf93163ccb5818a6"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/01_inventory.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "34ce1293234c8ec45dd5760867619a88de5ceab2f51f071aa31f7f5e6932cf49"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/02_download_reference.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "b495c51fae4eea24879634ca04f677f61e3159323cc39cdc2b763acb233f4149"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/03_build_reference.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "non_plot_support",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "Docstring advertises reference_heatmap.pdf, but implementation only constructs processed reference data and does not call a graphics library/exporter.",
+      "sha256": "ed908babddf60acda5ac21dd8dbf8b724be886bdcfcb2106b1732eaf2a75e3ea"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/03b_reference_qc.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "non_plot_support",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "Docstring advertises reference_heatmap.pdf, but main only validates CpG indexes/beta inputs and writes reference_beta_validation.tsv.",
+      "sha256": "2401c8ef1dbfcc585329517dcb2b426564a8344bf29f48f85dd904752db29770"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/04_select_markers.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 243,
+          "text": "fig.savefig(FIG / \"reference_heatmap.pdf\")"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "e3851ab4076809ed37ee4ec465a68a28ae518afefb8dfbf0c1c0a727cbd1ff64"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/05_validate_deconvolution.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 191,
+          "text": "fig.savefig(FIG / \"deconvolution_validation.pdf\")"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "a8f2569a6509ae35b026e694475f0ba34313e36ed9743effc1e4eeae5e26a547"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/06_deconvolve_samples.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 223,
+          "text": "fig.savefig(FIG / \"fig1_cell_composition.pdf\")"
+        },
+        {
+          "line": 224,
+          "text": "fig.savefig(FIG / \"fig1_cell_composition.png\", dpi=200)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "a2c8b5f87f127f76166420f4bde4b3d1aeb457a4c6eb83884f84b59808ebb0a9"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/06_immune_age_association.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 112,
+          "text": "fig.savefig(FIG / \"immune_age_regression.pdf\")"
+        },
+        {
+          "line": 113,
+          "text": "fig.savefig(FIG / \"immune_age_regression.png\", dpi=200)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "a0dc1463040a2a62d6fbe56f655c57d02edfdc92b9ae0823b58134b9a72416f5"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/07_oinfo_age_adjustment.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 248,
+          "text": "fig.savefig(FIG / \"fig2_oinfo_age_adjustment.pdf\")"
+        },
+        {
+          "line": 249,
+          "text": "fig.savefig(FIG / \"fig2_oinfo_age_adjustment.png\", dpi=200)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "41c40fda0c1c35005e35117e3189560046275a85edb8cff6e27b855851ef0cbb"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/08_region_filtering.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 267,
+          "text": "fig.savefig(FIG / \"fig3_filtering_sensitivity.pdf\")"
+        },
+        {
+          "line": 268,
+          "text": "fig.savefig(FIG / \"fig3_filtering_sensitivity.png\", dpi=200)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "24839f6b2b14f5119fe1c55967e93c08c3dba31be0760c9e26f44f08f0bbec90"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/09_marker_go_analysis.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 326,
+          "text": "fig.savefig(FIG / \"fig4_marker_go.pdf\")"
+        },
+        {
+          "line": 327,
+          "text": "fig.savefig(FIG / \"fig4_marker_go.png\", dpi=200)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "5a2a1e537ee341aec36ea931f54a6aec80bad4dd85ab5923cde63a7cc21dcf71",
+      "disabled_library_subcall": "This source is counted for its explicit matplotlib exports; its additional gp.prerank call sets no_plot=True, so that subcall adds no extra plot entrypoint."
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/10_histone_association.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 208,
+          "text": "fig.savefig(FIG / \"fig5_histone_immune.pdf\")"
+        },
+        {
+          "line": 209,
+          "text": "fig.savefig(FIG / \"fig5_histone_immune.png\", dpi=200)"
+        },
+        {
+          "line": 226,
+          "text": "fig.savefig(FIG / \"fig5b_histone_vs_immune.pdf\")"
+        },
+        {
+          "line": 227,
+          "text": "fig.savefig(FIG / \"fig5b_histone_vs_immune.png\", dpi=200)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "96ab60c95623debce03570da636c57d7d9f4508cb7ba9db3658652639d9548db"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/12_fig_q1_composition.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 157,
+          "text": "fig.savefig(FIG / \"figQ1_composition.pdf\")"
+        },
+        {
+          "line": 158,
+          "text": "fig.savefig(FIG / \"figQ1_composition.png\", dpi=400)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "af436f74c2494e45f2eaa95b64efdffd0633446d0fbd9477152419ab58191b54"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/15_fig_volcano.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 92,
+          "text": "fig.savefig(FIG / \"fig3_volcano_slope_p.pdf\")"
+        },
+        {
+          "line": 93,
+          "text": "fig.savefig(FIG / \"fig3_volcano_slope_p.png\", dpi=400)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "4da3cf22ccdf3f93b16ffae7d11eb0bae0bbf2e86b53f00c577a26cfc65c7ecc"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/16_fig_lollipop.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 93,
+          "text": "fig.savefig(FIG / \"fig4_slope_ratio_lollipop.pdf\")"
+        },
+        {
+          "line": 94,
+          "text": "fig.savefig(FIG / \"fig4_slope_ratio_lollipop.png\", dpi=400)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "8aaf177c3c29a9ff928a4abf08ced46ad45e960faaca0c276d679beddadedb26"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/17_fdr_table.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "5398a90b3cb03a1a368edd782af6b667c0d1841f07632c217bdd71051393d32a"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/deconv_utils.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "6c6fe7a8fcdef076b91bddc92f5bcaac06c4c4524952e88e932ce479616a661a"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/hoi_recompute.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "4f2787f2c26187d225a30fbaa7643593858d80008ce186f1e41a06104e11a7dc"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/prep_oinfo_table.py",
+      "language": "Python",
+      "group": "aging",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "16da846e3e5821f31e5cbc3a9eefcb6fd56b6ec7513ec7da624872be465bbda7"
+    },
+    {
+      "path": "cases/aging/thyroid/deconvolution/scripts/run_q4_pipeline.sh",
+      "language": "Shell",
+      "group": "aging",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 28,
+          "text": "4) run python3 scripts/04_select_markers.py ;;    # marker panel + R 矩阵 (约 5 min)"
+        },
+        {
+          "line": 29,
+          "text": "5) run python3 scripts/05_validate_deconvolution.py ;;  # 模拟验证 (约 3 min)"
+        },
+        {
+          "line": 30,
+          "text": "6) run python3 scripts/06_deconvolve_samples.py ;;      # 6 样本去卷积 + bootstrap CI (约 5 min)"
+        },
+        {
+          "line": 31,
+          "text": "7) run python3 scripts/06_immune_age_association.py ;;  # Q2: 免疫比例~年龄 (秒级)"
+        },
+        {
+          "line": 32,
+          "text": "8) run python3 scripts/07_oinfo_age_adjustment.py ;;    # Q3/Q4: 40 区间回归 + LOO/bootstrap/panel 敏感性 (约 3 min)"
+        }
+      ],
+      "targets": [
+        "cases/aging/thyroid/deconvolution/scripts/04_select_markers.py",
+        "cases/aging/thyroid/deconvolution/scripts/05_validate_deconvolution.py",
+        "cases/aging/thyroid/deconvolution/scripts/06_deconvolve_samples.py",
+        "cases/aging/thyroid/deconvolution/scripts/06_immune_age_association.py",
+        "cases/aging/thyroid/deconvolution/scripts/07_oinfo_age_adjustment.py"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "9cdf031f2db8c1abde8af385e2b0643df7022dcc3303dec51a6b89d13eeaf866"
+    },
+    {
+      "path": "cases/aging/thyroid/local_O_info_regression/scripts/01_regress_oinfo_immune.py",
+      "language": "Python",
+      "group": "thyroid_local_gsea",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "d4c782d7ffc61c2cb6ae4ae2c344b50b637bee7f8b7e6b8b3d9a12aa45df0591"
+    },
+    {
+      "path": "cases/aging/thyroid/local_O_info_regression/scripts/02_gsea_pathway.py",
+      "language": "Python",
+      "group": "thyroid_local_gsea",
+      "role": "library_plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "gseapy_prerank_internal_plots",
+      "evidence": [
+        {
+          "line": 118,
+          "text": "res = gp.prerank("
+        }
+      ],
+      "targets": [],
+      "notes": "gp.prerank call omits no_plot=True and graph_num=0; GSEApy can export its own enrichment plots.",
+      "sha256": "e00b638759f3dcba925c1a7a71393cd896640ea99dd0f481b504f75518080d53"
+    },
+    {
+      "path": "cases/aging/thyroid/local_O_info_regression/scripts/03_gsea_marginal.py",
+      "language": "Python",
+      "group": "thyroid_local_gsea",
+      "role": "library_plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "gseapy_prerank_internal_plots",
+      "evidence": [
+        {
+          "line": 104,
+          "text": "res = gp.prerank("
+        }
+      ],
+      "targets": [],
+      "notes": "gp.prerank call omits no_plot=True and graph_num=0; GSEApy can export its own enrichment plots.",
+      "sha256": "297b9d337a5026781d72228b12272470db9a7851b33dfc1d4c3ee32aa9867de6"
+    },
+    {
+      "path": "cases/aging/thyroid/local_O_info_regression/scripts/04_summarize.py",
+      "language": "Python",
+      "group": "thyroid_local_gsea",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "8abb447135ebd3245eb97fbea6280055f5e72e00d4274d4b8aa83b252cbe5688"
+    },
+    {
+      "path": "cases/aging/thyroid/local_O_info_regression/scripts/config.py",
+      "language": "Python",
+      "group": "thyroid_local_gsea",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "59da8d0d8aacc65042a383ae9f884e380674e2471e65d0d99c9f2744b7e4600a"
+    },
+    {
+      "path": "cases/aging/thyroid/local_O_info_regression/scripts/run_all.sh",
+      "language": "Shell",
+      "group": "thyroid_local_gsea",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 13,
+          "text": "python3 02_gsea_pathway.py"
+        },
+        {
+          "line": 14,
+          "text": "python3 03_gsea_marginal.py"
+        }
+      ],
+      "targets": [
+        "cases/aging/thyroid/local_O_info_regression/scripts/02_gsea_pathway.py",
+        "cases/aging/thyroid/local_O_info_regression/scripts/03_gsea_marginal.py"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "a08f56b604452d23b00ec2cc591967fa9b53010303fde79c50fb5845a1761f03"
+    },
+    {
+      "path": "cases/bcells_and_CLL/data_info/ihec_rna_lookup/download_rna_cll13.sh",
+      "language": "Shell",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "1fc3851f32a84a20535861d16a6cd3ce2d8032217d9251cbbf1f957f2d8be105"
+    },
+    {
+      "path": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/check_input.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "12aa6966497d638aba7709cd5677bbeb332c776f890ba5a3b4262c8a5d70ee93"
+    },
+    {
+      "path": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/dmr_limma_1kb_cemt_g2_g3.R",
+      "language": "R",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "35b2a2a8319a32c812f8843ace043e3977a55811fe8814d5c8176ed3325e928a"
+    },
+    {
+      "path": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/install_r_packages.R",
+      "language": "R",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "345e187f9fad8df1d0beae6898eb0d33519aedf70b64cb6d4097b2cb2a2f002b"
+    },
+    {
+      "path": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/plot_dmr_volcano.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 85,
+          "text": "fig.savefig(target, dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "10bc8d802c975a800c6b28e9be3507ec5ccc6018603274fb9061070f3f93ab8b"
+    },
+    {
+      "path": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/plot_igh_tracks_corrected.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 245,
+          "text": "fig.savefig(OUT_PDF)"
+        },
+        {
+          "line": 246,
+          "text": "fig.savefig(OUT_PNG, dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "a5e3d9e27c711278657fe5b9fc8e11c138c47d4d51a7aa26fae48ae61b905fa5"
+    },
+    {
+      "path": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/run_dmr.R",
+      "language": "R",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "e1dccb152745a0e5b1b6d7bc8b277f9bf878c71b20eda8d6916fcfd632781f28"
+    },
+    {
+      "path": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/submit_dmr.slurm",
+      "language": "Slurm",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "8d3745d398f2e70475dcd9a9ff0e0319f41745b654b26f5c2b62b679d28525e3"
+    },
+    {
+      "path": "cases/bcells_and_CLL/global_oinfo_and_triplets/plot_global_oinfo_and_ABC_triplets.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 214,
+          "text": "fig.savefig(path, dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "c6dcbfc617cd89f906b0ce44e9739ab38a8df5884e8d6c512994e0e50e8e2d1f"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/aggregate_oinfo_triplets.slurm",
+      "language": "Slurm",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "72306a6d6ceff321e57b402fad0b79cf3e48c6bfceec2b6f08927d4b708e3109"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/analyze_rna_de_male.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "382456455802cd14078f079b17a7a3f47da9c0bd1d189ad0709f58dfc8d04d7e"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/gsea_rna_male.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "analysis_with_library_plotting_disabled",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 118,
+          "text": "gsea=gp.prerank(rnk=rank,gene_sets=collections,outdir=str(model_out/short),min_size=15,max_size=500,permutation_num=1000,weight=1.,ascending=False,threads=4,seed=42,graph_num=0,no_plot=True,verbose=True)"
+        }
+      ],
+      "targets": [],
+      "notes": "gp.prerank(..., graph_num=0, no_plot=True): library figures explicitly disabled; report/table generation only.",
+      "sha256": "6fbb3949fd10400d57844c39ac137f5f43e63b03afbca26a1c1db5e47f70ef63"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/hoi_code/block_processor.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "ded46989fa0f52f5756f72a2154bff83ca3b8afd6847b0b21ce452031e62f858"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/hoi_code/compute_hoi_oinfo.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "724fd1126f4c23ff4a9519ec1b2f47f774d07a5ce854c4c3db985d783a3775d9"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/hoi_code/signal_loader.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "53dda1b8054e805e568c7f126cc48e14a912fb987a7ee4cc3fa7c4e443a78738"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/import_rna_rsem.R",
+      "language": "R",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "609c1e7adef7fd96f611949660a5f9fffff505d8e5d30031d607580e72fe8634"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/plot_abc_pooled_combined.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 171,
+          "text": "fig.savefig(path, dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "5dbdb9c5d2c5c6d69338fdda9341da2ca99268bca618b2699ff8776a689ea35e"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/plot_abc_pooled_compact_preview.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 92,
+          "text": "fig.savefig(path, dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "f440e1b777d2fee6c671057db9b36e3cf12b974af80fe3c96b5c26548d444ed8"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/plot_abc_triplet_classes.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 86,
+          "text": "fig.savefig(PLOTS / f\"{stem}.{ext}\", dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "167cd70d5995839c2020e95093abb20332ff39ae92b591107ce13a582200e371"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/plot_de_male_ighv_volcano_clear.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 61,
+          "text": "fig.savefig(O/(f'RNA_IGHV_adjusted_volcano_nominalP_labeled10_{size_cm:g}cm_clear.'+ext),dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "6f68135c735dd4f1b013b931b35d3fd53f7b44ece7872509057d155e42603a3e"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/plot_gsea_eight_panel_v2_18x10cm.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 57,
+          "text": "for ext in ['pdf','png']:fig.savefig(O/f'GSEA_8pathways_{width}x{height}cm.{ext}',dpi=400)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "39820ccb24f7e332d6300269d6e28709c4a23f0197938a3f6521a3a899144913"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/plot_gsea_representative_bars.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 68,
+          "text": "fig.savefig(O/('representative_GO_FDR_NES_12x6cm.'+ext),dpi=400)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "a55052dec38f231f9a3302421e1b864b409795bb6aded59d9c5ffe0c9f458c55"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/plot_gsea_top20_bars.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 72,
+          "text": "fig.savefig(O/('top20_GO_FDR_NES_12x6cm.'+ext),dpi=400)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "1ad64b572d4de17b30e4ab3f9a15d6bbf9375cb6a2c9159d4fc10c4d2671e873"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/resolve_signal_list.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "d8ff7227bb5c1b27f2103572aef284f23d8110461b25b682953fa0d24e7ca280"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/run_final_rna.slurm",
+      "language": "Slurm",
+      "group": "bcells",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 29,
+          "text": "for script in plot_de_male_ighv_volcano_clear.py plot_gsea_representative_bars.py plot_gsea_top20_bars.py plot_gsea_eight_panel_v2_18x10cm.py; do"
+        }
+      ],
+      "targets": [
+        "cases/bcells_and_CLL/scripts/plot_de_male_ighv_volcano_clear.py",
+        "cases/bcells_and_CLL/scripts/plot_gsea_eight_panel_v2_18x10cm.py",
+        "cases/bcells_and_CLL/scripts/plot_gsea_representative_bars.py",
+        "cases/bcells_and_CLL/scripts/plot_gsea_top20_bars.py"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "9d354c9eacbfe26b53d174fb3e96c2a437bfe36193499f180bbd9d613fa31740"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/submit_final_rna.sh",
+      "language": "Shell",
+      "group": "bcells",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 8,
+          "text": "sbatch --output=\"$PROJECT/logs/final_rna_%j.out\" --error=\"$PROJECT/logs/final_rna_%j.err\" \"$PROJECT/scripts/run_final_rna.slurm\" \"$stage\""
+        }
+      ],
+      "targets": [
+        "cases/bcells_and_CLL/scripts/run_final_rna.slurm"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "b771d7cbaf3caccae3c6a519296ed8cdd8e988b021ed83303f07bbb8a1220174"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/submit_oinfo_hoi.slurm",
+      "language": "Slurm",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "62e179ee34f86f70e45a6f5cbf31fd575a40f5076e58541d4963c8b38d3ff1d0"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/submit_oinfo_triplets.slurm",
+      "language": "Slurm",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "f75f2484f107be883fb2e2ac92f6893932663fcd69e88be205f21bf8f24a0263"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/summarize_c_triplet_recurrence.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "8fb03216f985a0aa87deca3f1b0ee25c878223062ca112557981b1dcaf38fdb4"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/summarize_triplet_significance.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "5cabb35b561db5a6ddfdf83b8c1042a9dcfa16e290b196552a5e118da546391a"
+    },
+    {
+      "path": "cases/bcells_and_CLL/scripts/validate_male_de_in_females.py",
+      "language": "Python",
+      "group": "bcells",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 228,
+          "text": "fig.savefig(path, dpi=250, bbox_inches='tight')"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "94befe79eb996af308fdd22a006bcfd3378f185b192a2a661d05985c6260688d"
+    },
+    {
+      "path": "cases/mouse_after_E11.5/script/submit_oinfo.slurm",
+      "language": "Slurm",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "934e381b0a8450d42f18929f760eb03bc955c75ad582610970ec90ac7844d9d2"
+    },
+    {
+      "path": "cases/mouse_after_E11.5/synergistic_triplets/scripts/submit_triplet_null.slurm",
+      "language": "Slurm",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "6812f004144d86686f7e120a47a8c4901a3aa2685f8b8e496f65aeb3eeb054b2"
+    },
+    {
+      "path": "cases/mouse_development/plot_tc_dtc/plot_combined_hoi_trajectories_2x4.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 382,
+          "text": "plt.savefig(f'{output_prefix}.pdf', dpi=300, bbox_inches='tight', pad_inches=0.02)"
+        },
+        {
+          "line": 383,
+          "text": "plt.savefig(f'{output_prefix}.png', dpi=300, bbox_inches='tight', pad_inches=0.02)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "d49d344883afdf0ed187c9f02e238bcafc171fad526e6a8a82a39eb7f512b2a0"
+    },
+    {
+      "path": "cases/mouse_development/plot_tc_dtc/plot_tc_dtc_stacked_18cm.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 214,
+          "text": "fig.savefig(path,dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "9e47f99d279dd7263054e0984a7be1b283229d2d3bee64267956936bcc712be6"
+    },
+    {
+      "path": "cases/mouse_development/plot_tc_dtc/plot_total_oinfo_trajectories_18cm.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_wrapper_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "delegated_plotting",
+      "evidence": [
+        {
+          "line": 101,
+          "text": "axes, titles, heading, layout = shared.draw_metric("
+        },
+        {
+          "line": 153,
+          "text": "shared.validate_and_save(fig, axes, titles, [heading], legend, PREFIX)"
+        }
+      ],
+      "targets": [
+        "plot_tc_dtc_stacked_18cm.draw_metric",
+        "plot_tc_dtc_stacked_18cm.validate_and_save"
+      ],
+      "notes": "Executable wrapper invokes a shared plotting function.",
+      "sha256": "a607f533e0bdd8686c8f0444406fd9220182cf4543e0844ae92bb5988ed18b0a"
+    },
+    {
+      "path": "cases/mouse_development/redundancy_core/resize_redundancy_core.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 140,
+          "text": "fig.savefig(str(OUTPUT) + '.pdf')"
+        },
+        {
+          "line": 141,
+          "text": "fig.savefig(str(OUTPUT) + '.png', dpi=600)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "01920e138f08d65f77fa93aeca3157912eb9a5b944ba7f3828d89a63c619ca12"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/2cell/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "9f13e6770e2ca4fdaebb01fa9182ef425cd78b46a65b700eda204a946684e3da"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/4cell/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "47e451ac2c59f24a49ea013c3c02cfb98d5663ffe94823a0371864915bbc1be9"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/8cell/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "b7f752ead608bed26893df8f8bde0e182df7ae84e5950995d9d8bcc9ea977778"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E11.5_Embryonic_Facial_Prominence/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "c52aa52959e2a9da7304a2019d36cefed97d069271db36a0ebec843ff7e6ad54"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E11.5_Forebrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "f84012b317582cc58c593a51772ec463803a395205cf6d182f436ea391a7ae4a"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E11.5_Heart/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "b98390fdff5a8362e5dbd841d38b6f01437454438a70f52004cf9df3a03b04cb"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E11.5_Hindbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "bd01d4252dfd6b09cea05023839d2bd5b31588d8dab7da098ddf773ebd36f73a"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E11.5_Limb/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "8be8b6e6cc931b04fb690fc7bf79fc3ee4cd90fc9523e2b2695ab7eb0d5bd2cc"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E11.5_Liver/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "c0f40da572d2a2c4bb5237d169cb0f4ede68c189d41b462d0f5a27716ea88f4c"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E11.5_Midbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "759cdcf202039c9b8adebdb261d75222c157540e7c0dd782fc4351bedccf0ef8"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E11.5_Neural_Tube/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "53025fa58ba3aae9fb2600d8ead7e70b90342af0c26e43fd4b4ec533add48bce"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E12.5_Embryonic_Facial_Prominence/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "0a80b9f93cd50a728360a60fdc4629585b21402dd501c74f1a8828f36d3e7aa5"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E12.5_Forebrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "92de55bf3404a066f6bbcc33e09a3333a302c93f8e58c2716cd900a5ac569ef7"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E12.5_Heart/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "8e3d5d57623239e903043c47d4b30077a1f439f9a24de876983db8f068d0817f"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E12.5_Hindbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "fed84d0d423bd74bf52e88c6dab5a38847bd8d6344319de92a9a780b6ca16235"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E12.5_Limb/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "9c5fd76d6ba0f87e4c6a987c5f7950f7d4f4b15cf6a983510d39e758cef58131"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E12.5_Liver/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "553cf64a482dd6c4605a511a8657ed435d75f1815cef32be173fc99d6358c688"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E12.5_Midbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "546e86727121b0886c10315d3bc0d95def1ce06d806691f5f84f8144354e1efb"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E12.5_Neural_Tube/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "7d9a2eae7a42aaa9fcc58d13e0b2f199a71156dfcc2d9ed26f4267e04783769d"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E13.5_Embryonic_Facial_Prominence/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "b241ae53113a13a9bc7c99c6a036c02e8b7813ba67f45dda5810e856b5d7fc64"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E13.5_Forebrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "2f6b72053b37e5e4f80c965c67454bec7c0b26b7b0d976d8d325a3f63b46e3bc"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E13.5_Heart/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "93e977d3afee4f436e142e3985fb24935fdb8fa5c59efe3ce2167821d29be1c8"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E13.5_Hindbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "41c8068d5b32a9f4fcb8e7676fd8dfc1b71d2d9cc4ed8e22583ad1b950109967"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E13.5_Limb/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "7d635c8b53f28de77701fb48bbb38a2280a7ef18c190da48dc2ebd850a438c46"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E13.5_Liver/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "87caa44dc83b82a6b08cd47e2c1e43d6537d6cf3b40e730b53883bf0ad7a5906"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E13.5_Midbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "203342aeb7e46aeb3c5e470b52c06e4016aa0356049b92841dabf245e88be869"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E13.5_Neural_Tube/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "5fad8a0a2b377439990875bcfd7ca5c296d2e46f9a8203f0451a84b8c452405f"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Embryonic_Facial_Prominence/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "80626dd2c5e632136f7d4465b2f5b19add5850b5e70b4c4d889e8ed173394dba"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Forebrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "2c1546e577ef107860f3f74933a62889138029a89c7017d9b2939d8dcc59d482"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Heart/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "16db02adbfc24f16516db1e274ce5a44d569cfaad58e09129ab32920b3372996"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Hindbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "27317e96330c62701670ef294bf44baaec5bc4b257dde63bc15fbd9b29f012cf"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Intestine/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "a6d5327d2927da3328d9d52f78f01d9f97131afcd070a73edb7cf40ad44ea45f"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Kidney/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "6b196491ae3a476a49ae4f36bd1faca91308bb74df30ded369ac739d0dcaed27"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Limb/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "15663bd56326e2e47599d8a3f4eeba3eca7ab171308844f6dd5a8c50f611fe74"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Liver/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "f2a19366333ba0dce58f1f0b740770ab67ac78baa071f4fa369377e86cfb1a75"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Lung/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "7a8251e401f166ef8a17c4b6cdf01676b949868a1d81acb7f656415372b22fdc"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Midbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "c12ba6f52027f8ae31e08d73d841e1fab3f68137bade6e05d99b58a90b63dc62"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Neural_Tube/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "32489fd5cc44c4f9e45e146f36e77627e45cb0ace4042c759603f9354f1bfe9d"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E14.5_Stomach/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "bfe4aedf128d3b40f768b4f62edec217921f227751f481b90e3e1bf10a246c47"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Embryonic_Facial_Prominence/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "17887e27ad3095278d4057b435b85c9203fe7abb829239feba25c47478d734b3"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Forebrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "8593e683d31cdcf5e9af8e8b38cd850cce14232ba7a0f9142d49ea430874c1ba"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Heart/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "064725ae5e1ddfefa194f2884c78050b7a43a80b6507192a4d16e1ba117eafd4"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Hindbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "a9ce39138b400224bb3b270dc0aa864cd094d06c2b1fc1e50ed46aafb3ebe75c"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Intestine/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "c9798f0c1d10ad05a880a2632cfb8cf0276149900795f704887513c98a8d5adf"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Kidney/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "290e1088cce0864a063452d1638ad7a12576f1d8c1cade33b1e398dbcad1499f"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Limb/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "749a0df73b51df008a0c62c0771c899c82a0bbf889254ba74cd0468559dca624"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Liver/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "d41490355638785fcfb28ea87b175a3a69af24f337c03704518de4c6ba27436e"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Lung/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "3f431cdc49fc8a4735758fc3036bd9b4f478e4349b26d2dcb0115da78de9a3cc"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Midbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "2c8efc26e8767032dfa2505817e2f052ca1460cb91ac92d91fc9e418bde563a7"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Neural_Tube/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "3e6e718bd18d278e7dc2231a41f54630f64b1ff07d466b0aeab8ac1cf880e334"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E15.5_Stomach/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "c1ed875b5ec1552f6fc72c3adf2e0ef20bcebcb5aadcf436d1a4cd65ffc6f4ef"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E16.5_Forebrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "5a7cd51f4eeb6a51bf0c0ff7d3955a2389dba81e64c8ab5d6a44a62cf2e14617"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E16.5_Heart/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "6afc6a61bfa16d15e095d623342bce705259fdcae272c98f7a8df6958bc68940"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E16.5_Hindbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "f72eda94f4fb2fb5d810d392fc5a2eb61a34f726453cbdfd34b4e09fbffbd81c"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E16.5_Intestine/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "5739d63dea12b075dba21190fbeebd31c0a9f988a933cbf56b8c275c5846746b"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E16.5_Kidney/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "37d1f33ff8c909602b6be65b51aeeb61d328295d6a1d31f7df64de817375cf4d"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E16.5_Liver/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "24d39819f89d618e0ebf9719f7c4d33d9f5b2a89d2082b7e42fcb7d6d3752e7e"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E16.5_Lung/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "769ad7be023c2409002f01e98f9071e3a909f47c4fe463cfd0af424ee0209c56"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E16.5_Midbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "300a00c0672d9fa9c177d7e23077469828baf4eed83f44cb2636bcf54a04846a"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E16.5_Stomach/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "e60f78b309a92088a613528ff95fa002efd7419b34be64d1e4915f1e5c102aec"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E6.5_Epi/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "8dfbd3d8a546ebd2f346b9c54e591586ddf57d18fc944839202c36cdd5b20d79"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E6.5_ExE/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "1f227ad94de1589ec5d101a27e969cb1478db76998c36655154c5909e31220fb"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E7.0_A/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "f29e634c76b1beaab9a057e959b84833fd5586929b5a2014077937a0dd62f7b7"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E7.0_ExE/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "85eb1edfd700072a810982e91a1657ff9523273f2569ef1748cca72d1db4607a"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E7.0_P/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "da28eb24f67f035758a238eaf41312c6aef7e6f82b09e42b6f35d5b507d48f9b"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E7.5_A/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "30b807226389afd10a187daa3686002efdf697eb997efdeb7aa7d214f540bb3f"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E7.5_AM/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "c16684d4c18d70e6cde49542965b9ec31c31e2e5b63c94a9cdfe02175205aeb1"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E7.5_ExE/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "d361bfe43f8f04a1d74b19975ec227bc5c0019cf1255371f8c5eaf9d0c1b4b7d"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/E7.5_P/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "d03c7ef777e3cc0cd314badf5f83df99f949f5c2dad943a756217c9e8fbe9857"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/ICM/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "af48dfb9905e1889d0541086fffc0bfe58eb143a35ab4facc014bbb9a0e469dd"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/P0_Forebrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "aa236492994999dc821d8def81a73648e57cf18aeb011a53b4f0598d88d783ca"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/P0_Heart/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "ea3b19ec63ac42c558cef696b0e273074efe515d021eb85d28d43e96c91edbcb"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/P0_Hindbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "c58f5af5bf474aff0ac515d131d83603f20da62f92190555cb8de878126acfb1"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/P0_Intestine/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "d747d77bedcb054e2f7749a91283d7c08c20765832eac6fd973b44a43f4b5ff0"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/P0_Kidney/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "63daa1e1583313a06a65c588d2e613140a3e66b930cd4a439bff1028a23c61e6"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/P0_Liver/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "95c0d5c7b11db996b2265cb447cd605819389e99abc73731a48ee7e0f3c3c151"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/P0_Lung/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "10d66b1327c7d18cabab747ccb30d785df4404c4fd9a07645a0cdd91586351e8"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/P0_Midbrain/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "34efb0ac5372dc1f0b3f4a8b5a1b64c8ea3a34f66eac2b67218ea022dfeefd5e"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/P0_Stomach/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "b72b0c05483e61c14b531d0618783d5692cdc1b60a99a3462122d55252a522e1"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/TE/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "73e1c7dcb667e9ce9c4df67e3d7fe27ea00593e8d15217fdcb55fe49e4286733"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/code/block_processor.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "ded46989fa0f52f5756f72a2154bff83ca3b8afd6847b0b21ce452031e62f858"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/code/compute_hoi_oinfo.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "724fd1126f4c23ff4a9519ec1b2f47f774d07a5ce854c4c3db985d783a3775d9"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/code/correction_utils.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "e96fc1998813ea532d46fc4046953f3ea568570e3fb68786fe18e3df3f07fec8"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/code/finish_analysis.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 36,
+          "text": "plot = root.parent / 'script' / 'plot_triplet_counts_corrected_by_stage.py'"
+        }
+      ],
+      "targets": [
+        "cases/mouse_development/script/plot_triplet_counts_corrected_by_stage.py"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "09214e4a5877f2ab2b56eaa94f5873ef0cf56da3f71f5634bf8e0bb823a6f7e8"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/code/signal_loader.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "53dda1b8054e805e568c7f126cc48e14a912fb987a7ee4cc3fa7c4e443a78738"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/morula/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "041e1087b053871d65decb097905df4d5d3b4218afc51bb0a93bb895b43583cd"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/negative_fdr/analyze.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "5776e26035f3556361def0cd9fcb7b8e9dc1b554739e3e7c3c13e77457288cbb"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/submit.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "4dee9123acd159d3134620e35a66468286d01835237ff218b878515ccf38683d"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/submit_array.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "45f1a536fa6976d1873726a55602aa33126bf1f5d61641d1eb5f32b694d8b54b"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/submit_correction.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "1d17bd9dd390931302e2d55850c3f7166fcd496b05a5791b1ffd3b5ad36a697a"
+    },
+    {
+      "path": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000/zygote/job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "4a86295b7b1ae2aa6abfa609bd6242b701a5bfc864cce2f64c15f09d8e54072b"
+    },
+    {
+      "path": "cases/mouse_development/script/analyze_seven_signal_ABC_regions.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_support",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "Analysis and selected-region summary-table producer; comment references figure, but no plotting call.",
+      "sha256": "2aa487b5bc41db7d0fd62c8748784e33be04bc67afa8b7bd9ce91d1bd3e89e0b"
+    },
+    {
+      "path": "cases/mouse_development/script/plot_special_triplet_f1.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 147,
+          "text": "fig.savefig(path, dpi=300, bbox_inches='tight')"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "dd87a6ed4846dadce1708a9a40f5eccdf47edd84c61a9c4beed6a20272b3af29"
+    },
+    {
+      "path": "cases/mouse_development/script/plot_synergistic_triplet_mark_trajectories.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 235,
+          "text": "fig.savefig(OUTPUT / f'{PREFIX}.{ext}', dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "5881582040de1ca18be65d38c0f41e64b0e8ff9ff30caeb615615352ca7674c1"
+    },
+    {
+      "path": "cases/mouse_development/script/plot_triplet_ABC_and_F1_panels.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 152,
+          "text": "fig.savefig(output,dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "bad4ccbbdc090fb1050220a2ecdcccdbc850abcbcd9114574722044e4816531d"
+    },
+    {
+      "path": "cases/mouse_development/script/plot_triplet_ABC_selected_regions.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 192,
+          "text": "fig.savefig(path, dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "463f58f1e5576cab7edc65d78031f3644eb7537d424f830b465951698fe0a4a2"
+    },
+    {
+      "path": "cases/mouse_development/script/plot_triplet_A_B_C_counts_trajectories.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 141,
+          "text": "fig.savefig(path, dpi=300, bbox_inches='tight', pad_inches=.03)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "6efff482ec4d7839a6df2711e2b367b3eb919d2b588efdb3b4528b2c7aa116c6"
+    },
+    {
+      "path": "cases/mouse_development/script/plot_triplet_A_C_D_counts_trajectories.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 303,
+          "text": "plt.savefig(f'{OUT_PREFIX}.pdf', dpi=300, bbox_inches='tight', pad_inches=0.02)"
+        },
+        {
+          "line": 304,
+          "text": "plt.savefig(f'{OUT_PREFIX}.png', dpi=300, bbox_inches='tight', pad_inches=0.02)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "8a4a9600c22f46b1e9347138e9f6ee5e56a500dca55b40f63d81ba0524096537"
+    },
+    {
+      "path": "cases/mouse_development/script/plot_triplet_counts_corrected_by_stage.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 209,
+          "text": "fig.savefig(out_pdf, format='pdf', dpi=300)"
+        },
+        {
+          "line": 210,
+          "text": "fig.savefig(out_png, format='png', dpi=300)"
+        },
+        {
+          "line": 251,
+          "text": "fig.savefig(out_pdf, format='pdf', dpi=300)"
+        },
+        {
+          "line": 252,
+          "text": "fig.savefig(out_png, format='png', dpi=300)"
+        },
+        {
+          "line": 335,
+          "text": "fig.savefig(Path(OUT_DIR) / f'triplet_ABC_stacked.{extension}', dpi=300)"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "3f6d9d90af3f3daf569f194d5d4fc59d94270ab1906d82ff9e330530ef2aea6e"
+    },
+    {
+      "path": "cases/mouse_development/script/recalculate_triplet_fdr.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "e35130400c6b73a6c357bb7f489d49bde19f8f7d2d4867e9bb99ce864c9ac13a"
+    },
+    {
+      "path": "cases/mouse_development/script/submit_entropy_computation.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "1262222626d7c5da84e732cbe1f48f90662afa7232fe668675d1246ab59f4396"
+    },
+    {
+      "path": "cases/mouse_development/shared/hoi_code/block_processor.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "ded46989fa0f52f5756f72a2154bff83ca3b8afd6847b0b21ce452031e62f858"
+    },
+    {
+      "path": "cases/mouse_development/shared/hoi_code/compute_hoi_oinfo.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "724fd1126f4c23ff4a9519ec1b2f47f774d07a5ce854c4c3db985d783a3775d9"
+    },
+    {
+      "path": "cases/mouse_development/shared/hoi_code/compute_redundancy_core.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "91d4cc6165acc77260ae27bd4b8b1f7a9975e4946a6b09670809be8343d7abde"
+    },
+    {
+      "path": "cases/mouse_development/shared/hoi_code/compute_signal_correlation.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "fe12ce2a7ae29be8c468f1a2fc45e7a62742165b8d3f3413fec83c81ea8e5289"
+    },
+    {
+      "path": "cases/mouse_development/shared/hoi_code/convert_entropy_to_mi.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_support",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "Compatibility forwarding adapter to the MI-table computation, not a plotting program.",
+      "sha256": "ff57109f57ad25f0e6a80e417458b26b6cc92b3133422ea31b63c4cfdd9faa15"
+    },
+    {
+      "path": "cases/mouse_development/shared/hoi_code/signal_loader.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "53dda1b8054e805e568c7f126cc48e14a912fb987a7ee4cc3fa7c4e443a78738"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/composite_plot.job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 11,
+          "text": "python3 ${EPINFO_ROOT}/cases/mouse_preimp/mutual_information/scripts/plot_composite_trend_hist_n3_n5_n10.py"
+        }
+      ],
+      "targets": [
+        "cases/mouse_preimp/mutual_information/scripts/plot_composite_trend_hist_n3_n5_n10.py"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "303c75519b88309d50224fb1c8afc6d08314b04e415ad8988cb2cac9fd73ec48"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/composite_t2.job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 11,
+          "text": "python3 ${EPINFO_ROOT}/cases/mouse_preimp/mutual_information/scripts/plot_composite_trend_hist_n3_n5_n10_transposed.py"
+        }
+      ],
+      "targets": [
+        "cases/mouse_preimp/mutual_information/scripts/plot_composite_trend_hist_n3_n5_n10_transposed.py"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "2bf9e7e7d4b4ee82b2154bc19fda75cd5668a3f46e035e2dfce485cca3ce2b86"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/plot_by_block_all_anchors.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 232,
+          "text": "plt.savefig(png_path, dpi=300)"
+        },
+        {
+          "line": 233,
+          "text": "plt.savefig(pdf_path, format='pdf', bbox_inches='tight')"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "1c7b0beeaf289322632ae3d6b3b8dd9568176d9a6141da5922db7a9eda691457"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/plot_composite_trend_hist_n3_n5_n10.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 188,
+          "text": "fig.savefig(f\"{out_base}.png\", dpi=300)"
+        },
+        {
+          "line": 189,
+          "text": "fig.savefig(f\"{out_base}.pdf\", format='pdf')"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "89e4726de991d11eeb5f6bde15a97205cbeb984b11a784dce69264c191398e43"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/plot_composite_trend_hist_n3_n5_n10_transposed.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 212,
+          "text": "fig.savefig(f\"{out_base}.png\", dpi=300)"
+        },
+        {
+          "line": 213,
+          "text": "fig.savefig(f\"{out_base}.pdf\", format='pdf')"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "755d508d4e46138cc1e9894e6d8f5cf2490268fb195af086ba7cce79d5a7cb67"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/plot_joint_vs_pairwise_ratio_heatmap_v3.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 245,
+          "text": "plt.savefig(f\"{out_base}.png\", dpi=300, bbox_inches='tight')"
+        },
+        {
+          "line": 246,
+          "text": "plt.savefig(f\"{out_base}.pdf\", format='pdf', bbox_inches='tight')"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "e1738871030a23f14c27d09ab04b35f3a75240297ac96916aaa2ecaa6ece4487"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/plot_mi_n3_n10.job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 18,
+          "text": "${PY} ${MI}/plot_by_block_all_anchors.py --n-bins ${n}"
+        },
+        {
+          "line": 20,
+          "text": "${PY} ${MI}/plot_mi_ratio_hist.py --n-bins ${n}"
+        },
+        {
+          "line": 24,
+          "text": "${PY} ${MI}/plot_joint_vs_pairwise_ratio_heatmap_v3.py"
+        }
+      ],
+      "targets": [
+        "cases/mouse_preimp/mutual_information/scripts/plot_by_block_all_anchors.py",
+        "cases/mouse_preimp/mutual_information/scripts/plot_joint_vs_pairwise_ratio_heatmap_v3.py",
+        "cases/mouse_preimp/mutual_information/scripts/plot_mi_ratio_hist.py"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "aad009f7e9c1a0e400e395ddbb97d6fd01a6a265ff0206c87bb1090338519be2"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/plot_mi_ratio_hist.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "plot_entrypoint",
+      "counted_as_independent_entrypoint": true,
+      "mechanism": "direct_figure_export",
+      "evidence": [
+        {
+          "line": 130,
+          "text": "plt.savefig(png_path, dpi=300)"
+        },
+        {
+          "line": 131,
+          "text": "plt.savefig(pdf_path, format='pdf', bbox_inches='tight')"
+        }
+      ],
+      "targets": [],
+      "notes": "Contains explicit figure export calls.",
+      "sha256": "abcdf77600810f8d4e78444b679290a56b085ebdc6e49b603bfde59a3be8ffda"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/rerun_heatmap.job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "plot_launcher",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 11,
+          "text": "python3 ${EPINFO_ROOT}/cases/mouse_preimp/mutual_information/scripts/plot_joint_vs_pairwise_ratio_heatmap_v3.py"
+        }
+      ],
+      "targets": [
+        "cases/mouse_preimp/mutual_information/scripts/plot_joint_vs_pairwise_ratio_heatmap_v3.py"
+      ],
+      "notes": "Runs already-counted plotting entrypoints; no independent figure implementation. Not counted again.",
+      "sha256": "f50ef719e75691efa9ed76171f15b89988a0a6556d069286542a2f96da64db6f"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/scan_block.job.sh",
+      "language": "Shell",
+      "group": "mouse",
+      "role": "non_plot_support",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "Launches scan_block_candidates.py, which produces tables rather than figures.",
+      "sha256": "5053111a01eaa1cdce4f1adb31ff28f0c70201953db22252e28b066790d06354"
+    },
+    {
+      "path": "cases/mouse_preimp/mutual_information/scripts/scan_block_candidates.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_support",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "Candidate scanner with a PLOTS directory constant; writes candidate tables, contains no graphics calls.",
+      "sha256": "971e088e95e6ba84c3c1a4f66d59335a51a9fbcd12b1d9d91f943030924f989e"
+    },
+    {
+      "path": "cases/mouse_preimp/synergy_redundancy/scripts/submit_oinfo.slurm",
+      "language": "Slurm",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "d557a29e5f700033905f7d366088c34dee05ffb728f09762c30cec4603f23aa9"
+    },
+    {
+      "path": "cases/mouse_preimp/synergy_redundancy/synergistic_triplets/scripts/submit_triplet_null.slurm",
+      "language": "Slurm",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "010820d1dac127e424b44acac12aed3f920d35bd0b51af22a468b742d1415aa5"
+    },
+    {
+      "path": "cases/mouse_preimp/synergy_redundancy/synergistic_triplets/scripts/summarize_fdr.py",
+      "language": "Python",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "bbc6e3931f58ad0e219e86c4effc9ea32ffa16b3eaa1dd32277b8766849ef464"
+    },
+    {
+      "path": "cases/mouse_preimp/synergy_redundancy/synergistic_triplets/scripts/summarize_fdr.slurm",
+      "language": "Slurm",
+      "group": "mouse",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "8710ab7384b3bd32559e73088c85300242e999998458b015c4a4cc066d673fd8"
+    },
+    {
+      "path": "common/01_preprocessing/average_replicates_and_liftover/average_one_replicate_group.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "98ab1014f1b79bd57ebde07405b267e497a0794300ff946c5135eb149ef6d0aa"
+    },
+    {
+      "path": "common/01_preprocessing/average_replicates_and_liftover/merge_stage_schema.slurm",
+      "language": "Slurm",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "470905c29937b39c3aca11872e152dbb0e865e6d7058682a19f68ef0870112cb"
+    },
+    {
+      "path": "common/01_preprocessing/average_replicates_and_liftover/submit_replicate_avg_jobs.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "3407f11f36e4aff5449506142fc45850a22b745c205c342357cd882690c3a7a6"
+    },
+    {
+      "path": "common/01_preprocessing/average_replicates_and_liftover/submit_stage_merge_jobs.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "b14e41b916d2c28d4ed88b7eb837b4d896e78a740f7608efe1ab3a5322b433e5"
+    },
+    {
+      "path": "common/01_preprocessing/bin_bigwig.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "b9fcb28d4c10e545c1a16538d0a2b6364c3ef3a47bc5c93ee0e630852b655d67"
+    },
+    {
+      "path": "common/01_preprocessing/discretize_signal.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "3cf34a72b30263093510d055d2232b04bb571a13c62592b4f6679508503cb31a"
+    },
+    {
+      "path": "common/01_preprocessing/generate_bin_avg/batch_compute_bin_average.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "9ded2873c8022abc5472ace8c47ef35ea50c3ff310e42c773ecc04689fcc6053"
+    },
+    {
+      "path": "common/01_preprocessing/generate_bin_avg/batch_convert_cpg_to_bedgraph.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "bf2ad083354f27140868da87b5498c165a7f72ba565b150bee890fa90486f857"
+    },
+    {
+      "path": "common/01_preprocessing/generate_bin_avg/compute_bin_average.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "de2fdc44f77c6793d2169e192d174004b813273b18b28147dd6bf349ae6a0694"
+    },
+    {
+      "path": "common/01_preprocessing/generate_bin_avg/compute_weighted_methylation_average.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "64ca9b000dcaaff3c1d86ca0328e02778ba1c43580ed9d65346c0ab275ca78f0"
+    },
+    {
+      "path": "common/01_preprocessing/generate_bin_avg/convert_cpg_to_bedgraph.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "6821d70198cd7f1681b069f86e1ea4f26b7c1133a69a203666a33e7976ee3e96"
+    },
+    {
+      "path": "common/01_preprocessing/generate_bin_avg/example_mouse_atac_binning.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "53f9bf7b7dc583a2c0c34d93954563506de3cb9ffa53466c905f23e206c3477e"
+    },
+    {
+      "path": "common/01_preprocessing/generate_bin_avg/norm_using_fc_to_input.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "688d06327796ce182c0901d1787abde425cbcf552b1b7518cb05bafdc94f09a5"
+    },
+    {
+      "path": "common/01_preprocessing/generate_bin_avg/slurm_compute_bin_average.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "83810079de4221f61b2292932e0c67cb554351b711ffc5dce87093d14a89bf39"
+    },
+    {
+      "path": "common/01_preprocessing/generate_bin_avg/slurm_convert_cpg_to_bedgraph.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "83ccdffa70ee450b63ad623f2ef48863c86c2ab6ad50e03dda9ae7293e12c4a8"
+    },
+    {
+      "path": "common/01_preprocessing/genome_annotation_pipeline/00_download_annotations.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "fddd94825df298edccf0185c8bc2a25e58b4ae88136819c2f1f9d859c892ddae"
+    },
+    {
+      "path": "common/01_preprocessing/genome_annotation_pipeline/01_make_bins.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "1d7ce5593b0028416bc2a38d3160d703305e23e1a5aa99d2d80cda00f2aed658"
+    },
+    {
+      "path": "common/01_preprocessing/genome_annotation_pipeline/02_extract_gene_features.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "0948f48e7f8ea0846b28efe349fce7f1c0e070547a4a0410b93224e6067627e9"
+    },
+    {
+      "path": "common/01_preprocessing/genome_annotation_pipeline/03_ctcf_split.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "0d6f462ce02fd24bc6e08e01a02d517625198b8f3256f07397a25ea49c6e395e"
+    },
+    {
+      "path": "common/01_preprocessing/genome_annotation_pipeline/04_bed_to_bins.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "75e5a3e30be726437b2a50b837d4b1c03a2cd5e7383b044c7bcfe8efb79e3dae"
+    },
+    {
+      "path": "common/01_preprocessing/genome_annotation_pipeline/05_run_bed_to_bins.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "21bb451571df1095751f1aa5096038a70f65f35eb732e8ff14cf4fd8b6b415f7"
+    },
+    {
+      "path": "common/01_preprocessing/genome_annotation_pipeline/06_purify_masks.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "baa18a604701ea6383ec0118a8a4341dd5fa72a1f403c4f4b3059b7a8211b6b3"
+    },
+    {
+      "path": "common/01_preprocessing/genome_annotation_pipeline/config.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "2e8bf1c331d7785c6217b4a064ed66bf3bb3b19acaf0f31e4620cde7e2db6144"
+    },
+    {
+      "path": "common/02_oinformation/block_processor.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "ded46989fa0f52f5756f72a2154bff83ca3b8afd6847b0b21ce452031e62f858"
+    },
+    {
+      "path": "common/02_oinformation/compute_hoi_oinfo.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "155525a5df310116fcaf08c618f52d86d2d5904e20e8b49cb151b815273bf7b5"
+    },
+    {
+      "path": "common/02_oinformation/compute_signal_correlation.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "fe12ce2a7ae29be8c468f1a2fc45e7a62742165b8d3f3413fec83c81ea8e5289"
+    },
+    {
+      "path": "common/02_oinformation/convert_entropy_to_mi.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_support",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "Produces MI tables consumed by plots; docstring references plotting programs but does not call them.",
+      "sha256": "ff57109f57ad25f0e6a80e417458b26b6cc92b3133422ea31b63c4cfdd9faa15"
+    },
+    {
+      "path": "common/02_oinformation/signal_loader.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "6e7f3fc631946f3fea71eb05545b9f89deeb7d41dff5dc50def36283c0cb044a"
+    },
+    {
+      "path": "common/02_oinformation/submit_correlation_jobs.sh",
+      "language": "Shell",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "37935d5eb4c20c123a29bb5e6dea2e36b6b86e51ef906c890331aa9cc5ef9875"
+    },
+    {
+      "path": "common/03_triplets_and_redundancy/compute_redundancy_core.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "91d4cc6165acc77260ae27bd4b8b1f7a9975e4946a6b09670809be8343d7abde"
+    },
+    {
+      "path": "common/03_triplets_and_redundancy/correct_triplet_fdr.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "50677e63e612cee6b762ee547311e2685f095943e1b52ac9823a792c5297fcd2"
+    },
+    {
+      "path": "common/04_local_oinformation/oi_local_hoi.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "8bf7d478fd53f45688fa68ced0375ca4007be2619798be371d98fedab632833f"
+    },
+    {
+      "path": "common/04_local_oinformation/run_analysis_generic_excluded.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "7cd1ab3a5ad385375bdd9154542c53b97f650d751da5b0aba4f8d385a199f49e"
+    },
+    {
+      "path": "common/05_dmr/check_input.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "a1496cad5d4c2d5ea8fb0d2de126cd514939ccf698265221944d465782c82c22"
+    },
+    {
+      "path": "common/05_dmr/dmr_limma_1kb_cemt_g2_g3.R",
+      "language": "R",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "35b2a2a8319a32c812f8843ace043e3977a55811fe8814d5c8176ed3325e928a"
+    },
+    {
+      "path": "common/05_dmr/install_r_packages.R",
+      "language": "R",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "345e187f9fad8df1d0beae6898eb0d33519aedf70b64cb6d4097b2cb2a2f002b"
+    },
+    {
+      "path": "common/05_dmr/run_dmr.R",
+      "language": "R",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "2f57db7c735f35b724b2b84f8bb86be8ffaf143194c8754a1d87c8f8f91ef8a5"
+    },
+    {
+      "path": "common/06_de_and_gsea/analyze_rna_de_male.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "06383d66f4d22252a8996d60196efe7fb37a1e3f79b6777574d44cd5cb1cf724"
+    },
+    {
+      "path": "common/06_de_and_gsea/gsea_rna_male.py",
+      "language": "Python",
+      "group": "common",
+      "role": "analysis_with_library_plotting_disabled",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [
+        {
+          "line": 118,
+          "text": "gsea=gp.prerank(rnk=rank,gene_sets=collections,outdir=str(model_out/short),min_size=15,max_size=500,permutation_num=1000,weight=1.,ascending=False,threads=4,seed=42,graph_num=0,no_plot=True,verbose=True)"
+        }
+      ],
+      "targets": [],
+      "notes": "gp.prerank(..., graph_num=0, no_plot=True): library figures explicitly disabled; report/table generation only.",
+      "sha256": "d171f53d0802443dec53addbd53430db517d81eaebca56864e3f2d4229e59ec2"
+    },
+    {
+      "path": "common/06_de_and_gsea/import_rna_rsem.R",
+      "language": "R",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "609c1e7adef7fd96f611949660a5f9fffff505d8e5d30031d607580e72fe8634"
+    },
+    {
+      "path": "demo/compare_runs.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "a997cb604a4f16ba55c90af75143739cb911f9ce32bb3d5134d91135f0b93042"
+    },
+    {
+      "path": "demo/run_demo.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "1f39a8d26981f75bfe6cf9fe86cb3e9aebded235ef86014c03900d69f89b3ede"
+    },
+    {
+      "path": "demo/scripts/prepare_from_bigwig.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "2d7e9ded2fa3818dedf577c618f47222c7f7b01ff28bd58b7835ce98d7050ba3"
+    },
+    {
+      "path": "demo/submit_demo.slurm",
+      "language": "Slurm",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "4506df5d391d14354b91acd2ac23f1c1476c502a76ef0d5e20fd5f52746f517c"
+    },
+    {
+      "path": "demo/submit_from_bins.slurm",
+      "language": "Slurm",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "9f4911257ebf2e30a194a1d65b1d57cb7f9747d4953f06e79d7cde2e0a5037a7"
+    },
+    {
+      "path": "tests/test_engine.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "ac6ca3037c8bd6817bea405783aeeabeaea6b3de96084c67327700a64e1fd634"
+    },
+    {
+      "path": "tools/package_release.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "793aae6bdfc9ab4541de25d9d865141821371820c17fa7de74bdedfb6ee327f7"
+    },
+    {
+      "path": "tools/plan_oinfo.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "fb799f9c4fd9a2666d1304d835fa4cc743510ff0dca17f542d8c17ad5a09eaa0"
+    },
+    {
+      "path": "tools/restore_annotation_masks.py",
+      "language": "Python",
+      "group": "common",
+      "role": "non_plot_source",
+      "counted_as_independent_entrypoint": false,
+      "mechanism": null,
+      "evidence": [],
+      "targets": [],
+      "notes": "No independent figure-generation call identified.",
+      "sha256": "445c4cb4770c9009233b06e36115e5ab6f6d10fd36b0aa787db3f3db63d50ee5"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "autophagosome maturation (GO_0097352).pdf",
+    "carboxylic acid metabolic process (GO_0019752).pdf",
+    "keratinocyte differentiation (GO_0030216).pdf",
+    "protein-containing complex disassembly (GO_0032984).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "autophagosome maturation (GO:0097352)",
+      "historical_pdf_name": "autophagosome maturation (GO_0097352).pdf",
+      "n_ranked": 14069,
+      "n_hits": 12,
+      "saved_ES": 0.7450069,
+      "recomputed_ES": 0.7450068516418084,
+      "absolute_ES_error": 4.8358191673258943e-08,
+      "NES": 1.963587,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1393429,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/autophagosome maturation (GO_0097352).pdf",
+          "bytes": 29572,
+          "sha256": "52cb6dc23ca8745e515ccdace8c9b711af403e3940394878aa80f85f9e59ced6"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/autophagosome maturation (GO_0097352).png",
+          "bytes": 102941,
+          "sha256": "6cc3f535c303622aa3efb7fca09139988459fffd345f4c07676160c0d9a32c1d"
+        }
+      ]
+    },
+    {
+      "term": "carboxylic acid metabolic process (GO:0019752)",
+      "historical_pdf_name": "carboxylic acid metabolic process (GO_0019752).pdf",
+      "n_ranked": 14069,
+      "n_hits": 14,
+      "saved_ES": 0.7146174,
+      "recomputed_ES": 0.7146174159070929,
+      "absolute_ES_error": 1.5907092976163995e-08,
+      "NES": 1.965227,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1686782,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/carboxylic acid metabolic process (GO_0019752).pdf",
+          "bytes": 30818,
+          "sha256": "92d6273dd56edda1da597c76ec1b9c2c70d5aff124d5f54f62a3223b207a0694"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/carboxylic acid metabolic process (GO_0019752).png",
+          "bytes": 106813,
+          "sha256": "d6f3a581d4ef937b8ab10e8b5f3f82e3b79dafb3107c9a669bb5bd1a19b6eb72"
+        }
+      ]
+    },
+    {
+      "term": "keratinocyte differentiation (GO:0030216)",
+      "historical_pdf_name": "keratinocyte differentiation (GO_0030216).pdf",
+      "n_ranked": 14069,
+      "n_hits": 10,
+      "saved_ES": 0.7738543,
+      "recomputed_ES": 0.7738543159227097,
+      "absolute_ES_error": 1.592270970629528e-08,
+      "NES": 1.925447,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1967912,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/keratinocyte differentiation (GO_0030216).pdf",
+          "bytes": 29582,
+          "sha256": "9754055180a21a85399762223a951beea7a31c2c31161c2e1fd39a9343f85c62"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/keratinocyte differentiation (GO_0030216).png",
+          "bytes": 102894,
+          "sha256": "189ca53f4d3e5dfc35708fc29c27e1a3829aae376615626caf966a31cd6d8140"
+        }
+      ]
+    },
+    {
+      "term": "protein-containing complex disassembly (GO:0032984)",
+      "historical_pdf_name": "protein-containing complex disassembly (GO_0032984).pdf",
+      "n_ranked": 14069,
+      "n_hits": 17,
+      "saved_ES": 0.6646885,
+      "recomputed_ES": 0.664688473474029,
+      "absolute_ES_error": 2.652597097529963e-08,
+      "NES": 1.965996,
+      "nominal_P": 0.00273224,
+      "FDR_q": 0.2212373,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/protein-containing complex disassembly (GO_0032984).pdf",
+          "bytes": 31360,
+          "sha256": "f0f25ddac04400d7afe6ead33ccc28dca9011eda9d7168952c0a41fd1e9c0091"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/protein-containing complex disassembly (GO_0032984).png",
+          "bytes": 110743,
+          "sha256": "4e3fbbe91b1abe96753c90bb7772aa19264ecb26ce3c5a5d492a92e0d16b4efc"
+        }
+      ]
+    }
+  ],
+  "seconds": 2.12
+}

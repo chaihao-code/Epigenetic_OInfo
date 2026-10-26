@@ -1,0 +1,195 @@
+Name,Term,ES,NES,NOM p-val,FDR q-val,FWER p-val,Tag %,Gene %,Lead_genes
+prerank,negative regulation of cell population proliferation (GO:0008285),-7.050455e-01,-1.738352e+00,2.061856e-03,5.035909e-01,2.510000e-01,6/11,21.15%,FGFBP1;BMP5;ST18;ADGRB1;PDPN;SST
+prerank,transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169),-6.735143e-01,-1.730142e+00,7.751938e-03,2.875193e-01,2.740000e-01,4/13,7.91%,FGFBP1;NEDD9;FGF20;ATP6V1G3
+prerank,negative regulation of cellular process (GO:0048523),-6.234616e-01,-1.662313e+00,2.526316e-02,4.440512e-01,4.830000e-01,7/14,23.37%,FGFBP1;BMP5;ST18;ADGRB1;PDPN;SST;BMP10
+prerank,organelle organization (GO:0006996),-6.916708e-01,-1.619654e+00,8.196721e-03,5.047433e-01,6.240000e-01,2/9,3.48%,NEDD9;KIFAP3
+prerank,detection of chemical stimulus involved in sensory perception of bitter taste (GO:0001580),8.006850e-01,1.574945e+00,2.771855e-02,7.538477e-01,7.630000e-01,3/5,17.69%,TAS2R8;TAS2R42;CST1
+prerank,sensory perception of bitter taste (GO:0050913),8.006850e-01,1.574945e+00,2.771855e-02,7.538477e-01,7.630000e-01,3/5,17.69%,TAS2R8;TAS2R42;CST1
+prerank,detection of chemical stimulus involved in sensory perception of taste (GO:0050912),8.006850e-01,1.574945e+00,2.771855e-02,7.538477e-01,7.630000e-01,3/5,17.69%,TAS2R8;TAS2R42;CST1
+prerank,cellular component assembly (GO:0022607),-7.653655e-01,-1.534606e+00,3.054990e-02,8.354769e-01,8.510000e-01,3/6,16.09%,NEDD9;KIFAP3;WNT3A
+prerank,regulation of ion transport (GO:0043269),-7.577990e-01,-1.534444e+00,4.474708e-02,6.969990e-01,8.510000e-01,2/6,7.65%,SYT6;FGF20
+prerank,generation of neurons (GO:0048699),-7.088810e-01,-1.478270e+00,6.007752e-02,9.174606e-01,9.370000e-01,4/6,19.64%,WNT8B;WNT3A;SEMA3A;ADGRL3
+prerank,negative regulation of inflammatory response (GO:0050728),6.216245e-01,1.475615e+00,8.092486e-02,1.000000e+00,9.520000e-01,3/9,10.40%,PPARD;GIP;PRKACG
+prerank,regulation of cell population proliferation (GO:0042127),-4.711422e-01,-1.463696e+00,4.133858e-02,8.907912e-01,9.470000e-01,9/25,21.15%,FGFBP1;FGF20;BMP5;ST18;WNT3A;ADGRB1;PDPN;WWTR1;SST
+prerank,positive regulation of epithelial cell proliferation (GO:0050679),-6.924082e-01,-1.446974e+00,8.921162e-02,8.783711e-01,9.630000e-01,2/6,9.81%,BMP5;PAX2
+prerank,regulation of cell migration (GO:0030334),-4.792040e-01,-1.440138e+00,7.847082e-02,8.282169e-01,9.660000e-01,10/23,25.39%,NEDD9;AMOTL2;FGF20;CLDN4;SCAI;PDPN;SEMA3A;SST;BMP10;SEMA3E
+prerank,antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844),6.343904e-01,1.425559e+00,9.150327e-02,1.000000e+00,9.810000e-01,3/8,4.24%,DEFA4;SPAG11A;SPAG11B
+prerank,natural killer cell activation (GO:0030101),-6.204589e-01,-1.393534e+00,8.023483e-02,1.000000e+00,9.860000e-01,6/8,31.00%,ULBP3;IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,regulation of epithelial to mesenchymal transition (GO:0010717),-7.150660e-01,-1.387982e+00,9.917355e-02,9.518675e-01,9.880000e-01,4/5,20.30%,BMP5;PDPN;WWTR1;SPRY1
+prerank,protein ubiquitination (GO:0016567),-6.389463e-01,-1.385732e+00,1.158301e-01,8.883092e-01,9.890000e-01,4/7,25.27%,TRIM49B;TRIM49;KBTBD8;NPEPPS
+prerank,potassium ion transport (GO:0006813),-6.256664e-01,-1.360639e+00,1.122881e-01,9.527729e-01,9.940000e-01,4/7,16.13%,KCNC1;KCNC2;KCNMB3;ATP1A2
+prerank,cellular response to cytokine stimulus (GO:0071345),-4.885525e-01,-1.347689e+00,1.227723e-01,9.562465e-01,9.970000e-01,9/16,31.60%,IFNA21;IFNA7;GHR;IFNA16;IFNA4;PIK3R1;CSF2;IFNA6;IFNAR1
+prerank,type I interferon signaling pathway (GO:0060337),-5.942846e-01,-1.344195e+00,1.264591e-01,8.586601e-01,9.970000e-01,6/8,31.60%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6;IFNAR1
+prerank,cellular response to type I interferon (GO:0071357),-5.942846e-01,-1.344195e+00,1.264591e-01,8.586601e-01,9.970000e-01,6/8,31.60%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6;IFNAR1
+prerank,negative regulation of immune response (GO:0050777),5.917676e-01,1.341845e+00,1.538462e-01,1.000000e+00,9.950000e-01,7/8,39.89%,GIP;PRKACG;MC3R;VIPR2;MC2R;VIP;RXFP2
+prerank,negative regulation of inflammatory response to antigenic stimulus (GO:0002862),5.917676e-01,1.341845e+00,1.538462e-01,1.000000e+00,9.950000e-01,7/8,39.89%,GIP;PRKACG;MC3R;VIPR2;MC2R;VIP;RXFP2
+prerank,regulation of inflammatory response to antigenic stimulus (GO:0002861),5.917676e-01,1.341845e+00,1.538462e-01,1.000000e+00,9.950000e-01,7/8,39.89%,GIP;PRKACG;MC3R;VIPR2;MC2R;VIP;RXFP2
+prerank,regulation of signal transduction (GO:0009966),-6.882704e-01,-1.336205e+00,1.377358e-01,8.487933e-01,9.990000e-01,3/5,22.16%,FRRS1L;WWTR1;TSPEAR
+prerank,regulation of cell motility (GO:2000145),-6.018267e-01,-1.317450e+00,1.728155e-01,8.885471e-01,9.990000e-01,2/7,7.65%,AMOTL2;FGF20
+prerank,phosphate-containing compound metabolic process (GO:0006796),-6.307086e-01,-1.308753e+00,1.557223e-01,8.797284e-01,9.990000e-01,2/6,8.25%,PLA2G4E;PLA2G4D
+prerank,epithelium development (GO:0060429),-5.969704e-01,-1.294264e+00,1.719368e-01,8.979250e-01,1.000000e+00,7/7,40.42%,PAX2;EHF;CDK1;PAX8;SHH;TBX1;SULT1B1
+prerank,cation transport (GO:0006812),-5.776012e-01,-1.288622e+00,1.903766e-01,8.756531e-01,1.000000e+00,3/7,16.13%,KCNC1;KCNMB3;ATP1A2
+prerank,negative regulation of extrinsic apoptotic signaling pathway (GO:2001237),-6.149300e-01,-1.287049e+00,2.059448e-01,8.432931e-01,1.000000e+00,2/6,8.78%,EYA4;BMP5
+prerank,intracellular protein transport (GO:0006886),6.343773e-01,1.283462e+00,2.022901e-01,1.000000e+00,9.980000e-01,2/6,11.30%,EIF2D;CACNG3
+prerank,B cell differentiation (GO:0030183),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,B cell activation (GO:0042113),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,natural killer cell activation involved in immune response (GO:0002323),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,lymphocyte activation involved in immune response (GO:0002285),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,response to dsRNA (GO:0043331),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,lymphocyte differentiation (GO:0030098),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,T cell activation involved in immune response (GO:0002286),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,B cell proliferation (GO:0042100),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,T cell activation (GO:0042110),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,positive regulation of peptidyl-serine phosphorylation of STAT protein (GO:0033141),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,response to exogenous dsRNA (GO:0043330),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,regulation of peptidyl-serine phosphorylation of STAT protein (GO:0033139),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,lymphocyte proliferation (GO:0046651),-5.919265e-01,-1.269337e+00,2.023576e-01,5.878748e-01,1.000000e+00,5/7,31.00%,IFNA21;IFNA7;IFNA16;IFNA4;IFNA6
+prerank,monocarboxylic acid metabolic process (GO:0032787),6.056794e-01,1.268962e+00,2.011952e-01,1.000000e+00,9.990000e-01,3/6,8.91%,PPARD;CYP3A4;CYP3A7
+prerank,sensory perception of smell (GO:0007608),4.349603e-01,1.266972e+00,1.493776e-01,1.000000e+00,9.990000e-01,9/21,19.23%,OR5L1;OR5L2;OR9Q2;OR10J3;OR5D18;OR8B4;OR5D13;SLC24A4;OR6K3
+prerank,steroid metabolic process (GO:0008202),5.770041e-01,1.264397e+00,2.121212e-01,1.000000e+00,9.990000e-01,3/7,22.30%,CYP3A4;CYP3A7;FDFT1
+prerank,nervous system development (GO:0007399),-4.721986e-01,-1.260583e+00,1.901141e-01,5.944422e-01,1.000000e+00,10/14,37.60%,WNT8B;ADGRB2;ADGRB1;WWTR1;ADGRL3;ROBO2;PAX8;ROBO1;SHH;FAT4
+prerank,positive regulation of cell migration (GO:0030335),-5.189121e-01,-1.256739e+00,1.854685e-01,5.729111e-01,1.000000e+00,4/11,18.65%,NEDD9;CLDN4;PDPN;SEMA3A
+prerank,positive regulation of cell motility (GO:2000147),-5.189121e-01,-1.256739e+00,1.854685e-01,5.729111e-01,1.000000e+00,4/11,18.65%,NEDD9;CLDN4;PDPN;SEMA3A
+prerank,inorganic cation transmembrane transport (GO:0098662),-5.703108e-01,-1.256382e+00,2.034261e-01,5.593662e-01,1.000000e+00,3/7,16.13%,KCNC1;KCNC2;ATP1A2
+prerank,cellular protein localization (GO:0034613),6.137286e-01,1.256177e+00,2.178218e-01,1.000000e+00,9.990000e-01,1/6,0.09%,EIF2D
+prerank,regulation of gene expression (GO:0010468),-4.151941e-01,-1.255914e+00,1.609658e-01,5.465944e-01,1.000000e+00,8/22,21.33%,BTNL2;FGF20;TRIM49B;WNT3A;WWTR1;TRIM49;SSBP2;PKP3
+prerank,regulation of transcription by RNA polymerase II (GO:0006357),-3.370781e-01,-1.249161e+00,1.068548e-01,5.498234e-01,1.000000e+00,16/54,21.86%,SP8;TAL2;ZFP82;BMP5;HBP1;PAX2;ST18;EHF;ZNF518A;GLIS3;WNT3A;WWTR1;SSBP2;BSX;ZNF521;SP140L
+prerank,regulation of cation channel activity (GO:2001257),6.212573e-01,1.237002e+00,2.211538e-01,1.000000e+00,9.990000e-01,2/5,11.37%,CACNG3;CAMK2B
+prerank,regulation of neurotransmitter receptor activity (GO:0099601),6.212573e-01,1.237002e+00,2.211538e-01,1.000000e+00,9.990000e-01,2/5,11.37%,CACNG3;CAMK2B
+prerank,positive regulation of protein phosphorylation (GO:0001934),-4.721583e-01,-1.234853e+00,2.133891e-01,5.693839e-01,1.000000e+00,5/13,24.68%,FGF20;BMP5;WNT3A;BMP10;GHR
+prerank,regulated exocytosis (GO:0045055),-5.767853e-01,-1.228464e+00,2.066277e-01,5.727600e-01,1.000000e+00,1/7,3.02%,SYT6
+prerank,positive regulation of peptidyl-serine phosphorylation (GO:0033138),-4.889049e-01,-1.226963e+00,2.175573e-01,5.633355e-01,1.000000e+00,6/11,31.00%,IFNA21;IFNA7;WNT3A;IFNA16;IFNA4;IFNA6
+prerank,potassium ion transmembrane transport (GO:0071805),-5.890704e-01,-1.224841e+00,2.297872e-01,5.556986e-01,1.000000e+00,3/6,16.13%,KCNC1;KCNC2;ATP1A2
+prerank,negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090101),-6.174536e-01,-1.213937e+00,2.536383e-01,5.674868e-01,1.000000e+00,4/5,32.15%,SPART;SPRY1;ADAMTSL2;LEMD2
+prerank,regulation of protein phosphorylation (GO:0001932),-5.262682e-01,-1.213450e+00,2.329317e-01,5.568406e-01,1.000000e+00,3/9,17.25%,FGF20;WNT3A;WWTR1
+prerank,positive regulation of protein modification process (GO:0031401),-5.788465e-01,-1.206598e+00,2.519531e-01,5.608337e-01,1.000000e+00,2/6,16.09%,FGF20;WNT3A
+prerank,T cell receptor signaling pathway (GO:0050852),-6.118778e-01,-1.197648e+00,2.649402e-01,5.575947e-01,1.000000e+00,2/5,6.00%,PAG1;BTNL2
+prerank,antigen receptor-mediated signaling pathway (GO:0050851),-6.118778e-01,-1.197648e+00,2.649402e-01,5.575947e-01,1.000000e+00,2/5,6.00%,PAG1;BTNL2
+prerank,calcium ion transport (GO:0006816),6.166484e-01,1.196946e+00,2.879684e-01,1.000000e+00,1.000000e+00,2/5,18.22%,CACNG3;SLC24A4
+prerank,positive regulation of transcription by RNA polymerase II (GO:0045944),-3.816818e-01,-1.185203e+00,2.281746e-01,5.724236e-01,1.000000e+00,8/25,19.09%,BMP5;PAX2;ST18;EHF;GLIS3;WNT3A;WWTR1;SSBP2
+prerank,epithelial cell differentiation (GO:0030855),-5.966965e-01,-1.172445e+00,3.115079e-01,5.898456e-01,1.000000e+00,5/5,40.42%,PAX2;EHF;CDK1;TBX1;SULT1B1
+prerank,negative regulation of transcription by RNA polymerase II (GO:0000122),4.582535e-01,1.165855e+00,2.743539e-01,1.000000e+00,1.000000e+00,2/12,7.77%,PPARD;ZNF705G
+prerank,negative regulation of nucleic acid-templated transcription (GO:1903507),5.419451e-01,1.165176e+00,2.947977e-01,1.000000e+00,1.000000e+00,2/7,6.19%,PPARD;LANCL2
+prerank,negative regulation of cellular macromolecule biosynthetic process (GO:2000113),5.419451e-01,1.165176e+00,2.947977e-01,1.000000e+00,1.000000e+00,2/7,6.19%,PPARD;LANCL2
+prerank,regulation of protein secretion (GO:0050708),5.314251e-01,1.163119e+00,2.980392e-01,1.000000e+00,1.000000e+00,3/7,15.10%,CACNA2D2;GIP;ADRA2A
+prerank,regulation of insulin secretion (GO:0050796),5.878769e-01,1.151775e+00,3.230174e-01,1.000000e+00,1.000000e+00,3/5,15.10%,CACNA2D2;GIP;ADRA2A
+prerank,sensory perception of chemical stimulus (GO:0007606),4.118687e-01,1.151513e+00,2.723577e-01,1.000000e+00,1.000000e+00,9/19,23.21%,OR5L1;OR5L2;OR9Q2;OR5D18;OR8B4;OR5D13;SLC24A4;OBP2A;OR5D16
+prerank,negative regulation of cell differentiation (GO:0045596),-5.218094e-01,-1.134455e+00,3.021442e-01,6.597173e-01,1.000000e+00,3/7,20.30%,BMP5;WWTR1;SPRY1
+prerank,positive regulation of cellular process (GO:0048522),-4.020086e-01,-1.133372e+00,2.723735e-01,6.501320e-01,1.000000e+00,6/18,19.48%,FGF20;BMP5;WNT3A;PDPN;WWTR1;ECHDC3
+prerank,"negative regulation of transcription, DNA-templated (GO:0045892)",4.027420e-01,1.133120e+00,2.901961e-01,1.000000e+00,1.000000e+00,3/18,7.77%,PPARD;LANCL2;ZNF705G
+prerank,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),-4.704671e-01,-1.120133e+00,3.370577e-01,6.663031e-01,1.000000e+00,9/11,37.60%,CLDN8;CLDN4;DSG1;ADGRL3;ROBO2;ROBO1;CDH11;SLITRK3;FAT4
+prerank,protein transport (GO:0015031),5.157724e-01,1.116279e+00,3.247525e-01,1.000000e+00,1.000000e+00,1/7,0.09%,EIF2D
+prerank,organelle assembly (GO:0070925),-5.428784e-01,-1.098517e+00,3.796477e-01,7.011334e-01,1.000000e+00,1/6,4.88%,EXOC4
+prerank,positive regulation of phosphorylation (GO:0042327),-5.079947e-01,-1.097127e+00,3.729839e-01,6.924027e-01,1.000000e+00,2/7,16.09%,FGF20;WNT3A
+prerank,skeletal system development (GO:0001501),-5.544131e-01,-1.090868e+00,4.043393e-01,6.948668e-01,1.000000e+00,1/5,8.78%,BMP5
+prerank,neuron projection development (GO:0031175),5.595199e-01,1.088636e+00,3.897959e-01,1.000000e+00,1.000000e+00,2/5,18.97%,NYAP2;CTNND2
+prerank,membrane organization (GO:0061024),-5.546845e-01,-1.088180e+00,4.046693e-01,6.882793e-01,1.000000e+00,4/5,42.67%,LEMD2;BTC;OSBPL2;CEP55
+prerank,"regulation of transcription, DNA-templated (GO:0006355)",-2.919156e-01,-1.086804e+00,3.112033e-01,6.801698e-01,1.000000e+00,17/53,23.37%,SP8;TAL2;ZFP82;HBP1;PAX2;ST18;EHF;ZNF518A;GLIS3;WNT3A;WWTR1;RFPL4AL1;SSBP2;BSX;ZNF521;SP140L;BMP10
+prerank,positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731),-5.028630e-01,-1.080347e+00,3.780000e-01,6.819685e-01,1.000000e+00,1/7,0.66%,NEDD9
+prerank,cellular response to molecule of bacterial origin (GO:0071219),5.365656e-01,1.057779e+00,4.065217e-01,1.000000e+00,1.000000e+00,1/5,0.60%,DEFA4
+prerank,cellular response to lipopolysaccharide (GO:0071222),5.365656e-01,1.057779e+00,4.065217e-01,1.000000e+00,1.000000e+00,1/5,0.60%,DEFA4
+prerank,regulation of endopeptidase activity (GO:0052548),5.402201e-01,1.057558e+00,4.198020e-01,1.000000e+00,1.000000e+00,2/5,22.53%,SERPINB12;SPOCK3
+prerank,regulation of cellular macromolecule biosynthetic process (GO:2000112),-4.402549e-01,-1.053569e+00,3.728489e-01,7.261835e-01,1.000000e+00,4/9,31.76%,WWTR1;SSBP2;PKP3;DMTF1
+prerank,response to lipopolysaccharide (GO:0032496),5.013514e-01,1.051758e+00,3.849372e-01,1.000000e+00,1.000000e+00,1/6,0.60%,DEFA4
+prerank,proteolysis (GO:0006508),-4.899905e-01,-1.041384e+00,4.340000e-01,7.395411e-01,1.000000e+00,3/7,25.27%,TMPRSS11E;USP25;NPEPPS
+prerank,negative regulation of endopeptidase activity (GO:0010951),4.944441e-01,1.033952e+00,4.376238e-01,1.000000e+00,1.000000e+00,2/6,22.53%,SERPINB12;SPOCK3
+prerank,organic acid transport (GO:0015849),5.169995e-01,1.024605e+00,4.540000e-01,1.000000e+00,1.000000e+00,3/5,13.18%,PPARD;SLC7A11;SLC25A11
+prerank,ameboidal-type cell migration (GO:0001667),-4.700110e-01,-1.022718e+00,4.353612e-01,7.662808e-01,1.000000e+00,5/7,37.24%,AMOTL2;SEMA3A;SEMA3E;SHH;TBX1
+prerank,defense response to Gram-positive bacterium (GO:0050830),4.389886e-01,1.022557e+00,4.364754e-01,1.000000e+00,1.000000e+00,1/9,0.60%,DEFA4
+prerank,positive regulation of signal transduction (GO:0009967),4.514075e-01,1.021500e+00,4.231537e-01,1.000000e+00,1.000000e+00,2/8,17.32%,LANCL2;TSLP
+prerank,positive regulation of developmental process (GO:0051094),-4.940815e-01,-1.021017e+00,4.545455e-01,7.573594e-01,1.000000e+00,2/6,9.81%,BMP5;PAX2
+prerank,cellular response to retinoic acid (GO:0071300),-4.556847e-01,-1.019236e+00,4.353877e-01,7.386768e-01,1.000000e+00,3/7,16.09%,WNT8B;PAX2;WNT3A
+prerank,response to retinoic acid (GO:0032526),-4.556847e-01,-1.019236e+00,4.353877e-01,7.386768e-01,1.000000e+00,3/7,16.09%,WNT8B;PAX2;WNT3A
+prerank,"positive regulation of transcription, DNA-templated (GO:0045893)",-3.098569e-01,-1.016581e+00,4.460285e-01,7.330819e-01,1.000000e+00,9/31,19.09%,BMP5;PAX2;ST18;EHF;GLIS3;WNT3A;WWTR1;RFPL4AL1;SSBP2
+prerank,nitrogen compound transport (GO:0071705),-5.182493e-01,-1.015133e+00,4.819277e-01,7.247988e-01,1.000000e+00,3/5,17.23%,SLC25A48;SLC5A7;PDPN
+prerank,regulation of peptide hormone secretion (GO:0090276),4.491114e-01,1.009128e+00,4.416826e-01,1.000000e+00,1.000000e+00,3/8,15.10%,CACNA2D2;GIP;ADRA2A
+prerank,regulation of fat cell differentiation (GO:0045598),5.207807e-01,9.936980e-01,5.132924e-01,1.000000e+00,1.000000e+00,1/5,2.41%,PPARD
+prerank,positive regulation of protein localization to nucleus (GO:1900182),-5.090538e-01,-9.927513e-01,4.939024e-01,7.579102e-01,1.000000e+00,4/5,36.43%,WWTR1;CDK1;PIK3R1;TRIM28
+prerank,negative regulation of peptidase activity (GO:0010466),4.816868e-01,9.909642e-01,4.843137e-01,1.000000e+00,1.000000e+00,4/6,38.47%,SERPINB12;SPOCK3;PARK7;SERPINA12
+prerank,negative regulation of cell migration (GO:0030336),-4.792527e-01,-9.758560e-01,5.039370e-01,7.793943e-01,1.000000e+00,5/6,40.67%,SCAI;BMP10;ROBO1;SHH;STC1
+prerank,antibacterial humoral response (GO:0019731),4.956986e-01,9.704435e-01,5.020408e-01,1.000000e+00,1.000000e+00,1/5,0.60%,DEFA4
+prerank,axonogenesis (GO:0007409),-3.441885e-01,-9.500141e-01,5.348361e-01,8.167704e-01,1.000000e+00,10/17,37.51%,PAX2;ADGRB1;SEMA3A;LAMA2;SEMA3E;ROBO2;PIK3R1;ROBO1;SHH;SLITRK3
+prerank,positive regulation of cell population proliferation (GO:0008284),-3.296107e-01,-9.439121e-01,5.363825e-01,8.166962e-01,1.000000e+00,5/20,17.25%,FGF20;BMP5;PAX2;WNT3A;WWTR1
+prerank,anterograde trans-synaptic signaling (GO:0098916),3.385269e-01,9.402184e-01,5.267327e-01,1.000000e+00,1.000000e+00,8/17,23.97%,NPY5R;HCRTR2;PRKACG;CHRNE;OPRK1;OR11H4;GABRG1;CAMK4
+prerank,protein autophosphorylation (GO:0046777),4.738520e-01,9.305688e-01,5.551181e-01,1.000000e+00,1.000000e+00,2/5,23.97%,CAMK2B;CAMK4
+prerank,regulation of protein kinase B signaling (GO:0051896),-4.451116e-01,-9.153251e-01,5.903614e-01,8.496694e-01,1.000000e+00,1/6,7.65%,FGF20
+prerank,positive regulation of protein kinase B signaling (GO:0051897),-4.451116e-01,-9.153251e-01,5.903614e-01,8.496694e-01,1.000000e+00,1/6,7.65%,FGF20
+prerank,positive regulation of cellular metabolic process (GO:0031325),4.690493e-01,9.141897e-01,5.830116e-01,1.000000e+00,1.000000e+00,1/5,2.41%,PPARD
+prerank,protein phosphorylation (GO:0006468),3.437391e-01,9.137427e-01,5.741088e-01,1.000000e+00,1.000000e+00,8/15,35.86%,CAMK2B;SNRK;PRKCH;CAMK4;CAMKV;BCKDK;EPHA3;MOS
+prerank,protein stabilization (GO:0050821),-4.684887e-01,-8.999006e-01,6.080508e-01,8.675490e-01,1.000000e+00,4/5,40.47%,DSG1;PIK3R1;A1CF;IRGM
+prerank,regulation of nucleic acid-templated transcription (GO:1903506),-3.879894e-01,-8.976592e-01,6.030829e-01,8.609623e-01,1.000000e+00,5/8,43.06%,WWTR1;SSBP2;DMTF1;SKOR2;ZNF430
+prerank,brain development (GO:0007420),-4.387240e-01,-8.966300e-01,5.818540e-01,8.520916e-01,1.000000e+00,3/6,28.23%,PAX2;ADGRL3;ROBO2
+prerank,supramolecular fiber organization (GO:0097435),3.422462e-01,8.961825e-01,5.939850e-01,1.000000e+00,1.000000e+00,2/14,6.67%,TCHH;COL11A1
+prerank,peptidyl-serine modification (GO:0018209),4.318183e-01,8.913200e-01,5.817490e-01,1.000000e+00,1.000000e+00,3/6,25.00%,PRKCH;CAMK4;CAMKV
+prerank,regulation of neuron projection development (GO:0010975),3.949224e-01,8.908070e-01,6.066253e-01,1.000000e+00,1.000000e+00,2/8,11.37%,RTN4R;CAMK2B
+prerank,cellular response to oxygen-containing compound (GO:1901701),-3.350915e-01,-8.904095e-01,6.019802e-01,8.540735e-01,1.000000e+00,5/14,16.09%,DEFA1;WNT8B;PAX2;KCNC2;WNT3A
+prerank,peptidyl-serine phosphorylation (GO:0018105),4.555335e-01,8.866363e-01,6.178707e-01,1.000000e+00,1.000000e+00,3/5,25.00%,PRKCH;CAMK4;CAMKV
+prerank,neuropeptide signaling pathway (GO:0007218),4.084549e-01,8.811953e-01,5.947581e-01,1.000000e+00,1.000000e+00,2/7,16.06%,HCRTR2;OPRK1
+prerank,defense response to Gram-negative bacterium (GO:0050829),3.542157e-01,8.801308e-01,6.370968e-01,1.000000e+00,1.000000e+00,1/11,0.60%,DEFA4
+prerank,cytokine-mediated signaling pathway (GO:0019221),-2.831493e-01,-8.698071e-01,6.531440e-01,8.809320e-01,1.000000e+00,10/23,31.60%,IFNA21;ST18;IFNA7;GHR;IFNA16;IFNA4;PIK3R1;CSF2;IFNA6;IFNAR1
+prerank,cellular response to lipid (GO:0071396),-3.273530e-01,-8.609729e-01,6.746507e-01,8.871514e-01,1.000000e+00,5/14,16.13%,DEFA1;WNT8B;PAX2;WNT3A;ATP1A2
+prerank,negative regulation of chemotaxis (GO:0050922),-4.226096e-01,-8.491650e-01,6.387755e-01,8.979832e-01,1.000000e+00,4/6,30.09%,SEMA3A;SEMA3E;ROBO2;ROBO1
+prerank,inorganic anion transmembrane transport (GO:0098661),4.381383e-01,8.480143e-01,6.595331e-01,1.000000e+00,1.000000e+00,2/5,23.92%,SLC25A11;GABRG1
+prerank,sensory perception of mechanical stimulus (GO:0050954),4.082674e-01,8.446990e-01,6.659836e-01,1.000000e+00,1.000000e+00,1/6,6.67%,COL11A1
+prerank,regulation of apoptotic process (GO:0042981),-3.288785e-01,-8.440675e-01,6.575630e-01,8.968275e-01,1.000000e+00,5/13,28.78%,PAX2;PDPN;CDK1;PIK3R1;PAX8
+prerank,activation of protein kinase activity (GO:0032147),4.303054e-01,8.391578e-01,6.746032e-01,1.000000e+00,1.000000e+00,2/5,15.10%,PRKACG;ADRA2A
+prerank,neural crest cell development (GO:0014032),-3.844723e-01,-8.341260e-01,6.761364e-01,9.034945e-01,1.000000e+00,5/7,37.24%,SEMA3A;KBTBD8;SEMA3E;SHH;TBX1
+prerank,sensory perception of sound (GO:0007605),4.223405e-01,8.327929e-01,6.767068e-01,1.000000e+00,1.000000e+00,1/5,6.67%,COL11A1
+prerank,negative regulation of multicellular organismal process (GO:0051241),-3.730848e-01,-8.291670e-01,7.128906e-01,9.011225e-01,1.000000e+00,5/8,40.67%,BMP5;SPRY1;ROBO1;SHH;STC1
+prerank,innate immune response (GO:0045087),3.282616e-01,8.198310e-01,6.858316e-01,1.000000e+00,1.000000e+00,1/11,0.60%,DEFA4
+prerank,cellular response to metal ion (GO:0071248),-4.198501e-01,-8.196603e-01,6.916836e-01,9.066199e-01,1.000000e+00,1/5,3.02%,SYT6
+prerank,neutrophil mediated immunity (GO:0002446),3.471817e-01,8.195559e-01,7.030303e-01,1.000000e+00,1.000000e+00,2/10,10.36%,DEFA4;SERPINB12
+prerank,neutrophil activation involved in immune response (GO:0002283),3.471817e-01,8.195559e-01,7.030303e-01,1.000000e+00,1.000000e+00,2/10,10.36%,DEFA4;SERPINB12
+prerank,neutrophil degranulation (GO:0043312),3.471817e-01,8.195559e-01,7.030303e-01,1.000000e+00,1.000000e+00,2/10,10.36%,DEFA4;SERPINB12
+prerank,regulation of canonical Wnt signaling pathway (GO:0060828),-4.225346e-01,-8.194652e-01,6.984127e-01,8.965008e-01,1.000000e+00,2/5,17.25%,WNT3A;WWTR1
+prerank,heart development (GO:0007507),-4.120303e-01,-8.145477e-01,7.198364e-01,8.941707e-01,1.000000e+00,4/5,37.24%,BMP5;BMP10;SHH;TBX1
+prerank,defense response to bacterium (GO:0042742),3.038093e-01,8.086195e-01,7.535642e-01,1.000000e+00,1.000000e+00,1/14,0.60%,DEFA4
+prerank,chemical synaptic transmission (GO:0007268),2.856321e-01,8.075258e-01,7.494949e-01,1.000000e+00,1.000000e+00,8/19,23.97%,NPY5R;HCRTR2;PRKACG;CHRNE;OPRK1;OR11H4;GABRG1;CAMK4
+prerank,visual perception (GO:0007601),-4.124500e-01,-8.070808e-01,6.971545e-01,8.956953e-01,1.000000e+00,2/5,9.81%,EYA4;PAX2
+prerank,extracellular matrix organization (GO:0030198),-3.043093e-01,-7.957267e-01,7.594937e-01,9.030622e-01,1.000000e+00,4/13,23.28%,OPTC;ADAMTSL2;COL6A3;LAMA2
+prerank,cellular protein modification process (GO:0006464),2.773677e-01,7.916115e-01,7.725490e-01,1.000000e+00,1.000000e+00,8/20,34.33%,PDP1;CAMK2B;SNRK;PRKCH;CAMK4;BCKDK;PARK7;FGG
+prerank,sensory perception of light stimulus (GO:0050953),-4.003132e-01,-7.812295e-01,7.500000e-01,9.152543e-01,1.000000e+00,2/5,9.81%,EYA4;PAX2
+prerank,negative regulation of axon extension (GO:0030517),3.915239e-01,7.716294e-01,7.465347e-01,1.000000e+00,1.000000e+00,2/5,20.83%,RTN4R;SEMA3D
+prerank,negative regulation of apoptotic process (GO:0043066),-2.795642e-01,-7.589125e-01,7.983871e-01,9.384726e-01,1.000000e+00,5/15,28.28%,FGF20;PAX2;PDPN;CDK1;PIK3R1
+prerank,positive regulation of intracellular signal transduction (GO:1902533),-2.964002e-01,-7.550567e-01,7.663158e-01,9.340056e-01,1.000000e+00,7/13,38.66%,FGF20;ADRA2B;C1QTNF4;PIK3R1;BTC;TBX1;FRMD1
+prerank,response to calcium ion (GO:0051592),-3.660904e-01,-7.536347e-01,7.797980e-01,9.262967e-01,1.000000e+00,2/6,15.93%,SYT6;KCNMB3
+prerank,adenylate cyclase-activating G protein-coupled receptor signaling pathway (GO:0007189),-2.979990e-01,-7.455616e-01,8.198020e-01,9.280996e-01,1.000000e+00,4/12,21.93%,ADGRB2;ADGRB1;ADGRL3;ADRA2B
+prerank,cellular response to hormone stimulus (GO:0032870),-3.656339e-01,-7.414305e-01,7.911392e-01,9.240321e-01,1.000000e+00,4/6,28.78%,ATP1A2;GHR;ROBO2;PAX8
+prerank,negative regulation of programmed cell death (GO:0043069),-3.054315e-01,-7.330673e-01,8.061224e-01,9.252098e-01,1.000000e+00,4/10,28.28%,PAX2;PDPN;CDK1;PIK3R1
+prerank,negative regulation of neuron projection development (GO:0010977),3.436797e-01,7.254086e-01,7.946058e-01,1.000000e+00,1.000000e+00,1/6,6.30%,RTN4R
+prerank,adenylate cyclase-modulating G protein-coupled receptor signaling pathway (GO:0007188),2.715701e-01,7.136292e-01,8.598326e-01,1.000000e+00,1.000000e+00,7/14,32.61%,GRM8;ADRA2A;OPRK1;GPR6;MC3R;VIPR2;MC2R
+prerank,negative regulation of cell motility (GO:2000146),-3.280669e-01,-7.043365e-01,8.460039e-01,9.514135e-01,1.000000e+00,5/7,40.67%,SCAI;BMP10;ROBO1;SHH;STC1
+prerank,negative regulation of cell projection organization (GO:0031345),3.146475e-01,6.957804e-01,8.259109e-01,1.000000e+00,1.000000e+00,1/7,6.30%,RTN4R
+prerank,external encapsulating structure organization (GO:0045229),3.119601e-01,6.952175e-01,8.171642e-01,1.000000e+00,1.000000e+00,1/8,6.67%,COL11A1
+prerank,extracellular structure organization (GO:0043062),3.119601e-01,6.952175e-01,8.171642e-01,1.000000e+00,1.000000e+00,1/8,6.67%,COL11A1
+prerank,positive regulation of macromolecule metabolic process (GO:0010604),-2.855395e-01,-6.928724e-01,8.627049e-01,9.549328e-01,1.000000e+00,5/11,30.75%,FGF20;WNT3A;PKP3;ROBO1;CSF2
+prerank,regulation of cell differentiation (GO:0045595),3.076217e-01,6.864489e-01,8.539554e-01,1.000000e+00,1.000000e+00,8/8,69.29%,PTPRQ;EPHA3;TRPS1;SERPINF2;TBX1;SHH;SIK1;CSF2
+prerank,neural crest cell migration (GO:0001755),-3.262394e-01,-6.785949e-01,8.458574e-01,9.615886e-01,1.000000e+00,5/6,43.03%,SEMA3A;SEMA3E;SHH;TBX1;SEMA5B
+prerank,DNA metabolic process (GO:0006259),-3.390686e-01,-6.764855e-01,8.258317e-01,9.546016e-01,1.000000e+00,5/5,66.15%,CDK1;TRIM28;NT5E;ERCC5;PARK7
+prerank,axon guidance (GO:0007411),-2.482610e-01,-6.561264e-01,9.049505e-01,9.658527e-01,1.000000e+00,6/14,30.09%,SEMA3A;LAMA2;SEMA3E;ROBO2;PIK3R1;ROBO1
+prerank,positive regulation of multicellular organismal process (GO:0051240),-2.518062e-01,-6.541171e-01,9.087302e-01,9.585380e-01,1.000000e+00,5/13,28.78%,PAX2;PDPN;WWTR1;GHR;PAX8
+prerank,MAPK cascade (GO:0000165),-2.875364e-01,-6.450957e-01,8.874735e-01,9.579696e-01,1.000000e+00,5/8,37.01%,FGF20;CDK1;PIK3R1;CSF2;BTC
+prerank,cell junction assembly (GO:0034329),-3.111560e-01,-6.450228e-01,8.832117e-01,9.489865e-01,1.000000e+00,3/6,21.33%,DSG1;ADGRL3;PKP3
+prerank,phosphorylation (GO:0016310),2.546971e-01,6.371144e-01,9.317739e-01,1.000000e+00,1.000000e+00,4/12,23.97%,CAMK2B;SNRK;PRKCH;CAMK4
+prerank,positive regulation of cytokine production (GO:0001819),-2.371740e-01,-6.099945e-01,9.389002e-01,9.682485e-01,1.000000e+00,1/12,3.62%,CHIA
+prerank,regulation of protein localization to plasma membrane (GO:1903076),2.827634e-01,6.070066e-01,9.278752e-01,1.000000e+00,1.000000e+00,7/7,71.77%,PRKCH;NKD2;EPHA3;STX7;LRRC15;ZDHHC8;PIK3R1
+prerank,neuron projection morphogenesis (GO:0048812),2.949287e-01,6.046145e-01,8.979167e-01,1.000000e+00,1.000000e+00,2/6,18.97%,NYAP2;CTNND2
+prerank,positive regulation of cell differentiation (GO:0045597),2.258849e-01,6.037167e-01,9.458918e-01,1.000000e+00,1.000000e+00,1/15,2.41%,PPARD
+prerank,cell-cell junction organization (GO:0045216),-2.763669e-01,-5.776481e-01,9.296578e-01,9.805703e-01,1.000000e+00,4/6,31.44%,DSG1;PKP3;CADM2;CDH11
+prerank,collagen fibril organization (GO:0030199),2.644191e-01,5.757885e-01,9.640000e-01,1.000000e+00,1.000000e+00,1/8,6.67%,COL11A1
+prerank,positive regulation of gene expression (GO:0010628),-2.209124e-01,-5.719009e-01,9.671458e-01,9.749785e-01,1.000000e+00,6/14,30.75%,FGF20;WNT3A;PKP3;PIK3R1;ROBO1;CSF2
+prerank,protein modification by small protein removal (GO:0070646),2.862866e-01,5.712485e-01,9.281184e-01,1.000000e+00,1.000000e+00,1/5,13.41%,USP40
+prerank,protein deubiquitination (GO:0016579),2.862866e-01,5.712485e-01,9.281184e-01,1.000000e+00,1.000000e+00,1/5,13.41%,USP40
+prerank,negative chemotaxis (GO:0050919),2.760775e-01,5.693524e-01,9.398058e-01,1.000000e+00,1.000000e+00,2/6,20.83%,SLIT1;SEMA3D
+prerank,positive regulation of nucleic acid-templated transcription (GO:1903508),2.084712e-01,5.676509e-01,9.648438e-01,1.000000e+00,1.000000e+00,2/15,10.47%,PPARD;RFPL4A
+prerank,positive regulation of cell projection organization (GO:0031346),2.719137e-01,5.550249e-01,9.628906e-01,1.000000e+00,1.000000e+00,6/6,72.85%,CAMK2B;EPHA3;PROM2;ROBO1;ROBO2;STMN2
+prerank,positive regulation of protein localization to cell periphery (GO:1904377),2.899604e-01,5.546968e-01,9.507874e-01,1.000000e+00,1.000000e+00,3/5,32.91%,PRKCH;NKD2;EPHA3
+prerank,positive regulation of protein localization to membrane (GO:1905477),2.899604e-01,5.546968e-01,9.507874e-01,1.000000e+00,1.000000e+00,3/5,32.91%,PRKCH;NKD2;EPHA3
+prerank,positive regulation of protein localization to plasma membrane (GO:1903078),2.899604e-01,5.546968e-01,9.507874e-01,1.000000e+00,1.000000e+00,3/5,32.91%,PRKCH;NKD2;EPHA3
+prerank,cell-cell junction assembly (GO:0007043),2.747369e-01,5.392029e-01,9.513274e-01,1.000000e+00,1.000000e+00,2/5,18.97%,CDH7;CTNND2
+prerank,DNA repair (GO:0006281),2.707043e-01,5.186522e-01,9.695740e-01,9.996635e-01,1.000000e+00,5/5,72.96%,FANCI;PARK7;ERCC5;TRIM28;CDK1
+prerank,positive regulation of tyrosine phosphorylation of STAT protein (GO:0042531),-2.556618e-01,-4.917486e-01,9.779116e-01,9.914118e-01,1.000000e+00,3/5,30.75%,CSH2;GHR;CSF2
+prerank,regulation of tyrosine phosphorylation of STAT protein (GO:0042509),-2.556618e-01,-4.917486e-01,9.779116e-01,9.914118e-01,1.000000e+00,3/5,30.75%,CSH2;GHR;CSF2
+prerank,positive regulation of MAPK cascade (GO:0043410),2.192378e-01,4.849574e-01,9.938650e-01,9.989188e-01,1.000000e+00,8/8,78.12%,ADRA2A;FGG;MOS;FGF4;SERPINF2;TBX1;ROBO1;ADRA2B
+prerank,central nervous system development (GO:0007417),1.963261e-01,4.628283e-01,9.979123e-01,9.917674e-01,1.000000e+00,9/9,80.41%,PROP1;CA10;GRIN2B;CNTNAP2;PTPRZ1;SHH;PAX8;ROBO2;ADGRL3
+prerank,"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger (GO:0007187)",-2.166131e-01,-4.426122e-01,9.896907e-01,9.947834e-01,1.000000e+00,6/6,78.39%,OR5T3;OR11H7;MC5R;MC2R;MC3R;OR11H4

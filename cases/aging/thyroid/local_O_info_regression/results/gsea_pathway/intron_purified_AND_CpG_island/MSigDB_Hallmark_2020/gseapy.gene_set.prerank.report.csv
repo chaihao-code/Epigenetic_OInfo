@@ -1,0 +1,3 @@
+Name,Term,ES,NES,NOM p-val,FDR q-val,FWER p-val,Tag %,Gene %,Lead_genes
+prerank,Estrogen Response Early,7.774194e-01,1.505445e+00,5.089059e-02,9.701493e-02,3.900000e-02,3/5,15.74%,CHPT1;CBFA2T3;KDM4B
+prerank,Mitotic Spindle,5.904789e-01,1.133005e+00,3.430657e-01,3.432836e-01,2.570000e-01,2/5,14.36%,TBCD;CEP72

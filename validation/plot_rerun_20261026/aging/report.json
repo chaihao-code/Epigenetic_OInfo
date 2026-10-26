@@ -1,0 +1,591 @@
+{
+  "entries": [
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/04_select_markers.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 04_select_markers.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/04_select_markers.log",
+      "started_unix": 1793013041.9786658,
+      "status": "removed_by_request",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/processed/reference_matrix_A.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/processed/reference_matrix_A.tsv",
+          "bytes": 643428,
+          "sha256": "b5b2cb9395cffd35891e51c83742919b38852c9e6c04d9d2664c26ef8bf5b39b"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/processed/reference_matrix_B.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/processed/reference_matrix_B.tsv",
+          "bytes": 686411,
+          "sha256": "4836cd2825ec6285d63d0b4c4ab3c8fc14638e31d3b5cd1fb812ed09719bd4cd"
+        }
+      ],
+      "outputs": [],
+      "elapsed_seconds": 23.3,
+      "description_zh": "参考细胞甲基化marker热图：Panel A/B",
+      "input_nature_zh": "原入口从参考beta/npz重选marker；本次从reference_matrix_A/B中间表调用heatmap()",
+      "source_sha256": "e3851ab4076809ed37ee4ec465a68a28ae518afefb8dfbf0c1c0a727cbd1ff64",
+      "figure_count": 0,
+      "file_count": 0,
+      "previous_status": "success",
+      "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+    },
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/05_validate_deconvolution.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 05_validate_deconvolution.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/05_validate_deconvolution.log",
+      "started_unix": 1793013089.8663383,
+      "status": "removed_by_request",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/simulation_results.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/simulation_results.tsv",
+          "bytes": 734253,
+          "sha256": "aac31c82aa8cb2ef163355110cffbcb94f728c73a5675b82a4632cb82cc47e13"
+        }
+      ],
+      "outputs": [],
+      "elapsed_seconds": 8.19,
+      "description_zh": "模拟混合比例与估计免疫比例验证图（4面板）",
+      "input_nature_zh": "原入口重新模拟/NNLS；本次读取simulation_results.tsv执行原绘图段",
+      "source_sha256": "a8f2569a6509ae35b026e694475f0ba34313e36ed9743effc1e4eeae5e26a547",
+      "figure_count": 0,
+      "file_count": 0,
+      "previous_status": "success",
+      "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+    },
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/06_deconvolve_samples.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 06_deconvolve_samples.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/06_deconvolve_samples.log",
+      "started_unix": 1793012992.5533695,
+      "status": "removed_by_request",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+          "bytes": 18707,
+          "sha256": "c07d2da39dac5404104b42e438606a88120e848022d1eb4a8b8a08163052842f"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+          "bytes": 283,
+          "sha256": "ccfb74f942809c74464171d01e87510db96a7038eed787763d039f84df792c75"
+        }
+      ],
+      "outputs": [],
+      "elapsed_seconds": 3.21,
+      "description_zh": "6供体细胞组成与模型敏感性图（4面板）",
+      "input_nature_zh": "原入口读取甲基化bigWig并重新去卷积/bootstrap；本次读取细胞比例表调用figures()",
+      "source_sha256": "a2c8b5f87f127f76166420f4bde4b3d1aeb457a4c6eb83884f84b59808ebb0a9",
+      "figure_count": 0,
+      "file_count": 0,
+      "previous_status": "success",
+      "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+    },
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/06_immune_age_association.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 06_immune_age_association.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/06_immune_age_association.log",
+      "started_unix": 1793012995.7923987,
+      "status": "removed_by_request",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+          "bytes": 18707,
+          "sha256": "c07d2da39dac5404104b42e438606a88120e848022d1eb4a8b8a08163052842f"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+          "bytes": 283,
+          "sha256": "ccfb74f942809c74464171d01e87510db96a7038eed787763d039f84df792c75"
+        }
+      ],
+      "outputs": [],
+      "elapsed_seconds": 28.98,
+      "description_zh": "免疫细胞比例随年龄变化及回归（4面板）",
+      "input_nature_zh": "中间细胞比例表+样本年龄；本次执行轻量回归及绘图",
+      "source_sha256": "a0dc1463040a2a62d6fbe56f655c57d02edfdc92b9ae0823b58134b9a72416f5",
+      "figure_count": 0,
+      "file_count": 0,
+      "previous_status": "success",
+      "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+    },
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/07_oinfo_age_adjustment.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 07_oinfo_age_adjustment.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/07_oinfo_age_adjustment.log",
+      "started_unix": 1793013025.0969737,
+      "status": "removed_by_request",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_age_adjustment.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_age_adjustment.tsv",
+          "bytes": 40845,
+          "sha256": "982558c8a5417e5a2efce7c7113fb8eb7ef807aac15b26c48861fc166e92eee9"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/processed/oinfo_long.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/processed/oinfo_long.tsv",
+          "bytes": 25213,
+          "sha256": "5393ecaab9b8d066582c6fbbc8021def8b9a0923531a4c4f4a081d588e5fccd5"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+          "bytes": 18707,
+          "sha256": "c07d2da39dac5404104b42e438606a88120e848022d1eb4a8b8a08163052842f"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+          "bytes": 283,
+          "sha256": "ccfb74f942809c74464171d01e87510db96a7038eed787763d039f84df792c75"
+        }
+      ],
+      "outputs": [],
+      "elapsed_seconds": 5.58,
+      "description_zh": "免疫调整前后年龄斜率、置信区间及稳健性（6面板）",
+      "input_nature_zh": "原入口从O-info及比例表重新回归/bootstrap；本次读取oinfo_age_adjustment.tsv及散点源表执行绘图段",
+      "source_sha256": "41c40fda0c1c35005e35117e3189560046275a85edb8cff6e27b855851ef0cbb",
+      "figure_count": 0,
+      "file_count": 0,
+      "previous_status": "success",
+      "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+    },
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/08_region_filtering.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 08_region_filtering.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/08_region_filtering.log",
+      "started_unix": 1793013030.6857922,
+      "status": "removed_by_request",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_filtering_values.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_filtering_values.tsv",
+          "bytes": 3779851,
+          "sha256": "022ca6858338f511349cebb873a3f50a11f30067fc04b07ff25d5de5e8606af2"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_region_filtering.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_region_filtering.tsv",
+          "bytes": 21614,
+          "sha256": "b910e994c9167a9a6a8b785d4415d95e0d8bfa54998dbc06ea2e4c929228ea3a"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+          "bytes": 283,
+          "sha256": "ccfb74f942809c74464171d01e87510db96a7038eed787763d039f84df792c75"
+        }
+      ],
+      "outputs": [],
+      "elapsed_seconds": 6.47,
+      "description_zh": "排除免疫特异区域与matched downsampling敏感性（3面板）",
+      "input_nature_zh": "原入口读离散轨迹重新计算O-information；本次读取filtering_values/region_filtering中间表执行绘图段",
+      "source_sha256": "24839f6b2b14f5119fe1c55967e93c08c3dba31be0760c9e26f44f08f0bbec90",
+      "figure_count": 0,
+      "file_count": 0,
+      "previous_status": "success",
+      "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+    },
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/09_marker_go_analysis.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 09_marker_go_analysis.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/09_marker_go_analysis.log",
+      "started_unix": 1793013037.1594756,
+      "status": "removed_by_request",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/immune_marker_analysis.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/immune_marker_analysis.tsv",
+          "bytes": 3807,
+          "sha256": "b643030e0eb63cc2f0aeefe5ac9c9ffa98618889394c5b19ef0b972284b4efac"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/immune_region_enrichment.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/immune_region_enrichment.tsv",
+          "bytes": 734,
+          "sha256": "4c4e64e019b2cb2bccd06e44a26a1479f8a996fa3e0b9cc94224db0d01d58470"
+        }
+      ],
+      "outputs": [],
+      "elapsed_seconds": 2.62,
+      "description_zh": "免疫/甲状腺marker表达、年龄关联和免疫区间重叠（3面板）",
+      "input_nature_zh": "原入口读RNA bigWig、GTF、离散轨迹/注释并做GO分析；本次只读immune_marker_analysis/immune_region_enrichment表执行绘图段",
+      "source_sha256": "5a2a1e537ee341aec36ea931f54a6aec80bad4dd85ab5923cde63a7cc21dcf71",
+      "figure_count": 0,
+      "file_count": 0,
+      "previous_status": "success",
+      "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+    },
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/10_histone_association.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 10_histone_association.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/10_histone_association.log",
+      "started_unix": 1793013039.779456,
+      "status": "removed_by_request",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/histone_immune_association.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/histone_immune_association.tsv",
+          "bytes": 186033,
+          "sha256": "6640a75fa647cf3adaead8f7fca781763ee4103e635b9577a18911ba606d6489"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+          "bytes": 18707,
+          "sha256": "c07d2da39dac5404104b42e438606a88120e848022d1eb4a8b8a08163052842f"
+        }
+      ],
+      "outputs": [],
+      "elapsed_seconds": 7.19,
+      "description_zh": "6种组蛋白信号的年龄斜率；信号与免疫比例关系（各6面板）",
+      "input_nature_zh": "原入口优先bin_means_cache缓存，缺缓存读取组蛋白bigWig；本次只读histone_immune_association及细胞比例表执行绘图段",
+      "source_sha256": "96ab60c95623debce03570da636c57d7d9f4508cb7ba9db3658652639d9548db",
+      "figure_count": 0,
+      "file_count": 0,
+      "previous_status": "success",
+      "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+    },
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/12_fig_q1_composition.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 12_fig_q1_composition.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/12_fig_q1_composition.log",
+      "started_unix": 1793013046.984025,
+      "status": "success",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+          "bytes": 283,
+          "sha256": "ccfb74f942809c74464171d01e87510db96a7038eed787763d039f84df792c75"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+          "bytes": 18707,
+          "sha256": "c07d2da39dac5404104b42e438606a88120e848022d1eb4a8b8a08163052842f"
+        }
+      ],
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/deconvolution/results/figures/figQ1_composition.png",
+          "bytes": 197076,
+          "sha256": "29682510341b67be90dc3580ebde40a58b66549b99297f76cdea5d050842c7e1"
+        }
+      ],
+      "elapsed_seconds": 6.38,
+      "description_zh": "细胞组成及Panel/Model稳健性（3面板）",
+      "input_nature_zh": "中间细胞比例表+样本元数据；纯绘图",
+      "source_sha256": "460e043d13f4ea716187f0e5c54c073be4c97602c1cb4ed738670609ec4e84bd",
+      "figure_count": 1,
+      "file_count": 1,
+      "note": "Only this PNG is retained for thyroid deconvolution by user request."
+    },
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/15_fig_volcano.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 15_fig_volcano.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/15_fig_volcano.log",
+      "started_unix": 1793013053.3652234,
+      "status": "removed_by_request",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_age_fdr_table.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_age_fdr_table.tsv",
+          "bytes": 5960,
+          "sha256": "8bbb55eccb348c8b2baf4148f8102506f186e469487927f86a29da096335fb4f"
+        }
+      ],
+      "outputs": [],
+      "elapsed_seconds": 3.5,
+      "description_zh": "免疫调整后的年龄斜率/P值火山图",
+      "input_nature_zh": "中间oinfo_age_fdr_table.tsv；纯绘图",
+      "source_sha256": "4da3cf22ccdf3f93b16ffae7d11eb0bae0bbf2e86b53f00c577a26cfc65c7ecc",
+      "figure_count": 0,
+      "file_count": 0,
+      "previous_status": "success",
+      "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+    },
+    {
+      "script": "cases/aging/thyroid/deconvolution/scripts/16_fig_lollipop.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 16_fig_lollipop.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/16_fig_lollipop.log",
+      "started_unix": 1793013056.8727436,
+      "status": "removed_by_request",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_age_fdr_table.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_age_fdr_table.tsv",
+          "bytes": 5960,
+          "sha256": "8bbb55eccb348c8b2baf4148f8102506f186e469487927f86a29da096335fb4f"
+        }
+      ],
+      "outputs": [],
+      "elapsed_seconds": 2.6,
+      "description_zh": "年龄斜率调整前后相对差的棒棒糖图",
+      "input_nature_zh": "中间oinfo_age_fdr_table.tsv；纯绘图",
+      "source_sha256": "8aaf177c3c29a9ff928a4abf08ced46ad45e960faaca0c276d679beddadedb26",
+      "figure_count": 0,
+      "file_count": 0,
+      "previous_status": "success",
+      "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+    },
+    {
+      "script": "cases/aging/neutrophil/scripts/plot_oinfo_vs_age.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only plot_oinfo_vs_age.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/plot_oinfo_vs_age.log",
+      "started_unix": 1793013720.6703305,
+      "status": "success",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/donor_metadata.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/donor_metadata.tsv",
+          "bytes": 1476,
+          "sha256": "e4c8a053fabc3f836c344874754d7ba9d13de2cf13766344cf4010e62e66b31b"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000004/IHECRE00000004_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000004/IHECRE00000004_oinfo.csv",
+          "bytes": 3422808,
+          "sha256": "7e53483362c783c985d8b244922f42e3c1e29a63d44519f1ad667acb7624c6d6"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000094/IHECRE00000094_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000094/IHECRE00000094_oinfo.csv",
+          "bytes": 3422258,
+          "sha256": "3cbfdbea0bc8f36aaa4eaa4f98724e85c3bf2d4ee70e7667361347f753fac8fb"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000095/IHECRE00000095_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000095/IHECRE00000095_oinfo.csv",
+          "bytes": 3423889,
+          "sha256": "817bd6249ba961392d954ee5b0bd18aa53a9f7f732b53815e35bfe4c5ef86fff"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000109/IHECRE00000109_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000109/IHECRE00000109_oinfo.csv",
+          "bytes": 3423879,
+          "sha256": "d15d5d2defdd83121e5682e429d3e2c3c79bb2dddd85580afecdd70befcea82a"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000124/IHECRE00000124_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000124/IHECRE00000124_oinfo.csv",
+          "bytes": 3424033,
+          "sha256": "beeea21ba54b8f6e9467a9b9c5ac95a9bf94b3576636e61f4fbad43a07418892"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000159/IHECRE00000159_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000159/IHECRE00000159_oinfo.csv",
+          "bytes": 3422813,
+          "sha256": "6197715141ff375c2a1836129d3592b1b97fb16f18f9ab73b89a7dc55f7d59eb"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000256/IHECRE00000256_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000256/IHECRE00000256_oinfo.csv",
+          "bytes": 3422176,
+          "sha256": "95fcc767feae1e54d62e870c2acb3e575f44d948bd70c8885ed6cfd5b1e258cd"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000265/IHECRE00000265_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000265/IHECRE00000265_oinfo.csv",
+          "bytes": 3423708,
+          "sha256": "3306279b318683a6071b4bc392fd5c0c96012670a59bf7a9589dc36697d459d4"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000284/IHECRE00000284_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000284/IHECRE00000284_oinfo.csv",
+          "bytes": 3423686,
+          "sha256": "f731a3b0e32f22ba668a69b309e160201f3fa8e7258f7628c6c909743a52ab26"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000308/IHECRE00000308_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000308/IHECRE00000308_oinfo.csv",
+          "bytes": 3422253,
+          "sha256": "e3bb3f550aeddec11cb9a18941783bb0885fd6302568fe8d1ac9cf688a1a3225"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000346/IHECRE00000346_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000346/IHECRE00000346_oinfo.csv",
+          "bytes": 3421686,
+          "sha256": "536c99397023bed483d2358effa05cf704fb792baa467039f8d060e55b4f699b"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000353/IHECRE00000353_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000353/IHECRE00000353_oinfo.csv",
+          "bytes": 3423040,
+          "sha256": "774f7bd76e796c69636cd6b94488ad6e6c8a458ecac24b92da5f45f6092807a9"
+        }
+      ],
+      "outputs": [
+        {
+          "path": "cases/aging/neutrophil/plots/oinfo_vs_age_all_blocks.png",
+          "bytes": 354694,
+          "sha256": "f39c1308d00defe89e8a1c0a519f3d0ad16b63d4fcfeefaa19b34938266da5b8"
+        },
+        {
+          "path": "cases/aging/neutrophil/plots/oinfo_vs_age_all_blocks_adults.png",
+          "bytes": 519558,
+          "sha256": "2bd5a84fd233a146c7d3d2924b2b673aa52cb5b1e98081e9b4c5f7821167e4e3"
+        },
+        {
+          "path": "cases/aging/neutrophil/plots/oinfo_vs_age_cpg_blocks.png",
+          "bytes": 110722,
+          "sha256": "3491a6f5c541aed6a950605be5231000808c3eba7802f071ee44af55ce181dac"
+        },
+        {
+          "path": "cases/aging/neutrophil/plots/oinfo_vs_age_cpg_blocks_adults.png",
+          "bytes": 133645,
+          "sha256": "5bfb24aa58dede5c2a23064e2b3c1d4dfb494597b3bea0ce6a81cf99bada417a"
+        }
+      ],
+      "elapsed_seconds": 12.63,
+      "description_zh": "40区域及CpG区域O-info与年龄散点：全部/仅成人，共4图",
+      "input_nature_zh": "中间O-information CSV+供体元数据；拟合图中趋势线",
+      "source_sha256": "badc525fc786d03063c7a0875497d31a8f0ee148d1de1fdac4c1af1fa22cba26",
+      "figure_count": 4,
+      "file_count": 4
+    },
+    {
+      "script": "cases/aging/neutrophil/scripts/plot_paper_figures.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only plot_paper_figures.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/plot_paper_figures.log",
+      "started_unix": 1793013720.6556556,
+      "status": "success",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/donor_metadata.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/donor_metadata.tsv",
+          "bytes": 1476,
+          "sha256": "e4c8a053fabc3f836c344874754d7ba9d13de2cf13766344cf4010e62e66b31b"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000004/IHECRE00000004_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000004/IHECRE00000004_oinfo.csv",
+          "bytes": 3422808,
+          "sha256": "7e53483362c783c985d8b244922f42e3c1e29a63d44519f1ad667acb7624c6d6"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000094/IHECRE00000094_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000094/IHECRE00000094_oinfo.csv",
+          "bytes": 3422258,
+          "sha256": "3cbfdbea0bc8f36aaa4eaa4f98724e85c3bf2d4ee70e7667361347f753fac8fb"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000095/IHECRE00000095_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000095/IHECRE00000095_oinfo.csv",
+          "bytes": 3423889,
+          "sha256": "817bd6249ba961392d954ee5b0bd18aa53a9f7f732b53815e35bfe4c5ef86fff"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000109/IHECRE00000109_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000109/IHECRE00000109_oinfo.csv",
+          "bytes": 3423879,
+          "sha256": "d15d5d2defdd83121e5682e429d3e2c3c79bb2dddd85580afecdd70befcea82a"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000124/IHECRE00000124_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000124/IHECRE00000124_oinfo.csv",
+          "bytes": 3424033,
+          "sha256": "beeea21ba54b8f6e9467a9b9c5ac95a9bf94b3576636e61f4fbad43a07418892"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000159/IHECRE00000159_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000159/IHECRE00000159_oinfo.csv",
+          "bytes": 3422813,
+          "sha256": "6197715141ff375c2a1836129d3592b1b97fb16f18f9ab73b89a7dc55f7d59eb"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000256/IHECRE00000256_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000256/IHECRE00000256_oinfo.csv",
+          "bytes": 3422176,
+          "sha256": "95fcc767feae1e54d62e870c2acb3e575f44d948bd70c8885ed6cfd5b1e258cd"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000265/IHECRE00000265_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000265/IHECRE00000265_oinfo.csv",
+          "bytes": 3423708,
+          "sha256": "3306279b318683a6071b4bc392fd5c0c96012670a59bf7a9589dc36697d459d4"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000284/IHECRE00000284_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000284/IHECRE00000284_oinfo.csv",
+          "bytes": 3423686,
+          "sha256": "f731a3b0e32f22ba668a69b309e160201f3fa8e7258f7628c6c909743a52ab26"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000308/IHECRE00000308_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000308/IHECRE00000308_oinfo.csv",
+          "bytes": 3422253,
+          "sha256": "e3bb3f550aeddec11cb9a18941783bb0885fd6302568fe8d1ac9cf688a1a3225"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000346/IHECRE00000346_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000346/IHECRE00000346_oinfo.csv",
+          "bytes": 3421686,
+          "sha256": "536c99397023bed483d2358effa05cf704fb792baa467039f8d060e55b4f699b"
+        },
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000353/IHECRE00000353_oinfo.csv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/results_oinfo_n_bins_5/IHECRE00000353/IHECRE00000353_oinfo.csv",
+          "bytes": 3423040,
+          "sha256": "774f7bd76e796c69636cd6b94488ad6e6c8a458ecac24b92da5f45f6092807a9"
+        }
+      ],
+      "outputs": [
+        {
+          "path": "cases/aging/neutrophil/plots/heatmap_oinfo_age.png",
+          "bytes": 228320,
+          "sha256": "9f343fc184cf7e991e40c08245157b30718fa625c8c605240c443ed33fa42f59"
+        },
+        {
+          "path": "cases/aging/neutrophil/plots/scatter_selected_blocks.png",
+          "bytes": 191703,
+          "sha256": "97364acd0408f1e8ada9e49b2155cf35c1a5b0d16cf8491267414227fe114b9c"
+        }
+      ],
+      "elapsed_seconds": 3.27,
+      "description_zh": "O-info供体×区域热图；年龄斜率最大的6区域散点",
+      "input_nature_zh": "中间O-information CSV+供体元数据；重新选择斜率最大的区域",
+      "source_sha256": "935bce051e037141b9d7c47dbe1baec8daaa727bbe24e87409246039728eb025",
+      "figure_count": 2,
+      "file_count": 2
+    },
+    {
+      "script": "cases/aging/neutrophil/scripts/plot_volcano_oinfo_age.py",
+      "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only plot_volcano_oinfo_age.py",
+      "log": "validation/plot_rerun_20261026/aging/logs/plot_volcano_oinfo_age.log",
+      "started_unix": 1793013720.6703317,
+      "status": "success",
+      "inputs": [
+        {
+          "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/oinfo_age_regression_adults.tsv",
+          "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/oinfo_age_regression_adults.tsv",
+          "bytes": 14877,
+          "sha256": "2b865ecd9d12297135564deabf793c024160a3098ab12f5ac1922814793b924d"
+        }
+      ],
+      "outputs": [
+        {
+          "path": "cases/aging/neutrophil/plots/volcano_oinfo_slope_vs_p_adults.png",
+          "bytes": 147517,
+          "sha256": "2de1a7223745c9452c07c5255e7541b3305396169e6502d7b76cacbfe4460ee4"
+        }
+      ],
+      "elapsed_seconds": 1.64,
+      "description_zh": "成人中性粒细胞O-info年龄斜率/P值火山图",
+      "input_nature_zh": "中间oinfo_age_regression_adults.tsv；纯绘图",
+      "source_sha256": "80394aeffcf7d403befd43b006b2fcc2dadcd83fd4720a90310f5affd1851849",
+      "figure_count": 1,
+      "file_count": 1
+    }
+  ],
+  "successful_entries": 4,
+  "removed_entries": 10,
+  "figure_count": 8,
+  "file_count": 8
+}

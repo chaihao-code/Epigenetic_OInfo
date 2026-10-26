@@ -1,0 +1,96 @@
+activation of protein kinase activity (GO:0032147)		TRAF2	CALCA	LEP	AKT1	GAS6
+anterograde trans-synaptic signaling (GO:0098916)		KIF5A	SLC12A7	CHRFAM7A	MBP	SLC12A5	CHRNA4	KCNQ2	GRIN1	MTNR1B	RPS6KA2
+cation transport (GO:0006812)		SCNN1D	GRIN1	TRPM2	KCNA4	SLC6A3	SCN5A
+cellular component assembly (GO:0022607)		TRAF2	DVL1	SYCE1	SHANK1	CFAP46	GAS6
+cellular protein metabolic process (GO:0044267)		RIPK1	GAS6	CDC34	MRPL23	FAM20C
+cellular protein modification process (GO:0006464)		DAPK1	CTBP1	AKT1	LHPP	GAS6	CDC34	COQ8A	PRKCZ	PPP2R5C	RUNX3	FAM20C
+cellular response to cytokine stimulus (GO:0071345)		IL36B	DAPK1	RIPK1	AKT1	GAS6	OPRD1	CDC34	ALOX15	SBNO2	MUC1
+cellular response to DNA damage stimulus (GO:0006974)		DOT1L	PLK5	CHRNA4	PWWP3A	NUPR2
+cellular response to metal ion (GO:0071248)		RASA4	ALOX15	TRPM2	AKT1	SCN5A
+cellular response to oxygen-containing compound (GO:1901701)		IL36B	DAPK1	KCNE1	AKT1	WNT9B	SBNO2
+central nervous system development (GO:0007417)		TPPP	MBP	GRIN1	DMBX1	SZT2
+chemical synaptic transmission (GO:0007268)		KIF5A	SLC12A7	CHRFAM7A	MBP	SLC12A5	CHRNA4	DVL1	KCNQ2	GRIN1	DLGAP2	MTNR1B	RPS6KA2
+cilium assembly (GO:0060271)		CFAP46	RAB11FIP3	CEP72	RFX2	PCNT	DCTN2
+cytokine-mediated signaling pathway (GO:0019221)		IL36B	RIPK1	TOLLIP	AKT1	OPRD1	ALOX15	LEP	CNN2	TRAF2	MUC1
+DNA metabolic process (GO:0006259)		CHRNA4	CBS	CDC34	DOT1L	USP7	PWWP3A	TOP1MT
+DNA repair (GO:0006281)		KDM4B	CHRNA4	DOT1L	GTF2H2C	PWWP3A
+enzyme linked receptor protein signaling pathway (GO:0007167)		SHC2	FLT4	CD8B	TNK2	GP6
+generation of neurons (GO:0048699)		BHLHE23	RUNX3	LMX1A	OLIG1	MYT1L	WNT9B	LHX4
+inorganic cation transmembrane transport (GO:0098662)		SCNN1D	KCNQ2	SLC6A18	KCNE1	SLC24A4	TRPM2	KCNA4	OTOP3	SLC6A3	SCN5A	KCNAB2	GAS6
+ion transport (GO:0006811)		SLC12A7	SLC12A5	CHRNA4	SLC24A4	GRIN1
+membrane organization (GO:0061024)		AP3D1	NSFL1C	EPN2	SAR1B	IGF2R
+negative regulation of apoptotic process (GO:0043066)		FLT4	RIPK1	AKT1	GAS6	ATAD3A	NOTCH2
+negative regulation of cell population proliferation (GO:0008285)		CTBP1	MARVELD3	TFDP1	CBFA2T3	NUPR2	RPS6KA2	PPP2R5C	RUNX3
+negative regulation of cellular macromolecule biosynthetic process (GO:2000113)		CALCA	DAPK1	CTBP1	MAEL	GAS6	FOXK2	CBFA2T3	HDAC4	SBNO2	EHMT1	DMBX1
+negative regulation of cellular process (GO:0048523)		CTBP1	CBFA2T3	NUPR2	RPS6KA2	PPP2R5C	RUNX3	DDX4
+negative regulation of intracellular signal transduction (GO:1902532)		PPP2R5C	CDC34	PRDM15	RIPK1	AKT1	PDE10A
+negative regulation of multicellular organismal process (GO:0051241)		RAB11FIP3	WNT9B	PROCR	MARVELD3	GAS6
+negative regulation of nucleic acid-templated transcription (GO:1903507)		CALCA	CTBP1	MAEL	GAS6	FOXK2	CBFA2T3	HDAC4	SBNO2	EHMT1	DMBX1
+negative regulation of programmed cell death (GO:0043069)		FLT4	RIPK1	AKT1	GAS6	ATAD3A	NOTCH2
+negative regulation of signal transduction (GO:0009968)		NFATC1	EPN2	SOX30	PRKCZ	AKT1
+negative regulation of transcription by RNA polymerase II (GO:0000122)		NKX6-3	DMRT1	CTBP1	MYT1L	SKOR1	PRDM12	NR2E1	NUPR2	SOX30	ZNF177	HDAC4	TCF3	RUNX3
+negative regulation of transcription, DNA-templated (GO:0045892)		NKX6-3	CALCA	DMRT1	CTBP1	MAEL	MYT1L	GAS6	SKOR1	PRDM12	NR2E1	FOXK2	CBFA2T3	NUPR2	SOX30	ZNF177	HDAC4	SBNO2	TCF3	MUC1	RUNX3	EHMT1	DMBX1
+nervous system development (GO:0007399)		RBFOX1	BTBD2	MYT1L	PRDM12	MBP	NR2E1	KCNQ2	HDAC4	DVL1	RBFOX3	DMBX1	NOTCH2	SZT2
+neuron differentiation (GO:0030182)		BHLHE23	RUNX3	LMX1A	OLIG1	MYT1L	WNT9B	LHX4
+neutrophil activation involved in immune response (GO:0002283)		SERPINB1	ATAD3B	TOLLIP	ABCA13	TRPM2	IGF2R	BPI	CNN2	KCNAB2	GALNS	ATP11A
+neutrophil degranulation (GO:0043312)		SERPINB1	ATAD3B	TOLLIP	ABCA13	TRPM2	IGF2R	BPI	CNN2	KCNAB2	GALNS	ATP11A
+neutrophil mediated immunity (GO:0002446)		SERPINB1	ATAD3B	TOLLIP	ABCA13	TRPM2	IGF2R	BPI	CNN2	KCNAB2	GALNS	ATP11A
+organelle assembly (GO:0070925)		NSFL1C	RAB11FIP3	PACS2	RFX2	PCNT
+organelle organization (GO:0006996)		ATAD3B	KIF25	NSFL1C	CNN2	SAR1B	ATAD3A
+peptidyl-serine modification (GO:0018209)		PRKCZ	AKT1	RPS6KA2	DCLK3	GAS6
+peptidyl-serine phosphorylation (GO:0018105)		RIPK1	PRKCZ	AKT1	RPS6KA2	DCLK3	GAS6
+phosphate-containing compound metabolic process (GO:0006796)		COQ8A	INPP5A	TNK2	PFKP	TOLLIP	AKT1	LHPP
+phosphorylation (GO:0016310)		GNPTG	DAPK1	CTBP1	TOLLIP	AKT1	GAS6	TNK2	COQ8A	PRKCZ	RUNX3	FAM20C
+positive regulation of apoptotic process (GO:0043065)		DAPK1	RIPK1	MCF2L	NGEF	RPS6KA2
+positive regulation of cell population proliferation (GO:0008284)		FLT4	DOT1L	AKT1	SCN5A	GAS6	HDAC4
+positive regulation of cellular process (GO:0048522)		FLT4	DOT1L	AKT1	GAS6	MTLN	PRODH	HDAC4	TPPP	POFUT2	GRIN1
+positive regulation of cytokine production (GO:0001819)		FLT4	RIPK1	MBP	LEP	PRKCZ	TRAF2
+positive regulation of developmental process (GO:0051094)		DVL1	LEP	RALBP1	ESRRB	SHANK1
+positive regulation of DNA-binding transcription factor activity (GO:0051091)		TRAF2	HDAC4	TCF3	TFDP1	OPRD1	RIPK1	PRKCZ	AKT1
+positive regulation of ERK1 and ERK2 cascade (GO:0070374)		FLT4	ALOX15	PRKCZ	NOTCH2	GAS6
+positive regulation of gene expression (GO:0010628)		IL36B	PKP3	RIPK1	AKT1	GAS6	NR5A1
+positive regulation of intracellular signal transduction (GO:1902533)		FLT4	RIPK1	GAS6	F7	LEP	TRAF2	FRMD1
+positive regulation of macromolecule metabolic process (GO:0010604)		IL36B	PKP3	AKT1	GAS6	NR5A1
+positive regulation of MAPK cascade (GO:0043410)		FLT4	ALOX15	LEP	PRKCZ	NOTCH2	GAS6
+positive regulation of nucleic acid-templated transcription (GO:1903508)		AKT1	MSANTD1	NFATC1	FOXK2	HDAC4	TCF3	RUNX3	FLI1	ESRRB
+positive regulation of phosphorylation (GO:0042327)		KNDC1	FLT4	LEP	RIPK1	RALBP1	AKT1	GAS6
+positive regulation of programmed cell death (GO:0043068)		MCF2L	DAPK1	RIPK1	NGEF	RPS6KA2
+positive regulation of protein modification process (GO:0031401)		KNDC1	FLT4	LEP	RIPK1	RALBP1	AKT1	GAS6
+positive regulation of protein phosphorylation (GO:0001934)		FLT4	RIPK1	AKT1	GAS6	OPRD1	TNK2	KNDC1	LEP	RALBP1
+positive regulation of signal transduction (GO:0009967)		JAG2	F7	NOTCH2NLB	EPN2	GRIN1	PRKCZ	NOTCH2NLC	SHANK1	GAS6
+positive regulation of transcription by RNA polymerase II (GO:0045944)		NKX6-3	LMX1A	NKX2-8	DOT1L	DMRT1	RIPK1	TFDP1	PRDM15	NFATC1	FOXK2	SOX30	NR5A1	HDAC4	SBNO2	TCF3	MUC1	DVL1	GRIN1	POU2F3	ESRRB	LHX4
+positive regulation of transcription, DNA-templated (GO:0045893)		NKX6-3	LMX1A	NKX2-8	DOT1L	DMRT1	RIPK1	AKT1	TFDP1	MSANTD1	PRDM15	NFATC1	FOXK2	SOX30	NR5A1	HDAC4	SBNO2	TCF3	RUNX3	DVL1	FLI1	GRIN1	POU2F3	ESRRB	LHX4
+potassium ion transmembrane transport (GO:0071805)		SLC12A7	SLC12A5	KCNQ2	KCNE1	SLC24A4	KCNA4	KCNAB2
+potassium ion transport (GO:0006813)		KCNQ2	KCNE1	SLC24A4	KCNA4	KCNAB2
+proteasomal protein catabolic process (GO:0010498)		RMND5A	NSFL1C	PPP2R5C	PCBP2	CDC34
+proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)		RMND5A	NSFL1C	CDC34	PCBP2	RNF103-CHMP3	PPP2R5C
+protein localization to cell periphery (GO:1990778)		RAB40C	PKP3	DPP6	PACS2	GAS6
+protein localization to membrane (GO:0072657)		AP3D1	DVL1	RAB40C	PKP3	DPP6	PACS2	GAS6
+protein localization to plasma membrane (GO:0072659)		RAB40C	PKP3	DPP6	PACS2	GAS6
+protein phosphorylation (GO:0006468)		FLT4	DAPK1	CTBP1	RIPK1	AKT1	DCLK3	GAS6	COQ8A	PRKCZ	RPS6KA2	RUNX3	FAM20C
+protein ubiquitination (GO:0016567)		RMND5A	CDC34	RNF103-CHMP3	USP7	TRAF2	UVSSA
+regulation of apoptotic process (GO:0042981)		FLT4	DAPK1	RIPK1	AKT1	PLK5	GAS6	MCF2L	NGEF	RPS6KA2	ATAD3A	TRAF2	NOTCH2
+regulation of autophagy (GO:0010506)		FOXK2	DAPK1	LEP	AKT1	KIF25
+regulation of cation channel activity (GO:2001257)		GSG1L	DAPK1	KCNE1	GRIN1	SHANK1
+regulation of cation transmembrane transport (GO:1904062)		KCNE1	KCNIP1	DPP6	SCN5A	KCNAB2
+regulation of cell cycle (GO:0051726)		RUNX3	NUPR2	LEP	CTBP1	NOTCH2	RPS6KA2
+regulation of cell population proliferation (GO:0042127)		FLT4	DOT1L	CTBP1	AKT1	CBFA2T3	NUPR2	RPS6KA2	HDAC4	PPP2R5C	JAG2
+regulation of cellular macromolecule biosynthetic process (GO:2000112)		PKP3	ZNF730	SKOR1	ZNF284	FOXK2	SBNO2	TCF3	RUNX3	DVL1	ESRRB
+regulation of ERK1 and ERK2 cascade (GO:0070372)		FLT4	ALOX15	PRKCZ	NOTCH2	GAS6
+regulation of gene expression (GO:0010468)		IL36B	PKP3	ZNF730	AKT1	GAS6	SKOR1	PRDM12	ZNF284	OPRD1	AFF3	FOXK2	PCBP2	PCBP3	NR5A1	HDAC4	SBNO2	TCF3	RUNX3	HNRNPH1	DVL1	NOTCH2	ESRRB
+regulation of intracellular signal transduction (GO:1902531)		AKT1	MCF2L	ARHGAP39	USP7	MBD3	RALBP1	NGEF	TRAF2	PPP2R5C	EHMT1
+regulation of neurotransmitter receptor activity (GO:0099601)		DLGAP2	GSG1L	SHANK1	GRIN1	DAPK1
+regulation of Notch signaling pathway (GO:0008593)		JAG2	NOTCH2NLB	EPN2	NOTCH2NLC	AKT1
+regulation of nucleic acid-templated transcription (GO:1903506)		ZNF730	SKOR1	ZNF284	FOXK2	SBNO2	TCF3	RUNX3	DVL1	ESRRB
+regulation of programmed cell death (GO:0043067)		TRAF2	DAPK1	RIPK1	AKT1	PLK5
+regulation of protein kinase B signaling (GO:0051896)		PPP2R5C	F7	LEP	AKT1	GAS6
+regulation of protein phosphorylation (GO:0001932)		KNDC1	PPP2R5C	FLT4	LEP	RIPK1	RALBP1	AKT1	GAS6
+regulation of protein-containing complex assembly (GO:0043254)		TRAF2	TPPP	OPRD1	PRKCZ	SAR1B	MTLN
+regulation of signal transduction by p53 class mediator (GO:1901796)		PPP2R5C	EHMT1	USP7	MBD3	AKT1
+regulation of transcription by RNA polymerase II (GO:0006357)		BHLHE23	NKX6-3	LMX1A	NKX2-8	SKOR1	FOXK2	FLI1	LHX4	RIPK1	TFDP1	PRDM15	NR2E1	NFATC1	OLIG1	MUC1	RFX2	DVL1	NKX1-1	BRD3	ESRRB	DOT1L	DMRT1	ZSCAN18	NUPR2	SOX30	NR5A1	MED8	ZNF177	HDAC4	RUNX3	ZNF497	GRIN1	ZNF787	PCGF3	ZNF728	CTBP1	MYT1L	PRDM12	ZNF211	GTF2H2C	FIGLA	ZNF888	SIX6	SBNO2	TCF3	GBX1	DMBX1	POU2F3
+regulation of transcription, DNA-templated (GO:0006355)		BHLHE23	NKX6-3	LMX1A	NKX2-8	GAS6	SKOR1	ZNF284	FOXK2	FLI1	LHX4	MAEL	AKT1	TFDP1	MSANTD1	PRDM15	NR2E1	NFATC1	OLIG1	RFX2	DVL1	EHMT1	NKX1-1	BRD3	ESRRB	CALCA	DMRT1	ZNF730	ZSCAN18	NUPR2	SOX30	NR5A1	MED8	ZNF177	HDAC4	RUNX3	ZNF497	ZNF787	PCGF3	ZNF728	CTBP1	MYT1L	ZNF211	GTF2H2C	FIGLA	CBFA2T3	ZNF888	SIX6	SBNO2	TCF3	GBX1	DMBX1	POU2F3
+sodium ion transmembrane transport (GO:0035725)		SCNN1D	SLC6A18	SLC24A4	SLC6A3	SCN5A
+sodium ion transport (GO:0006814)		SCNN1D	SLC6A18	SLC24A4	SLC6A3	SCN5A
+transcription by RNA polymerase II (GO:0006366)		NKX2-8	NELFA	TFDP1	NR2E1	NR5A1	NOTCH2	ESRRB
+transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169)		FLT4	CD8B	AKT1	TNK2	NGEF	SHC2	HNRNPH1	GRIN1
+ubiquitin-dependent protein catabolic process (GO:0006511)		TOLLIP	RMND5A	NSFL1C	CDC34	PCBP2	PPP2R5C

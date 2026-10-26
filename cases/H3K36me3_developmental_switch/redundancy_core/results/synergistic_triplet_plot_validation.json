@@ -1,0 +1,31 @@
+{
+  "status": "complete",
+  "kind": "synergistic_triplet",
+  "n_samples": 42,
+  "n_stage_points": 13,
+  "plotting_from_retained_tables": true,
+  "ICM_TE": "Combined under E3.5 (mean of both lineages)",
+  "late_tissues": [
+    "Forebrain",
+    "Midbrain",
+    "Hindbrain",
+    "Heart",
+    "Liver"
+  ],
+  "zero_samples_included": true,
+  "error_bars": "SEM across samples/tissues; sample SD ddof=1; single-sample SEM=0",
+  "font_family": "Arial",
+  "font_file": "/lustre/home/2101110354/.local/share/fonts/arial.ttf",
+  "font_size_pt": 8,
+  "title_font_size_pt": 10,
+  "figure_size_cm": [
+    18,
+    6
+  ],
+  "connect_E3p5_to_E11p5": true,
+  "H3K36me3_style": {
+    "color": "#000000",
+    "linewidth_pt": 2.6,
+    "markersize_pt": 4.2
+  }
+}

@@ -1,0 +1,17 @@
+cellular response to oxygen-containing compound (GO:1901701)		UCP1	TRIM41	TLR2	WNT6	TBX1
+generation of neurons (GO:0048699)		GSX1	WNT6	LMX1A	LHX9	OTP
+inorganic cation transmembrane transport (GO:0098662)		ATP5F1B	SLC6A5	UCP1	OTOP1	SLC6A3
+mitochondrion organization (GO:0007005)		HAP1	PARK7	ATP5F1B	VPS13D	BIK
+negative regulation of cellular macromolecule biosynthetic process (GO:2000113)		HIC2	CENPF	LHX9	HMX1	SOX14	KMT5A
+negative regulation of nucleic acid-templated transcription (GO:1903507)		HIC2	CENPF	LHX9	HMX1	SOX14	KMT5A
+negative regulation of transcription by RNA polymerase II (GO:0000122)		ZNF136	PRDM12	NCOA5	RIPPLY3	ZFP37	EOMES	OTP	SOX14	KMT5A
+negative regulation of transcription, DNA-templated (GO:0045892)		HIC2	ZNF136	CENPF	LHX9	PRDM12	NCOA5	HMX1	RIPPLY3	ZFP37	EOMES	OTP	SOX14	KMT5A
+neuron differentiation (GO:0030182)		GSX1	WNT6	LMX1A	LHX9	OTP
+organelle organization (GO:0006996)		VPS13D	FMNL2	PCLO	PARK7	ATP5F1B	LMAN2
+positive regulation of cellular process (GO:0048522)		AREG	TJP1	RYR2	TLR2	LMAN2	TBX1
+positive regulation of transcription by RNA polymerase II (GO:0045944)		POMC	LMX1A	TLR2	PARK7	GSX1	EOMES	UTF1	TBX1
+positive regulation of transcription, DNA-templated (GO:0045893)		POMC	LMX1A	TLR2	PARK7	GSX1	EOMES	UTF1	TBX1
+protein phosphorylation (GO:0006468)		AURKC	TLR2	ATP13A2	SIK1	CAMKV
+regulation of gene expression (GO:0010468)		PRDM12	ESRP2	TLR2	ATP13A2	PARK7	ZFP37	WNT6	SOX14	ICOSLG
+regulation of transcription by RNA polymerase II (GO:0006357)		LMX1A	TLR2	PARK7	EOMES	HMX2	DRGX	HIC2	RIPPLY3	GSX1	KMT5A	ZNF490	FOXL3	POMC	LHX9	NCOA5	HMX1	ZFP37	OTP	UTF1	TBX1	ANHX	HMX3	ZNF136	CEBPD	PRDM12	ZNF782	SOX14	ZSCAN1
+regulation of transcription, DNA-templated (GO:0006355)		LMX1A	EOMES	HMX2	DRGX	HIC2	GSX1	KMT5A	ZNF490	FOXL3	LHX9	HMX1	ZFP37	UTF1	TBX1	ANHX	HMX3	ZNF136	CENPF	CEBPD	ZNF782	SOX14	ZSCAN1

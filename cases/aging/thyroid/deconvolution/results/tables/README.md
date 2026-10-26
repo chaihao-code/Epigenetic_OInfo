@@ -1,0 +1,43 @@
+# cases/aging/thyroid/deconvolution/results/tables
+
+Retained numerical outputs and/or new explicitly named demo outputs for the parent analysis. The metadata in each run identifies its actual permutation count and signal panel.
+
+Six healthy donors: CEMT0098, CEMT0130, CEMT0132, CEMT0042, CEMT0044 and CEMT0040. Seven signals, hg38, the original fixed 1-kb grid and 40 annotation classes. The complete CEMT0098 donor is the release demo.
+
+## Inputs
+
+The original hg38 1-kb grid, seven binned tracks per donor, unchanged genomic masks and retained donor ages/cell fractions. The complete input-to-output example is `demo/README.md`; raw/processed local input locations are listed in `config/local_input_links.tsv`.
+
+## Usage
+
+Run commands from the repository root and set `EPINFO_ROOT` to that root. Read `cases/aging/thyroid/deconvolution/results/tables/go_before_after_terms.tsv` with pandas (`sep="\t"`; gzip compression is inferred). Existing result tables do not execute a pipeline.
+
+## Outputs
+
+Files listed below are already available results/inputs. New calculations are written only when their documented entrypoint is explicitly executed. Historical 1,000-permutation results remain historical reference data; all new triplet workflows default to 10,000.
+
+## Files
+
+- `go_before_after_terms.tsv`
+- `go_immune_term_summary.tsv`
+- `histone_immune_association.tsv`
+- `immune_age_regression.tsv`
+- `immune_marker_analysis.tsv`
+- `immune_marker_correlation.tsv`
+- `immune_region_enrichment.tsv`
+- `input_inventory.tsv`
+- `marker_quality.tsv`
+- `oinfo_age_adjustment.tsv`
+- `oinfo_age_fdr_table.tsv`
+- `oinfo_filtering_summary.tsv`
+- `oinfo_filtering_values.tsv`
+- `oinfo_region_filtering.tsv`
+- `reference_beta_validation.tsv`
+- `reference_download_manifest.tsv`
+- `reference_replicate_qc.tsv`
+- `reference_sample_metadata.tsv`
+- `region_filtering_stats.tsv`
+- `simulation_marker_stability.tsv`
+- `simulation_results.tsv`
+- `simulation_summary.tsv`
+- `thyroid_cell_proportions.tsv`

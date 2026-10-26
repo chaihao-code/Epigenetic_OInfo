@@ -1,0 +1,73 @@
+{
+  "status": "complete",
+  "source": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/H3K36me3_developmental_switch/batch_effect_figures/data/late_reference_triplets_bh56.tsv.gz",
+  "source_sha256": "ff435b874ee365640188908837e43f0e057f1134a636597c1ff4be0b29c32cc8",
+  "signals": [
+    "ATAC",
+    "DNA_methylation",
+    "H3K9me3",
+    "H3K27me3",
+    "H3K36me3",
+    "H3K4me1",
+    "H3K4me3",
+    "H3K27ac"
+  ],
+  "repressive_marks": [
+    "H3K27me3",
+    "H3K36me3",
+    "H3K9me3"
+  ],
+  "class_definitions": {
+    "A": "DNA methylation and at least one repressive mark",
+    "B": "No DNA methylation and at least one repressive mark",
+    "C": "No repressive mark"
+  },
+  "theoretical_max": {
+    "A": 15,
+    "B": 31,
+    "C": 10
+  },
+  "stages": [
+    "E11.5",
+    "E12.5",
+    "E13.5",
+    "E14.5",
+    "E15.5",
+    "E16.5",
+    "P0"
+  ],
+  "tissues": [
+    "Forebrain",
+    "Midbrain",
+    "Hindbrain",
+    "Heart",
+    "Liver"
+  ],
+  "n_samples": 35,
+  "n_permutations": 10000,
+  "criterion": "observed_hoi < 0 and BH56 q <= 0.05",
+  "panels": [
+    {
+      "title": "exon / SINE",
+      "block": "exon_purified_bins_AND_SINE"
+    },
+    {
+      "title": "proximal enh. CTCF\u2212 / SINE",
+      "block": "proximal_not_ctcf_bound_enhancer_purified_bins_AND_SINE"
+    },
+    {
+      "title": "proximal enh. CTCF\u2212 / CpG island",
+      "block": "proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island"
+    },
+    {
+      "title": "distal enh. CTCF\u2212 / LINE",
+      "block": "distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE"
+    }
+  ],
+  "aggregation": "Equal tissue mean of count / class maximum; population SD / sqrt(5) SEM, matching reference figure",
+  "P0_plot_day": 19.5,
+  "complete_BH56_families_checked": true,
+  "BH56_values_recomputed_and_matched": true,
+  "n_summary_rows": 84,
+  "n_sample_rows": 420
+}

@@ -1,0 +1,40 @@
+{
+  "n_permutations": 10000,
+  "n_samples": 82,
+  "n_stages": 17,
+  "distal_ctcf": "negative",
+  "panels": [
+    {
+      "title": "exon / SINE",
+      "blocks": [
+        "exon_purified_bins_AND_SINE"
+      ]
+    },
+    {
+      "title": "proximal enh. CTCF\u2212 / SINE",
+      "blocks": [
+        "proximal_not_ctcf_bound_enhancer_purified_bins_AND_SINE"
+      ]
+    },
+    {
+      "title": "proximal enh. CTCF\u2212 / CpG island",
+      "blocks": [
+        "proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island"
+      ]
+    },
+    {
+      "title": "distal enh. CTCF\u2212 / LINE",
+      "blocks": [
+        "distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE"
+      ]
+    }
+  ],
+  "theoretical_max": {
+    "C": 10,
+    "A": 9,
+    "B": 16
+  },
+  "selection": "observed_hoi < 0 and q_down_sample_block_bh <= .05; BH35 per sample x block",
+  "aggregation": "Mean of count / class theoretical maximum across tissues per stage; population SD / sqrt(n) SEM",
+  "distal_handling": "CTCF categories kept separate; no pooling of loci or permutation tests"
+}

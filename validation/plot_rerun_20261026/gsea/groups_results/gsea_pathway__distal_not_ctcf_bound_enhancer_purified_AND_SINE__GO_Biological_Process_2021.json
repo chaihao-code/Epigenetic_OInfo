@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "proteasomal ubiquitin-independent protein catabolic process (GO_0010499).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "proteasomal ubiquitin-independent protein catabolic process (GO:0010499)",
+      "historical_pdf_name": "proteasomal ubiquitin-independent protein catabolic process (GO_0010499).pdf",
+      "n_ranked": 19913,
+      "n_hits": 11,
+      "saved_ES": 0.8052305,
+      "recomputed_ES": 0.8052305319130764,
+      "absolute_ES_error": 3.1913076403711216e-08,
+      "NES": 2.119524,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1305576,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/proteasomal ubiquitin-independent protein catabolic process (GO_0010499).pdf",
+          "bytes": 29174,
+          "sha256": "3ceb6987dd1fe393819699050b25bcf50657a91d410e0f56f1bb79c08ba98625"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/proteasomal ubiquitin-independent protein catabolic process (GO_0010499).png",
+          "bytes": 106857,
+          "sha256": "f681594750013a73bd539931f8b1a1c1a31f57684249e3137eb039897dc8bded"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.68
+}

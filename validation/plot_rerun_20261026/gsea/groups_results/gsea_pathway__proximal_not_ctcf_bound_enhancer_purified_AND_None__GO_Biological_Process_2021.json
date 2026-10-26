@@ -1,0 +1,186 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "cellular response to amino acid starvation (GO_0034198).pdf",
+    "cellular response to starvation (GO_0009267).pdf",
+    "erythrocyte differentiation (GO_0030218).pdf",
+    "myeloid cell differentiation (GO_0030099).pdf",
+    "negative regulation of innate immune response (GO_0045824).pdf",
+    "response to amino acid starvation (GO_1990928).pdf",
+    "spindle assembly (GO_0051225).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "cellular response to amino acid starvation (GO:0034198)",
+      "historical_pdf_name": "cellular response to amino acid starvation (GO_0034198).pdf",
+      "n_ranked": 11808,
+      "n_hits": 13,
+      "saved_ES": -0.7817133,
+      "recomputed_ES": -0.7817132600292283,
+      "absolute_ES_error": 3.9970771803510274e-08,
+      "NES": -1.875374,
+      "nominal_P": 0.0,
+      "FDR_q": 0.09314749,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/cellular response to amino acid starvation (GO_0034198).pdf",
+          "bytes": 30098,
+          "sha256": "a72b32f8881957b88096357aac1a470eea04eaaad5f5982492bcf3f584084d33"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/cellular response to amino acid starvation (GO_0034198).png",
+          "bytes": 109609,
+          "sha256": "e3c17980ce06c7fc2b8bdfff183bdebf8b0c10a2bb2ce009107295caaee14469"
+        }
+      ]
+    },
+    {
+      "term": "cellular response to starvation (GO:0009267)",
+      "historical_pdf_name": "cellular response to starvation (GO_0009267).pdf",
+      "n_ranked": 11808,
+      "n_hits": 24,
+      "saved_ES": -0.6447959,
+      "recomputed_ES": -0.6447959454702371,
+      "absolute_ES_error": 4.5470237131084446e-08,
+      "NES": -1.780193,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1519695,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/cellular response to starvation (GO_0009267).pdf",
+          "bytes": 31304,
+          "sha256": "bd53ab8b4c945704ba328ad597595fab90631835c683c7af048a15f950c52da4"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/cellular response to starvation (GO_0009267).png",
+          "bytes": 110441,
+          "sha256": "f03d5f08257e90400875a51bf70d6ff8fd3539c7e8a333a0036fd018078d4261"
+        }
+      ]
+    },
+    {
+      "term": "erythrocyte differentiation (GO:0030218)",
+      "historical_pdf_name": "erythrocyte differentiation (GO_0030218).pdf",
+      "n_ranked": 11808,
+      "n_hits": 11,
+      "saved_ES": -0.8009301,
+      "recomputed_ES": -0.8009300674719839,
+      "absolute_ES_error": 3.2528016058464004e-08,
+      "NES": -1.85426,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0910305,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/erythrocyte differentiation (GO_0030218).pdf",
+          "bytes": 30204,
+          "sha256": "5e145107ce0618c08f23503947203fafaeae316e76bba1dddcbd23fe14f2c7d0"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/erythrocyte differentiation (GO_0030218).png",
+          "bytes": 105786,
+          "sha256": "6f9a640c3fff58f39d0c176fe1e228de8affaf33c7698f7b0790f445a7e5d571"
+        }
+      ]
+    },
+    {
+      "term": "myeloid cell differentiation (GO:0030099)",
+      "historical_pdf_name": "myeloid cell differentiation (GO_0030099).pdf",
+      "n_ranked": 11808,
+      "n_hits": 12,
+      "saved_ES": -0.7786045,
+      "recomputed_ES": -0.7786045195127542,
+      "absolute_ES_error": 1.951275419020959e-08,
+      "NES": -1.852515,
+      "nominal_P": 0.001472754,
+      "FDR_q": 0.069596,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/myeloid cell differentiation (GO_0030099).pdf",
+          "bytes": 30013,
+          "sha256": "b80b26066aae24c79f2c8e85ada7d8d1eb944963966fd24871347d413501f324"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/myeloid cell differentiation (GO_0030099).png",
+          "bytes": 105141,
+          "sha256": "bffda20ab2c0808cffd5fb71de7361e43fadd6c1c7271511276780376ab92d1a"
+        }
+      ]
+    },
+    {
+      "term": "negative regulation of innate immune response (GO:0045824)",
+      "historical_pdf_name": "negative regulation of innate immune response (GO_0045824).pdf",
+      "n_ranked": 11808,
+      "n_hits": 8,
+      "saved_ES": -0.8359734,
+      "recomputed_ES": -0.8359734368822718,
+      "absolute_ES_error": 3.6882271792215704e-08,
+      "NES": -1.797133,
+      "nominal_P": 0.001584786,
+      "FDR_q": 0.1321354,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/negative regulation of innate immune response (GO_0045824).pdf",
+          "bytes": 29460,
+          "sha256": "fbb58ab4bc2ce4cef550df82324ef06fdaf1e94f01fc5c9e6748fe53847d540d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/negative regulation of innate immune response (GO_0045824).png",
+          "bytes": 108104,
+          "sha256": "549d60e062601dbb218956f6de457035d86f7a0961a936319568740b8d5587f7"
+        }
+      ]
+    },
+    {
+      "term": "response to amino acid starvation (GO:1990928)",
+      "historical_pdf_name": "response to amino acid starvation (GO_1990928).pdf",
+      "n_ranked": 11808,
+      "n_hits": 13,
+      "saved_ES": -0.7817133,
+      "recomputed_ES": -0.7817132600292283,
+      "absolute_ES_error": 3.9970771803510274e-08,
+      "NES": -1.875374,
+      "nominal_P": 0.0,
+      "FDR_q": 0.09314749,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/response to amino acid starvation (GO_1990928).pdf",
+          "bytes": 30087,
+          "sha256": "e61801c6417a370321377851c2e36dc79a3baa64cecbc885bfad2ee4f9a7dcfe"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/response to amino acid starvation (GO_1990928).png",
+          "bytes": 108295,
+          "sha256": "c17e6c731154a94b8037b12616db8baa4cc592b28ebf26d15d63fd8ec51045ad"
+        }
+      ]
+    },
+    {
+      "term": "spindle assembly (GO:0051225)",
+      "historical_pdf_name": "spindle assembly (GO_0051225).pdf",
+      "n_ranked": 11808,
+      "n_hits": 9,
+      "saved_ES": -0.8241795,
+      "recomputed_ES": -0.8241794932576252,
+      "absolute_ES_error": 6.7423747696082614e-09,
+      "NES": -1.825412,
+      "nominal_P": 0.0,
+      "FDR_q": 0.09526448,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/spindle assembly (GO_0051225).pdf",
+          "bytes": 30364,
+          "sha256": "fd2b9db49ae63af6b8bd0b4d0042843e12ade7d9aa6679bbdbe2ab7640d41879"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/spindle assembly (GO_0051225).png",
+          "bytes": 104875,
+          "sha256": "1f48d0627f58c0386d7da73ba7784f702450472794f7e655f94002601be8dacf"
+        }
+      ]
+    }
+  ],
+  "seconds": 3.71
+}

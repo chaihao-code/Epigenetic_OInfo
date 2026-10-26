@@ -1,0 +1,7 @@
+data/mouse_gastrulation/atac/E7.0_P.ATAC.bin1000.bp
+data/mouse_gastrulation/histone/GSE97778_E65Epi.H3K9me3.bin1000.bp
+data/mouse_gastrulation/histone/GSE98101_E7-0-P-K27ac.tagAlign.fc.signal.bin1000.bp
+data/mouse_gastrulation/histone/GSE98101_E7-0-P-K4M3.tagAlign.fc.signal.bin1000.bp
+data/mouse_gastrulation/histone/GSE98101_E7-0-P-K4me1.tagAlign.fc.signal.bin1000.bp
+data/mouse_gastrulation/histone/GSM2793698_E7-0-P-H3K27me3.repMerge.fc.signal.bin1000.bp
+data/mouse_gastrulation/methylation/rep_averaged/E7-0-P.CpG_methyl.bin1000.bp

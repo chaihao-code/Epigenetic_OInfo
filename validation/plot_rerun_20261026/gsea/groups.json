@@ -1,0 +1,1381 @@
+[
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "generation of neurons (GO_0048699).pdf",
+      "mitochondrion organization (GO_0007005).pdf",
+      "negative regulation of cellular macromolecule biosynthetic process (GO_2000113).pdf",
+      "negative regulation of nucleic acid-templated transcription (GO_1903507).pdf",
+      "negative regulation of transcription by RNA polymerase II (GO_0000122).pdf",
+      "negative regulation of transcription, DNA-templated (GO_0045892).pdf",
+      "neuron differentiation (GO_0030182).pdf",
+      "organelle organization (GO_0006996).pdf",
+      "positive regulation of cellular process (GO_0048522).pdf",
+      "positive regulation of transcription by RNA polymerase II (GO_0045944).pdf",
+      "positive regulation of transcription, DNA-templated (GO_0045893).pdf",
+      "protein phosphorylation (GO_0006468).pdf",
+      "regulation of gene expression (GO_0010468).pdf",
+      "regulation of transcription by RNA polymerase II (GO_0006357).pdf",
+      "regulation of transcription, DNA-templated (GO_0006355).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LTR/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Bile Acid Metabolism.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_None/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_None/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_None/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_None/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_SINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Myc Targets V1.pdf",
+      "Pperoxisome.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "negative regulation of protein phosphorylation (GO_0001933).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "DNA-dependent DNA replication maintenance of fidelity (GO_0045005).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Apical Surface.pdf",
+      "G2-M Checkpoint.pdf",
+      "UV Response Up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "canonical glycolysis (GO_0061621).pdf",
+      "glucose catabolic process to pyruvate (GO_0061718).pdf",
+      "glycolytic process through glucose-6-phosphate (GO_0061620).pdf",
+      "morphogenesis of an epithelium (GO_0002009).pdf",
+      "regulation of NMDA receptor activity (GO_2000310).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Apical Surface.pdf",
+      "E2F Targets.pdf",
+      "PI3K-AKT-mTOR  Signaling.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "cilium assembly (GO_0060271).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Epithelial Mesenchymal Transition.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "autophagosome maturation (GO_0097352).pdf",
+      "carboxylic acid metabolic process (GO_0019752).pdf",
+      "keratinocyte differentiation (GO_0030216).pdf",
+      "protein-containing complex disassembly (GO_0032984).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "UV Response Up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "DNA Repair.pdf",
+      "G2-M Checkpoint.pdf",
+      "Oxidative Phosphorylation.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO_0000377).pdf",
+      "cytoplasmic microtubule organization (GO_0031122).pdf",
+      "mRNA processing (GO_0006397).pdf",
+      "mitochondrial fission (GO_0000266).pdf",
+      "organelle fission (GO_0048285).pdf",
+      "positive regulation of intracellular transport (GO_0032388).pdf",
+      "positive regulation of ossification (GO_0045778).pdf",
+      "protein complex oligomerization (GO_0051259).pdf",
+      "regulation of actin filament bundle assembly (GO_0032231).pdf",
+      "regulation of cytokine-mediated signaling pathway (GO_0001959).pdf",
+      "regulation of membrane repolarization (GO_0060306).pdf",
+      "regulation of plasma membrane bounded cell projection organization (GO_0120035).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "UV Response Dn.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "proteasomal ubiquitin-independent protein catabolic process (GO_0010499).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "G2-M Checkpoint.pdf",
+      "Mitotic Spindle.pdf",
+      "Myc Targets V1.pdf",
+      "Oxidative Phosphorylation.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "Golgi organization (GO_0007030).pdf",
+      "cellular response to DNA damage stimulus (GO_0006974).pdf",
+      "cytoskeleton organization (GO_0007010).pdf",
+      "endomembrane system organization (GO_0010256).pdf",
+      "endoplasmic reticulum organization (GO_0007029).pdf",
+      "negative regulation of supramolecular fiber organization (GO_1902904).pdf",
+      "neuron projection development (GO_0031175).pdf",
+      "organelle organization (GO_0006996).pdf",
+      "positive regulation of cell projection organization (GO_0031346).pdf",
+      "positive regulation of gene expression (GO_0010628).pdf",
+      "positive regulation of neurogenesis (GO_0050769).pdf",
+      "regulation of GTPase activity (GO_0043087).pdf",
+      "regulation of cell motility (GO_2000145).pdf",
+      "regulation of microtubule polymerization (GO_0031113).pdf",
+      "regulation of neuron projection development (GO_0010975).pdf",
+      "regulation of protein catabolic process (GO_0042176).pdf",
+      "synapse assembly (GO_0007416).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "DNA Repair.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "RNA export from nucleus (GO_0006405).pdf",
+      "mRNA transport (GO_0051028).pdf",
+      "mRNA-containing ribonucleoprotein complex export from nucleus (GO_0071427).pdf",
+      "organic anion transport (GO_0015711).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LTR/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "DNA duplex unwinding (GO_0032508).pdf",
+      "autophagosome assembly (GO_0000045).pdf",
+      "autophagosome organization (GO_1905037).pdf",
+      "blood vessel diameter maintenance (GO_0097746).pdf",
+      "cellular response to chemical stress (GO_0062197).pdf",
+      "epithelial cilium movement involved in extracellular fluid movement (GO_0003351).pdf",
+      "positive regulation of Wnt signaling pathway (GO_0030177).pdf",
+      "positive regulation of autophagy (GO_0010508).pdf",
+      "positive regulation of canonical Wnt signaling pathway (GO_0090263).pdf",
+      "positive regulation of mitochondrial fission (GO_0090141).pdf",
+      "protein localization to endoplasmic reticulum (GO_0070972).pdf",
+      "protein localization to organelle (GO_0033365).pdf",
+      "protein tetramerization (GO_0051262).pdf",
+      "regulation of amyloid-beta formation (GO_1902003).pdf",
+      "regulation of establishment of planar polarity (GO_0090175).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Apoptosis.pdf",
+      "Myc Targets V1.pdf",
+      "Protein Secretion.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "epidermal cell differentiation (GO_0009913).pdf",
+      "keratinocyte differentiation (GO_0030216).pdf",
+      "pyroptosis (GO_0070269).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "DNA Repair.pdf",
+      "E2F Targets.pdf",
+      "Epithelial Mesenchymal Transition.pdf",
+      "Estrogen Response Early.pdf",
+      "Fatty Acid Metabolism.pdf",
+      "Glycolysis.pdf",
+      "Hypoxia.pdf",
+      "Myc Targets V1.pdf",
+      "Myc Targets V2.pdf",
+      "Myogenesis.pdf",
+      "Notch Signaling.pdf",
+      "PI3K-AKT-mTOR  Signaling.pdf",
+      "Unfolded Protein Response.pdf",
+      "mTORC1 Signaling.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Estrogen Response Early.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "cellular response to osmotic stress (GO_0071470).pdf",
+      "protein monoubiquitination (GO_0006513).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LTR/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LTR/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LTR/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LTR/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_None/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Apical Junction.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "regulation of oligodendrocyte differentiation (GO_0048713).pdf",
+      "regulation of protein localization to nucleus (GO_1900180).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Apical Junction.pdf",
+      "Fatty Acid Metabolism.pdf",
+      "G2-M Checkpoint.pdf",
+      "Mitotic Spindle.pdf",
+      "Pperoxisome.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "negative regulation of chromatin organization (GO_1905268).pdf",
+      "negative regulation of chromatin silencing (GO_0031936).pdf",
+      "negative regulation of gene silencing (GO_0060969).pdf",
+      "regulation of keratinocyte apoptotic process (GO_1902172).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Complement.pdf",
+      "DNA Repair.pdf",
+      "E2F Targets.pdf",
+      "Glycolysis.pdf",
+      "Hedgehog Signaling.pdf",
+      "Hypoxia.pdf",
+      "Myc Targets V1.pdf",
+      "Oxidative Phosphorylation.pdf",
+      "PI3K-AKT-mTOR  Signaling.pdf",
+      "TNF-alpha Signaling via NF-kB.pdf",
+      "p53 Pathway.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "cellular response to hydrogen peroxide (GO_0070301).pdf",
+      "chondroitin sulfate metabolic process (GO_0030204).pdf",
+      "negative regulation of MAP kinase activity (GO_0043407).pdf",
+      "very long-chain fatty acid metabolic process (GO_0000038).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Hedgehog Signaling.pdf",
+      "Pperoxisome.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LTR/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Hedgehog Signaling.pdf",
+      "Inflammatory Response.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "base-excision repair (GO_0006284).pdf",
+      "receptor clustering (GO_0043113).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "E2F Targets.pdf",
+      "Mitotic Spindle.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "positive regulation of lymphocyte chemotaxis (GO_0140131).pdf",
+      "regulation of cell cycle G1-S phase transition (GO_1902806).pdf",
+      "regulation of cell cycle process (GO_0010564).pdf",
+      "regulation of nuclear division (GO_0051783).pdf",
+      "regulation of type I interferon production (GO_0032479).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Apical Surface.pdf",
+      "Apoptosis.pdf",
+      "Cholesterol Homeostasis.pdf",
+      "Coagulation.pdf",
+      "DNA Repair.pdf",
+      "E2F Targets.pdf",
+      "IL-2-STAT5 Signaling.pdf",
+      "Myc Targets V1.pdf",
+      "Notch Signaling.pdf",
+      "Oxidative Phosphorylation.pdf",
+      "TGF-beta Signaling.pdf",
+      "TNF-alpha Signaling via NF-kB.pdf",
+      "UV Response Dn.pdf",
+      "UV Response Up.pdf",
+      "heme Metabolism.pdf",
+      "mTORC1 Signaling.pdf",
+      "p53 Pathway.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "T cell activation (GO_0042110).pdf",
+      "central nervous system neuron differentiation (GO_0021953).pdf",
+      "regulation of protein localization (GO_0032880).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Notch Signaling.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "positive regulation of organelle organization (GO_0010638).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "protein stabilization (GO_0050821).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Spermatogenesis.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Coagulation.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": [
+      "Allograft Rejection.pdf",
+      "Inflammatory Response.pdf",
+      "Protein Secretion.pdf",
+      "Spermatogenesis.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "cellular response to amino acid starvation (GO_0034198).pdf",
+      "cellular response to starvation (GO_0009267).pdf",
+      "erythrocyte differentiation (GO_0030218).pdf",
+      "myeloid cell differentiation (GO_0030099).pdf",
+      "negative regulation of innate immune response (GO_0045824).pdf",
+      "response to amino acid starvation (GO_1990928).pdf",
+      "spindle assembly (GO_0051225).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+    "historical_pdf_names": [
+      "negative regulation of interleukin-17 production (GO_0032700).pdf",
+      "positive regulation of T cell mediated immunity (GO_0002711).pdf",
+      "positive regulation of alpha-beta T cell activation (GO_0046635).pdf",
+      "positive regulation of interleukin-4 production (GO_0032753).pdf",
+      "positive regulation of leukocyte cell-cell adhesion (GO_1903039).pdf",
+      "positive regulation of lymphocyte activation (GO_0051251).pdf",
+      "regulation of bile acid metabolic process (GO_1904251).pdf",
+      "regulation of cholesterol storage (GO_0010885).pdf",
+      "regulation of interleukin-4 production (GO_0032673).pdf"
+    ]
+  },
+  {
+    "kind": "gsea_pathway",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+    "historical_pdf_names": []
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_LINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_LTR/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_None/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_down.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_SINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_down.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me3_down.pdf",
+      "WGB-Seq_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K9me3_flat.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_flat.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_flat.pdf",
+      "WGB-Seq_down.pdf",
+      "WGB-Seq_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_down.pdf",
+      "H3K36me3_down.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_down.pdf",
+      "WGB-Seq_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "WGB-Seq_down.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_flat.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_down.pdf",
+      "WGB-Seq_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_down.pdf",
+      "WGB-Seq_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_flat.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_flat.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_flat.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_flat.pdf",
+      "H3K9me3_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_flat.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "WGB-Seq_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K36me3_down.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_down.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_flat.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_flat.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_flat.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_flat.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_down.pdf",
+      "WGB-Seq_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_flat.pdf",
+      "WGB-Seq_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K36me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_down.pdf",
+      "H3K9me3_flat.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_down.pdf",
+      "WGB-Seq_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_flat.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "WGB-Seq_down.pdf",
+      "WGB-Seq_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_down.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me3_down.pdf",
+      "H3K4me3_up.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K9me3_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K4me3_down.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me3_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me3_down.pdf",
+      "H3K9me3_up.pdf",
+      "WGB-Seq_up.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27me3_down.pdf",
+      "H3K27me3_up.pdf",
+      "H3K36me3_flat.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_down.pdf",
+      "H3K36me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf",
+      "H3K9me3_down.pdf"
+    ]
+  },
+  {
+    "kind": "gsea_marginal",
+    "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank",
+    "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank",
+    "historical_pdf_names": [
+      "H3K27ac_down.pdf",
+      "H3K27ac_up.pdf",
+      "H3K27me3_up.pdf",
+      "H3K4me1_down.pdf",
+      "H3K4me1_up.pdf",
+      "H3K4me3_down.pdf"
+    ]
+  }
+]

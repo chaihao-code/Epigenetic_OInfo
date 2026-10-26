@@ -1,0 +1,47 @@
+[
+  {
+    "table": "triplet_A_synergistic_count_by_stage",
+    "rows": 680,
+    "matches_original": true
+  },
+  {
+    "table": "triplet_B_synergistic_count_by_stage",
+    "rows": 680,
+    "matches_original": true
+  },
+  {
+    "table": "triplet_C_synergistic_count_by_stage",
+    "rows": 680,
+    "matches_original": true
+  },
+  {
+    "table": "total_synergistic_count_by_stage_region",
+    "rows": 680,
+    "matches_original": true
+  },
+  {
+    "table": "total_synergistic_triplet_count_by_stage",
+    "rows": 17,
+    "matches_original": true
+  },
+  {
+    "table": "f1_by_sample_block",
+    "rows": 3280,
+    "matches_original": true
+  },
+  {
+    "table": "f1_by_stage_block",
+    "rows": 680,
+    "matches_original": true
+  },
+  {
+    "table": "triplet_ABC_selected_region_trajectories_7signals_summary",
+    "rows": 306,
+    "matches_original": true
+  },
+  {
+    "table": "triplet_ABC_selected_region_trajectories_7signals_by_sample",
+    "rows": 1476,
+    "matches_original": true
+  }
+]

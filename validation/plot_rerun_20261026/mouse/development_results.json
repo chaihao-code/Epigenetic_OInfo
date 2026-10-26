@@ -1,0 +1,266 @@
+[
+  {
+    "id": "plot_triplet_counts_corrected_by_stage",
+    "script": "cases/mouse_development/script/plot_triplet_counts_corrected_by_stage.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/script/plot_triplet_counts_corrected_by_stage.py"
+    ],
+    "returncode": 0,
+    "seconds": 37.39,
+    "outputs": [
+      "cases/mouse_development/synergistic_triplets/triplet_A_synergistic_count_by_stage.tsv",
+      "cases/mouse_development/synergistic_triplets/total_synergistic_triplet_count_by_stage.pdf",
+      "cases/mouse_development/synergistic_triplets/triplet_B_corrected_synergy_count_by_stage.pdf",
+      "cases/mouse_development/synergistic_triplets/total_synergistic_triplet_count_by_stage.png",
+      "cases/mouse_development/synergistic_triplets/triplet_B_corrected_synergy_count_by_stage.png",
+      "cases/mouse_development/synergistic_triplets/total_corrected_synergy_count_by_stage.png",
+      "cases/mouse_development/synergistic_triplets/total_synergistic_triplet_count_by_stage.tsv",
+      "cases/mouse_development/synergistic_triplets/triplet_A_corrected_synergy_count_by_stage.pdf",
+      "cases/mouse_development/synergistic_triplets/total_synergistic_count_by_stage_region.tsv",
+      "cases/mouse_development/synergistic_triplets/triplet_counts_plot_metadata.json",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_stacked.png",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_stacked_layout.json",
+      "cases/mouse_development/synergistic_triplets/triplet_C_corrected_synergy_count_by_stage.pdf",
+      "cases/mouse_development/synergistic_triplets/triplet_C_synergistic_count_by_stage.tsv",
+      "cases/mouse_development/synergistic_triplets/triplet_A_corrected_synergy_count_by_stage.png",
+      "cases/mouse_development/synergistic_triplets/stage_coverage.tsv",
+      "cases/mouse_development/synergistic_triplets/total_corrected_synergy_count_by_stage.pdf",
+      "cases/mouse_development/synergistic_triplets/triplet_B_synergistic_count_by_stage.tsv",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_stacked.pdf",
+      "cases/mouse_development/synergistic_triplets/triplet_C_corrected_synergy_count_by_stage.png"
+    ],
+    "figure_files": [
+      "cases/mouse_development/synergistic_triplets/total_synergistic_triplet_count_by_stage.pdf",
+      "cases/mouse_development/synergistic_triplets/triplet_B_corrected_synergy_count_by_stage.pdf",
+      "cases/mouse_development/synergistic_triplets/total_synergistic_triplet_count_by_stage.png",
+      "cases/mouse_development/synergistic_triplets/triplet_B_corrected_synergy_count_by_stage.png",
+      "cases/mouse_development/synergistic_triplets/total_corrected_synergy_count_by_stage.png",
+      "cases/mouse_development/synergistic_triplets/triplet_A_corrected_synergy_count_by_stage.pdf",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_stacked.png",
+      "cases/mouse_development/synergistic_triplets/triplet_C_corrected_synergy_count_by_stage.pdf",
+      "cases/mouse_development/synergistic_triplets/triplet_A_corrected_synergy_count_by_stage.png",
+      "cases/mouse_development/synergistic_triplets/total_corrected_synergy_count_by_stage.pdf",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_stacked.pdf",
+      "cases/mouse_development/synergistic_triplets/triplet_C_corrected_synergy_count_by_stage.png"
+    ],
+    "log": "validation/plot_rerun_20261026/mouse/logs/plot_triplet_counts_corrected_by_stage.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": ""
+  },
+  {
+    "id": "plot_triplet_A_B_C_counts_trajectories",
+    "script": "cases/mouse_development/script/plot_triplet_A_B_C_counts_trajectories.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/script/plot_triplet_A_B_C_counts_trajectories.py"
+    ],
+    "returncode": 0,
+    "seconds": 7.54,
+    "outputs": [
+      "cases/mouse_development/synergistic_triplets/triplet_A_B_C_relative_counts_summary.tsv",
+      "cases/mouse_development/synergistic_triplets/triplet_A_B_C_trajectories_metadata.json",
+      "cases/mouse_development/synergistic_triplets/triplet_A_B_C_counts_trajectories_n5.png",
+      "cases/mouse_development/synergistic_triplets/triplet_A_B_C_counts_trajectories_n5.pdf"
+    ],
+    "figure_files": [
+      "cases/mouse_development/synergistic_triplets/triplet_A_B_C_counts_trajectories_n5.png",
+      "cases/mouse_development/synergistic_triplets/triplet_A_B_C_counts_trajectories_n5.pdf"
+    ],
+    "log": "validation/plot_rerun_20261026/mouse/logs/plot_triplet_A_B_C_counts_trajectories.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": ""
+  },
+  {
+    "id": "plot_special_triplet_f1",
+    "script": "cases/mouse_development/script/plot_special_triplet_f1.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/script/plot_special_triplet_f1.py"
+    ],
+    "returncode": 0,
+    "seconds": 15.18,
+    "outputs": [
+      "cases/mouse_development/synergistic_triplets/special_triplet_f1_inputs.tsv",
+      "cases/mouse_development/synergistic_triplets/H3K9me3_H3K27me3_X_F1_heatmap.png",
+      "cases/mouse_development/synergistic_triplets/f1_by_stage_block.tsv",
+      "cases/mouse_development/synergistic_triplets/special_triplet_f1_metadata.json",
+      "cases/mouse_development/synergistic_triplets/f1_by_sample_block.tsv",
+      "cases/mouse_development/synergistic_triplets/triplet_A_B_C_counts_trajectories_n5.png",
+      "cases/mouse_development/synergistic_triplets/H3K9me3_H3K27me3_X_F1_heatmap.pdf"
+    ],
+    "figure_files": [
+      "cases/mouse_development/synergistic_triplets/H3K9me3_H3K27me3_X_F1_heatmap.png",
+      "cases/mouse_development/synergistic_triplets/triplet_A_B_C_counts_trajectories_n5.png",
+      "cases/mouse_development/synergistic_triplets/H3K9me3_H3K27me3_X_F1_heatmap.pdf"
+    ],
+    "log": "validation/plot_rerun_20261026/mouse/logs/plot_special_triplet_f1.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": ""
+  },
+  {
+    "id": "plot_triplet_ABC_selected_regions",
+    "script": "cases/mouse_development/script/plot_triplet_ABC_selected_regions.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/script/plot_triplet_ABC_selected_regions.py"
+    ],
+    "returncode": 0,
+    "seconds": 9.79,
+    "outputs": [
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals.png",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals_summary.tsv",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals.pdf",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals_metadata.json",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals_by_sample.tsv"
+    ],
+    "figure_files": [
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals.png",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_selected_region_trajectories_7signals.pdf"
+    ],
+    "log": "validation/plot_rerun_20261026/mouse/logs/plot_triplet_ABC_selected_regions.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": ""
+  },
+  {
+    "id": "plot_synergistic_triplet_mark_trajectories",
+    "script": "cases/mouse_development/script/plot_synergistic_triplet_mark_trajectories.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/script/plot_synergistic_triplet_mark_trajectories.py",
+      "--plot-only"
+    ],
+    "returncode": 0,
+    "seconds": 4.51,
+    "outputs": [
+      "cases/mouse_development/synergistic_triplets/synergistic_triplet_mark_trajectories_7signals.pdf",
+      "cases/mouse_development/synergistic_triplets/synergistic_triplet_mark_trajectories_7signals_metadata.json",
+      "cases/mouse_development/synergistic_triplets/synergistic_triplet_mark_trajectories_7signals.png"
+    ],
+    "figure_files": [
+      "cases/mouse_development/synergistic_triplets/synergistic_triplet_mark_trajectories_7signals.pdf",
+      "cases/mouse_development/synergistic_triplets/synergistic_triplet_mark_trajectories_7signals.png"
+    ],
+    "log": "validation/plot_rerun_20261026/mouse/logs/plot_synergistic_triplet_mark_trajectories.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": ""
+  },
+  {
+    "id": "plot_triplet_ABC_and_F1_panels",
+    "script": "cases/mouse_development/script/plot_triplet_ABC_and_F1_panels.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/script/plot_triplet_ABC_and_F1_panels.py"
+    ],
+    "returncode": 0,
+    "seconds": 9.01,
+    "outputs": [
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_and_F1_panels_ab.png",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_and_F1_panels_ab_layout.json",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_and_F1_panels_ab.pdf"
+    ],
+    "figure_files": [
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_and_F1_panels_ab.png",
+      "cases/mouse_development/synergistic_triplets/triplet_ABC_and_F1_panels_ab.pdf"
+    ],
+    "log": "validation/plot_rerun_20261026/mouse/logs/plot_triplet_ABC_and_F1_panels.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": ""
+  },
+  {
+    "id": "plot_triplet_A_C_D_counts_trajectories",
+    "script": "cases/mouse_development/script/plot_triplet_A_C_D_counts_trajectories.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/script/plot_triplet_A_C_D_counts_trajectories.py"
+    ],
+    "returncode": 1,
+    "seconds": 2.6,
+    "outputs": [],
+    "figure_files": [],
+    "log": "validation/plot_rerun_20261026/mouse/logs/plot_triplet_A_C_D_counts_trajectories.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": ""
+  },
+  {
+    "id": "plot_combined_hoi_trajectories_2x4",
+    "script": "cases/mouse_development/plot_tc_dtc/plot_combined_hoi_trajectories_2x4.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "cases/mouse_development/plot_tc_dtc/plot_combined_hoi_trajectories_2x4.py",
+      "--output-dir",
+      "validation/plot_rerun_20261026/mouse/figures/tc_dtc_original"
+    ],
+    "returncode": 0,
+    "seconds": 9.66,
+    "outputs": [
+      "cases/mouse_development/plot_tc_dtc/combined_tc_trajectories_3x2_n5.pdf",
+      "cases/mouse_development/plot_tc_dtc/combined_dtc_trajectories_3x2_n5.pdf",
+      "cases/mouse_development/plot_tc_dtc/combined_dtc_trajectories_3x2_n5.png",
+      "cases/mouse_development/plot_tc_dtc/combined_tc_trajectories_3x2_n5.png"
+    ],
+    "figure_files": [
+      "cases/mouse_development/plot_tc_dtc/combined_tc_trajectories_3x2_n5.pdf",
+      "cases/mouse_development/plot_tc_dtc/combined_dtc_trajectories_3x2_n5.pdf",
+      "cases/mouse_development/plot_tc_dtc/combined_dtc_trajectories_3x2_n5.png",
+      "cases/mouse_development/plot_tc_dtc/combined_tc_trajectories_3x2_n5.png"
+    ],
+    "log": "validation/plot_rerun_20261026/mouse/logs/plot_combined_hoi_trajectories_2x4.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": ""
+  },
+  {
+    "id": "plot_tc_dtc_stacked_18cm",
+    "script": "cases/mouse_development/plot_tc_dtc/plot_tc_dtc_stacked_18cm.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/plot_tc_dtc/plot_tc_dtc_stacked_18cm.py"
+    ],
+    "returncode": 0,
+    "seconds": 34.4,
+    "outputs": [],
+    "figure_files": [],
+    "log": "validation/plot_rerun_20261026/mouse/logs/plot_tc_dtc_stacked_18cm.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": "",
+    "initial_returncode": 1
+  },
+  {
+    "id": "plot_total_oinfo_trajectories_18cm",
+    "script": "cases/mouse_development/plot_tc_dtc/plot_total_oinfo_trajectories_18cm.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/plot_tc_dtc/plot_total_oinfo_trajectories_18cm.py"
+    ],
+    "returncode": 0,
+    "seconds": 9.38,
+    "outputs": [],
+    "figure_files": [],
+    "log": "validation/plot_rerun_20261026/mouse/logs/plot_total_oinfo_trajectories_18cm.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": "",
+    "initial_returncode": 1
+  },
+  {
+    "id": "resize_redundancy_core",
+    "script": "cases/mouse_development/redundancy_core/resize_redundancy_core.py",
+    "command": [
+      "/lustre/home/2101110354/anaconda3/bin/python",
+      "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/redundancy_core/resize_redundancy_core.py"
+    ],
+    "returncode": 0,
+    "seconds": 5.1,
+    "outputs": [
+      "cases/mouse_development/redundancy_core/redundancy_core_top25_cdf_7.csv",
+      "cases/mouse_development/redundancy_core/redundancy_core_top25_cdf_7.5x4cm.png",
+      "cases/mouse_development/redundancy_core/redundancy_core_top25_cdf_7.5x4cm.pdf"
+    ],
+    "figure_files": [
+      "cases/mouse_development/redundancy_core/redundancy_core_top25_cdf_7.5x4cm.png",
+      "cases/mouse_development/redundancy_core/redundancy_core_top25_cdf_7.5x4cm.pdf"
+    ],
+    "log": "validation/plot_rerun_20261026/mouse/logs/resize_redundancy_core.log",
+    "input_type": "previous result CSV/TSV summaries",
+    "note": "PDF vector reconstruction from existing figure, not intermediate tables"
+  }
+]

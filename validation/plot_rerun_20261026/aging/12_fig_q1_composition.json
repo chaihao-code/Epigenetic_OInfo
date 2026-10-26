@@ -1,0 +1,35 @@
+{
+  "script": "cases/aging/thyroid/deconvolution/scripts/12_fig_q1_composition.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 12_fig_q1_composition.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/12_fig_q1_composition.log",
+  "started_unix": 1793013046.984025,
+  "status": "success",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+      "bytes": 283,
+      "sha256": "ccfb74f942809c74464171d01e87510db96a7038eed787763d039f84df792c75"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+      "bytes": 18707,
+      "sha256": "c07d2da39dac5404104b42e438606a88120e848022d1eb4a8b8a08163052842f"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "cases/aging/thyroid/deconvolution/results/figures/figQ1_composition.png",
+      "bytes": 197076,
+      "sha256": "29682510341b67be90dc3580ebde40a58b66549b99297f76cdea5d050842c7e1"
+    }
+  ],
+  "elapsed_seconds": 6.38,
+  "description_zh": "细胞组成及Panel/Model稳健性（3面板）",
+  "input_nature_zh": "中间细胞比例表+样本元数据；纯绘图",
+  "source_sha256": "af436f74c2494e45f2eaa95b64efdffd0633446d0fbd9477152419ab58191b54",
+  "figure_count": 1,
+  "file_count": 2,
+  "note": "Only this PNG is retained for thyroid deconvolution by user request."
+}

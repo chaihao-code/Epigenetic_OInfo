@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Bile Acid Metabolism.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Bile Acid Metabolism",
+      "historical_pdf_name": "Bile Acid Metabolism.pdf",
+      "n_ranked": 10166,
+      "n_hits": 12,
+      "saved_ES": 0.7377529,
+      "recomputed_ES": 0.7377528993117657,
+      "absolute_ES_error": 6.882343583924921e-10,
+      "NES": 1.805599,
+      "nominal_P": 0.0,
+      "FDR_q": 0.03946026,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/prerank/Bile Acid Metabolism.pdf",
+          "bytes": 29516,
+          "sha256": "28dee0e40d7739e9d20f08fd4e305bf655bec1e671c2a148d1265c12faca1cef"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/prerank/Bile Acid Metabolism.png",
+          "bytes": 91293,
+          "sha256": "d9fb1d435f84d5569769d595041027dbfe0b9f0c8976fd8fc82f8a7b21dd63b9"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.95
+}

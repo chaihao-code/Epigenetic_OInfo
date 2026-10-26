@@ -1,0 +1,86 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Apical Surface.pdf",
+    "G2-M Checkpoint.pdf",
+    "UV Response Up.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Apical Surface",
+      "historical_pdf_name": "Apical Surface.pdf",
+      "n_ranked": 7925,
+      "n_hits": 15,
+      "saved_ES": 0.5825015,
+      "recomputed_ES": 0.5825014716630862,
+      "absolute_ES_error": 2.833691381542991e-08,
+      "NES": 1.709812,
+      "nominal_P": 0.00974026,
+      "FDR_q": 0.2001779,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/Apical Surface.pdf",
+          "bytes": 30982,
+          "sha256": "5dc1bca6793df4c0f8cb6c8cef1921e7989da697d9b04f68570187fa79d9254a"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/Apical Surface.png",
+          "bytes": 100596,
+          "sha256": "f3632f27ca94b2e82de0f2057b54f9413ba138f40f26900bce500992a881faef"
+        }
+      ]
+    },
+    {
+      "term": "G2-M Checkpoint",
+      "historical_pdf_name": "G2-M Checkpoint.pdf",
+      "n_ranked": 7925,
+      "n_hits": 41,
+      "saved_ES": 0.4053554,
+      "recomputed_ES": 0.4053553819870397,
+      "absolute_ES_error": 1.801296029002586e-08,
+      "NES": 1.476846,
+      "nominal_P": 0.03153153,
+      "FDR_q": 0.2220155,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.pdf",
+          "bytes": 32830,
+          "sha256": "fb786e2d0ea1f80506019470e657b68504db352b9dec084149b3328710be11db"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.png",
+          "bytes": 102838,
+          "sha256": "7a28ba04f474a2ae1e15bfb15a2575286b546458cf73fd90af0db97ee3869e88"
+        }
+      ]
+    },
+    {
+      "term": "UV Response Up",
+      "historical_pdf_name": "UV Response Up.pdf",
+      "n_ranked": 7925,
+      "n_hits": 28,
+      "saved_ES": 0.4735072,
+      "recomputed_ES": 0.4735072322566386,
+      "absolute_ES_error": 3.225663858241745e-08,
+      "NES": 1.623142,
+      "nominal_P": 0.01158301,
+      "FDR_q": 0.2072549,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/UV Response Up.pdf",
+          "bytes": 31551,
+          "sha256": "6bb29883a6ef89853941481fa0c4aa4f8c180f62ad26c02ff6f92d0f681a4314"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/UV Response Up.png",
+          "bytes": 99775,
+          "sha256": "728008da6960968470bd73b59462e331e2544987396c11214380c989bb249425"
+        }
+      ]
+    }
+  ],
+  "seconds": 2.02
+}

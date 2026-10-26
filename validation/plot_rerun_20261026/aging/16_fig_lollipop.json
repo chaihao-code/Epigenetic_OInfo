@@ -1,0 +1,24 @@
+{
+  "script": "cases/aging/thyroid/deconvolution/scripts/16_fig_lollipop.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 16_fig_lollipop.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/16_fig_lollipop.log",
+  "started_unix": 1793013056.8727436,
+  "status": "removed_by_request",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_age_fdr_table.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_age_fdr_table.tsv",
+      "bytes": 5960,
+      "sha256": "8bbb55eccb348c8b2baf4148f8102506f186e469487927f86a29da096335fb4f"
+    }
+  ],
+  "outputs": [],
+  "elapsed_seconds": 2.6,
+  "description_zh": "年龄斜率调整前后相对差的棒棒糖图",
+  "input_nature_zh": "中间oinfo_age_fdr_table.tsv；纯绘图",
+  "source_sha256": "8aaf177c3c29a9ff928a4abf08ced46ad45e960faaca0c276d679beddadedb26",
+  "figure_count": 1,
+  "file_count": 2,
+  "previous_status": "success",
+  "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+}

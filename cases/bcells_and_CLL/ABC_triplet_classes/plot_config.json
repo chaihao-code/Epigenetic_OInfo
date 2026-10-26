@@ -1,0 +1,46 @@
+{
+  "source": "results_oinfo_triplet_n_bins_5/all_samples_triplet_significance.tsv",
+  "reference": "project/H3K36me3_triplet_robustness/ABC_triplet_classes/plots",
+  "signals": [
+    "H3K4me1",
+    "H3K4me3",
+    "H3K9me3",
+    "H3K27me3",
+    "H3K36me3",
+    "H3K27ac",
+    "WGB-Seq"
+  ],
+  "anchor_signals": [
+    "H3K27me3",
+    "H3K36me3",
+    "H3K9me3"
+  ],
+  "class_capacities": {
+    "B": 19,
+    "A": 12,
+    "C": 4
+  },
+  "classes": {
+    "A": "DNA methylation present AND at least one anchor signal",
+    "B": "DNA methylation absent AND at least one anchor signal",
+    "C": "No anchor signals"
+  },
+  "samples": {
+    "R": 8,
+    "S": 5,
+    "pB": 4
+  },
+  "R_S_handling": "Parallel donors; no R/S group significance comparison. R, S and pB pooled separately with equal donor weights within each group.",
+  "pB_mapping": [
+    "CEMT0129",
+    "CEMT0134",
+    "CEMT0135",
+    "CEMT0138"
+  ],
+  "pB_annotation_source": "data_info/ihec_rna_lookup/rna_sample_metadata.tsv: B cells, disease None, origin Tonsil",
+  "primary_criterion": "observed_hoi < 0 AND p_down < 0.05, same nominal lower-tail criterion as reference",
+  "supplementary_criterion": "observed_hoi < 0 AND q_down_global_BH < 0.05; inherited global BH family of 23800 tests",
+  "pooled_combined_criterion": "observed_hoi < 0 AND q_down_global_BH < 0.05; global BH family of 23800 tests",
+  "pooled_combined_script": "../scripts/plot_abc_pooled_combined.py",
+  "capacity_note": "Seven-signal B-cell universe lacks ATAC present in eight-signal reference; capacities are 12/19/4 instead of 15/31/10."
+}

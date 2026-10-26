@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "negative regulation of protein phosphorylation (GO_0001933).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "negative regulation of protein phosphorylation (GO:0001933)",
+      "historical_pdf_name": "negative regulation of protein phosphorylation (GO_0001933).pdf",
+      "n_ranked": 5401,
+      "n_hits": 15,
+      "saved_ES": 0.6872142,
+      "recomputed_ES": 0.6872141841628123,
+      "absolute_ES_error": 1.583718767239617e-08,
+      "NES": 2.038315,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1389866,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank/negative regulation of protein phosphorylation (GO_0001933).pdf",
+          "bytes": 31236,
+          "sha256": "89cb58742d774547ddd3af9f886c78de8e4d2abe2455c83a7b20813548f09b3a"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank/negative regulation of protein phosphorylation (GO_0001933).png",
+          "bytes": 111586,
+          "sha256": "ef0afca6d847a7288cc2f21bb3e833f38f47f0b5bb8c45910d8f20c20758fb19"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.82
+}

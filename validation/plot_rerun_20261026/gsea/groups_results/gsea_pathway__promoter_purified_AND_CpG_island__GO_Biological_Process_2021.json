@@ -1,0 +1,111 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "negative regulation of chromatin organization (GO_1905268).pdf",
+    "negative regulation of chromatin silencing (GO_0031936).pdf",
+    "negative regulation of gene silencing (GO_0060969).pdf",
+    "regulation of keratinocyte apoptotic process (GO_1902172).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "negative regulation of chromatin organization (GO:1905268)",
+      "historical_pdf_name": "negative regulation of chromatin organization (GO_1905268).pdf",
+      "n_ranked": 53462,
+      "n_hits": 9,
+      "saved_ES": 0.7860491,
+      "recomputed_ES": 0.786049055600371,
+      "absolute_ES_error": 4.439962897340166e-08,
+      "NES": 1.891655,
+      "nominal_P": 0.0,
+      "FDR_q": 0.236059,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of chromatin organization (GO_1905268).pdf",
+          "bytes": 29438,
+          "sha256": "337f1784b67f0a31a3efb4bf18da329fdee12136d0f7ed35c980ae29859bde77"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of chromatin organization (GO_1905268).png",
+          "bytes": 104601,
+          "sha256": "418859184bf07e3183c10fb47253c4ac45315c0ad5592a8c650ae95fe47488a0"
+        }
+      ]
+    },
+    {
+      "term": "negative regulation of chromatin silencing (GO:0031936)",
+      "historical_pdf_name": "negative regulation of chromatin silencing (GO_0031936).pdf",
+      "n_ranked": 53462,
+      "n_hits": 9,
+      "saved_ES": 0.7860491,
+      "recomputed_ES": 0.786049055600371,
+      "absolute_ES_error": 4.439962897340166e-08,
+      "NES": 1.891655,
+      "nominal_P": 0.0,
+      "FDR_q": 0.236059,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of chromatin silencing (GO_0031936).pdf",
+          "bytes": 29245,
+          "sha256": "710cbf7587d679ec48b47f87e93703348bd184022f637d53a7164ac6e8103a4d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of chromatin silencing (GO_0031936).png",
+          "bytes": 104327,
+          "sha256": "188aca0b41e0dc8726275e951a5b6c8a1a7eb7d2f4287112ad9bd8bb35db038c"
+        }
+      ]
+    },
+    {
+      "term": "negative regulation of gene silencing (GO:0060969)",
+      "historical_pdf_name": "negative regulation of gene silencing (GO_0060969).pdf",
+      "n_ranked": 53462,
+      "n_hits": 9,
+      "saved_ES": 0.7860491,
+      "recomputed_ES": 0.786049055600371,
+      "absolute_ES_error": 4.439962897340166e-08,
+      "NES": 1.891655,
+      "nominal_P": 0.0,
+      "FDR_q": 0.236059,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of gene silencing (GO_0060969).pdf",
+          "bytes": 29234,
+          "sha256": "4ba0064136709ee8240003dd9a7b088f17fcce73a3a474a8c6e800f12ab6a3c1"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of gene silencing (GO_0060969).png",
+          "bytes": 103277,
+          "sha256": "63471d98c2c326aed9ef0a5c26a46c08d69bdb52029ccdd7a2b3460250333f7f"
+        }
+      ]
+    },
+    {
+      "term": "regulation of keratinocyte apoptotic process (GO:1902172)",
+      "historical_pdf_name": "regulation of keratinocyte apoptotic process (GO_1902172).pdf",
+      "n_ranked": 53462,
+      "n_hits": 5,
+      "saved_ES": 0.9058245,
+      "recomputed_ES": 0.9058245261603142,
+      "absolute_ES_error": 2.6160314137158025e-08,
+      "NES": 1.866805,
+      "nominal_P": 0.0,
+      "FDR_q": 0.2460922,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of keratinocyte apoptotic process (GO_1902172).pdf",
+          "bytes": 29294,
+          "sha256": "eef835efebe29b13a5fb177f2f11e4b0f4bebe9eb96169ef4dcd76b9f3edd6ea"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of keratinocyte apoptotic process (GO_1902172).png",
+          "bytes": 102496,
+          "sha256": "dd6e50f130a2c78515f3c40696b1501b7badfbb9ac3cad51a89a6f657b7a4739"
+        }
+      ]
+    }
+  ],
+  "seconds": 2.06
+}

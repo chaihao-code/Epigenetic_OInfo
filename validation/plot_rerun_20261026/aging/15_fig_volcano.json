@@ -1,0 +1,24 @@
+{
+  "script": "cases/aging/thyroid/deconvolution/scripts/15_fig_volcano.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 15_fig_volcano.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/15_fig_volcano.log",
+  "started_unix": 1793013053.3652234,
+  "status": "removed_by_request",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_age_fdr_table.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_age_fdr_table.tsv",
+      "bytes": 5960,
+      "sha256": "8bbb55eccb348c8b2baf4148f8102506f186e469487927f86a29da096335fb4f"
+    }
+  ],
+  "outputs": [],
+  "elapsed_seconds": 3.5,
+  "description_zh": "免疫调整后的年龄斜率/P值火山图",
+  "input_nature_zh": "中间oinfo_age_fdr_table.tsv；纯绘图",
+  "source_sha256": "4da3cf22ccdf3f93b16ffae7d11eb0bae0bbf2e86b53f00c577a26cfc65c7ecc",
+  "figure_count": 1,
+  "file_count": 2,
+  "previous_status": "success",
+  "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+}

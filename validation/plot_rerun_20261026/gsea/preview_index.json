@@ -1,0 +1,3582 @@
+{
+  "all": [
+    {
+      "term": "generation of neurons (GO:0048699)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/generation of neurons (GO_0048699).png"
+    },
+    {
+      "term": "mitochondrion organization (GO:0007005)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/mitochondrion organization (GO_0007005).png"
+    },
+    {
+      "term": "negative regulation of cellular macromolecule biosynthetic process (GO:2000113)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of cellular macromolecule biosynthetic process (GO_2000113).png"
+    },
+    {
+      "term": "negative regulation of nucleic acid-templated transcription (GO:1903507)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of nucleic acid-templated transcription (GO_1903507).png"
+    },
+    {
+      "term": "negative regulation of transcription by RNA polymerase II (GO:0000122)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of transcription by RNA polymerase II (GO_0000122).png"
+    },
+    {
+      "term": "negative regulation of transcription, DNA-templated (GO:0045892)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of transcription, DNA-templated (GO_0045892).png"
+    },
+    {
+      "term": "neuron differentiation (GO:0030182)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/neuron differentiation (GO_0030182).png"
+    },
+    {
+      "term": "organelle organization (GO:0006996)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/organelle organization (GO_0006996).png"
+    },
+    {
+      "term": "positive regulation of cellular process (GO:0048522)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of cellular process (GO_0048522).png"
+    },
+    {
+      "term": "positive regulation of transcription by RNA polymerase II (GO:0045944)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of transcription by RNA polymerase II (GO_0045944).png"
+    },
+    {
+      "term": "positive regulation of transcription, DNA-templated (GO:0045893)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of transcription, DNA-templated (GO_0045893).png"
+    },
+    {
+      "term": "protein phosphorylation (GO:0006468)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/protein phosphorylation (GO_0006468).png"
+    },
+    {
+      "term": "regulation of gene expression (GO:0010468)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of gene expression (GO_0010468).png"
+    },
+    {
+      "term": "regulation of transcription by RNA polymerase II (GO:0006357)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of transcription by RNA polymerase II (GO_0006357).png"
+    },
+    {
+      "term": "regulation of transcription, DNA-templated (GO:0006355)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of transcription, DNA-templated (GO_0006355).png"
+    },
+    {
+      "term": "Bile Acid Metabolism",
+      "kind": "gsea_pathway",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/prerank/Bile Acid Metabolism.png"
+    },
+    {
+      "term": "Myc Targets V1",
+      "kind": "gsea_pathway",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png"
+    },
+    {
+      "term": "Pperoxisome",
+      "kind": "gsea_pathway",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/prerank/Pperoxisome.png"
+    },
+    {
+      "term": "negative regulation of protein phosphorylation (GO:0001933)",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank/negative regulation of protein phosphorylation (GO_0001933).png"
+    },
+    {
+      "term": "DNA-dependent DNA replication maintenance of fidelity (GO:0045005)",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/DNA-dependent DNA replication maintenance of fidelity (GO_0045005).png"
+    },
+    {
+      "term": "Apical Surface",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/Apical Surface.png"
+    },
+    {
+      "term": "G2-M Checkpoint",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.png"
+    },
+    {
+      "term": "UV Response Up",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/UV Response Up.png"
+    },
+    {
+      "term": "canonical glycolysis (GO:0061621)",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/canonical glycolysis (GO_0061621).png"
+    },
+    {
+      "term": "glucose catabolic process to pyruvate (GO:0061718)",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/glucose catabolic process to pyruvate (GO_0061718).png"
+    },
+    {
+      "term": "glycolytic process through glucose-6-phosphate (GO:0061620)",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/glycolytic process through glucose-6-phosphate (GO_0061620).png"
+    },
+    {
+      "term": "morphogenesis of an epithelium (GO:0002009)",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/morphogenesis of an epithelium (GO_0002009).png"
+    },
+    {
+      "term": "regulation of NMDA receptor activity (GO:2000310)",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of NMDA receptor activity (GO_2000310).png"
+    },
+    {
+      "term": "Apical Surface",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Apical Surface.png"
+    },
+    {
+      "term": "E2F Targets",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/E2F Targets.png"
+    },
+    {
+      "term": "PI3K/AKT/mTOR  Signaling",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/PI3K-AKT-mTOR  Signaling.png"
+    },
+    {
+      "term": "cilium assembly (GO:0060271)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/cilium assembly (GO_0060271).png"
+    },
+    {
+      "term": "Epithelial Mesenchymal Transition",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Epithelial Mesenchymal Transition.png"
+    },
+    {
+      "term": "autophagosome maturation (GO:0097352)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/autophagosome maturation (GO_0097352).png"
+    },
+    {
+      "term": "carboxylic acid metabolic process (GO:0019752)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/carboxylic acid metabolic process (GO_0019752).png"
+    },
+    {
+      "term": "keratinocyte differentiation (GO:0030216)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/keratinocyte differentiation (GO_0030216).png"
+    },
+    {
+      "term": "protein-containing complex disassembly (GO:0032984)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/protein-containing complex disassembly (GO_0032984).png"
+    },
+    {
+      "term": "UV Response Up",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/UV Response Up.png"
+    },
+    {
+      "term": "DNA Repair",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/DNA Repair.png"
+    },
+    {
+      "term": "G2-M Checkpoint",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.png"
+    },
+    {
+      "term": "Oxidative Phosphorylation",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Oxidative Phosphorylation.png"
+    },
+    {
+      "term": "RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO_0000377).png"
+    },
+    {
+      "term": "cytoplasmic microtubule organization (GO:0031122)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/cytoplasmic microtubule organization (GO_0031122).png"
+    },
+    {
+      "term": "mRNA processing (GO:0006397)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/mRNA processing (GO_0006397).png"
+    },
+    {
+      "term": "mitochondrial fission (GO:0000266)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/mitochondrial fission (GO_0000266).png"
+    },
+    {
+      "term": "organelle fission (GO:0048285)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/organelle fission (GO_0048285).png"
+    },
+    {
+      "term": "positive regulation of intracellular transport (GO:0032388)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of intracellular transport (GO_0032388).png"
+    },
+    {
+      "term": "positive regulation of ossification (GO:0045778)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of ossification (GO_0045778).png"
+    },
+    {
+      "term": "protein complex oligomerization (GO:0051259)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/protein complex oligomerization (GO_0051259).png"
+    },
+    {
+      "term": "regulation of actin filament bundle assembly (GO:0032231)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of actin filament bundle assembly (GO_0032231).png"
+    },
+    {
+      "term": "regulation of cytokine-mediated signaling pathway (GO:0001959)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of cytokine-mediated signaling pathway (GO_0001959).png"
+    },
+    {
+      "term": "regulation of membrane repolarization (GO:0060306)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of membrane repolarization (GO_0060306).png"
+    },
+    {
+      "term": "regulation of plasma membrane bounded cell projection organization (GO:0120035)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of plasma membrane bounded cell projection organization (GO_0120035).png"
+    },
+    {
+      "term": "UV Response Dn",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/UV Response Dn.png"
+    },
+    {
+      "term": "proteasomal ubiquitin-independent protein catabolic process (GO:0010499)",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/proteasomal ubiquitin-independent protein catabolic process (GO_0010499).png"
+    },
+    {
+      "term": "G2-M Checkpoint",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.png"
+    },
+    {
+      "term": "Mitotic Spindle",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Mitotic Spindle.png"
+    },
+    {
+      "term": "Myc Targets V1",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png"
+    },
+    {
+      "term": "Oxidative Phosphorylation",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Oxidative Phosphorylation.png"
+    },
+    {
+      "term": "Golgi organization (GO:0007030)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/Golgi organization (GO_0007030).png"
+    },
+    {
+      "term": "cellular response to DNA damage stimulus (GO:0006974)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/cellular response to DNA damage stimulus (GO_0006974).png"
+    },
+    {
+      "term": "cytoskeleton organization (GO:0007010)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/cytoskeleton organization (GO_0007010).png"
+    },
+    {
+      "term": "endomembrane system organization (GO:0010256)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/endomembrane system organization (GO_0010256).png"
+    },
+    {
+      "term": "endoplasmic reticulum organization (GO:0007029)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/endoplasmic reticulum organization (GO_0007029).png"
+    },
+    {
+      "term": "negative regulation of supramolecular fiber organization (GO:1902904)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of supramolecular fiber organization (GO_1902904).png"
+    },
+    {
+      "term": "neuron projection development (GO:0031175)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/neuron projection development (GO_0031175).png"
+    },
+    {
+      "term": "organelle organization (GO:0006996)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/organelle organization (GO_0006996).png"
+    },
+    {
+      "term": "positive regulation of cell projection organization (GO:0031346)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of cell projection organization (GO_0031346).png"
+    },
+    {
+      "term": "positive regulation of gene expression (GO:0010628)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of gene expression (GO_0010628).png"
+    },
+    {
+      "term": "positive regulation of neurogenesis (GO:0050769)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of neurogenesis (GO_0050769).png"
+    },
+    {
+      "term": "regulation of GTPase activity (GO:0043087)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of GTPase activity (GO_0043087).png"
+    },
+    {
+      "term": "regulation of cell motility (GO:2000145)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of cell motility (GO_2000145).png"
+    },
+    {
+      "term": "regulation of microtubule polymerization (GO:0031113)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of microtubule polymerization (GO_0031113).png"
+    },
+    {
+      "term": "regulation of neuron projection development (GO:0010975)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of neuron projection development (GO_0010975).png"
+    },
+    {
+      "term": "regulation of protein catabolic process (GO:0042176)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of protein catabolic process (GO_0042176).png"
+    },
+    {
+      "term": "synapse assembly (GO:0007416)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/synapse assembly (GO_0007416).png"
+    },
+    {
+      "term": "DNA Repair",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/DNA Repair.png"
+    },
+    {
+      "term": "RNA export from nucleus (GO:0006405)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/RNA export from nucleus (GO_0006405).png"
+    },
+    {
+      "term": "mRNA transport (GO:0051028)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/mRNA transport (GO_0051028).png"
+    },
+    {
+      "term": "mRNA-containing ribonucleoprotein complex export from nucleus (GO:0071427)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/mRNA-containing ribonucleoprotein complex export from nucleus (GO_0071427).png"
+    },
+    {
+      "term": "organic anion transport (GO:0015711)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/organic anion transport (GO_0015711).png"
+    },
+    {
+      "term": "DNA duplex unwinding (GO:0032508)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/DNA duplex unwinding (GO_0032508).png"
+    },
+    {
+      "term": "autophagosome assembly (GO:0000045)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/autophagosome assembly (GO_0000045).png"
+    },
+    {
+      "term": "autophagosome organization (GO:1905037)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/autophagosome organization (GO_1905037).png"
+    },
+    {
+      "term": "blood vessel diameter maintenance (GO:0097746)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/blood vessel diameter maintenance (GO_0097746).png"
+    },
+    {
+      "term": "cellular response to chemical stress (GO:0062197)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/cellular response to chemical stress (GO_0062197).png"
+    },
+    {
+      "term": "epithelial cilium movement involved in extracellular fluid movement (GO:0003351)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/epithelial cilium movement involved in extracellular fluid movement (GO_0003351).png"
+    },
+    {
+      "term": "positive regulation of Wnt signaling pathway (GO:0030177)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of Wnt signaling pathway (GO_0030177).png"
+    },
+    {
+      "term": "positive regulation of autophagy (GO:0010508)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of autophagy (GO_0010508).png"
+    },
+    {
+      "term": "positive regulation of canonical Wnt signaling pathway (GO:0090263)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of canonical Wnt signaling pathway (GO_0090263).png"
+    },
+    {
+      "term": "positive regulation of mitochondrial fission (GO:0090141)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of mitochondrial fission (GO_0090141).png"
+    },
+    {
+      "term": "protein localization to endoplasmic reticulum (GO:0070972)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/protein localization to endoplasmic reticulum (GO_0070972).png"
+    },
+    {
+      "term": "protein localization to organelle (GO:0033365)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/protein localization to organelle (GO_0033365).png"
+    },
+    {
+      "term": "protein tetramerization (GO:0051262)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/protein tetramerization (GO_0051262).png"
+    },
+    {
+      "term": "regulation of amyloid-beta formation (GO:1902003)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of amyloid-beta formation (GO_1902003).png"
+    },
+    {
+      "term": "regulation of establishment of planar polarity (GO:0090175)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of establishment of planar polarity (GO_0090175).png"
+    },
+    {
+      "term": "Apoptosis",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank/Apoptosis.png"
+    },
+    {
+      "term": "Myc Targets V1",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png"
+    },
+    {
+      "term": "Protein Secretion",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank/Protein Secretion.png"
+    },
+    {
+      "term": "epidermal cell differentiation (GO:0009913)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank/epidermal cell differentiation (GO_0009913).png"
+    },
+    {
+      "term": "keratinocyte differentiation (GO:0030216)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank/keratinocyte differentiation (GO_0030216).png"
+    },
+    {
+      "term": "pyroptosis (GO:0070269)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank/pyroptosis (GO_0070269).png"
+    },
+    {
+      "term": "DNA Repair",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/DNA Repair.png"
+    },
+    {
+      "term": "E2F Targets",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/E2F Targets.png"
+    },
+    {
+      "term": "Epithelial Mesenchymal Transition",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Epithelial Mesenchymal Transition.png"
+    },
+    {
+      "term": "Estrogen Response Early",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Estrogen Response Early.png"
+    },
+    {
+      "term": "Fatty Acid Metabolism",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Fatty Acid Metabolism.png"
+    },
+    {
+      "term": "Glycolysis",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Glycolysis.png"
+    },
+    {
+      "term": "Hypoxia",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Hypoxia.png"
+    },
+    {
+      "term": "Myc Targets V1",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png"
+    },
+    {
+      "term": "Myc Targets V2",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V2.png"
+    },
+    {
+      "term": "Myogenesis",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myogenesis.png"
+    },
+    {
+      "term": "Notch Signaling",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Notch Signaling.png"
+    },
+    {
+      "term": "PI3K/AKT/mTOR  Signaling",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/PI3K-AKT-mTOR  Signaling.png"
+    },
+    {
+      "term": "Unfolded Protein Response",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Unfolded Protein Response.png"
+    },
+    {
+      "term": "mTORC1 Signaling",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/mTORC1 Signaling.png"
+    },
+    {
+      "term": "Estrogen Response Early",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Estrogen Response Early.png"
+    },
+    {
+      "term": "cellular response to osmotic stress (GO:0071470)",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LINE/GO_Biological_Process_2021/prerank/cellular response to osmotic stress (GO_0071470).png"
+    },
+    {
+      "term": "protein monoubiquitination (GO:0006513)",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LINE/GO_Biological_Process_2021/prerank/protein monoubiquitination (GO_0006513).png"
+    },
+    {
+      "term": "Apical Junction",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/prerank/Apical Junction.png"
+    },
+    {
+      "term": "regulation of oligodendrocyte differentiation (GO:0048713)",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of oligodendrocyte differentiation (GO_0048713).png"
+    },
+    {
+      "term": "regulation of protein localization to nucleus (GO:1900180)",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of protein localization to nucleus (GO_1900180).png"
+    },
+    {
+      "term": "Apical Junction",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Apical Junction.png"
+    },
+    {
+      "term": "Fatty Acid Metabolism",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Fatty Acid Metabolism.png"
+    },
+    {
+      "term": "G2-M Checkpoint",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.png"
+    },
+    {
+      "term": "Mitotic Spindle",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Mitotic Spindle.png"
+    },
+    {
+      "term": "Pperoxisome",
+      "kind": "gsea_pathway",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Pperoxisome.png"
+    },
+    {
+      "term": "negative regulation of chromatin organization (GO:1905268)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of chromatin organization (GO_1905268).png"
+    },
+    {
+      "term": "negative regulation of chromatin silencing (GO:0031936)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of chromatin silencing (GO_0031936).png"
+    },
+    {
+      "term": "negative regulation of gene silencing (GO:0060969)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of gene silencing (GO_0060969).png"
+    },
+    {
+      "term": "regulation of keratinocyte apoptotic process (GO:1902172)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of keratinocyte apoptotic process (GO_1902172).png"
+    },
+    {
+      "term": "Complement",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Complement.png"
+    },
+    {
+      "term": "DNA Repair",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/DNA Repair.png"
+    },
+    {
+      "term": "E2F Targets",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/E2F Targets.png"
+    },
+    {
+      "term": "Glycolysis",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Glycolysis.png"
+    },
+    {
+      "term": "Hedgehog Signaling",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Hedgehog Signaling.png"
+    },
+    {
+      "term": "Hypoxia",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Hypoxia.png"
+    },
+    {
+      "term": "Myc Targets V1",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png"
+    },
+    {
+      "term": "Oxidative Phosphorylation",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Oxidative Phosphorylation.png"
+    },
+    {
+      "term": "PI3K/AKT/mTOR  Signaling",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/PI3K-AKT-mTOR  Signaling.png"
+    },
+    {
+      "term": "TNF-alpha Signaling via NF-kB",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/TNF-alpha Signaling via NF-kB.png"
+    },
+    {
+      "term": "p53 Pathway",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/p53 Pathway.png"
+    },
+    {
+      "term": "cellular response to hydrogen peroxide (GO:0070301)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/cellular response to hydrogen peroxide (GO_0070301).png"
+    },
+    {
+      "term": "chondroitin sulfate metabolic process (GO:0030204)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/chondroitin sulfate metabolic process (GO_0030204).png"
+    },
+    {
+      "term": "negative regulation of MAP kinase activity (GO:0043407)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/negative regulation of MAP kinase activity (GO_0043407).png"
+    },
+    {
+      "term": "very long-chain fatty acid metabolic process (GO:0000038)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/very long-chain fatty acid metabolic process (GO_0000038).png"
+    },
+    {
+      "term": "Hedgehog Signaling",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Hedgehog Signaling.png"
+    },
+    {
+      "term": "Pperoxisome",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Pperoxisome.png"
+    },
+    {
+      "term": "Hedgehog Signaling",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Hedgehog Signaling.png"
+    },
+    {
+      "term": "Inflammatory Response",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Inflammatory Response.png"
+    },
+    {
+      "term": "base-excision repair (GO:0006284)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/prerank/base-excision repair (GO_0006284).png"
+    },
+    {
+      "term": "receptor clustering (GO:0043113)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/prerank/receptor clustering (GO_0043113).png"
+    },
+    {
+      "term": "E2F Targets",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/prerank/E2F Targets.png"
+    },
+    {
+      "term": "Mitotic Spindle",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/prerank/Mitotic Spindle.png"
+    },
+    {
+      "term": "positive regulation of lymphocyte chemotaxis (GO:0140131)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of lymphocyte chemotaxis (GO_0140131).png"
+    },
+    {
+      "term": "regulation of cell cycle G1/S phase transition (GO:1902806)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of cell cycle G1-S phase transition (GO_1902806).png"
+    },
+    {
+      "term": "regulation of cell cycle process (GO:0010564)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of cell cycle process (GO_0010564).png"
+    },
+    {
+      "term": "regulation of nuclear division (GO:0051783)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of nuclear division (GO_0051783).png"
+    },
+    {
+      "term": "regulation of type I interferon production (GO:0032479)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of type I interferon production (GO_0032479).png"
+    },
+    {
+      "term": "Apical Surface",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Apical Surface.png"
+    },
+    {
+      "term": "Apoptosis",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Apoptosis.png"
+    },
+    {
+      "term": "Cholesterol Homeostasis",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Cholesterol Homeostasis.png"
+    },
+    {
+      "term": "Coagulation",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Coagulation.png"
+    },
+    {
+      "term": "DNA Repair",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/DNA Repair.png"
+    },
+    {
+      "term": "E2F Targets",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/E2F Targets.png"
+    },
+    {
+      "term": "IL-2/STAT5 Signaling",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/IL-2-STAT5 Signaling.png"
+    },
+    {
+      "term": "Myc Targets V1",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png"
+    },
+    {
+      "term": "Notch Signaling",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Notch Signaling.png"
+    },
+    {
+      "term": "Oxidative Phosphorylation",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Oxidative Phosphorylation.png"
+    },
+    {
+      "term": "TGF-beta Signaling",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/TGF-beta Signaling.png"
+    },
+    {
+      "term": "TNF-alpha Signaling via NF-kB",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/TNF-alpha Signaling via NF-kB.png"
+    },
+    {
+      "term": "UV Response Dn",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/UV Response Dn.png"
+    },
+    {
+      "term": "UV Response Up",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/UV Response Up.png"
+    },
+    {
+      "term": "heme Metabolism",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/heme Metabolism.png"
+    },
+    {
+      "term": "mTORC1 Signaling",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/mTORC1 Signaling.png"
+    },
+    {
+      "term": "p53 Pathway",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/p53 Pathway.png"
+    },
+    {
+      "term": "T cell activation (GO:0042110)",
+      "kind": "gsea_pathway",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/T cell activation (GO_0042110).png"
+    },
+    {
+      "term": "central nervous system neuron differentiation (GO:0021953)",
+      "kind": "gsea_pathway",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/central nervous system neuron differentiation (GO_0021953).png"
+    },
+    {
+      "term": "regulation of protein localization (GO:0032880)",
+      "kind": "gsea_pathway",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of protein localization (GO_0032880).png"
+    },
+    {
+      "term": "Notch Signaling",
+      "kind": "gsea_pathway",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Notch Signaling.png"
+    },
+    {
+      "term": "positive regulation of organelle organization (GO:0010638)",
+      "kind": "gsea_pathway",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank/positive regulation of organelle organization (GO_0010638).png"
+    },
+    {
+      "term": "protein stabilization (GO:0050821)",
+      "kind": "gsea_pathway",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank/protein stabilization (GO_0050821).png"
+    },
+    {
+      "term": "Spermatogenesis",
+      "kind": "gsea_pathway",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Spermatogenesis.png"
+    },
+    {
+      "term": "Coagulation",
+      "kind": "gsea_pathway",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Coagulation.png"
+    },
+    {
+      "term": "Allograft Rejection",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Allograft Rejection.png"
+    },
+    {
+      "term": "Inflammatory Response",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Inflammatory Response.png"
+    },
+    {
+      "term": "Protein Secretion",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Protein Secretion.png"
+    },
+    {
+      "term": "Spermatogenesis",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Spermatogenesis.png"
+    },
+    {
+      "term": "cellular response to amino acid starvation (GO:0034198)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/cellular response to amino acid starvation (GO_0034198).png"
+    },
+    {
+      "term": "cellular response to starvation (GO:0009267)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/cellular response to starvation (GO_0009267).png"
+    },
+    {
+      "term": "erythrocyte differentiation (GO:0030218)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/erythrocyte differentiation (GO_0030218).png"
+    },
+    {
+      "term": "myeloid cell differentiation (GO:0030099)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/myeloid cell differentiation (GO_0030099).png"
+    },
+    {
+      "term": "negative regulation of innate immune response (GO:0045824)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/negative regulation of innate immune response (GO_0045824).png"
+    },
+    {
+      "term": "response to amino acid starvation (GO:1990928)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/response to amino acid starvation (GO_1990928).png"
+    },
+    {
+      "term": "spindle assembly (GO:0051225)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/spindle assembly (GO_0051225).png"
+    },
+    {
+      "term": "negative regulation of interleukin-17 production (GO:0032700)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/negative regulation of interleukin-17 production (GO_0032700).png"
+    },
+    {
+      "term": "positive regulation of T cell mediated immunity (GO:0002711)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of T cell mediated immunity (GO_0002711).png"
+    },
+    {
+      "term": "positive regulation of alpha-beta T cell activation (GO:0046635)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of alpha-beta T cell activation (GO_0046635).png"
+    },
+    {
+      "term": "positive regulation of interleukin-4 production (GO:0032753)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of interleukin-4 production (GO_0032753).png"
+    },
+    {
+      "term": "positive regulation of leukocyte cell-cell adhesion (GO:1903039)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of leukocyte cell-cell adhesion (GO_1903039).png"
+    },
+    {
+      "term": "positive regulation of lymphocyte activation (GO:0051251)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of lymphocyte activation (GO_0051251).png"
+    },
+    {
+      "term": "regulation of bile acid metabolic process (GO:1904251)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of bile acid metabolic process (GO_1904251).png"
+    },
+    {
+      "term": "regulation of cholesterol storage (GO:0010885)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of cholesterol storage (GO_0010885).png"
+    },
+    {
+      "term": "regulation of interleukin-4 production (GO:0032673)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of interleukin-4 production (GO_0032673).png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "WGB-Seq_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/WGB-Seq_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K9me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_flat.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K36me3_flat.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K9me3_flat.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "WGB-Seq_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/WGB-Seq_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K9me3_flat.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "WGB-Seq_flat",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/WGB-Seq_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_flat",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_flat.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_flat",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K9me3_flat.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_flat",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_flat.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_flat",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_flat.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_flat",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K4me3_flat.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_flat",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank/WGB-Seq_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K27ac_flat.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me1_flat.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_flat.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K9me3_flat.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "WGB-Seq_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/WGB-Seq_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/prerank/H3K9me3_flat.png"
+    },
+    {
+      "term": "WGB-Seq_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/prerank/WGB-Seq_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K9me3_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_flat.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "WGB-Seq_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank/WGB-Seq_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank/H3K27me3_flat.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "WGB-Seq_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank/WGB-Seq_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank/H3K36me3_down.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K4me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_up.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_flat",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank/WGB-Seq_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/WGB-Seq_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K9me3_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K9me3_up.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K36me3_flat",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank/H3K36me3_flat.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K27me3_down.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me3_down.png"
+    },
+    {
+      "term": "H3K9me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K9me3_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_down.png"
+    }
+  ],
+  "examples": [
+    {
+      "term": "generation of neurons (GO:0048699)",
+      "kind": "gsea_pathway",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/generation of neurons (GO_0048699).png"
+    },
+    {
+      "term": "negative regulation of protein phosphorylation (GO:0001933)",
+      "kind": "gsea_pathway",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank/negative regulation of protein phosphorylation (GO_0001933).png"
+    },
+    {
+      "term": "UV Response Up",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/UV Response Up.png"
+    },
+    {
+      "term": "G2-M Checkpoint",
+      "kind": "gsea_pathway",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.png"
+    },
+    {
+      "term": "regulation of protein catabolic process (GO:0042176)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of protein catabolic process (GO_0042176).png"
+    },
+    {
+      "term": "protein localization to organelle (GO:0033365)",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/protein localization to organelle (GO_0033365).png"
+    },
+    {
+      "term": "Myogenesis",
+      "kind": "gsea_pathway",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myogenesis.png"
+    },
+    {
+      "term": "negative regulation of gene silencing (GO:0060969)",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of gene silencing (GO_0060969).png"
+    },
+    {
+      "term": "Hedgehog Signaling",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Hedgehog Signaling.png"
+    },
+    {
+      "term": "Myc Targets V1",
+      "kind": "gsea_pathway",
+      "region": "promoter_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png"
+    },
+    {
+      "term": "Inflammatory Response",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Inflammatory Response.png"
+    },
+    {
+      "term": "regulation of interleukin-4 production (GO:0032673)",
+      "kind": "gsea_pathway",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of interleukin-4 production (GO_0032673).png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "None_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "None_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "WGB-Seq_up",
+      "kind": "gsea_marginal",
+      "region": "distal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/WGB-Seq_up.png"
+    },
+    {
+      "term": "H3K4me1_down",
+      "kind": "gsea_marginal",
+      "region": "distal_not_ctcf_bound_enhancer_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank/H3K4me1_down.png"
+    },
+    {
+      "term": "H3K4me1_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_LINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank/H3K4me1_up.png"
+    },
+    {
+      "term": "H3K27ac_up",
+      "kind": "gsea_marginal",
+      "region": "exon_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_up.png"
+    },
+    {
+      "term": "H3K36me3_up",
+      "kind": "gsea_marginal",
+      "region": "intron_purified_AND_LTR",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_up.png"
+    },
+    {
+      "term": "H3K27me3_up",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_CpG_island",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank/H3K27me3_up.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "promoter_purified_AND_None",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K27ac_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K27ac_down.png"
+    },
+    {
+      "term": "H3K4me3_down",
+      "kind": "gsea_marginal",
+      "region": "proximal_not_ctcf_bound_enhancer_purified_AND_SINE",
+      "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank/H3K4me3_down.png"
+    }
+  ]
+}

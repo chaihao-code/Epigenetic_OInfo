@@ -1,0 +1,24 @@
+{
+  "script": "cases/aging/thyroid/deconvolution/scripts/05_validate_deconvolution.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 05_validate_deconvolution.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/05_validate_deconvolution.log",
+  "started_unix": 1793013089.8663383,
+  "status": "removed_by_request",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/simulation_results.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/simulation_results.tsv",
+      "bytes": 734253,
+      "sha256": "aac31c82aa8cb2ef163355110cffbcb94f728c73a5675b82a4632cb82cc47e13"
+    }
+  ],
+  "outputs": [],
+  "elapsed_seconds": 8.19,
+  "description_zh": "模拟混合比例与估计免疫比例验证图（4面板）",
+  "input_nature_zh": "原入口重新模拟/NNLS；本次读取simulation_results.tsv执行原绘图段",
+  "source_sha256": "a8f2569a6509ae35b026e694475f0ba34313e36ed9743effc1e4eeae5e26a547",
+  "figure_count": 1,
+  "file_count": 1,
+  "previous_status": "success",
+  "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+}

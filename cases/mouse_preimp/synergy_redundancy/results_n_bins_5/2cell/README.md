@@ -1,0 +1,22 @@
+# cases/mouse_preimp/synergy_redundancy/results_n_bins_5/2cell
+
+Retained numerical outputs and/or new explicitly named demo outputs for the parent analysis. The metadata in each run identifies its actual permutation count and signal panel.
+
+Seven early stages; nine-track full panels and their retained reduced panels. Historical triplet tables use the documented BH84 universe.
+
+## Inputs
+
+The parent case's sample manifests, existing four-column `.bp` tracks (`chr start end signal`) and unchanged genome-specific annotation masks. Comparison/plot programs also read the existing result CSV/TSV files named in their source.
+
+## Usage
+
+Run commands from the repository root and set `EPINFO_ROOT` to that root. Read `cases/mouse_preimp/synergy_redundancy/results_n_bins_5/2cell/2cell_oinfo.csv` with pandas (`sep=","`; gzip compression is inferred). Existing result tables do not execute a pipeline.
+
+## Outputs
+
+Files listed below are already available results/inputs. New calculations are written only when their documented entrypoint is explicitly executed. Historical 1,000-permutation results remain historical reference data; all new triplet workflows default to 10,000.
+
+## Files
+
+- `2cell_oinfo.csv`
+- `2cell_permutation_summary.csv`

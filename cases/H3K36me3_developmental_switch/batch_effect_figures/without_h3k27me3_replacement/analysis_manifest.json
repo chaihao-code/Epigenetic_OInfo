@@ -1,0 +1,43 @@
+{
+  "excluded_source": "replacement H3K27me3 (GSE73952)",
+  "original_H3K27me3_retained": true,
+  "retained_masks": {
+    "2cell": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9,
+      10,
+      11
+    ],
+    "8cell": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9,
+      10,
+      11
+    ],
+    "ICM": [
+      0,
+      1,
+      2,
+      3,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "late_included": false,
+  "BH_family_size": 56,
+  "n_permutations": 10000,
+  "unit": "stage \u00d7 genomic annotation block \u00d7 triplet",
+  "q_values": "Existing within-variant, within-block BH56 values; no recalculation needed",
+  "caveat": "Reducing 16 variants to 8 makes strict intersection easier; this alone does not establish data quality.",
+  "status": "complete"
+}

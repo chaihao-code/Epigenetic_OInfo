@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "UV Response Dn.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "UV Response Dn",
+      "historical_pdf_name": "UV Response Dn.pdf",
+      "n_ranked": 8685,
+      "n_hits": 69,
+      "saved_ES": 0.372456,
+      "recomputed_ES": 0.3724560230345277,
+      "absolute_ES_error": 2.3034527674159477e-08,
+      "NES": 1.476673,
+      "nominal_P": 0.01028278,
+      "FDR_q": 0.2347853,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/UV Response Dn.pdf",
+          "bytes": 32422,
+          "sha256": "bc691785dd5b74dad087f7f788f8de5c96615d332db6f33b4013a46653f16a39"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank/UV Response Dn.png",
+          "bytes": 105294,
+          "sha256": "c7405e1bbae560b7d7da314b3667de51925de2e01420e203c3afb533ba451720"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.47
+}

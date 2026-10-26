@@ -1,0 +1,361 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "DNA Repair.pdf",
+    "E2F Targets.pdf",
+    "Epithelial Mesenchymal Transition.pdf",
+    "Estrogen Response Early.pdf",
+    "Fatty Acid Metabolism.pdf",
+    "Glycolysis.pdf",
+    "Hypoxia.pdf",
+    "Myc Targets V1.pdf",
+    "Myc Targets V2.pdf",
+    "Myogenesis.pdf",
+    "Notch Signaling.pdf",
+    "PI3K-AKT-mTOR  Signaling.pdf",
+    "Unfolded Protein Response.pdf",
+    "mTORC1 Signaling.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "DNA Repair",
+      "historical_pdf_name": "DNA Repair.pdf",
+      "n_ranked": 39444,
+      "n_hits": 95,
+      "saved_ES": 0.2897287,
+      "recomputed_ES": 0.28972873962796414,
+      "absolute_ES_error": 3.9627964132371574e-08,
+      "NES": 1.271438,
+      "nominal_P": 0.0591133,
+      "FDR_q": 0.2203693,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/DNA Repair.pdf",
+          "bytes": 32986,
+          "sha256": "c77643d685f9bedbd350a58b6bf3183206c948a450410d471bb65aea562681b6"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/DNA Repair.png",
+          "bytes": 97422,
+          "sha256": "6cf09433ca1a8a796bcd956ee29e466eb18b509dc4fbceebcbafac1b5b983d71"
+        }
+      ]
+    },
+    {
+      "term": "E2F Targets",
+      "historical_pdf_name": "E2F Targets.pdf",
+      "n_ranked": 39444,
+      "n_hits": 135,
+      "saved_ES": 0.2785366,
+      "recomputed_ES": 0.2785366486728809,
+      "absolute_ES_error": 4.8672880892386416e-08,
+      "NES": 1.278667,
+      "nominal_P": 0.02758621,
+      "FDR_q": 0.2363463,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/E2F Targets.pdf",
+          "bytes": 32785,
+          "sha256": "aace4ea4a0a2fb95f38250867712541a23a9d94d7641da7ad0b8e5683af3834a"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/E2F Targets.png",
+          "bytes": 96940,
+          "sha256": "1e9c9e3f5e83f0b1dbb52e58597518c80f67edc73dd7eca647f9100fd8668164"
+        }
+      ]
+    },
+    {
+      "term": "Epithelial Mesenchymal Transition",
+      "historical_pdf_name": "Epithelial Mesenchymal Transition.pdf",
+      "n_ranked": 39444,
+      "n_hits": 107,
+      "saved_ES": 0.2853396,
+      "recomputed_ES": 0.28533964087535046,
+      "absolute_ES_error": 4.087535043773016e-08,
+      "NES": 1.262748,
+      "nominal_P": 0.03773585,
+      "FDR_q": 0.2142586,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Epithelial Mesenchymal Transition.pdf",
+          "bytes": 33050,
+          "sha256": "f184b214fb70ea208bb1f2dcf1039337cb9a1895283da57de7425a2075cccb77"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Epithelial Mesenchymal Transition.png",
+          "bytes": 99821,
+          "sha256": "3cd4b63c50d6ca4875865a9b57e057fad09c67fd5ccd2fdfc0640b5e94976df0"
+        }
+      ]
+    },
+    {
+      "term": "Estrogen Response Early",
+      "historical_pdf_name": "Estrogen Response Early.pdf",
+      "n_ranked": 39444,
+      "n_hits": 83,
+      "saved_ES": 0.3383701,
+      "recomputed_ES": 0.3383700540657376,
+      "absolute_ES_error": 4.59342623937431e-08,
+      "NES": 1.471078,
+      "nominal_P": 0.01339286,
+      "FDR_q": 0.1992399,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Estrogen Response Early.pdf",
+          "bytes": 33319,
+          "sha256": "8e2a34d4de136376778d65a37cb74ca0f1f21fab51bb389914fef0e16436160b"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Estrogen Response Early.png",
+          "bytes": 99626,
+          "sha256": "4ae883f84ded8b77a44caad935a52a4b65aa27c6895b6a4895c610a9ddce98f5"
+        }
+      ]
+    },
+    {
+      "term": "Fatty Acid Metabolism",
+      "historical_pdf_name": "Fatty Acid Metabolism.pdf",
+      "n_ranked": 39444,
+      "n_hits": 80,
+      "saved_ES": 0.3136944,
+      "recomputed_ES": 0.31369441814979476,
+      "absolute_ES_error": 1.814979477821055e-08,
+      "NES": 1.338722,
+      "nominal_P": 0.04444444,
+      "FDR_q": 0.2385916,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Fatty Acid Metabolism.pdf",
+          "bytes": 32158,
+          "sha256": "30005e89060d41585fcd2f44c0ef08375dc13315b910875685426d76fce75ac6"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Fatty Acid Metabolism.png",
+          "bytes": 98825,
+          "sha256": "528b8dcc69cf53ae266bbde31e58962ff4c53a80f10f9daacdaf2368c5d70469"
+        }
+      ]
+    },
+    {
+      "term": "Glycolysis",
+      "historical_pdf_name": "Glycolysis.pdf",
+      "n_ranked": 39444,
+      "n_hits": 86,
+      "saved_ES": 0.3031514,
+      "recomputed_ES": 0.30315137885172694,
+      "absolute_ES_error": 2.1148273077198354e-08,
+      "NES": 1.30468,
+      "nominal_P": 0.05263158,
+      "FDR_q": 0.2270697,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Glycolysis.pdf",
+          "bytes": 33740,
+          "sha256": "5e9684dffad9a5dbd8cb1dd7875c12fce75d6d62cab3b494053796a277fc15ae"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Glycolysis.png",
+          "bytes": 98265,
+          "sha256": "29fdc802815dfbc9111baef97baf2b8a17f1c304a139dc9fcc37e73cd4c7b08b"
+        }
+      ]
+    },
+    {
+      "term": "Hypoxia",
+      "historical_pdf_name": "Hypoxia.pdf",
+      "n_ranked": 39444,
+      "n_hits": 83,
+      "saved_ES": 0.2868177,
+      "recomputed_ES": 0.2868176976471194,
+      "absolute_ES_error": 2.3528806125661106e-09,
+      "NES": 1.213857,
+      "nominal_P": 0.1030043,
+      "FDR_q": 0.2333751,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Hypoxia.pdf",
+          "bytes": 31967,
+          "sha256": "6600895dcffb9a3ddbd1130bd87c00b4f211df8d1cb99638e7bedf3d990fa30b"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Hypoxia.png",
+          "bytes": 91415,
+          "sha256": "cb1c4da590521ce33d91c85fa13a95773af1f63f85ccbf25beddb83a531b3d5b"
+        }
+      ]
+    },
+    {
+      "term": "Myc Targets V1",
+      "historical_pdf_name": "Myc Targets V1.pdf",
+      "n_ranked": 39444,
+      "n_hits": 124,
+      "saved_ES": 0.3536603,
+      "recomputed_ES": 0.3536603142911346,
+      "absolute_ES_error": 1.4291134609045741e-08,
+      "NES": 1.592852,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1212456,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.pdf",
+          "bytes": 32366,
+          "sha256": "5c2d5fa7dc08b19dc194304b62664cf5564a497575bbd46869931e3e3c7f46f2"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png",
+          "bytes": 95805,
+          "sha256": "a78d2914bca73eb73fcf08a545916ef3c10e8ddd4d84f141ee926306ead11f1f"
+        }
+      ]
+    },
+    {
+      "term": "Myc Targets V2",
+      "historical_pdf_name": "Myc Targets V2.pdf",
+      "n_ranked": 39444,
+      "n_hits": 28,
+      "saved_ES": 0.4988072,
+      "recomputed_ES": 0.49880718713046207,
+      "absolute_ES_error": 1.2869537935333852e-08,
+      "NES": 1.72107,
+      "nominal_P": 0.003003003,
+      "FDR_q": 0.1106101,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V2.pdf",
+          "bytes": 32373,
+          "sha256": "128aa95d086841b85f5303c929097adf579230b2280e6e895ea9ede9f5afb256"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V2.png",
+          "bytes": 95961,
+          "sha256": "b849d62693af17396fe1a13f59bf5e0a491e476ad97a525bf89f5714f3b4e069"
+        }
+      ]
+    },
+    {
+      "term": "Myogenesis",
+      "historical_pdf_name": "Myogenesis.pdf",
+      "n_ranked": 39444,
+      "n_hits": 106,
+      "saved_ES": 0.2769932,
+      "recomputed_ES": 0.2769931662095839,
+      "absolute_ES_error": 3.379041607631805e-08,
+      "NES": 1.209642,
+      "nominal_P": 0.08994709,
+      "FDR_q": 0.2243399,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myogenesis.pdf",
+          "bytes": 33468,
+          "sha256": "0bed253933110760a6dabe25078a7685d961b480e88a1811253c2ee4f3574563"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myogenesis.png",
+          "bytes": 97566,
+          "sha256": "f346e0c4778ec65e0311b3c86970b39616a069a368c08e5cc90f6055ba6eaa05"
+        }
+      ]
+    },
+    {
+      "term": "Notch Signaling",
+      "historical_pdf_name": "Notch Signaling.pdf",
+      "n_ranked": 39444,
+      "n_hits": 12,
+      "saved_ES": 0.4472093,
+      "recomputed_ES": 0.44720930990003416,
+      "absolute_ES_error": 9.900034181331563e-09,
+      "NES": 1.184191,
+      "nominal_P": 0.2305556,
+      "FDR_q": 0.2462137,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Notch Signaling.pdf",
+          "bytes": 29608,
+          "sha256": "1782b74481d80da5e14c95bcd312b8646515d6a6be85c8949adcde7ab3388158"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Notch Signaling.png",
+          "bytes": 94192,
+          "sha256": "c4ef593501c0ddf7b689856cb2027ba5d5a92f55216987a57ec7945c875380b7"
+        }
+      ]
+    },
+    {
+      "term": "PI3K/AKT/mTOR  Signaling",
+      "historical_pdf_name": "PI3K-AKT-mTOR  Signaling.pdf",
+      "n_ranked": 39444,
+      "n_hits": 59,
+      "saved_ES": 0.3022588,
+      "recomputed_ES": 0.30225877549569163,
+      "absolute_ES_error": 2.4504308360207006e-08,
+      "NES": 1.23266,
+      "nominal_P": 0.09881423,
+      "FDR_q": 0.2182749,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/PI3K-AKT-mTOR  Signaling.pdf",
+          "bytes": 33023,
+          "sha256": "1bc16b25e63f1dac99151221f674eb0bee8d0f0eefb999b9487d1264a7972250"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/PI3K-AKT-mTOR  Signaling.png",
+          "bytes": 100309,
+          "sha256": "b5b462def442330f28f5583141d0e4d7e0c7475c0e3fe9b9eb312e90c42ea7ac"
+        }
+      ]
+    },
+    {
+      "term": "Unfolded Protein Response",
+      "historical_pdf_name": "Unfolded Protein Response.pdf",
+      "n_ranked": 39444,
+      "n_hits": 58,
+      "saved_ES": 0.3359563,
+      "recomputed_ES": 0.3359563059746824,
+      "absolute_ES_error": 5.974682415477162e-09,
+      "NES": 1.331918,
+      "nominal_P": 0.07220217,
+      "FDR_q": 0.2154465,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Unfolded Protein Response.pdf",
+          "bytes": 31924,
+          "sha256": "37d6c9ea1725b4447c4c17571338467113fec7469bc20b45e75a9d8fc28a9daf"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Unfolded Protein Response.png",
+          "bytes": 99105,
+          "sha256": "53a0fd4763e501282277f18b9acdcb1a73dbf02b75b2845cb204d0e049873120"
+        }
+      ]
+    },
+    {
+      "term": "mTORC1 Signaling",
+      "historical_pdf_name": "mTORC1 Signaling.pdf",
+      "n_ranked": 39444,
+      "n_hits": 109,
+      "saved_ES": 0.2807909,
+      "recomputed_ES": 0.280790909557992,
+      "absolute_ES_error": 9.557992008968341e-09,
+      "NES": 1.257299,
+      "nominal_P": 0.05319149,
+      "FDR_q": 0.2033169,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/mTORC1 Signaling.pdf",
+          "bytes": 32607,
+          "sha256": "623b93db009d9e278e59375d8d4845489a03cd2293d10928f5738e22de72b1a4"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/mTORC1 Signaling.png",
+          "bytes": 99774,
+          "sha256": "11189d0e7423d1327c2d22a3bee31308f42d1264ac0ba87daf9335163e907f66"
+        }
+      ]
+    }
+  ],
+  "seconds": 7.11
+}

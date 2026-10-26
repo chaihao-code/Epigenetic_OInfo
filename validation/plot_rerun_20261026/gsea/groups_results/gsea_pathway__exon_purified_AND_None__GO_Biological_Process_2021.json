@@ -1,0 +1,386 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "DNA duplex unwinding (GO_0032508).pdf",
+    "autophagosome assembly (GO_0000045).pdf",
+    "autophagosome organization (GO_1905037).pdf",
+    "blood vessel diameter maintenance (GO_0097746).pdf",
+    "cellular response to chemical stress (GO_0062197).pdf",
+    "epithelial cilium movement involved in extracellular fluid movement (GO_0003351).pdf",
+    "positive regulation of Wnt signaling pathway (GO_0030177).pdf",
+    "positive regulation of autophagy (GO_0010508).pdf",
+    "positive regulation of canonical Wnt signaling pathway (GO_0090263).pdf",
+    "positive regulation of mitochondrial fission (GO_0090141).pdf",
+    "protein localization to endoplasmic reticulum (GO_0070972).pdf",
+    "protein localization to organelle (GO_0033365).pdf",
+    "protein tetramerization (GO_0051262).pdf",
+    "regulation of amyloid-beta formation (GO_1902003).pdf",
+    "regulation of establishment of planar polarity (GO_0090175).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "DNA duplex unwinding (GO:0032508)",
+      "historical_pdf_name": "DNA duplex unwinding (GO_0032508).pdf",
+      "n_ranked": 22147,
+      "n_hits": 20,
+      "saved_ES": 0.6545518,
+      "recomputed_ES": 0.6545517883671097,
+      "absolute_ES_error": 1.1632890317692102e-08,
+      "NES": 1.893713,
+      "nominal_P": 0.001879699,
+      "FDR_q": 0.1848571,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/DNA duplex unwinding (GO_0032508).pdf",
+          "bytes": 31062,
+          "sha256": "f86c467f470ace23316b702c2ffce5a5bab428a2b72fd1923fd6412da09826f2"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/DNA duplex unwinding (GO_0032508).png",
+          "bytes": 105110,
+          "sha256": "b13264f38ee2a0f2ed22470d37125957f69c8e9036fd44b909b67f02788a040d"
+        }
+      ]
+    },
+    {
+      "term": "autophagosome assembly (GO:0000045)",
+      "historical_pdf_name": "autophagosome assembly (GO_0000045).pdf",
+      "n_ranked": 22147,
+      "n_hits": 20,
+      "saved_ES": 0.636063,
+      "recomputed_ES": 0.6360630263393668,
+      "absolute_ES_error": 2.633936679874438e-08,
+      "NES": 1.862101,
+      "nominal_P": 0.003838772,
+      "FDR_q": 0.149189,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/autophagosome assembly (GO_0000045).pdf",
+          "bytes": 30966,
+          "sha256": "20580bf278c7b2e9f3d43cb8fedb95728b4e70c2e90a7e41cab718c743865878"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/autophagosome assembly (GO_0000045).png",
+          "bytes": 105143,
+          "sha256": "c536c77d70d02a1ba3bd30eca9cd38a5811909160b702f91c55d77364ad2f61c"
+        }
+      ]
+    },
+    {
+      "term": "autophagosome organization (GO:1905037)",
+      "historical_pdf_name": "autophagosome organization (GO_1905037).pdf",
+      "n_ranked": 22147,
+      "n_hits": 19,
+      "saved_ES": 0.6532791,
+      "recomputed_ES": 0.6532791032706102,
+      "absolute_ES_error": 3.2706102270907422e-09,
+      "NES": 1.891656,
+      "nominal_P": 0.005725191,
+      "FDR_q": 0.1674518,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/autophagosome organization (GO_1905037).pdf",
+          "bytes": 30752,
+          "sha256": "375f98aa1f88c5705a910dd72fd64a03bcc57fa5cb2d7ffbf1aa5834decba421"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/autophagosome organization (GO_1905037).png",
+          "bytes": 105582,
+          "sha256": "92dc48efc3fdb9ef10ed5f3bba0c9d7eb5136368944ecc4173c5b9755d145518"
+        }
+      ]
+    },
+    {
+      "term": "blood vessel diameter maintenance (GO:0097746)",
+      "historical_pdf_name": "blood vessel diameter maintenance (GO_0097746).pdf",
+      "n_ranked": 22147,
+      "n_hits": 11,
+      "saved_ES": 0.8177286,
+      "recomputed_ES": 0.817728614826466,
+      "absolute_ES_error": 1.4826465943862388e-08,
+      "NES": 2.028139,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1836568,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/blood vessel diameter maintenance (GO_0097746).pdf",
+          "bytes": 29096,
+          "sha256": "3cb0b24b0d1c349537011dfd1ee637a9af3d4451f30f014d82f51205cecfc4dc"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/blood vessel diameter maintenance (GO_0097746).png",
+          "bytes": 102389,
+          "sha256": "0aa4fabcef1ea163e0e3eb7482f77705188802d2b9575e899aef91c0e0ae3e36"
+        }
+      ]
+    },
+    {
+      "term": "cellular response to chemical stress (GO:0062197)",
+      "historical_pdf_name": "cellular response to chemical stress (GO_0062197).pdf",
+      "n_ranked": 22147,
+      "n_hits": 34,
+      "saved_ES": 0.5603928,
+      "recomputed_ES": 0.5603928156794701,
+      "absolute_ES_error": 1.5679470055651734e-08,
+      "NES": 1.883186,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1513668,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/cellular response to chemical stress (GO_0062197).pdf",
+          "bytes": 31141,
+          "sha256": "bd7a78a82bc8819d753374d251f4c8fe611c748e7d1de49b85244be24c6fa93e"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/cellular response to chemical stress (GO_0062197).png",
+          "bytes": 104807,
+          "sha256": "7aceeb2b6b89e9906610914a2a4f93b9fef1d012fe886f1d11b3dda328dd303d"
+        }
+      ]
+    },
+    {
+      "term": "epithelial cilium movement involved in extracellular fluid movement (GO:0003351)",
+      "historical_pdf_name": "epithelial cilium movement involved in extracellular fluid movement (GO_0003351).pdf",
+      "n_ranked": 22147,
+      "n_hits": 9,
+      "saved_ES": 0.844666,
+      "recomputed_ES": 0.8446659618928283,
+      "absolute_ES_error": 3.810717175145584e-08,
+      "NES": 1.956032,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1245385,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/epithelial cilium movement involved in extracellular fluid movement (GO_0003351).pdf",
+          "bytes": 29090,
+          "sha256": "e8c2945d3b8ff36d32ad5fd3f6df8f04e466429ca1cb6005d9c9c39e73610fc5"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/epithelial cilium movement involved in extracellular fluid movement (GO_0003351).png",
+          "bytes": 104670,
+          "sha256": "64ae7b33b1a0c17aac14230a980560f181ea81a0517548b9a6defac3baa56772"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of Wnt signaling pathway (GO:0030177)",
+      "historical_pdf_name": "positive regulation of Wnt signaling pathway (GO_0030177).pdf",
+      "n_ranked": 22147,
+      "n_hits": 58,
+      "saved_ES": 0.5150289,
+      "recomputed_ES": 0.5150288891818802,
+      "absolute_ES_error": 1.0818119844380192e-08,
+      "NES": 1.95515,
+      "nominal_P": 0.0,
+      "FDR_q": 0.09987086,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of Wnt signaling pathway (GO_0030177).pdf",
+          "bytes": 33230,
+          "sha256": "0a91e51c819fc68a4f27e4121546b40471c40d0f7081bb8028d6e56ad5922c55"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of Wnt signaling pathway (GO_0030177).png",
+          "bytes": 109142,
+          "sha256": "be79a18b88b1882a7cd769182a38e277a0d4755e91c19e25c5a1e4be9ab0fe00"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of autophagy (GO:0010508)",
+      "historical_pdf_name": "positive regulation of autophagy (GO_0010508).pdf",
+      "n_ranked": 22147,
+      "n_hits": 29,
+      "saved_ES": 0.5850898,
+      "recomputed_ES": 0.5850898412497807,
+      "absolute_ES_error": 4.1249780702301564e-08,
+      "NES": 1.872404,
+      "nominal_P": 0.001968504,
+      "FDR_q": 0.1629231,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of autophagy (GO_0010508).pdf",
+          "bytes": 31795,
+          "sha256": "083b2610974783c23cf8e6b45df89e6e79a7a7de1993150722d42f6a82c31b64"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of autophagy (GO_0010508).png",
+          "bytes": 106905,
+          "sha256": "a40a53c9d5686c2b2583f15a7bcece9dc48c1ba7605a3ce6a7b65041976efc4a"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of canonical Wnt signaling pathway (GO:0090263)",
+      "historical_pdf_name": "positive regulation of canonical Wnt signaling pathway (GO_0090263).pdf",
+      "n_ranked": 22147,
+      "n_hits": 49,
+      "saved_ES": 0.53151,
+      "recomputed_ES": 0.5315099809920675,
+      "absolute_ES_error": 1.900793256126576e-08,
+      "NES": 1.939873,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1070331,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of canonical Wnt signaling pathway (GO_0090263).pdf",
+          "bytes": 32982,
+          "sha256": "119653d25342eead44f8ac4709717a18bf83ee0dc4da1cf076c85cafd1395564"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of canonical Wnt signaling pathway (GO_0090263).png",
+          "bytes": 109712,
+          "sha256": "9ad39b196d1cccd70b26f87b5557d1860a43df5c744db996ed94f9b523c41b24"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of mitochondrial fission (GO:0090141)",
+      "historical_pdf_name": "positive regulation of mitochondrial fission (GO_0090141).pdf",
+      "n_ranked": 22147,
+      "n_hits": 9,
+      "saved_ES": 0.7939678,
+      "recomputed_ES": 0.7939677759218401,
+      "absolute_ES_error": 2.4078159910345676e-08,
+      "NES": 1.870317,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1546478,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of mitochondrial fission (GO_0090141).pdf",
+          "bytes": 28630,
+          "sha256": "54deac0d76bcb36a93af91dad4ea2e4734bb71b4adab70493067540c4969a87b"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of mitochondrial fission (GO_0090141).png",
+          "bytes": 101144,
+          "sha256": "8d8c32b2468e06b0fe616d6571fff7b1165821dc788f81f3ac8d8ae622147983"
+        }
+      ]
+    },
+    {
+      "term": "protein localization to endoplasmic reticulum (GO:0070972)",
+      "historical_pdf_name": "protein localization to endoplasmic reticulum (GO_0070972).pdf",
+      "n_ranked": 22147,
+      "n_hits": 11,
+      "saved_ES": 0.7846363,
+      "recomputed_ES": 0.7846363490750696,
+      "absolute_ES_error": 4.907506967466446e-08,
+      "NES": 1.989772,
+      "nominal_P": 0.0,
+      "FDR_q": 0.09963079,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/protein localization to endoplasmic reticulum (GO_0070972).pdf",
+          "bytes": 29776,
+          "sha256": "7456e025404e7fa12e051a3958b2b31e1eec7688f9f51940289278d2e71eb125"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/protein localization to endoplasmic reticulum (GO_0070972).png",
+          "bytes": 103448,
+          "sha256": "e10030667ba4965ce6342c2ff140fa36535f0b367e24e4a52ebbbfb42334c982"
+        }
+      ]
+    },
+    {
+      "term": "protein localization to organelle (GO:0033365)",
+      "historical_pdf_name": "protein localization to organelle (GO_0033365).pdf",
+      "n_ranked": 22147,
+      "n_hits": 58,
+      "saved_ES": 0.5372926,
+      "recomputed_ES": 0.5372925525528841,
+      "absolute_ES_error": 4.7447115902876646e-08,
+      "NES": 1.994667,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1404434,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/protein localization to organelle (GO_0033365).pdf",
+          "bytes": 31869,
+          "sha256": "73744e3caf7329b459d8608430865bae6592f8dd6f0990de0902530f35da9869"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/protein localization to organelle (GO_0033365).png",
+          "bytes": 104380,
+          "sha256": "0a396402360227f49645b8b5ad7e1e1448982e7da41620cae519964d9d4dd388"
+        }
+      ]
+    },
+    {
+      "term": "protein tetramerization (GO:0051262)",
+      "historical_pdf_name": "protein tetramerization (GO_0051262).pdf",
+      "n_ranked": 22147,
+      "n_hits": 33,
+      "saved_ES": 0.55224,
+      "recomputed_ES": 0.5522400328867639,
+      "absolute_ES_error": 3.2886763978723366e-08,
+      "NES": 1.857478,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1480458,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/protein tetramerization (GO_0051262).pdf",
+          "bytes": 31888,
+          "sha256": "e6f8aabc66402bf5e82a3726d245af2684b987d54772d30219a2261ea57ddac0"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/protein tetramerization (GO_0051262).png",
+          "bytes": 102773,
+          "sha256": "1b1eedd052a1f3f1f6e7b2d515a462a78a722e4d6d28303fa681c1b77961515d"
+        }
+      ]
+    },
+    {
+      "term": "regulation of amyloid-beta formation (GO:1902003)",
+      "historical_pdf_name": "regulation of amyloid-beta formation (GO_1902003).pdf",
+      "n_ranked": 22147,
+      "n_hits": 14,
+      "saved_ES": 0.7228733,
+      "recomputed_ES": 0.722873345464938,
+      "absolute_ES_error": 4.546493792556561e-08,
+      "NES": 1.890464,
+      "nominal_P": 0.001872659,
+      "FDR_q": 0.1515135,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of amyloid-beta formation (GO_1902003).pdf",
+          "bytes": 30631,
+          "sha256": "a2f0b7a225f3fc29fbc23a257c0bb80ecd2804fed2d11e9c0eacf10d4ca2cb9d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of amyloid-beta formation (GO_1902003).png",
+          "bytes": 105852,
+          "sha256": "e54fe6861c96a687e187324621a4d245a287464ef151a6f9b891a70f67ac0547"
+        }
+      ]
+    },
+    {
+      "term": "regulation of establishment of planar polarity (GO:0090175)",
+      "historical_pdf_name": "regulation of establishment of planar polarity (GO_0090175).pdf",
+      "n_ranked": 22147,
+      "n_hits": 31,
+      "saved_ES": 0.5739064,
+      "recomputed_ES": 0.5739064152226375,
+      "absolute_ES_error": 1.522263748388042e-08,
+      "NES": 1.86268,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1588183,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of establishment of planar polarity (GO_0090175).pdf",
+          "bytes": 31530,
+          "sha256": "7b1833ff809eeb269a30339acdc75b6e4b66acd2c7849791e535a4c260930c1a"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of establishment of planar polarity (GO_0090175).png",
+          "bytes": 106230,
+          "sha256": "b02dc636266a7decf4bf0596fdfc9e0f9e27ebc3e9bf662a330c71f23190b71a"
+        }
+      ]
+    }
+  ],
+  "seconds": 7.69
+}

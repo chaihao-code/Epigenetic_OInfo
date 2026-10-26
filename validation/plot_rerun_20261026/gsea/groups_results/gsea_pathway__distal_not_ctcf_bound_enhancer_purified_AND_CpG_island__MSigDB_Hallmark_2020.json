@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Epithelial Mesenchymal Transition.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Epithelial Mesenchymal Transition",
+      "historical_pdf_name": "Epithelial Mesenchymal Transition.pdf",
+      "n_ranked": 720,
+      "n_hits": 7,
+      "saved_ES": -0.7170283,
+      "recomputed_ES": -0.7170282539856732,
+      "absolute_ES_error": 4.6014326793297755e-08,
+      "NES": -1.55899,
+      "nominal_P": 0.03891051,
+      "FDR_q": 0.1090734,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Epithelial Mesenchymal Transition.pdf",
+          "bytes": 30797,
+          "sha256": "adb0cc48faf889796363d3668dc31584946206e36e9663e111c9358a36a2d998"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Epithelial Mesenchymal Transition.png",
+          "bytes": 108564,
+          "sha256": "223e3b5de649dcf55136fc6bb44a0e83123efd7665c1b157f2532ddad03c62cd"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.48
+}

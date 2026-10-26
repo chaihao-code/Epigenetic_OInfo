@@ -1,0 +1,61 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Myc Targets V1.pdf",
+    "Pperoxisome.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Myc Targets V1",
+      "historical_pdf_name": "Myc Targets V1.pdf",
+      "n_ranked": 19068,
+      "n_hits": 37,
+      "saved_ES": 0.4789175,
+      "recomputed_ES": 0.47891745419109205,
+      "absolute_ES_error": 4.580890794469994e-08,
+      "NES": 1.653196,
+      "nominal_P": 0.01072386,
+      "FDR_q": 0.1713836,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.pdf",
+          "bytes": 32313,
+          "sha256": "ed7ac074c06ae902f79cd33c99f73d7a10e1f5629164e4992b3e790dbfe1d78e"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png",
+          "bytes": 96692,
+          "sha256": "e249b408ce8b0b4e3a34a9167f9d3d307ff222229ea20cad86eabdbfe157f1dc"
+        }
+      ]
+    },
+    {
+      "term": "Pperoxisome",
+      "historical_pdf_name": "Pperoxisome.pdf",
+      "n_ranked": 19068,
+      "n_hits": 23,
+      "saved_ES": -0.561237,
+      "recomputed_ES": -0.5612369899222117,
+      "absolute_ES_error": 1.0077788270557164e-08,
+      "NES": -1.588506,
+      "nominal_P": 0.01705426,
+      "FDR_q": 0.2473304,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/prerank/Pperoxisome.pdf",
+          "bytes": 30351,
+          "sha256": "72b9f0a31348a7e4fc456a75aa0e4e5ccc565273f22fe3cb24b23ef3b8bd62f3"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/prerank/Pperoxisome.png",
+          "bytes": 95069,
+          "sha256": "821f359fab384e35fa90a0612f7b8cb0d176bf7f663a9793c8b63f27dae2ff30"
+        }
+      ]
+    }
+  ],
+  "seconds": 1.72
+}

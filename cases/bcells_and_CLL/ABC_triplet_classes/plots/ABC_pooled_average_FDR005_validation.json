@@ -1,0 +1,58 @@
+{
+  "status": "complete",
+  "source": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/bcells_and_CLL/results_oinfo_triplet_n_bins_5/all_samples_triplet_significance.tsv",
+  "source_sha256": "aa126638efb2993d98c6ad38d1cb95cbbfd8ce3a3ccb2e9928496278aa3ac2f9",
+  "criterion": "observed_hoi < 0 AND q_down_global_BH < 0.05",
+  "BH_family": "All 23,800 sample \u00d7 annotation block \u00d7 triplet tests",
+  "BH_family_size": 23800,
+  "BH_applied_before_sign_or_class_filtering": true,
+  "global_BH_independently_recomputed": true,
+  "maximum_q_discrepancy": 1.1102230246251565e-16,
+  "n_permutations": 1000,
+  "signals": [
+    "H3K4me1",
+    "H3K4me3",
+    "H3K9me3",
+    "H3K27me3",
+    "H3K36me3",
+    "H3K27ac",
+    "WGB-Seq"
+  ],
+  "anchor_signals": [
+    "H3K27me3",
+    "H3K36me3",
+    "H3K9me3"
+  ],
+  "class_capacities": {
+    "A": 12,
+    "B": 19,
+    "C": 4
+  },
+  "sample_groups": {
+    "R": 8,
+    "S": 5,
+    "pB": 4
+  },
+  "aggregation": "Equal-weight donor mean within R, S and pB separately; no group-difference test",
+  "n_nominal_synergistic": 9378,
+  "n_FDR_synergistic": 9221,
+  "n_pooled_cells": 360,
+  "n_pooled_cells_changed": 73,
+  "all_sample_level_FDR_counts_match_existing_summaries": true,
+  "figure_size_cm": [
+    18.0,
+    8.035
+  ],
+  "cells_are_square": true,
+  "text_bounds_checked": true,
+  "label_font_size_pt": 8,
+  "cell_number_font_size_pt": 3.5,
+  "displayed_row_labels": [
+    "R",
+    "S",
+    "pB"
+  ],
+  "sample_sizes_shown": false,
+  "cell_numbers_fit_cells": true,
+  "shared_colorbar_label": true
+}

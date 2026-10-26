@@ -1,0 +1,436 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "Golgi organization (GO_0007030).pdf",
+    "cellular response to DNA damage stimulus (GO_0006974).pdf",
+    "cytoskeleton organization (GO_0007010).pdf",
+    "endomembrane system organization (GO_0010256).pdf",
+    "endoplasmic reticulum organization (GO_0007029).pdf",
+    "negative regulation of supramolecular fiber organization (GO_1902904).pdf",
+    "neuron projection development (GO_0031175).pdf",
+    "organelle organization (GO_0006996).pdf",
+    "positive regulation of cell projection organization (GO_0031346).pdf",
+    "positive regulation of gene expression (GO_0010628).pdf",
+    "positive regulation of neurogenesis (GO_0050769).pdf",
+    "regulation of GTPase activity (GO_0043087).pdf",
+    "regulation of cell motility (GO_2000145).pdf",
+    "regulation of microtubule polymerization (GO_0031113).pdf",
+    "regulation of neuron projection development (GO_0010975).pdf",
+    "regulation of protein catabolic process (GO_0042176).pdf",
+    "synapse assembly (GO_0007416).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Golgi organization (GO:0007030)",
+      "historical_pdf_name": "Golgi organization (GO_0007030).pdf",
+      "n_ranked": 3452,
+      "n_hits": 9,
+      "saved_ES": 0.8248948,
+      "recomputed_ES": 0.8248947938230387,
+      "absolute_ES_error": 6.176961386827884e-09,
+      "NES": 2.020834,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0361837,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/Golgi organization (GO_0007030).pdf",
+          "bytes": 30618,
+          "sha256": "ad44985de760ffe5bf5ebe26402c63e3c410a93dc797a6642d856341c4305852"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/Golgi organization (GO_0007030).png",
+          "bytes": 104300,
+          "sha256": "52acf12d7e92f90a0e134e5021742f234cc8a25a9f41d57efeaae06b0262b7a8"
+        }
+      ]
+    },
+    {
+      "term": "cellular response to DNA damage stimulus (GO:0006974)",
+      "historical_pdf_name": "cellular response to DNA damage stimulus (GO_0006974).pdf",
+      "n_ranked": 3452,
+      "n_hits": 15,
+      "saved_ES": 0.6699805,
+      "recomputed_ES": 0.6699804795444815,
+      "absolute_ES_error": 2.0455518501272252e-08,
+      "NES": 1.826415,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1353538,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/cellular response to DNA damage stimulus (GO_0006974).pdf",
+          "bytes": 29767,
+          "sha256": "dfeae18c8a6e3d99295a5d880052e69d6ca6e19308ecc149f40eaf9ee9dc4075"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/cellular response to DNA damage stimulus (GO_0006974).png",
+          "bytes": 112294,
+          "sha256": "52e1238ed8921d8c2edc70c155045a74e4a7597179d76b3a9bc1b8e1634e4d46"
+        }
+      ]
+    },
+    {
+      "term": "cytoskeleton organization (GO:0007010)",
+      "historical_pdf_name": "cytoskeleton organization (GO_0007010).pdf",
+      "n_ranked": 3452,
+      "n_hits": 12,
+      "saved_ES": 0.6534671,
+      "recomputed_ES": 0.6534671269244607,
+      "absolute_ES_error": 2.692446077201538e-08,
+      "NES": 1.705217,
+      "nominal_P": 0.01415094,
+      "FDR_q": 0.2364826,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/cytoskeleton organization (GO_0007010).pdf",
+          "bytes": 31212,
+          "sha256": "7c793fcfe3653f6395601708443147367c323eb1041cc6057e0347635a1ba5c2"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/cytoskeleton organization (GO_0007010).png",
+          "bytes": 107393,
+          "sha256": "294008206fe05f7d42431cf16d7fa1e4fdf5594e5a1b79c378d468057e48cec0"
+        }
+      ]
+    },
+    {
+      "term": "endomembrane system organization (GO:0010256)",
+      "historical_pdf_name": "endomembrane system organization (GO_0010256).pdf",
+      "n_ranked": 3452,
+      "n_hits": 15,
+      "saved_ES": 0.6443424,
+      "recomputed_ES": 0.6443423783959061,
+      "absolute_ES_error": 2.1604093847216177e-08,
+      "NES": 1.810113,
+      "nominal_P": 0.01228501,
+      "FDR_q": 0.1100587,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/endomembrane system organization (GO_0010256).pdf",
+          "bytes": 30019,
+          "sha256": "f8e704df4a42ba9920736ba3a970b574aca40b6d47c56f6aa51b1cb068f4cf0d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/endomembrane system organization (GO_0010256).png",
+          "bytes": 111463,
+          "sha256": "3c6e22b26256acdcb7c849262d6a886e150d08f214e8b8312a11c767df0547ff"
+        }
+      ]
+    },
+    {
+      "term": "endoplasmic reticulum organization (GO:0007029)",
+      "historical_pdf_name": "endoplasmic reticulum organization (GO_0007029).pdf",
+      "n_ranked": 3452,
+      "n_hits": 8,
+      "saved_ES": 0.7555593,
+      "recomputed_ES": 0.7555593491406831,
+      "absolute_ES_error": 4.914068307826369e-08,
+      "NES": 1.696108,
+      "nominal_P": 0.007042254,
+      "FDR_q": 0.2132493,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/endoplasmic reticulum organization (GO_0007029).pdf",
+          "bytes": 30576,
+          "sha256": "e31e68b50715a65c0900586faabcc33221305405db9d3ed2b7bf8f57751bc447"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/endoplasmic reticulum organization (GO_0007029).png",
+          "bytes": 106918,
+          "sha256": "5e687c105f5cfda9bc14883de5ed425d87d5a67c2c1d3e8852145be82173693a"
+        }
+      ]
+    },
+    {
+      "term": "negative regulation of supramolecular fiber organization (GO:1902904)",
+      "historical_pdf_name": "negative regulation of supramolecular fiber organization (GO_1902904).pdf",
+      "n_ranked": 3452,
+      "n_hits": 7,
+      "saved_ES": 0.8210257,
+      "recomputed_ES": 0.8210256952580441,
+      "absolute_ES_error": 4.741955828002631e-09,
+      "NES": 1.819925,
+      "nominal_P": 0.002192982,
+      "FDR_q": 0.1070195,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of supramolecular fiber organization (GO_1902904).pdf",
+          "bytes": 29824,
+          "sha256": "23c4f847e94e6e13bb8bc53b97068a73023833e519c5f06fe39f823e2efe6604"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of supramolecular fiber organization (GO_1902904).png",
+          "bytes": 111219,
+          "sha256": "2c3f0e302c60d7d32fe1037f7bd69a10c09198ef4f09d7a92ab2fee7477d9691"
+        }
+      ]
+    },
+    {
+      "term": "neuron projection development (GO:0031175)",
+      "historical_pdf_name": "neuron projection development (GO_0031175).pdf",
+      "n_ranked": 3452,
+      "n_hits": 14,
+      "saved_ES": 0.6424559,
+      "recomputed_ES": 0.6424559251558116,
+      "absolute_ES_error": 2.515581165596359e-08,
+      "NES": 1.722044,
+      "nominal_P": 0.01010101,
+      "FDR_q": 0.2329402,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/neuron projection development (GO_0031175).pdf",
+          "bytes": 31754,
+          "sha256": "5e439f9b835eb1e3786112deba23692d61879965c995c61cad65eeca4c53260a"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/neuron projection development (GO_0031175).png",
+          "bytes": 109646,
+          "sha256": "e36652033ba2f0a943a4146e626d72cebab5587f3aa20514ddf39df903712c51"
+        }
+      ]
+    },
+    {
+      "term": "organelle organization (GO:0006996)",
+      "historical_pdf_name": "organelle organization (GO_0006996).pdf",
+      "n_ranked": 3452,
+      "n_hits": 31,
+      "saved_ES": 0.5778573,
+      "recomputed_ES": 0.5778572748493194,
+      "absolute_ES_error": 2.515068064923298e-08,
+      "NES": 1.915134,
+      "nominal_P": 0.0,
+      "FDR_q": 0.09581979,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/organelle organization (GO_0006996).pdf",
+          "bytes": 32766,
+          "sha256": "fb5a6c03b5cf922942f2e689c5f7da3b02e35b2407a2911d1cb555a24db51889"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/organelle organization (GO_0006996).png",
+          "bytes": 109776,
+          "sha256": "190e1ad51c0e742cb8ae447b1e78323f88fcde5022a479daa552079ed21b3f23"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of cell projection organization (GO:0031346)",
+      "historical_pdf_name": "positive regulation of cell projection organization (GO_0031346).pdf",
+      "n_ranked": 3452,
+      "n_hits": 9,
+      "saved_ES": 0.7702821,
+      "recomputed_ES": 0.7702821152463889,
+      "absolute_ES_error": 1.5246388929135435e-08,
+      "NES": 1.844338,
+      "nominal_P": 0.006726457,
+      "FDR_q": 0.1306633,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of cell projection organization (GO_0031346).pdf",
+          "bytes": 29798,
+          "sha256": "853053b55a09dfa513e3827f6125a3f946e4b56825cb3e3f2f9848cff2aa27ee"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of cell projection organization (GO_0031346).png",
+          "bytes": 105034,
+          "sha256": "a02b5090c560e2a41e684901b17d592225235abbda7c2ac8caa85d2c55fd1102"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of gene expression (GO:0010628)",
+      "historical_pdf_name": "positive regulation of gene expression (GO_0010628).pdf",
+      "n_ranked": 3452,
+      "n_hits": 19,
+      "saved_ES": 0.5955795,
+      "recomputed_ES": 0.5955794761360287,
+      "absolute_ES_error": 2.3863971354565194e-08,
+      "NES": 1.748741,
+      "nominal_P": 0.005167959,
+      "FDR_q": 0.2078701,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of gene expression (GO_0010628).pdf",
+          "bytes": 31015,
+          "sha256": "d2778c1345ebab2adbed5d39c9df8f00984652505e7bc79c6e14bde0f652bcfa"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of gene expression (GO_0010628).png",
+          "bytes": 113167,
+          "sha256": "cecc131e1cc28fe078d1bfef12a90d479099d8f34da5de44887e9580654a0d20"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of neurogenesis (GO:0050769)",
+      "historical_pdf_name": "positive regulation of neurogenesis (GO_0050769).pdf",
+      "n_ranked": 3452,
+      "n_hits": 7,
+      "saved_ES": 0.8647047,
+      "recomputed_ES": 0.8647046841164928,
+      "absolute_ES_error": 1.5883507176184253e-08,
+      "NES": 1.892408,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0871089,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of neurogenesis (GO_0050769).pdf",
+          "bytes": 30361,
+          "sha256": "8f421468589b576747a88651abac32e5645dab103e3881bf64665b52f9037348"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of neurogenesis (GO_0050769).png",
+          "bytes": 106903,
+          "sha256": "b38da521b7ca0d53c35a2a945c7102022fd2a28764d53f25a4458b122b1fbb55"
+        }
+      ]
+    },
+    {
+      "term": "regulation of GTPase activity (GO:0043087)",
+      "historical_pdf_name": "regulation of GTPase activity (GO_0043087).pdf",
+      "n_ranked": 3452,
+      "n_hits": 10,
+      "saved_ES": 0.692822,
+      "recomputed_ES": 0.6928220292712387,
+      "absolute_ES_error": 2.927123865514858e-08,
+      "NES": 1.699223,
+      "nominal_P": 0.01435407,
+      "FDR_q": 0.2349069,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of GTPase activity (GO_0043087).pdf",
+          "bytes": 31867,
+          "sha256": "779468a4981b9e9920da24312771e0868cdea807ca87d62b6ae23c47661c3a03"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of GTPase activity (GO_0043087).png",
+          "bytes": 108545,
+          "sha256": "1f2cc6012e1839aea3ecb319e317bf88d670699c6a13847b3516d80cf6b685b9"
+        }
+      ]
+    },
+    {
+      "term": "regulation of cell motility (GO:2000145)",
+      "historical_pdf_name": "regulation of cell motility (GO_2000145).pdf",
+      "n_ranked": 3452,
+      "n_hits": 9,
+      "saved_ES": 0.7684466,
+      "recomputed_ES": 0.7684466225075635,
+      "absolute_ES_error": 2.2507563479656767e-08,
+      "NES": 1.826236,
+      "nominal_P": 0.002336449,
+      "FDR_q": 0.1130182,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of cell motility (GO_2000145).pdf",
+          "bytes": 31066,
+          "sha256": "a2e12ac1e6b074e741be00c766a7b13c81d56db0904b209592b604c3ab881999"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of cell motility (GO_2000145).png",
+          "bytes": 106055,
+          "sha256": "85acf05785c54fe7d40f66b9c7d260a7e4877d03f5c1f5393c87d7efcd1c0fd4"
+        }
+      ]
+    },
+    {
+      "term": "regulation of microtubule polymerization (GO:0031113)",
+      "historical_pdf_name": "regulation of microtubule polymerization (GO_0031113).pdf",
+      "n_ranked": 3452,
+      "n_hits": 5,
+      "saved_ES": 0.8470436,
+      "recomputed_ES": 0.8470436031579195,
+      "absolute_ES_error": 3.15791948146682e-09,
+      "NES": 1.713123,
+      "nominal_P": 0.006493506,
+      "FDR_q": 0.2341889,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of microtubule polymerization (GO_0031113).pdf",
+          "bytes": 28646,
+          "sha256": "74f5c31ce6135824cb1b941bd8184c4a764203521d0fef2d61c0201ffc733054"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of microtubule polymerization (GO_0031113).png",
+          "bytes": 98733,
+          "sha256": "909990fbeae812725ed827c9a584d2f1eb161dc8c4a3b1934b8781cb7a8a333b"
+        }
+      ]
+    },
+    {
+      "term": "regulation of neuron projection development (GO:0010975)",
+      "historical_pdf_name": "regulation of neuron projection development (GO_0010975).pdf",
+      "n_ranked": 3452,
+      "n_hits": 11,
+      "saved_ES": 0.6707153,
+      "recomputed_ES": 0.6707153320305645,
+      "absolute_ES_error": 3.2030564534046846e-08,
+      "NES": 1.727438,
+      "nominal_P": 0.00477327,
+      "FDR_q": 0.2420287,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of neuron projection development (GO_0010975).pdf",
+          "bytes": 31630,
+          "sha256": "3a4dc7c335f4cf125f02cc845711516ece1519f82c57697f8ea0e47230ed1026"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of neuron projection development (GO_0010975).png",
+          "bytes": 112065,
+          "sha256": "dc4de39d5369a76bfc7d176dccfb5a0af4c372fdfc3397586790adf5e39a5d9e"
+        }
+      ]
+    },
+    {
+      "term": "regulation of protein catabolic process (GO:0042176)",
+      "historical_pdf_name": "regulation of protein catabolic process (GO_0042176).pdf",
+      "n_ranked": 3452,
+      "n_hits": 6,
+      "saved_ES": 0.8005555,
+      "recomputed_ES": 0.8005555496023392,
+      "absolute_ES_error": 4.9602339236010096e-08,
+      "NES": 1.696495,
+      "nominal_P": 0.006944444,
+      "FDR_q": 0.2263045,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of protein catabolic process (GO_0042176).pdf",
+          "bytes": 30045,
+          "sha256": "4dcc8f99bb6fb0be45b4834db2c8ebf715a00943e443fb996eac352c4bf38372"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of protein catabolic process (GO_0042176).png",
+          "bytes": 106448,
+          "sha256": "a146b29158cbd2015bc2bbbec61054f1dc278526656f71e94e42f44f4c9808bf"
+        }
+      ]
+    },
+    {
+      "term": "synapse assembly (GO:0007416)",
+      "historical_pdf_name": "synapse assembly (GO_0007416).pdf",
+      "n_ranked": 3452,
+      "n_hits": 14,
+      "saved_ES": 0.6370065,
+      "recomputed_ES": 0.6370065328105882,
+      "absolute_ES_error": 3.281058813531246e-08,
+      "NES": 1.695189,
+      "nominal_P": 0.01639344,
+      "FDR_q": 0.2028337,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/synapse assembly (GO_0007416).pdf",
+          "bytes": 31986,
+          "sha256": "01521ea0aa46370ff41641261e783c57a5f0c9f351b37f65127436648c58489e"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/synapse assembly (GO_0007416).png",
+          "bytes": 107235,
+          "sha256": "c9fcb48c85624b7dbfa8b9d3f0be543d99c831c26ceec2e9e68a2d9ee2ab8187"
+        }
+      ]
+    }
+  ],
+  "seconds": 8.71
+}

@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "DNA-dependent DNA replication maintenance of fidelity (GO_0045005).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "DNA-dependent DNA replication maintenance of fidelity (GO:0045005)",
+      "historical_pdf_name": "DNA-dependent DNA replication maintenance of fidelity (GO_0045005).pdf",
+      "n_ranked": 7925,
+      "n_hits": 9,
+      "saved_ES": 0.808224,
+      "recomputed_ES": 0.80822395278232,
+      "absolute_ES_error": 4.7217680099187476e-08,
+      "NES": 2.033291,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1375439,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/DNA-dependent DNA replication maintenance of fidelity (GO_0045005).pdf",
+          "bytes": 29617,
+          "sha256": "d5e2025a4aee93e00e61dd56059c303db9901ed803121dbdac43c0209a0d979f"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/DNA-dependent DNA replication maintenance of fidelity (GO_0045005).png",
+          "bytes": 107109,
+          "sha256": "60d87e97fb8f99f371cbf92b985b0e52bc37e598d806f5e741cd0126fe730085"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.67
+}

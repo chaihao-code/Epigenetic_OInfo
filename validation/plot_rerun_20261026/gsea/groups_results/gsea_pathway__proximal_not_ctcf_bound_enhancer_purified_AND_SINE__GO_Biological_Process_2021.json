@@ -1,0 +1,236 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "negative regulation of interleukin-17 production (GO_0032700).pdf",
+    "positive regulation of T cell mediated immunity (GO_0002711).pdf",
+    "positive regulation of alpha-beta T cell activation (GO_0046635).pdf",
+    "positive regulation of interleukin-4 production (GO_0032753).pdf",
+    "positive regulation of leukocyte cell-cell adhesion (GO_1903039).pdf",
+    "positive regulation of lymphocyte activation (GO_0051251).pdf",
+    "regulation of bile acid metabolic process (GO_1904251).pdf",
+    "regulation of cholesterol storage (GO_0010885).pdf",
+    "regulation of interleukin-4 production (GO_0032673).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "negative regulation of interleukin-17 production (GO:0032700)",
+      "historical_pdf_name": "negative regulation of interleukin-17 production (GO_0032700).pdf",
+      "n_ranked": 27065,
+      "n_hits": 6,
+      "saved_ES": 0.8736742,
+      "recomputed_ES": 0.8736741523579806,
+      "absolute_ES_error": 4.7642019329607876e-08,
+      "NES": 2.014923,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1878389,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/negative regulation of interleukin-17 production (GO_0032700).pdf",
+          "bytes": 29032,
+          "sha256": "93ffb79af31e283b8323012299cba79e5165b290e0505860bdb438a1b1037491"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/negative regulation of interleukin-17 production (GO_0032700).png",
+          "bytes": 104918,
+          "sha256": "35892263688410e67271f0dde1d6ebafcb3732c97dfe9f6f975fedaf992f8de4"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of T cell mediated immunity (GO:0002711)",
+      "historical_pdf_name": "positive regulation of T cell mediated immunity (GO_0002711).pdf",
+      "n_ranked": 27065,
+      "n_hits": 23,
+      "saved_ES": 0.6560535,
+      "recomputed_ES": 0.6560534856097273,
+      "absolute_ES_error": 1.439027264016346e-08,
+      "NES": 2.322924,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0145509,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of T cell mediated immunity (GO_0002711).pdf",
+          "bytes": 30781,
+          "sha256": "2c1df3ba4bb2bd8b41450192c7ade603b54ae9d791d5c9ba65a736e0dcb24470"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of T cell mediated immunity (GO_0002711).png",
+          "bytes": 110069,
+          "sha256": "51595ed35bf2b28d99616afa2ce751a07c5e82691985bb2668fb6dc902ffc765"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of alpha-beta T cell activation (GO:0046635)",
+      "historical_pdf_name": "positive regulation of alpha-beta T cell activation (GO_0046635).pdf",
+      "n_ranked": 27065,
+      "n_hits": 11,
+      "saved_ES": 0.7117106,
+      "recomputed_ES": 0.7117106048154545,
+      "absolute_ES_error": 4.815454479611958e-09,
+      "NES": 1.948749,
+      "nominal_P": 0.0,
+      "FDR_q": 0.2412804,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of alpha-beta T cell activation (GO_0046635).pdf",
+          "bytes": 30274,
+          "sha256": "c8f16b508527ac23926af7f212fa8d6ec91e94bdbfd1bb59d6087dfb4073c821"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of alpha-beta T cell activation (GO_0046635).png",
+          "bytes": 109534,
+          "sha256": "066741ff4b8a58686e74118e16608731dbd2c3c2f804e1b5c449dc3ac062a6a1"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of interleukin-4 production (GO:0032753)",
+      "historical_pdf_name": "positive regulation of interleukin-4 production (GO_0032753).pdf",
+      "n_ranked": 27065,
+      "n_hits": 12,
+      "saved_ES": 0.7506287,
+      "recomputed_ES": 0.7506286978253,
+      "absolute_ES_error": 2.1747000866767507e-09,
+      "NES": 2.213757,
+      "nominal_P": 0.0,
+      "FDR_q": 0.02777899,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of interleukin-4 production (GO_0032753).pdf",
+          "bytes": 29835,
+          "sha256": "b0af118ad5981be30d4a49a61d95fb8b92f370289d9c511fb8ea5a7967b54d25"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of interleukin-4 production (GO_0032753).png",
+          "bytes": 106168,
+          "sha256": "96cb5cacf5fcfad2e8613b18cb83025ca80eea14a6cf696854b41cce25e2e03c"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of leukocyte cell-cell adhesion (GO:1903039)",
+      "historical_pdf_name": "positive regulation of leukocyte cell-cell adhesion (GO_1903039).pdf",
+      "n_ranked": 27065,
+      "n_hits": 14,
+      "saved_ES": 0.6835228,
+      "recomputed_ES": 0.6835227772733682,
+      "absolute_ES_error": 2.2726631798697383e-08,
+      "NES": 2.081816,
+      "nominal_P": 0.0,
+      "FDR_q": 0.10265,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of leukocyte cell-cell adhesion (GO_1903039).pdf",
+          "bytes": 31221,
+          "sha256": "893ceb052c72d358200c8e7bfdf27e7a3641285b2743b1020167d63b8fafc821"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of leukocyte cell-cell adhesion (GO_1903039).png",
+          "bytes": 111642,
+          "sha256": "9e8b26b0e689e1bc9ca682c30092b51f0b193fc69cd515e3f90c98350bb4b478"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of lymphocyte activation (GO:0051251)",
+      "historical_pdf_name": "positive regulation of lymphocyte activation (GO_0051251).pdf",
+      "n_ranked": 27065,
+      "n_hits": 17,
+      "saved_ES": 0.6191981,
+      "recomputed_ES": 0.6191981033580394,
+      "absolute_ES_error": 3.3580394021015536e-09,
+      "NES": 1.957813,
+      "nominal_P": 0.005714286,
+      "FDR_q": 0.2408983,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of lymphocyte activation (GO_0051251).pdf",
+          "bytes": 31209,
+          "sha256": "86d727519592ea83c04e9d335aa51c2f5e589de07c7c1fd36f2d639bea16c7b6"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/positive regulation of lymphocyte activation (GO_0051251).png",
+          "bytes": 109843,
+          "sha256": "5f148749220a4a46bc84ff69b11beecc1e9c8efd3afc14e1d32f2089add2e378"
+        }
+      ]
+    },
+    {
+      "term": "regulation of bile acid metabolic process (GO:1904251)",
+      "historical_pdf_name": "regulation of bile acid metabolic process (GO_1904251).pdf",
+      "n_ranked": 27065,
+      "n_hits": 5,
+      "saved_ES": 0.9025794,
+      "recomputed_ES": 0.9025794063753075,
+      "absolute_ES_error": 6.375307504136174e-09,
+      "NES": 1.937779,
+      "nominal_P": 0.0,
+      "FDR_q": 0.2447197,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of bile acid metabolic process (GO_1904251).pdf",
+          "bytes": 28891,
+          "sha256": "73c0e4eaccabe29437be8dbb769392db7c2fb650acb0a2e8655f957853654dc1"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of bile acid metabolic process (GO_1904251).png",
+          "bytes": 103991,
+          "sha256": "383e53a139f76b31042bda5359ffd66a94a9cd6ee002c564a96930b1437ac060"
+        }
+      ]
+    },
+    {
+      "term": "regulation of cholesterol storage (GO:0010885)",
+      "historical_pdf_name": "regulation of cholesterol storage (GO_0010885).pdf",
+      "n_ranked": 27065,
+      "n_hits": 10,
+      "saved_ES": 0.7710649,
+      "recomputed_ES": 0.7710649483774953,
+      "absolute_ES_error": 4.8377495232010403e-08,
+      "NES": 2.105207,
+      "nominal_P": 0.0,
+      "FDR_q": 0.09292735,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of cholesterol storage (GO_0010885).pdf",
+          "bytes": 29873,
+          "sha256": "75db5db7fe8fd013c0e48bd3c7b8cb07674bb5fdb5c0d315ac0a1544654ca30a"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of cholesterol storage (GO_0010885).png",
+          "bytes": 106116,
+          "sha256": "45d7b28c0d54bf88eba8e46e2f7ec910db86734b514927539fd8506bb7dbdcf8"
+        }
+      ]
+    },
+    {
+      "term": "regulation of interleukin-4 production (GO:0032673)",
+      "historical_pdf_name": "regulation of interleukin-4 production (GO_0032673).pdf",
+      "n_ranked": 27065,
+      "n_hits": 13,
+      "saved_ES": 0.7465458,
+      "recomputed_ES": 0.746545768549258,
+      "absolute_ES_error": 3.145074201071907e-08,
+      "NES": 2.257658,
+      "nominal_P": 0.0,
+      "FDR_q": 0.02447197,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of interleukin-4 production (GO_0032673).pdf",
+          "bytes": 28699,
+          "sha256": "3a7ff17fa7a065191a0de69f01d3f92e1a6a31e8eee426a9ce9ec9598e8ee452"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of interleukin-4 production (GO_0032673).png",
+          "bytes": 104974,
+          "sha256": "a83e6a4db7d1bf42b0292d162690ed87e3c74fa63e0d5f8cf6487e4e968d3510"
+        }
+      ]
+    }
+  ],
+  "seconds": 4.81
+}

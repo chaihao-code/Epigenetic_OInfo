@@ -1,0 +1,86 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Apical Surface.pdf",
+    "E2F Targets.pdf",
+    "PI3K-AKT-mTOR  Signaling.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Apical Surface",
+      "historical_pdf_name": "Apical Surface.pdf",
+      "n_ranked": 15029,
+      "n_hits": 17,
+      "saved_ES": 0.4927927,
+      "recomputed_ES": 0.4927927422967665,
+      "absolute_ES_error": 4.2296766533667096e-08,
+      "NES": 1.521806,
+      "nominal_P": 0.0460251,
+      "FDR_q": 0.1594639,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Apical Surface.pdf",
+          "bytes": 31719,
+          "sha256": "c28ffdf1f39d8e9edd2316ee9ebea917eba32da8ce0eb44fac173dcacbdce346"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Apical Surface.png",
+          "bytes": 103028,
+          "sha256": "867653b03a7db624e103a3d0455a10facc776a8a152d9da6b61121ac85d9164b"
+        }
+      ]
+    },
+    {
+      "term": "E2F Targets",
+      "historical_pdf_name": "E2F Targets.pdf",
+      "n_ranked": 15029,
+      "n_hits": 54,
+      "saved_ES": 0.3579598,
+      "recomputed_ES": 0.35795976529414714,
+      "absolute_ES_error": 3.470585285825223e-08,
+      "NES": 1.498065,
+      "nominal_P": 0.00877193,
+      "FDR_q": 0.1246141,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/E2F Targets.pdf",
+          "bytes": 33413,
+          "sha256": "08e81e89c44e54864947a94cb18254267adb63f1da3cc8dec9691797ca0d301a"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/E2F Targets.png",
+          "bytes": 103752,
+          "sha256": "c36c99a32fc714270b8bef55722bb1e870fad7d26b3f31f05153ea7a1bd9d846"
+        }
+      ]
+    },
+    {
+      "term": "PI3K/AKT/mTOR  Signaling",
+      "historical_pdf_name": "PI3K-AKT-mTOR  Signaling.pdf",
+      "n_ranked": 15029,
+      "n_hits": 46,
+      "saved_ES": 0.3874478,
+      "recomputed_ES": 0.38744777879961245,
+      "absolute_ES_error": 2.1200387556596922e-08,
+      "NES": 1.646874,
+      "nominal_P": 0.008333333,
+      "FDR_q": 0.1647441,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/PI3K-AKT-mTOR  Signaling.pdf",
+          "bytes": 32778,
+          "sha256": "08cdbf7e5974df9a10fe99bda6ead00bf4ee8edddb2be66fa418afec0027d247"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/PI3K-AKT-mTOR  Signaling.png",
+          "bytes": 106952,
+          "sha256": "94eb299e2b0555310b0f7a0ec1f07a770714815388c056ebedbbf9faedfded8a"
+        }
+      ]
+    }
+  ],
+  "seconds": 1.8
+}

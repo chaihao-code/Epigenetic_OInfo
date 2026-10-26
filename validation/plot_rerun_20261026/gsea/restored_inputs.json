@@ -1,0 +1,2162 @@
+[
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 2867,
+    "sha256": "46e647a6242b922d4d650a640d4720b4865f53d216cb74d50291ba5701409111"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 19857,
+    "sha256": "ec2bc2023a5fb425cc5abfbaa4230d09656f1d74ad65f7f352f798789a66721c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 1822,
+    "sha256": "7056015d5249705618682d20b17ad30bc99eae81eee18d13813733fb0e82506b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 209,
+    "sha256": "0acc779410c998cf9988128817f15680eaf39279843a4977c82254383086a4fb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 19857,
+    "sha256": "ec2bc2023a5fb425cc5abfbaa4230d09656f1d74ad65f7f352f798789a66721c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 67,
+    "sha256": "d3ca3305f72ee8351f6608aec2ed2da3cbc8c09eb7e65e06fe4f681761b93d2f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 264287,
+    "sha256": "068253bc8e6c44eae1e5b7ad0092d5009f1bbca60f33049172baf9cf9718fffa"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 505113,
+    "sha256": "35da8745e29eff71e6047636495f101906f6fce558ab4eceaa6e760ee8b4ca43"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 222446,
+    "sha256": "ad4edb6e1871f4f66cd4df6448eff1cf1b95d82173f414aa1529bb65cef73962"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 6911,
+    "sha256": "7abe13a5fb74b873a57222c8be8dd2adcd3952ce3c72df072ad7fa358787b61f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 505113,
+    "sha256": "35da8745e29eff71e6047636495f101906f6fce558ab4eceaa6e760ee8b4ca43"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 6688,
+    "sha256": "42afd589b6fa86b93df57448ab6828cb2065ca23f22c3c371e50028c03f5312d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 109305,
+    "sha256": "0e889ce3d2ee054e95951862a5b6d7215d1f43af904bb04237d12e2bbd55f063"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 326981,
+    "sha256": "5d5299b510237100b659d939e51322a5318d6c1c4a69e77b5f1ca0b898fc0035"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 81683,
+    "sha256": "de2ef8fc54a80a9c4023ae28fd20a15fc3872b069369f73e2874d97c0559bd9c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 4992,
+    "sha256": "4c1798ed1e32d001cf769ceef6c46d60bc27a8676b6838d3ead124b947dc4de7"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 326981,
+    "sha256": "5d5299b510237100b659d939e51322a5318d6c1c4a69e77b5f1ca0b898fc0035"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 3558,
+    "sha256": "607cb6edfc87ff29b49127bb29ec17650835080cb0184f1c6866b81a6681ea3d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 31425,
+    "sha256": "25cedcab789885762e026b311b4b609a1659d878dab43e4a5bbb290df7c5874a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 140915,
+    "sha256": "90d16d5557780a92d7eb14a1a66bb542c1c3f761c2a037b9f6ff376e3fdd0ad6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 21034,
+    "sha256": "2737ab32a75d6b4b1ac3a293234192237fdb80785deaf10b22c174cad77e5b3b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1646,
+    "sha256": "eb74420ddb5f967d8f56650abe8871053989679f2e24d88dc7111b343ee7066d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 140915,
+    "sha256": "90d16d5557780a92d7eb14a1a66bb542c1c3f761c2a037b9f6ff376e3fdd0ad6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 741,
+    "sha256": "00b318d4cd8761e6abc8fd5713ce2b19d2658f24c3242afddb68e74dd507d15d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 377227,
+    "sha256": "55c186687c513b4df4d215c2090d4e19bd999742e82d0e559b37757e65e64959"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 604151,
+    "sha256": "a59c76a11073df79baa3d25b6f4743f48925c80a2fd02557ee22b7176f753b8a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 333978,
+    "sha256": "59e4fc2e5a3f1e63be9c3dae5649bfc5da09392f445a9ce8322405e752e4e7f9"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 7573,
+    "sha256": "382eb1390dcce6a45c3cd120cc0fb1b8e081a4efdf26f72d309be37dd761ddf8"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 604151,
+    "sha256": "a59c76a11073df79baa3d25b6f4743f48925c80a2fd02557ee22b7176f753b8a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 9578,
+    "sha256": "2df50adb25c0e9e3af642b77e31b996752532c7ad9169719e4962d9287a5a2f9"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 86051,
+    "sha256": "47b3624481f4c98e36c9732e1cecdced8fe2082e1a942c67132c88de774212a6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 73230,
+    "sha256": "0d41a4ecb44d1bd05a180c7d9c6c715790b08cba8c4a0d365b6d948f8588c2d7"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 64006,
+    "sha256": "b9d20fb53e9dd26f72f797e4d6b01251b1a3009cba0c91aeed1286f74fe4ab7f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 3662,
+    "sha256": "25c46bd3529a4c4d50c7aa1dcef7e315772f65b7b9fd5297f6351ed6643bb172"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 73230,
+    "sha256": "0d41a4ecb44d1bd05a180c7d9c6c715790b08cba8c4a0d365b6d948f8588c2d7"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 2120,
+    "sha256": "8fadeacb483651a3fc2c5604b12cfbf2539d64ab4537558d9e15e39ddd6ceda7"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 411398,
+    "sha256": "4ec31313998b0719be09d6a5791f8f8d319f2a9b15cdf9cffcd517712b478086"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 316272,
+    "sha256": "3d565a53186a84e5a549e4410a33e8ac8016fc56eed3ec6d63351ea2d8911a4d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 360545,
+    "sha256": "799db5f6288b2da6f534e8f1f2f444e9230059cdf793e497d758b7e33715681a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 8349,
+    "sha256": "d824bd99c3ef7a90777ab6e9d3acd2238a0a6f8acb08039f83b902bedca18ed7"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 316272,
+    "sha256": "3d565a53186a84e5a549e4410a33e8ac8016fc56eed3ec6d63351ea2d8911a4d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 11536,
+    "sha256": "f974800ae96ec71fcad511ce4d6296867242014e2f8e37b82214ebb22c58e937"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 152634,
+    "sha256": "81becd81043c37c5b524b36dd5c0370c10a00a151bf8e1cae27523df386427ef"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 175275,
+    "sha256": "ffc0fac4e302c4d2047351b88545f03a36b930a48090b67ab3e0bf0840d4a3ea"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 113159,
+    "sha256": "9e2e04c18dde5c35e475e5cb33547701d225cd5a96eeb161af55b013203297d5"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 5666,
+    "sha256": "0052fe1581ee5ed67dcc4c741df31643ecbcbe04155da79616374adea77aa500"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 175275,
+    "sha256": "ffc0fac4e302c4d2047351b88545f03a36b930a48090b67ab3e0bf0840d4a3ea"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 4610,
+    "sha256": "50bdebf3a0636de743a469c97eda7dfdcd9f11279be7fd3ab1f982f6f1d0a7ed"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 385871,
+    "sha256": "3311ae43fc28ce77bf9b969503f182477d78b50af14de90d3dbdc516021f0526"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 246464,
+    "sha256": "55f4f8ddff842d89ed89e66d1930db3248ac3271cd3bebf2b7302d9d4311d9ee"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 339926,
+    "sha256": "37137ead3aa29fbeaa256fefbf63c08e4472ece92f6eeec60d3a99ee2eacca44"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 7909,
+    "sha256": "1a079598e9481dcc98af38503ece5b261541768f61369ff1f3e4cec259567c29"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 246464,
+    "sha256": "55f4f8ddff842d89ed89e66d1930db3248ac3271cd3bebf2b7302d9d4311d9ee"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 10434,
+    "sha256": "3b5a15af9d8a4446530c54c68dd2eec06006bd49e1431f64cca81de6873f7489"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 580383,
+    "sha256": "5bfbb63274b0bc8a9ea4977f15185c66c9d1cdf694a33b5ca65cf75a56f2cbc8"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 473330,
+    "sha256": "919aaf84b5724d5ddc204db1d4ddc170f534967c6ca8971fc1112ac8d43c05c5"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 551887,
+    "sha256": "07fe0a0f32f85d9c0478af7a278740e82a79f20aec56719f677c49ce57390f1c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 9947,
+    "sha256": "4e2e2c568002b062e90029fedb3e04d3bbc1abb8128528ecfdd5c7b86c703d88"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 473330,
+    "sha256": "919aaf84b5724d5ddc204db1d4ddc170f534967c6ca8971fc1112ac8d43c05c5"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 16411,
+    "sha256": "08b459fd8e12fb4bc09331f1a09527c7d5b0fa0e2691d3c6f81e88b4bbf5a896"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 24147,
+    "sha256": "553438b06ff52b40db04e0c323f01f17639a6d5cfed720872808ed53e3d2cf12"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 22035,
+    "sha256": "b39ff9f28a4d75feb8c5cd362e43120283fe1f605f4067063253e526d296fd78"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 16569,
+    "sha256": "bdcc5358533d871f1dbcb23fc0688af8f23323b2e0a6bf77c043feb185afd493"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1029,
+    "sha256": "104f61128e4daa0e9b8a2871f4b8b6e385668122e96e1436d7f5e0c8dd68fef2"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 22035,
+    "sha256": "b39ff9f28a4d75feb8c5cd362e43120283fe1f605f4067063253e526d296fd78"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 430,
+    "sha256": "051c0904a4cde36e2e797913ec1dd933d5dc3ae94e15c7b9d731e626be98a31d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 518289,
+    "sha256": "99c3ef44e0675bd4a855bf0821b044a75f0407b7796e2c37370d8bd3921386fb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 440735,
+    "sha256": "0266d7cb3b8a03a86001d8ce7849af6706ac34358ab2ef143afc7856829a45eb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 486225,
+    "sha256": "f712966d168d36378924a1fc860aba29498429fd7c509895ae0faf340714bbb5"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 9180,
+    "sha256": "669892c6a862d4ac016efbc2b5b4cfac23597f3ed567560f093ed0cd6b77b551"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 440735,
+    "sha256": "0266d7cb3b8a03a86001d8ce7849af6706ac34358ab2ef143afc7856829a45eb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 14461,
+    "sha256": "04c5d27dea3fc9a13e1a11786e97cdc0491b4b11e37d8099e1f7fd71990546f4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 236816,
+    "sha256": "9cb5d99b3201bf9ac1dd556e397089b87df2c1672c01816fe5c93e7180456d9b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 281283,
+    "sha256": "7529585b2e380f202d44952205314e1b171590e7e6668993e676369548d6e398"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 189951,
+    "sha256": "933c1b578b3aa750ba6431eefab37c6f2c07c777f596032fd051335f437ec605"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 6374,
+    "sha256": "1ea52ba642fb67a4c09ae2a94b8c375a52a41e22b79151831b9c4b08604b7e72"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 281283,
+    "sha256": "7529585b2e380f202d44952205314e1b171590e7e6668993e676369548d6e398"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 6809,
+    "sha256": "65ed0089ac7fbfb11d9bb056868da14e70d0d6bf925cfef626e7e7930a5c521a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 418535,
+    "sha256": "0c3a281d9469e6ea0dfca3bbea31cd0ca42d067dcb87b05746eafeaebda8988a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 267830,
+    "sha256": "c2ffd3cb893496fbdfad8a5451a3caf5f06f7287da6ac42e9bd284914cc5637b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 374069,
+    "sha256": "d1c002612385fac7f84871c449b333f77b498be8dbf7e37b5ea2a11355b8f041"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 8184,
+    "sha256": "d2bb1929297eff16999a3a66c9899971f73e34367b553aab92d30b7647b9d63d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 267830,
+    "sha256": "c2ffd3cb893496fbdfad8a5451a3caf5f06f7287da6ac42e9bd284914cc5637b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 11012,
+    "sha256": "2d3502dd12183499f0392a0407ad8e3535251be7b1b6b3aa3027c1f029618fa5"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 672632,
+    "sha256": "22d4e3ad4da7c535a47acb74b63c411cf896795b879f086e6967177aadcf78dc"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 623869,
+    "sha256": "075bae020f16420c3d62e4a18ea6c323cdeef2dcf64f0e46344457887b31d9eb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 681154,
+    "sha256": "c9c8b444aed2bff79e9b999778009552758c153cbc607560a37b4aec73cd957e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 10784,
+    "sha256": "0a39c7df610161c215e1bb706cc3721fdafb40b136c62088ee0bd50abd4dad62"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 623869,
+    "sha256": "075bae020f16420c3d62e4a18ea6c323cdeef2dcf64f0e46344457887b31d9eb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 19909,
+    "sha256": "d7ea9f4ae391f2419abb6284d7bb81a1582108f31eaabc96a35378f0deeadc16"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 94950,
+    "sha256": "fb63a922ee99fc997f1247a200aaefe13d32ac8eef0b154a641f1301bcc4bf52"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 107009,
+    "sha256": "11bced0276a5d2281d737560aba017b197f422ce3cad32c5bf1a105f4e7283a6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 68862,
+    "sha256": "9853aa194011be61af5682819740457d148cb2946cd84eb0ad2046b8edb17efb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 3806,
+    "sha256": "9650052fcde7cb76ae3ccf81f6d8bc1847219a4eb81e7f0e60cc4ffc32c1fd45"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 107009,
+    "sha256": "11bced0276a5d2281d737560aba017b197f422ce3cad32c5bf1a105f4e7283a6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 1990,
+    "sha256": "09201ed860073e8d94f2cb6072d0aaedcb3f726ba9e5d9246c1e3b4f3d1d7871"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 571746,
+    "sha256": "5c0d5f8bd2f3d099f1da58a16eeefe8e801bbf3fcbe91f2cac35302392b69483"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 876329,
+    "sha256": "44c93f4514d7dbb11d8e8f5409f13066a13bbc58b49a251fc0a860340b79d5e4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 567453,
+    "sha256": "517e96b424f6c47b62fa733758a952e9a81c37371861c4333e2f60f29036f3bd"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 8808,
+    "sha256": "31a29bfd258bd7337647388c3a4d12a9dae0a5b2ebea89f8a6db14deae7003c9"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 876329,
+    "sha256": "44c93f4514d7dbb11d8e8f5409f13066a13bbc58b49a251fc0a860340b79d5e4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 15554,
+    "sha256": "5950bc282afd08ed238f0d635469a8ac3447c93a47ec3fe6b6f226fd0086605f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 228479,
+    "sha256": "9eaf60fa542477585453c14f6953ef06cf129cf6e19635d6e50b14688361cd8f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 485799,
+    "sha256": "32831fd8e07d8ba2d5813d11fd1bf77b8062554cd6787fe5bdc904fbbf85fa22"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 183887,
+    "sha256": "4ab785c6f0913c7bd94cff3ed1d11dc2753538315cc352e6d9e4756fd596c136"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 6204,
+    "sha256": "259e8252c227d15f337c1ff1631e6182a01d1d7f987424d6d5049d39fb7f666b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 485799,
+    "sha256": "32831fd8e07d8ba2d5813d11fd1bf77b8062554cd6787fe5bdc904fbbf85fa22"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 6236,
+    "sha256": "a38641254a699f2e95c39567d21234809c94e5cd30c43ea33d3b92cc8aeb36ef"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 571494,
+    "sha256": "a9be595a492940db4eaa1b73eb56f3e476053583e3e260239413cc907fb9be13"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 682214,
+    "sha256": "185c595469487fa55447d3d739e9e8badf1bcc75d16e555c66d8b3de1ff551c4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 561599,
+    "sha256": "b77e0242595548ba743f2cf6a49418af7a435bee3ce068eb601b4d2df77b52eb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 8821,
+    "sha256": "a6e7c517cb847f588989597f241a653676e22424df772ee06f4a1a560c068b9f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 682214,
+    "sha256": "185c595469487fa55447d3d739e9e8badf1bcc75d16e555c66d8b3de1ff551c4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 15870,
+    "sha256": "e591961cc1edc661940459ad81505bc3f5abe1fdf8ce8f7a9935e95c8a19abac"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 766520,
+    "sha256": "f63f885f413167ebf40c8ed9f27878ab5a5f80b42e8040f07da5ab593de7f7aa"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 1240715,
+    "sha256": "46e480c9cb9c78627eeb516646b078a272555fcfc8f686959e0d01914a8a73a4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 830435,
+    "sha256": "be632ef220514ec4423d0c3b3a0f89a88b9e66dfe8e3a24a1c61eccc8256f939"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 11564,
+    "sha256": "8c473f237b10647920d4d76bff493fae7a8697cfe4d4cb118fa2f968dd406ddb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 1240715,
+    "sha256": "46e480c9cb9c78627eeb516646b078a272555fcfc8f686959e0d01914a8a73a4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 23470,
+    "sha256": "00b805aa310604426a992bca65f979d3b780eb67c64f7b97a5440d19b7140a3c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 15301,
+    "sha256": "3f3c375bea65408f6c69af2e6eb2b42d422e4976313c69827da4261a82f414b7"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 32324,
+    "sha256": "e8bd1a7e7f64cbb61844555928435dcd9717d434c1c3e093df627cadce7abb56"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 10211,
+    "sha256": "20b702024c16180915d5b634f31dfba7e9631337eb52631ff7e33fa90f05f349"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 311,
+    "sha256": "8a74ff68ab1f076f7c5e7705364952f1916593a06629ef615f2eb8ee8ad7b2a9"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 32324,
+    "sha256": "e8bd1a7e7f64cbb61844555928435dcd9717d434c1c3e093df627cadce7abb56"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 105,
+    "sha256": "30191e29a10bd211ea3ed570c47e1bb3097c31bd1aa034e778fe048f8e425d79"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 757162,
+    "sha256": "d9bb8720954e9af60af1e061cba29d5dca25e369e70558bf216a526bc9bbb337"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 1297675,
+    "sha256": "3eb09cbf8593baeb31fab93b4449091be5b63dc33172f256011328305607bf8b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 800955,
+    "sha256": "601e1f8f0f0e55f1a44898e5e72498e5020ab7cee310562c75ab1a61235402a7"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 10926,
+    "sha256": "0e7300d7ea77049e9d4cc555efab9788a4c87f19323d0992d6915d2203a0959a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 1297675,
+    "sha256": "3eb09cbf8593baeb31fab93b4449091be5b63dc33172f256011328305607bf8b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 22194,
+    "sha256": "6a60a659bd5e7868b7c570c35684b9b79103e0d64e2c3746506cfac279527d57"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 405546,
+    "sha256": "3d8ee17caf369b20b6af5ba427c04e560715683342b8b9f6d07998f5038977ee"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 733776,
+    "sha256": "a32a1f5fe494c2baea1cb148652b144d452e4b2f63329ff5da46c5d0d467c0f8"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 362454,
+    "sha256": "37b91fb047c9ee643906c848a17652e18d86e5817a74eb4648462cec96ca48ec"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 8088,
+    "sha256": "9b84fe9fefa04ee056071715d1271bfa7999364da06886edad181f680e6e71fa"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 733776,
+    "sha256": "a32a1f5fe494c2baea1cb148652b144d452e4b2f63329ff5da46c5d0d467c0f8"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 10692,
+    "sha256": "010aafbfaaad36440dbde6e222a2fbb8025d875b9b2c9a8b1f13fb226083803b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 388570,
+    "sha256": "5dda650e9576f3c2747d9552aacf6183fd07ce14016807b2485ee48627c73df9"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 464551,
+    "sha256": "5e0621bd7f688d31b6ebdf36b73f5329d677c65cc2e114341f3832485a0a7221"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 341313,
+    "sha256": "2ae02fbb0c9a3429f270e48301a71097cb3a3c1c6cdd5afee036a1f10366fc5d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 7623,
+    "sha256": "31e6dcc517aa53518a7170a44389d5c575eab953747c3351ddd935cdefc16629"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 464551,
+    "sha256": "5e0621bd7f688d31b6ebdf36b73f5329d677c65cc2e114341f3832485a0a7221"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 8986,
+    "sha256": "3017606385659a499e6db3221f7b5702896fdff1d1b23c5bbab9b5fc97622c7c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 876171,
+    "sha256": "bb89381fb07cf1b6084f9c80672b0573aaf8cd675ed024f3b81515854c001357"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 1564473,
+    "sha256": "50808cca11acd2c2a98d6a162d6dff3bd209cba300a1b88e0d21cc78da94b9d0"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 973624,
+    "sha256": "7adf21a60dc5591d846ca67fc14a95490ab83eb2cfe602255e0e865a030db580"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 12022,
+    "sha256": "1d73e11288a31a0e9030372bcef49cb8931bf6877a3de54c4d521c49dabfbbfe"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 1564473,
+    "sha256": "50808cca11acd2c2a98d6a162d6dff3bd209cba300a1b88e0d21cc78da94b9d0"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 27156,
+    "sha256": "535ee5e0d69a682cb3c18ca899f85e12f11bba5a155494b0fe4150dc5b82d2be"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1023281,
+    "sha256": "811d6023d6dde66793d36c54988e395a57dfea6c13141241b8812c4188c2a2aa"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 1643025,
+    "sha256": "c9e29724d35247842a03eb7865ae500fa32b7339d34ed29de42b46a3ac09ce97"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 1191580,
+    "sha256": "30268b41d411acd59c9080b2c7041f25cb1f8fa8de14755de49781365464ea17"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 16762,
+    "sha256": "9e9ed228c7cef5341fc7216a8502d70029f199ed714d15756c1f4fd74a554795"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 1643025,
+    "sha256": "c9e29724d35247842a03eb7865ae500fa32b7339d34ed29de42b46a3ac09ce97"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 35781,
+    "sha256": "296febad832938a6a38a9beaaa46e7df58d8a4ff2a96fb2c3e25b719aa241807"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 778052,
+    "sha256": "60ad377df908fbf3cae455e519a16adaf7cb626dc4b272378b3740780e51e49a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 1591667,
+    "sha256": "2f3c3e11868b0bd6dd95c7538ada340cdfddbb4f6e1cb97b903bf49161cd96d4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 831273,
+    "sha256": "3275a4658af0661b9d345dfc0e431aa00504e4fd6b08e8fd4c13ef18c719ff2b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 11545,
+    "sha256": "2f484a592feb8e60770b5b681933b56d2407af63700dc1e2a3d863091d1bb1cb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 1591667,
+    "sha256": "2f3c3e11868b0bd6dd95c7538ada340cdfddbb4f6e1cb97b903bf49161cd96d4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 24169,
+    "sha256": "ed0d22272de3e930b5b062cd38c699cafa42efeedaa2d047a8cf83df42dde75c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 390211,
+    "sha256": "71dd3b823ffad90b8991bfa3c5aab5eff5df36bd7f70609f52d3f5c289bbae0d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 922091,
+    "sha256": "3340802b2ad2ed316760eca134a78a16d57615cd5207c6bc644e5eb44ad0ce48"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 333481,
+    "sha256": "4118ffe10cc27a4cbe0c5ee227a2428338945b026c32e32766f48b13a5c57263"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 7744,
+    "sha256": "46097a132afc22f87557ad859922ac800f5dc0aedba32e3305f95d03efd294d2"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 922091,
+    "sha256": "3340802b2ad2ed316760eca134a78a16d57615cd5207c6bc644e5eb44ad0ce48"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 10004,
+    "sha256": "56fc75d768f8290d733a63710b18b99f6be3b4530a26b2a735993b64e8be92f3"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 803459,
+    "sha256": "ee1c514600022bd2f6b96d89c557520c5ad16eecaa5cd49d0d390720360b581b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 1423239,
+    "sha256": "48ae82bae71067189b9903a11b8b7b009348e5e280d672ed862b7f995199b664"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 871726,
+    "sha256": "e8e0ae1487116b8406ce46d58cef2a632b4afc0e82b9268673fc35f691b37211"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 11957,
+    "sha256": "0b17b1aefb4bfaa2ae5764d6134d0cf3ccf74d91632b2feee91cda80d15c5b15"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 1423239,
+    "sha256": "48ae82bae71067189b9903a11b8b7b009348e5e280d672ed862b7f995199b664"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 24891,
+    "sha256": "3652a743159e3b4439cd91d0a0d68659efc9d78cba0b4c9c1334de8e8f057e1f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 974555,
+    "sha256": "89c3181f632e4c3c104e9802c6bd6b191b176a3bdbd352f2cafc689ecde3eef2"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 2194423,
+    "sha256": "2153e62634df12cb03b2691bb906b91d243344dabd726cf9a24d511c99399a96"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 1117754,
+    "sha256": "84d9b4a9fb77ff1081b046e6ca7f94e15a209a89e5765242993959e24af935b0"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 14245,
+    "sha256": "20353129f1757f35ab8200fc300c839cead92da08ed0a8575a38a1014edc8416"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 2194423,
+    "sha256": "2153e62634df12cb03b2691bb906b91d243344dabd726cf9a24d511c99399a96"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 33327,
+    "sha256": "afd05e13a792bf1c5517055e40db5f3e5f6b89a74c95f45d0c6dfb33b2144d6c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 545887,
+    "sha256": "3d4ff7cb7ea69a4e029ea004e8754996952c1a982e9d9ae7482e18dbe54f12dd"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 512331,
+    "sha256": "e462206da97c44d9d0c18e76728938527d74f2efae9018174c74eda309467f72"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 541293,
+    "sha256": "10d72348b3ba1151759807d2eccc761d00cf0e8c43ea705c102de8a3e4e90efc"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 9042,
+    "sha256": "2ec5f67fc27dc57d1cc73b270fac0b33ed7314ee0640c36cdb90a72b6756096f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 512331,
+    "sha256": "e462206da97c44d9d0c18e76728938527d74f2efae9018174c74eda309467f72"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 15905,
+    "sha256": "d16a8a523ccf2dad29d45a49df304959b2b46571a73d572ff229d85527f2a5f1"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 494973,
+    "sha256": "4d8f3cda33f138d4342eb4661c2033c694515122ebf3716f34822116474598f0"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 562087,
+    "sha256": "59b16b3a79203fe6dc460394b7d720378f58ccdcb08e4cd9e51ab9057c9f3365"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 463730,
+    "sha256": "4e6f0ec9460f11b2e9218e905f84ea8749c14cd4f27397d05d4a0c6d59847dcd"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 9083,
+    "sha256": "17bc8f3ca226f1288a66157447c6cdad9da0265996311794fc7e295453a07687"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 562087,
+    "sha256": "59b16b3a79203fe6dc460394b7d720378f58ccdcb08e4cd9e51ab9057c9f3365"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 14367,
+    "sha256": "57c6e8087398ad4deace2393eb5a47d52bb27e77ec864d7f779a447bfcb39946"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 170114,
+    "sha256": "661effa6ec964cb81a684e494fd353db33522fa9c8fcccc0620f6eb387cf4d1e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 242107,
+    "sha256": "d9facd66eea1eb99e4277d9985cbeb9511e9c318c5a15bd35e17268a7bb48434"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 128398,
+    "sha256": "a82a0ad192b247e2dd310164f6a143797252e3358b1e9bfd2ac67ea3f9ef77ed"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 5996,
+    "sha256": "8887054cea215fde6d7c30f42e62442344ce1d574f6a5784e8aba65654f60155"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 242107,
+    "sha256": "d9facd66eea1eb99e4277d9985cbeb9511e9c318c5a15bd35e17268a7bb48434"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 5220,
+    "sha256": "9c627f7551e71e4607bb0393db3966d6c7632c84cccf132a5a9344459d24dbba"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 451109,
+    "sha256": "edfaca33069bfd818a574d51dcb1b3d61d290f76fedcd8a7dee27ea15efb59ed"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 438394,
+    "sha256": "217f86b30a1844b9351c01c80094089d97d1e91d34355becf6fc5d12103737c3"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 403155,
+    "sha256": "bb8bb40a62d4d27527ea3d24409327d5ddf371c83bcb23f96c5380f7c98ff1eb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 9006,
+    "sha256": "77a9fa7fc68b437d0eb8de65fa4904f403351e50667c47379184b1f00098813b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 438394,
+    "sha256": "217f86b30a1844b9351c01c80094089d97d1e91d34355becf6fc5d12103737c3"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 12850,
+    "sha256": "e0d9bc38a17e9c1165d2158a74ce5800f6a404acc898bdbae92413fca3f8cbf6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 745032,
+    "sha256": "ef22e1d33baa332221d6e96ba7abfe7a9a2802250f98a38654fbaba24ea11e55"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 921115,
+    "sha256": "81d05a0b4c97cfd12dd682e78da2ca54431018d04dc9d3139b25fa8b4bd7d517"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 787744,
+    "sha256": "d4e478c07192bd9782d663da01ac50f5570076dd254bee70fb2d35c9abfb57f9"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 11382,
+    "sha256": "c4b58890d0cf1a1630b2000347876345afb9f20e19eefd691092fde3d9698f9b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 921115,
+    "sha256": "81d05a0b4c97cfd12dd682e78da2ca54431018d04dc9d3139b25fa8b4bd7d517"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 23888,
+    "sha256": "8931f8dc41bdd8c5f45342f6ed354c5567e094a460f12965c0de75e8cba81d9a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 58789,
+    "sha256": "f1193ba81ff871957267d56faf5172836923adbd18ae096d0db40fd843bcb5f5"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 70809,
+    "sha256": "5b6fdfaf9124438024d192fdf88aa3a770a885302de57691fecad422217d1b8d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 42635,
+    "sha256": "e5f3e8e952455b8e6f93f1f749a9b7b7c63b624e2e8aa84030b26e948fdac034"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 3556,
+    "sha256": "c8d600d99bd27f5f9aa2bd6240ef355b52af7e714a85bd1d3d03c0d7574f9cfa"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 70809,
+    "sha256": "5b6fdfaf9124438024d192fdf88aa3a770a885302de57691fecad422217d1b8d"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 1732,
+    "sha256": "49412b0cd2efa8d4e1c234c5bab2fd6a660f4fe0881d2968f42a6758eb7efc14"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 462465,
+    "sha256": "1f7717f75c2b2ee9d0f3e8c6c64503c0099e83692f7db906495345727894cedd"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 534165,
+    "sha256": "f065e2c571521187497d5c735724ebdcf37d6e633c8112f0e951ce64922e4c63"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 417809,
+    "sha256": "c8f51a48e132c25a815f1b085059a108b237bfc2ca08b3db02ce15d9e7eae3f7"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 8692,
+    "sha256": "dc1efed198312aceb1af4a5b54157cd034728c737e0265bf026ee22ff246b348"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 534165,
+    "sha256": "f065e2c571521187497d5c735724ebdcf37d6e633c8112f0e951ce64922e4c63"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 13311,
+    "sha256": "d6c32e801bcfb488d192f2dc28f44bda480264301ac6e3078d2ae2895a821310"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 171671,
+    "sha256": "d5ae80e1fc58e99e23004d1d43989d1468a555260fff6271738c910fe29d9aa5"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 271665,
+    "sha256": "9dddabf980ccca06d7c2ef44e550dfb586c87aa34b531b5eb082c868b8ad32db"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 129823,
+    "sha256": "7d373fef0e4d629f9248bb1ad8bb4fa30f05ee823ea4bff59cb8065739494266"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 6104,
+    "sha256": "3b4925af82836336f906e6f531f0d7ebb5d2bf1137c96f25667eda60dcc776fd"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 271665,
+    "sha256": "9dddabf980ccca06d7c2ef44e550dfb586c87aa34b531b5eb082c868b8ad32db"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 5247,
+    "sha256": "a85b1c87f46b53f93d69007349a8e58f0a9d6aa00b648f387503338c8df71b9b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 345271,
+    "sha256": "02315dfb4956ea4f6fe763b6f8fab3052ebb861e6189e71c868d92ad4ebd78ec"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 365001,
+    "sha256": "d466b27ff30906672ae9ae140c050fde9a35061314929693409dcdf875c0c686"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 289888,
+    "sha256": "f814284c6556b599ee9b97d0f6dbbf8279a0c425c02284c858287f7ee575b4b7"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 8067,
+    "sha256": "523da4f92e05877844507d6b1f9d430fdb56a1b17fe9c814989228423982cdd3"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 365001,
+    "sha256": "d466b27ff30906672ae9ae140c050fde9a35061314929693409dcdf875c0c686"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_None/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 9610,
+    "sha256": "7d4fcd7fcf685715988210a0ac7a04e0667b98846b7925f54b81aeb87b6d538a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gseapy.gene_set.prerank.report.csv",
+    "bytes": 665498,
+    "sha256": "33836b971c79ed667a38053b04566d79cee729c60a8ed7b78259478a7b357dc0"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank_data.rnk",
+    "bytes": 831645,
+    "sha256": "1f81db99e1a1ed9457eae4713e3635de101c13925121048327310cc2403e25d6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/gene_sets.gmt",
+    "bytes": 661982,
+    "sha256": "4b5d0d0994b50cf99d3bb3a14542613b8af46480f9521e208e4e67490ed40c6e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gseapy.gene_set.prerank.report.csv",
+    "bytes": 11210,
+    "sha256": "f7240e287244ff7ca5b846a7fadc23b7b73edc16c53b852abcec5e1f025993df"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank_data.rnk",
+    "bytes": 831645,
+    "sha256": "1f81db99e1a1ed9457eae4713e3635de101c13925121048327310cc2403e25d6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/gene_sets.gmt",
+    "bytes": 20458,
+    "sha256": "a3e15b7d9366433feaa06c1fece54caddfaf03d4dbdbc223de35dc8330667b59"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 51089,
+    "sha256": "372c5908a972ed3287d09b8504897d1b2428155f7b5166ad9d6f938a153eb4b6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "bytes": 59160,
+    "sha256": "73875105bbfb4bf7b471e1fc7a67ec615eb0b2188bf1b9b1aa0bfe81a51d5351"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "bytes": 225021,
+    "sha256": "6c84fc8627391b2f5e0cd75d1894b576fe0969e0277808ea5984892854ba0e41"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1279246,
+    "sha256": "e7105d3f1c8e009b1560570338d356876a41f568c793d09d3352bd5a23aae27e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 14296819,
+    "sha256": "269d9114db6accd2b67da623fac2436d13aac422c4f9918cedc2fbda5dc2d562"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 4825017,
+    "sha256": "cf3cd8525dacf11a4e9912e9f97df5570b37a4d44f1af7c7c644733f03f28dc9"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 615404,
+    "sha256": "33f70a60613a8a271fef6b8dfbd152963240082355d0cb6fd9dd947bd0f891a9"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "bytes": 8020139,
+    "sha256": "fd85cb71f7e4587b9a6fba4a0ff59f24361f115987bf1d76a6fd3c32704e22cb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "bytes": 2448786,
+    "sha256": "84efd1f4c07535f30e5291a19e875de7b1aed52ee8334750d9e9ba3bddc077bb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 609325,
+    "sha256": "208bd289407aa98f0c917c801cd9b4802f08822f6b19359b6fbea7e733c9a3c1"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_None/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/prerank_data.rnk",
+    "bytes": 10731035,
+    "sha256": "d434a973c683b90788a0583943df5414292154a2f84ee6d8bffe132c457f1201"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_None/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_None/gsea_prerank/gene_sets.gmt",
+    "bytes": 1155968,
+    "sha256": "780c2b5e3f45a9911766bb2c673c15aead131872c92373638540bf9806d2b317"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 914830,
+    "sha256": "35a4e729587d17df5251b792dcd94076ae03131179adc09c4de3a028cad6f5f3"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 11057345,
+    "sha256": "14b52d1ce48658bdfa89400d63fd8d0ca85c4f502ee74d7e4bfbad12307f154a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/None_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/None_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 3917916,
+    "sha256": "d0f720f7ac3ca87ae1e6160cf502dd58df4277711833cace916ea89babd4a682"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 175854,
+    "sha256": "5135d8b7e2d6f580f21b1af97c87b82e6fcdd6a6bff3d5a5fa9f936ecaca4aad"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "bytes": 198571,
+    "sha256": "ce3a280a447c97b9f1958a3acf1a0b57e76ec3553919aa48ba02aac2e15dda7c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "bytes": 755725,
+    "sha256": "6512d1072947ef2288eba6907198cc62ec98b2a7d7f7f3666c8e4578d2835572"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 3206073,
+    "sha256": "8b6f0a2be331d81ca9d12cdb9acee497fc0ce66e8880b1e909eaf07948e1bcd8"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 3224748,
+    "sha256": "f961ff6cc48923c1e619d16bca9dc70ba6d7e1fca0505880f8775906027c539e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 12297872,
+    "sha256": "036d7b3683e0c13f2d4839a0fe48683d4c7959c32ffa35fbc1bcf1c11da9445f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1632965,
+    "sha256": "abe8ad86ecc84fe1f49ccd033a28f54e3ed27285b120a3e702ff006d467664b0"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "bytes": 1754806,
+    "sha256": "6ba73ee67fd6e61a0fd1d7334ffcde00635f2bf2f6f9fed79c9babd6423dcd8f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "bytes": 6684887,
+    "sha256": "be20a133a8012f3328a8e613c937df713829a6da89b7d6c0ef27dc8b235bd7ca"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1887031,
+    "sha256": "ab03b0057c16cdd18ee8f862b90737863d3fc4239fcbf702b8f86e28f654e3ae"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "bytes": 1895625,
+    "sha256": "9c000102a85c07debb48607875220fcbe044ebceb243bfc922133691f001314c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "bytes": 7233239,
+    "sha256": "8fc29a1df4dd90f6aa2651fe4cf90ac8185c04bed226c061ee29bbd3568ee932"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 3886808,
+    "sha256": "35b5777234a84b9ac9504f35e9c4495ab6effb0ff4b2abdb93d345d184a686c6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 4623298,
+    "sha256": "0f4babc6b480a91e2a566394b878211ea2ec62ad804b76b5e1daf5a73ec58e41"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 15195957,
+    "sha256": "d8c25b6387cd40bdfe4b292ec0f1c050bb8d86d8a2211fe707cfdb022d887306"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 73394,
+    "sha256": "75253aad8455b92d9a952cb4a4370a56d49068454a1c0a43f8909401943669af"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "bytes": 77115,
+    "sha256": "6ee351bed3c577a27625767cff46181d316efdb468b66f086ebe5828b527408f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "bytes": 291577,
+    "sha256": "9b81a651ab2a2ddd897061007128e1450b005e78dc88cf872b50f499632948e6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 614505,
+    "sha256": "e7303b14529649ac6f90c1ce7c92958b35c09e3454c0726d14aa476493f2160e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 6178551,
+    "sha256": "4606dc8967807ad7873265b86ac910cdb514981e17949ab843998c2ed6b7d3b5"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 2348691,
+    "sha256": "a4f5b2d442e29310ab4caa4cc44b8cdd3bd8c45f32a8cba7bd7aabfdfc6786a7"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 3306692,
+    "sha256": "84a84724a3503a781a5e8b53dee7f9aa3351f17b16ac6344ceafe670a477ae18"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "bytes": 3568328,
+    "sha256": "89a2a55f972f59ba18f1c78c82d03655fa088cf615f151b19ab452a0a3db87d3"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "bytes": 13608307,
+    "sha256": "10c5f58f9ef92b7049eabf56c506cc1f910b8237199649b550cea1cf8fe6fca2"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 2732637,
+    "sha256": "38bd6b49a5212f5d3852a8dfa499a1c0d00a746a3292eec8d2fe57e0d4b0e314"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "bytes": 2939971,
+    "sha256": "f3f4652ea22fa553a3a881046f5829244050facfa10540e71fb2a79371c89797"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "bytes": 11241285,
+    "sha256": "b895ec00aa3bb2b4e839ffcca96f4db6205089a3825c975943fe8d880b4688d8"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 864948,
+    "sha256": "b21abcb6bd7477cc186c94b0ca3e71b996ca6d9741c65e169b4d914d723372a5"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 7939932,
+    "sha256": "a58f309a3234ccc7a47a082ce3e7a90a8bac250eb4a2c1ea6fbff3999cffb0fd"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 3306003,
+    "sha256": "f891061b33996f4d5f43f0741ae9d1655adef84b43486a8b99ae4b2f09f50901"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 141776,
+    "sha256": "f217e18b068299de9c45bddf76a2efc1f83dcf0ae594417d5d98cce9b75e1b0e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "bytes": 165652,
+    "sha256": "872e7a7354d0d652aea21094dd719a3b5b41b5ea63e6c140abace7c7150fab3b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "bytes": 627682,
+    "sha256": "23880efb61137b9af2b0f3068555786bf26e85e6202593bf3be2d6c6bdf87ad0"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 2692100,
+    "sha256": "88eadd2ac99bad846d77384be398fcca3852176d6e96d6e8c081e671bcbfd31b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 3415792,
+    "sha256": "1c5bed66503a12d74dc8921433511199fcf83fc171def97e0a7a28953cdb1be0"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 13053641,
+    "sha256": "9e7869775e9212ca3db79f50fee2675da208a46404bdbea1d71292f9a2f285d9"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1468008,
+    "sha256": "c7fc9c36713a6feb3c990fc1134f5c645907eb30829c0806a0044c87b4725565"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "bytes": 1685692,
+    "sha256": "4dcb2cc73c6d0b8a7e8d50475d63782a97056ee023529d0503c07e0ea4ca26e4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "bytes": 6428295,
+    "sha256": "910f2fceea493fdb14204994911ed3354f9e46a3160433acc117bc4092f18829"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 2148669,
+    "sha256": "f3de7f97134812fde7cd141b36978dd8db88ab6d06de388025a9b478c909adab"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "bytes": 2424160,
+    "sha256": "dc2fdb710d88e5a1ea29bef2389d6b343d0b53e4b542162233ebe2ee773ca6fd"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "bytes": 9281131,
+    "sha256": "2982ce8bac9ea9fd7a1ef2ef33559e781e0d520ba1a3e1523f705198238dad53"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1320105,
+    "sha256": "f73b07e02500ef8a0eb7322adfdaf8814c02df62aaf5842de00fc6eb117e112e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 5000496,
+    "sha256": "5020d4297ac243b132e15581549abf08c3960ff1a8f9145e505591abd3e5dc19"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/exon_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 6501069,
+    "sha256": "b361e9a09c0ff7ead7682cc416cc6f27312057c05bfe58d6e2b4e12ec5c9a4cd"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 63281,
+    "sha256": "7e2a8cf644887ff7fb4659aea771a32c6a41663b0c1ffa83437729919da919a4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "bytes": 86870,
+    "sha256": "6ab49eaf326622b2c8b64bd5a551aa41b5110d418a321498d193a93f899512ca"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "bytes": 327410,
+    "sha256": "4d926faf07f521aa5c218e9b80feefeb9564a7e231b479417bf82f3642fe08ae"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 2726164,
+    "sha256": "28121c592345baec009704fc947630c0a24e93c687dc883ba90bff665dd85c4a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 28288703,
+    "sha256": "fc6ccb852429647261a054a509b4eeb83ba5394ba8a40c91b247c7d563a8e830"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 10077941,
+    "sha256": "9a3974f5f13cb08127191124ceafcea6d420e1f777b14349ef1e5b1377969e95"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 921721,
+    "sha256": "07b89057435a335e8840b258a99b2d8d3264169c5b5b2147d6fe4b15f3918fe6"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "bytes": 11664918,
+    "sha256": "051135ac7325f10e56902b29ed2dc7005ec18d5cf8ea783dfa8ef16acd8f8d74"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "bytes": 3699919,
+    "sha256": "62a4bd83b47e85d5c1c0d7dbbfe3ed9de8d6cab2e4c79390ca318ef63de6550e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 514404,
+    "sha256": "04c6e666e7eb2d5888baca8fc7ae093fd4ca850512c9d4a91182386784f5f17f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "bytes": 5604741,
+    "sha256": "7a8ab752ed2518eb89a6004a661e644e432132f31e79472dab165705c6016796"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "bytes": 1760791,
+    "sha256": "52da4c1b1ba57d7a2bedd3523d42a0ea11bba66335b4b8e342111e0ae636cab9"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 2339283,
+    "sha256": "10f45478bc0ccd9d82057ea0e51241cff9c98e4ed00ddf5b11e15fa1e63e14a0"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 25501739,
+    "sha256": "813161ec1c43cca23ec4ab86a265272379bc7a8f254ff7db10ba1a2ecbffcd8c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/intron_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 9705506,
+    "sha256": "8baf1468da1ff93bf781ace616c9ed153f12015ffe87b228a946862acdf478b1"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1242571,
+    "sha256": "750d19d992935a47f76d7508204ed83df2637d9dfc8f9fa77f1494c1d7bd3b5f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "bytes": 1113478,
+    "sha256": "a3ee9f1e273885abab7e3b6b06230d5b4bae933961988272d468bbcef5fb0786"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "bytes": 4259877,
+    "sha256": "edc8f38491920b4a913e52e77976b09fd74d997eaccd122633ca39f754c2dc2f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1444063,
+    "sha256": "b080b2d61213c4e917379503a33ff245c8fe3d828b6bb50ef2335a22b9e8f200"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 1743639,
+    "sha256": "ad9f9a4fe89a70e56ff6a8fa183e4ac1ae17994a5ff4e22535902a5bc5c3c241"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 6652568,
+    "sha256": "f1d3acc16fabf3f77573d3707aec72b9bcc6cae172d13b1f228c68e7778b0da4"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 820699,
+    "sha256": "57f26847b9f0df55464009e84f19158522eebde0f31938df5fb5c15c052dfd50"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "bytes": 949164,
+    "sha256": "a886391d639885b44ea5763131bd6f2814705121a70641c7176f61766f214ba5"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "bytes": 3616675,
+    "sha256": "eb696d47e3bf090ad72fd4ab094fecc03cd79e9fd9e5ab860448144ddc9307fa"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 1236409,
+    "sha256": "3f9ac0abfcdee923830519c8b387ddbfc74343226c05e92d62da4e3c9843c12f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "bytes": 1414396,
+    "sha256": "ae006e11791e8f14da8f59d5ddf0081d9832c8612f07ea4dd29763fa5b97aa68"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "bytes": 5394234,
+    "sha256": "305c01c9e9a45441663f647959cffb07318583e376a21ddd8632885559896000"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 2324585,
+    "sha256": "5965bab7aa10100f07d355e88ba31ca31dc0c8f90252efca0b7b733c27b1268e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 2660945,
+    "sha256": "d32cb1548594bcd2f6c31a0c0ed2aa078a61601e64d0d0ef0387519585c58f4e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/promoter_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 10151658,
+    "sha256": "344d270ea53c9c0269be86259fa45693d05b17ecde34a64b835e243bc2f488ae"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 260700,
+    "sha256": "e38eb68324fdfe57ba4f70c0ea0d0dbf33e32e22c7fcd4844975c752a4d6c33b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "bytes": 297961,
+    "sha256": "7d88dc0512dca1d4cc9312369641e5788c079562905103d7387de6c884e71d97"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "bytes": 1136500,
+    "sha256": "5a784f4b875ac6eda0c18f1c5d2827f0ca95c7b0f351a510fc19383d28d7447f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 442320,
+    "sha256": "df8f60d9bfb083295c4b6a2e15200e440024c853b06046d6d96e382fed50b91b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 410448,
+    "sha256": "2696ce24dc4a2adaad54c3df823968c62471394dcc32316196a27b73ab90d967"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 1562693,
+    "sha256": "a94e811de5ac921ab8369c67c66c6cdaa510aa6c1ff33c5d9b995cc13579d76a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 227036,
+    "sha256": "38b84ad6ed1af7d26872cba322908c89f95f0f766ebbe61449aff10d231d9f4a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "bytes": 178101,
+    "sha256": "3f0154b60ed8088f2ce7b4be052200c047fdee095dff18bf240df336abdc3e8b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "bytes": 677634,
+    "sha256": "2142c018ca0e3c70b60dcf276d8d0d92e47ee2c7c2c1fb46df924d9a4fa7b40a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 380183,
+    "sha256": "5610feb3de44ae29ac935607fafdf8d8c12ce7d54097725f8ea3e148ed23b709"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "bytes": 294690,
+    "sha256": "e129b59291a66504948723ee274d9fa4bbfee2b9456165db563e04928ff1beae"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "bytes": 1122946,
+    "sha256": "f37fc21b8c923852af6b4c4b206f75a1e8edb514c9e7af4498eb4d8c90235a40"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 761513,
+    "sha256": "35e832054b830b66f9c73f2b09be17079225120819d35170dcd5ea4d19b13873"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 749185,
+    "sha256": "0b68c242e942f47e42714fe8c79a63a57cddcc2de4f00f01f05942de567db7eb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 2853836,
+    "sha256": "212851c5133b35f92669ca6dc68eb4a2b9b1f17d6efb4256a41449b2a276713a"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 37780,
+    "sha256": "b309009a8204618568b63c6b929d730684ca1de125a535827b3f593395dcbf27"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/prerank_data.rnk",
+    "bytes": 40828,
+    "sha256": "fd0331a44485ee4f494ea5561de5731b737b73fb9b34f26feca507166619bbfb"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/gsea_prerank/gene_sets.gmt",
+    "bytes": 154771,
+    "sha256": "52ee145679d7e496af673ff5b2808ddbcdb265572ff76736a06d76b9fe38fe22"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 517636,
+    "sha256": "77d3a5b80fa30b5bd64984f4af28527a82c524675f610d047c760bd9c4ce0d78"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 475661,
+    "sha256": "b7987a69d6fab9307e635ca5e64625ed96842c2246ce60a8d2e6a291c9124a63"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 1814322,
+    "sha256": "ab6776dab6d15af72aa9ada3dbd245d4c009d339f96e14096870f6b494ad37f3"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 228402,
+    "sha256": "fd16820893644d7d49f7429fc945dac5e651629f25c3cb96d60b1d2f64f2b963"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank_data.rnk",
+    "bytes": 244138,
+    "sha256": "5fdda1e59bbb4a203f2e86b065493388a6b8859eecd59b92e67df3fd71beb17f"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/gene_sets.gmt",
+    "bytes": 929375,
+    "sha256": "2d932f7e53d44f68b7c32a7dbed341a3efd7e31616a097526563d5acb90dee1c"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 297357,
+    "sha256": "f18faea6eef9a5ea9a1442c27b85f501c62550870745412e6e34c1852340480b"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/prerank_data.rnk",
+    "bytes": 286635,
+    "sha256": "ce27f96b561499c85f0ef00308f6769cf709fc79ec09be827c885b4bd130044e"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_None/gsea_prerank/gene_sets.gmt",
+    "bytes": 1093784,
+    "sha256": "fbdf4bd286bc1c29cff7062e63f80841f5ba8582638e4a29e98d16d60ca67466"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gseapy.gene_set.prerank.report.csv",
+    "bytes": 801145,
+    "sha256": "cbf4330ea7ed08fd753335691037203d9c2f7f131ab316f6019d3acb23d31dc2"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/prerank_data.rnk",
+    "bytes": 771435,
+    "sha256": "c529f84cd825aba33e96406750e6fdfb1e42f83a4db665b2024dce7210c490fe"
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "destination": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/proximal_not_ctcf_bound_enhancer_purified_AND_SINE/gsea_prerank/gene_sets.gmt",
+    "bytes": 2941686,
+    "sha256": "f499ae14a6f4875eb86bb6af1daabcb44afb52a8f267bbe730ded1935c966219"
+  }
+]

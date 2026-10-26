@@ -1,6 +1,0 @@
-# Large per-bin / per-region outputs are reproducible from scripts and stay out of git.
-results/regression/
-results/gsea_pathway/
-results/gsea_marginal/
-logs/*.out
-__pycache__/

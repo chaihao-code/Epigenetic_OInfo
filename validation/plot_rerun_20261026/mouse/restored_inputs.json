@@ -1,0 +1,392 @@
+[
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/8cell/8cell_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/8cell/8cell_mi_joint.csv",
+    "sha256": "98f100d8a80439e0e0392a0b30648e8bc5af1217badd8a0e791bbc4281de0ddb",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/8cell/8cell_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/8cell/8cell_mi_pairwise.csv",
+    "sha256": "799068d55703cabd90ae7df2a30b45d4ae0755bd19ef23debf63b33ca474defc",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/8cell/8cell_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/8cell/8cell_mi_self.csv",
+    "sha256": "23b02f4ca6cdffbbac6b3d7511c0c34a3f77c291dded3dc2424fe4963ee2ae3f",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/TE/TE_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/TE/TE_mi_pairwise.csv",
+    "sha256": "b0e9461ecd1562bbc0e142cd81cd47ee83f88335099df0a3d3a519d05eac1e3e",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/TE/TE_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/TE/TE_mi_self.csv",
+    "sha256": "57ca0a2a86ee41008851b1e783893ee0dcc6121fdaf16b6f492329a025c317ce",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/TE/TE_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/TE/TE_mi_joint.csv",
+    "sha256": "fda07aafaf5877a25e76d404d28d1c5c7743c7ec879571ff8a373fbfda412677",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/ICM/ICM_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/ICM/ICM_mi_pairwise.csv",
+    "sha256": "4cac61c9f22407dcbc6046ef64e449b37147fb0dd82e3eb926697726019ce94e",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/ICM/ICM_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/ICM/ICM_mi_self.csv",
+    "sha256": "38da4cb18bd58ff296cbcbaec2c3acb234aa761d2928376078bdfbbad11dd9f3",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/ICM/ICM_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/ICM/ICM_mi_joint.csv",
+    "sha256": "192f7740a022e52e2726e06d8857ad1442f0a9995180d7b62bfbf30453557360",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/morula/morula_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/morula/morula_mi_self.csv",
+    "sha256": "28495247ac89d4fd7e68cf06485e37c5e9a3db46a9413ce829acec1ac5ae76f3",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/morula/morula_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/morula/morula_mi_joint.csv",
+    "sha256": "75fe1bcfe5a30df3def37971cf30dbcb666cb97e70578436ef869f4f370295b4",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/morula/morula_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/morula/morula_mi_pairwise.csv",
+    "sha256": "0f05f8af4c77d3f0e5f4cb66299be2f8171e4ec37c35ca07f417baba42eff130",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/4cell/4cell_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/4cell/4cell_mi_joint.csv",
+    "sha256": "b60c8b2ca1bb5d73d4484e14932be713722667f29fa9b8880c01c2f5b3b2f171",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/4cell/4cell_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/4cell/4cell_mi_pairwise.csv",
+    "sha256": "59f97737199f52674dbfbc35955008581dea187eb9e21321e38120b593147c23",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/4cell/4cell_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/4cell/4cell_mi_self.csv",
+    "sha256": "1fb8c1b544f3f19c1e3246593a824a18ef7b43647d2e207e3a23e9bad4310d2e",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/zygote/zygote_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/zygote/zygote_mi_self.csv",
+    "sha256": "cccd135090d8d0358d2ac83a4994b96a43591f14a124436efd8aad9e318bb0af",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/zygote/zygote_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/zygote/zygote_mi_joint.csv",
+    "sha256": "ea4cfbca8dbcddde6314fdc8efa163670f8bc591980794cee19ce72b5f2fa84f",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/zygote/zygote_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/zygote/zygote_mi_pairwise.csv",
+    "sha256": "e012c0cd2165fd430afa8889ee268b69750d47c83127737cf1cfd475d45d56fc",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/2cell/2cell_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/2cell/2cell_mi_joint.csv",
+    "sha256": "0c13a41231cfd5206fafe30e848fda020675e4d8228b906f3d1f3c72e5b726b1",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/2cell/2cell_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/2cell/2cell_mi_self.csv",
+    "sha256": "a0941efeebdc8de50382ef4e35e2e14cd281093139204912cf4feaaaabfe086d",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n3/2cell/2cell_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n3/2cell/2cell_mi_pairwise.csv",
+    "sha256": "06f56620394ba04801d9dd750f42cc7064232edfc2d19cb64addec4402ab4a9f",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/8cell/8cell_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/8cell/8cell_mi_joint.csv",
+    "sha256": "987264aee3fade15caa009a2acaec19454377fa927bfb2de500ed95156f2f34f",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/8cell/8cell_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/8cell/8cell_mi_pairwise.csv",
+    "sha256": "ee52d8a63b0ee4b03bff69a1fe4ecaa61b89a7304dfdc2be5cfa19e86ed7b0b3",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/8cell/8cell_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/8cell/8cell_mi_self.csv",
+    "sha256": "f3fce266c3857e8e86a1ccc554d6e1eeefe311b34e6f8051a6d9787801a7e99e",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/TE/TE_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/TE/TE_mi_pairwise.csv",
+    "sha256": "cd84ad0ec1fee54b0c5751d2806ee43f6f85d090fde2a805ec434f6c783cf2c6",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/TE/TE_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/TE/TE_mi_self.csv",
+    "sha256": "66c3fd3e2c8304c147a0f37d8e069000a7e619d6e7cb54de495a2deb29552c0b",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/TE/TE_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/TE/TE_mi_joint.csv",
+    "sha256": "c31d24701faa205340fb407c75305e665bcad37ccd7699d011c5f828e63b60aa",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/ICM/ICM_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/ICM/ICM_mi_pairwise.csv",
+    "sha256": "a36e5cac38f6daa9d2f4ebb64a731d37acd92eb965ca299e0bbb7045be6f76c2",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/ICM/ICM_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/ICM/ICM_mi_self.csv",
+    "sha256": "9c11e9d5ddbf86bbc06f4bba50403063ca30d6b5fa98a26c8244fc69ead9854c",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/ICM/ICM_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/ICM/ICM_mi_joint.csv",
+    "sha256": "fafa930aaa4781cbd78659ceb58f6080dbec5c175e741b006c6b21c185ca40e5",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/morula/morula_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/morula/morula_mi_self.csv",
+    "sha256": "f733ed78036a774132e54df5b00c263b8ea6f583b56cc104ec8c60a59bb54cda",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/morula/morula_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/morula/morula_mi_joint.csv",
+    "sha256": "56c65781a21f1883f7db5503a3af8529a1c80a3c89d2a26edcb7fffa2fd3a668",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/morula/morula_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/morula/morula_mi_pairwise.csv",
+    "sha256": "5cda3f57ad5a11cb97d445bce3f0048de7ecfeb39e5454b6ee5d53ded3c6199f",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/4cell/4cell_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/4cell/4cell_mi_joint.csv",
+    "sha256": "3d0eac2641b03a3559217acf59a690c2be21209dc39cd616eeb0adf361371224",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/4cell/4cell_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/4cell/4cell_mi_pairwise.csv",
+    "sha256": "bad5e96db74fc4e1c118e1bff11da5f51fee55f180a4c440fa32755e9a681cdc",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/4cell/4cell_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/4cell/4cell_mi_self.csv",
+    "sha256": "749cce7f3562a95045dd6ef61dbe487ae8b1cd50ff23edd627d037e12738533d",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/zygote/zygote_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/zygote/zygote_mi_self.csv",
+    "sha256": "dc6a4fe3ca9b854a09acf07cc67569e26c786c56bb0a404828c1b358ec7d5131",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/zygote/zygote_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/zygote/zygote_mi_joint.csv",
+    "sha256": "6b5033ae5ac22de2f517f7cdc81fe2afb533179b72edb40cb64cfeeb4532bf65",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/zygote/zygote_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/zygote/zygote_mi_pairwise.csv",
+    "sha256": "6100dc47f937364ec1a940dfc2a65f9dc499efabfa7a648d1fd87dd805d19a2f",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/2cell/2cell_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/2cell/2cell_mi_joint.csv",
+    "sha256": "0e37e381f7006d9294776fd858720ebd513f934f2bd518601510d37659d30eab",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/2cell/2cell_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/2cell/2cell_mi_self.csv",
+    "sha256": "45f80fa95d010ddb026896001e2a22a2b23b9c871d5894fba615b08e27aa568d",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n5/2cell/2cell_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n5/2cell/2cell_mi_pairwise.csv",
+    "sha256": "d97780d664c690a5f0c8dd3cae3fbb494bcd8f1800c1dd0f740540f2ceeb2a5d",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/8cell/8cell_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/8cell/8cell_mi_joint.csv",
+    "sha256": "4133fffa1b965d6fc88c75255b11c29ade04e6e1ef46bff0a20c14b542f6bd6f",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/8cell/8cell_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/8cell/8cell_mi_pairwise.csv",
+    "sha256": "8401fee8e2b4933f515787bd88c165f31487d02cf4e0e383faf6900f79c8f9e2",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/8cell/8cell_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/8cell/8cell_mi_self.csv",
+    "sha256": "5c072d6410fbed0c402ccdd37e718b0e062f32b264d2b4a6ed5e013912d774f4",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/TE/TE_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/TE/TE_mi_pairwise.csv",
+    "sha256": "ebe0492955a94a0f6da13359f0d10058c4ef0582bb374b37895b181e04c34f5e",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/TE/TE_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/TE/TE_mi_self.csv",
+    "sha256": "52e59ccc482fc5936f935a4d1f01c67d9e6df16d8b18bde22bc0842ae1b57c93",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/TE/TE_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/TE/TE_mi_joint.csv",
+    "sha256": "26db142daa8caa23343242704e37259a5ebf75256f501a86affc1789ac15d68b",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/ICM/ICM_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/ICM/ICM_mi_pairwise.csv",
+    "sha256": "e0ef10f0fd12123006c28a2dcd1ad44726ffd752a4ba6ead4c9276732e131084",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/ICM/ICM_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/ICM/ICM_mi_self.csv",
+    "sha256": "1ac3a3288db5c5717d2820d4c1079e699cecdbef4c00fb821a1d4d8616164eae",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/ICM/ICM_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/ICM/ICM_mi_joint.csv",
+    "sha256": "6636514e852c10bf579b9b707aee02a428228a2745528afad5861cc3fee4871e",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/morula/morula_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/morula/morula_mi_self.csv",
+    "sha256": "ed114c267a86cd566670b7811c5655f75de270ff69add53b5ff1d8caa730c0a8",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/morula/morula_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/morula/morula_mi_joint.csv",
+    "sha256": "31997f5334a73f376de397c14f641c20a18e04daf105897217761b426f7980b2",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/morula/morula_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/morula/morula_mi_pairwise.csv",
+    "sha256": "bc087cae080269ad9aff8a0acc05ead7c8810c49eaf7a04d8a8ec4684d3d119e",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/4cell/4cell_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/4cell/4cell_mi_joint.csv",
+    "sha256": "872b256234ccf575df6023ec6545cec60331bb8a50d3a61b16bc8b82c89d35e1",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/4cell/4cell_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/4cell/4cell_mi_pairwise.csv",
+    "sha256": "78e70ade0c6fd442d5096a514231cdb13cad8363da8855edc5e65ff548929415",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/4cell/4cell_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/4cell/4cell_mi_self.csv",
+    "sha256": "9e27471a175aea1da3654e80bc0b2c73d6c5584452141ebf8f1083b9deed0870",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/zygote/zygote_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/zygote/zygote_mi_self.csv",
+    "sha256": "cd70e9ffc96edcb4710636eabc55af70bce620a4c344f9e85109f79ccc75cb7c",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/zygote/zygote_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/zygote/zygote_mi_joint.csv",
+    "sha256": "cabfca0d3a81dabc07d496f58748534953e61b7b55d5cc29fa8de611c73f6c21",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/zygote/zygote_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/zygote/zygote_mi_pairwise.csv",
+    "sha256": "b62ca6c6074b6e60870e64c2098aac6f1722661fb0085eb1688a70f12e76f261",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/2cell/2cell_mi_joint.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/2cell/2cell_mi_joint.csv",
+    "sha256": "b8d5728cd243a352f46787372e6f98f1d95a86753e58b105e277157e0ba8e417",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/2cell/2cell_mi_self.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/2cell/2cell_mi_self.csv",
+    "sha256": "dd9c0024df14dbd4ef887f55435cb7c0c5b154b5adcf993d233d754c7e32254a",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_preimp/mutual_information/pairwise_mi_n10/2cell/2cell_mi_pairwise.csv",
+    "destination": "cases/mouse_preimp/mutual_information/pairwise_mi_n10/2cell/2cell_mi_pairwise.csv",
+    "sha256": "83bee73d0bf53a7e93372eeca4267a7458a3e1f32c17b8cda651dad526a41d59",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_development/synergistic_triplets/all_triplets_fdr_10000.tsv.gz",
+    "destination": "cases/mouse_development/synergistic_triplets/all_triplets_fdr_10000.tsv.gz",
+    "sha256": "20b8682b4eab93795dcfc8a3147fee30f85ba775bb095dfe22907881fad878f1",
+    "initially_missing": true
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/mouse_development/redundancy_core/redundancy_core_top25_cdf.pdf",
+    "destination": "cases/mouse_development/redundancy_core/redundancy_core_top25_cdf.pdf",
+    "sha256": "47d0a6cd14f597189c78e7b3d7ac472ee3228f86250d4488fccb2ebf7ad08d59",
+    "initially_missing": true
+  }
+]

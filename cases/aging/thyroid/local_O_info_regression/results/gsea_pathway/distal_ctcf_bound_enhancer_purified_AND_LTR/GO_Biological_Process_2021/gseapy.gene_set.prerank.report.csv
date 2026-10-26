@@ -1,0 +1,949 @@
+Name,Term,ES,NES,NOM p-val,FDR q-val,FWER p-val,Tag %,Gene %,Lead_genes
+prerank,negative regulation of protein phosphorylation (GO:0001933),6.872142e-01,2.038315e+00,0.000000e+00,1.389866e-01,9.800000e-02,5/15,4.31%,SNX25;PPM1F;GSTP1;PRKCZ;CAV3
+prerank,embryonic skeletal system morphogenesis (GO:0048704),8.399748e-01,1.722646e+00,1.408451e-02,1.000000e+00,9.510000e-01,4/5,11.78%,TBX1;DYNC2I1;MEGF8;EIF4A3
+prerank,cellular response to nutrient levels (GO:0031669),7.630089e-01,1.717922e+00,2.608696e-02,1.000000e+00,9.520000e-01,2/6,4.83%,WIPI1;PDK2
+prerank,regulation of primary metabolic process (GO:0080090),7.046909e-01,1.700349e+00,1.623377e-02,1.000000e+00,9.640000e-01,7/8,25.79%,HELZ2;PSMD6;TBL1XR1;ACACB;MVD;AZIN1;BBS4
+prerank,negative regulation of NF-kappaB transcription factor activity (GO:0032088),7.626205e-01,1.689600e+00,1.183432e-02,1.000000e+00,9.720000e-01,1/6,0.61%,ANXA4
+prerank,regulation of mitotic nuclear division (GO:0007088),7.467881e-01,1.668294e+00,1.572327e-02,1.000000e+00,9.850000e-01,2/6,13.76%,NUSAP1;LCMT1
+prerank,regulation of calcium ion transport (GO:0051924),7.184924e-01,1.656685e+00,5.921053e-02,1.000000e+00,9.880000e-01,2/7,4.31%,SARAF;CAV3
+prerank,cellular metal ion homeostasis (GO:0006875),-7.674275e-01,-1.647578e+00,6.934813e-03,1.000000e+00,8.520000e-01,5/9,14.22%,ATP2A2;NEDD4L;ATP2A3;SLC12A2;SLC24A4
+prerank,blood vessel morphogenesis (GO:0048514),7.890381e-01,1.635140e+00,1.960784e-02,1.000000e+00,9.940000e-01,2/5,3.52%,TBX1;RBPJ
+prerank,regulation of pathway-restricted SMAD protein phosphorylation (GO:0060393),7.940666e-01,1.632899e+00,1.685393e-02,1.000000e+00,9.940000e-01,3/5,10.15%,SNX25;GDF15;INHBE
+prerank,regulation of innate immune response (GO:0045088),6.048276e-01,1.625962e+00,1.858736e-02,1.000000e+00,9.950000e-01,4/10,12.24%,SLC15A4;IRF1;FPR2;APPL2
+prerank,cell-cell junction organization (GO:0045216),7.601801e-01,1.621842e+00,4.054054e-02,1.000000e+00,9.950000e-01,1/5,0.13%,CDH10
+prerank,glycerophospholipid biosynthetic process (GO:0046474),-5.960626e-01,-1.599629e+00,1.226994e-02,1.000000e+00,9.720000e-01,12/26,16.96%,PIK3C2B;PEMT;PLCG2;MTMR7;DGKB;ARF1;CSNK2A1;LPIN2;RAB14;PCTP;SLC27A1;ACP6
+prerank,regulation of cellular localization (GO:0060341),7.187568e-01,1.578841e+00,3.903904e-02,1.000000e+00,1.000000e+00,2/6,13.89%,PPM1F;KIAA1614
+prerank,wound healing (GO:0042060),-8.526155e-01,-1.567947e+00,9.630819e-03,1.000000e+00,9.920000e-01,4/5,12.52%,DYSF;ANXA6;CFLAR;SCARB1
+prerank,regulation of cellular component movement (GO:0051270),7.210257e-01,1.566059e+00,4.747774e-02,1.000000e+00,1.000000e+00,2/6,10.52%,ACTN1;PKN1
+prerank,positive regulation of innate immune response (GO:0045089),6.617328e-01,1.543449e+00,5.917160e-02,1.000000e+00,1.000000e+00,4/7,17.48%,SLC15A4;LBP;FPR2;PLA2G5
+prerank,regulation of lipid metabolic process (GO:0019216),6.945320e-01,1.535113e+00,5.900621e-02,1.000000e+00,1.000000e+00,6/6,30.62%,HELZ2;TBL1XR1;ACACB;MVD;BBS4;MVK
+prerank,regulation of protein localization (GO:0032880),5.973025e-01,1.533518e+00,5.573770e-02,1.000000e+00,1.000000e+00,4/9,9.33%,DZIP1L;PPM1F;WDPCP;TRIM25
+prerank,phosphatidylcholine biosynthetic process (GO:0006656),-8.341364e-01,-1.527557e+00,8.583691e-03,1.000000e+00,9.980000e-01,5/5,16.68%,PEMT;CSNK2A1;LPIN2;PCTP;SLC27A1
+prerank,fatty acid beta-oxidation (GO:0006635),-7.851750e-01,-1.520798e+00,1.762115e-02,1.000000e+00,9.990000e-01,4/6,18.81%,ACOXL;BDH2;ACAT1;DECR2
+prerank,alpha-amino acid metabolic process (GO:1901605),-8.296856e-01,-1.520546e+00,1.380368e-02,1.000000e+00,9.990000e-01,2/5,3.02%,RIMKLB;IYD
+prerank,positive regulation of neurogenesis (GO:0050769),-7.884006e-01,-1.510465e+00,2.936858e-02,1.000000e+00,9.990000e-01,2/6,5.39%,TIAM2;FBXW8
+prerank,ameboidal-type cell migration (GO:0001667),6.562084e-01,1.499503e+00,6.129032e-02,1.000000e+00,1.000000e+00,4/7,10.52%,TBX1;SEMA4B;MEGF8;PKN1
+prerank,sphingolipid metabolic process (GO:0006665),-6.160151e-01,-1.498960e+00,3.783784e-02,1.000000e+00,1.000000e+00,8/15,22.22%,ARSA;ACER3;FA2H;CERS5;PRKD1;ENPP2;SPTLC1;GM2A
+prerank,positive regulation of cell projection organization (GO:0031346),-6.997865e-01,-1.497117e+00,3.677511e-02,1.000000e+00,1.000000e+00,4/9,19.22%,TIAM2;FBXW8;SCARB2;PRKD1
+prerank,negative regulation of ubiquitin-dependent protein catabolic process (GO:2000059),-8.087505e-01,-1.494393e+00,3.469080e-02,1.000000e+00,1.000000e+00,3/5,17.37%,CSNK2A1;PML;DDRGK1
+prerank,membrane lipid biosynthetic process (GO:0046467),-7.200672e-01,-1.487619e+00,3.323699e-02,1.000000e+00,1.000000e+00,5/8,22.11%,ACER3;FA2H;CERS5;PRKD1;SPTLC1
+prerank,Fc receptor mediated stimulatory signaling pathway (GO:0002431),-6.493990e-01,-1.487435e+00,4.341737e-02,1.000000e+00,1.000000e+00,4/11,9.91%,MYO1G;PLCG2;FYN;PTK2
+prerank,negative regulation of organelle assembly (GO:1902116),7.216877e-01,1.486127e+00,9.562842e-02,1.000000e+00,1.000000e+00,3/5,18.03%,CAV3;SEC22B;FEZ1
+prerank,positive regulation of response to biotic stimulus (GO:0002833),5.794414e-01,1.486002e+00,5.369128e-02,1.000000e+00,1.000000e+00,5/9,18.94%,SLC15A4;FPR2;USP15;OASL;PUM2
+prerank,regulation of epidermal growth factor receptor signaling pathway (GO:0042058),-7.316197e-01,-1.484708e+00,4.592593e-02,1.000000e+00,1.000000e+00,2/7,9.79%,BCAR3;PTPN2
+prerank,regulation of cytokine-mediated signaling pathway (GO:0001959),-7.649602e-01,-1.477238e+00,3.333333e-02,1.000000e+00,1.000000e+00,4/6,11.52%,RUNX1;RIPK1;PTPN2;CFLAR
+prerank,protein lipidation (GO:0006497),6.571296e-01,1.473103e+00,7.975460e-02,1.000000e+00,1.000000e+00,1/6,1.41%,WIPI1
+prerank,adherens junction organization (GO:0034332),6.639052e-01,1.472764e+00,9.726444e-02,1.000000e+00,1.000000e+00,1/6,0.13%,CDH10
+prerank,anterograde trans-synaptic signaling (GO:0098916),-5.821370e-01,-1.465555e+00,4.749340e-02,1.000000e+00,1.000000e+00,8/17,14.31%,KCNQ2;APBA2;GAD1;CHRNG;EXOC4;PRKAR1A;GABRP;APBA1
+prerank,post-Golgi vesicle-mediated transport (GO:0006892),-6.263708e-01,-1.460153e+00,3.851444e-02,1.000000e+00,1.000000e+00,5/13,14.81%,SORCS1;ARF1;CCDC93;EXOC4;RAB14
+prerank,Fc-gamma receptor signaling pathway (GO:0038094),-6.543775e-01,-1.458035e+00,5.763689e-02,1.000000e+00,1.000000e+00,4/10,9.91%,MYO1G;PLCG2;FYN;PTK2
+prerank,Fc-gamma receptor signaling pathway involved in phagocytosis (GO:0038096),-6.543775e-01,-1.458035e+00,5.763689e-02,1.000000e+00,1.000000e+00,4/10,9.91%,MYO1G;PLCG2;FYN;PTK2
+prerank,positive regulation of secretion by cell (GO:1903532),-6.745789e-01,-1.444806e+00,5.209841e-02,1.000000e+00,1.000000e+00,4/9,21.90%,ADAM9;SLC12A2;MYH10;CLASP2
+prerank,response to amyloid-beta (GO:1904645),5.948171e-01,1.441910e+00,8.143322e-02,1.000000e+00,1.000000e+00,5/8,8.65%,MMP2;ABCC1;CACNA1A;CD36;FPR2
+prerank,regulation of neuron death (GO:1901214),-6.557115e-01,-1.437220e+00,6.197183e-02,1.000000e+00,1.000000e+00,4/10,14.29%,MAP3K5;FYN;TNFRSF1B;TRIM2
+prerank,positive regulation of cell cycle (GO:0045787),-7.737204e-01,-1.434541e+00,4.836193e-02,1.000000e+00,1.000000e+00,3/5,10.92%,CCDC57;CCNY;SRPK2
+prerank,positive regulation of transferase activity (GO:0051347),-7.022230e-01,-1.427291e+00,6.774669e-02,1.000000e+00,1.000000e+00,5/7,17.79%,PKIB;NBN;IGF1R;MERTK;XRCC5
+prerank,cellular response to oxidative stress (GO:0034599),5.429997e-01,1.425796e+00,9.964413e-02,1.000000e+00,1.000000e+00,3/10,6.15%,GSTP1;PDK2;NFE2L2
+prerank,tRNA modification (GO:0006400),-7.699237e-01,-1.422811e+00,5.222734e-02,1.000000e+00,1.000000e+00,1/5,0.07%,TRDMT1
+prerank,cellular calcium ion homeostasis (GO:0006874),-6.545068e-01,-1.422690e+00,6.406685e-02,1.000000e+00,1.000000e+00,6/10,15.94%,ATP2A2;ANXA6;PML;ATP2A3;SLC24A4;WBP2NL
+prerank,endocytic recycling (GO:0032456),-6.862919e-01,-1.417835e+00,7.256894e-02,1.000000e+00,1.000000e+00,5/8,19.79%,VPS53;CCDC93;RAB14;SNX4;ACAP2
+prerank,positive regulation of kinase activity (GO:0033674),-6.648986e-01,-1.417518e+00,7.456140e-02,1.000000e+00,1.000000e+00,7/8,29.12%,PTK2;NBN;IGF1R;MERTK;XRCC5;MAPT;XRCC6
+prerank,regulation of transcription from RNA polymerase II promoter in response to hypoxia (GO:0061418),5.794058e-01,1.416889e+00,1.164179e-01,1.000000e+00,1.000000e+00,5/8,26.00%,RBPJ;NFE2L2;PSMD6;CA9;SIRT2
+prerank,protein O-linked glycosylation (GO:0006493),-6.036577e-01,-1.415957e+00,6.629834e-02,1.000000e+00,1.000000e+00,3/14,2.91%,POMT2;ST6GAL1;B3GNT7
+prerank,negative regulation of kinase activity (GO:0033673),5.925230e-01,1.415166e+00,1.212121e-01,1.000000e+00,1.000000e+00,3/8,4.31%,PPM1F;GSTP1;CAV3
+prerank,determination of left/right symmetry (GO:0007368),5.880052e-01,1.415035e+00,9.278351e-02,1.000000e+00,1.000000e+00,5/8,19.92%,TBX1;MEGF8;DNAH11;STIL;LEFTY1
+prerank,organonitrogen compound biosynthetic process (GO:1901566),-5.376904e-01,-1.413558e+00,5.602923e-02,1.000000e+00,1.000000e+00,12/24,22.11%,PEMT;ACER3;MGST2;CSNK2A1;LPIN2;MGST1;FA2H;CERS5;PCTP;SLC27A1;PRKD1;SPTLC1
+prerank,negative regulation of viral genome replication (GO:0045071),-6.675767e-01,-1.408488e+00,6.756757e-02,1.000000e+00,1.000000e+00,3/8,13.18%,APOBEC3B;SRPK2;ISG20
+prerank,regulation of macromolecule metabolic process (GO:0060255),-5.783551e-01,-1.408089e+00,8.541393e-02,1.000000e+00,1.000000e+00,7/15,18.77%,ZNF827;NFKBIZ;SCARB2;ARF1;FOXP1;UBAP2;ALPK2
+prerank,fat cell differentiation (GO:0045444),6.367251e-01,1.406315e+00,1.090343e-01,1.000000e+00,1.000000e+00,5/6,35.03%,SENP2;CTBP1;BBS4;BBS2;CTBP2
+prerank,regulation of embryonic development (GO:0045995),6.325403e-01,1.403507e+00,1.290323e-01,1.000000e+00,1.000000e+00,3/6,5.30%,CFL1;RACGAP1;WDPCP
+prerank,ribonucleoprotein complex biogenesis (GO:0022613),6.310217e-01,1.403400e+00,1.464968e-01,1.000000e+00,1.000000e+00,4/6,21.50%,CUL4A;RIOK2;DHX37;NVL
+prerank,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100),6.369046e-01,1.402381e+00,1.269350e-01,1.000000e+00,1.000000e+00,3/6,10.15%,RBPJ;GDF15;INHBE
+prerank,mitotic sister chromatid segregation (GO:0000070),-6.372325e-01,-1.398710e+00,7.799443e-02,1.000000e+00,1.000000e+00,4/10,9.68%,SEH1L;KNSTRN;KLHL22;CSNK2A1
+prerank,muscle organ development (GO:0007517),5.721400e-01,1.397578e+00,9.090909e-02,1.000000e+00,1.000000e+00,4/8,9.87%,TBX1;CAV3;ITGA7;SMTN
+prerank,vesicle cytoskeletal trafficking (GO:0099518),-7.350316e-01,-1.392142e+00,5.701754e-02,1.000000e+00,1.000000e+00,2/6,4.24%,MYO1G;BICDL1
+prerank,neural crest cell migration (GO:0001755),6.461677e-01,1.387355e+00,1.234568e-01,1.000000e+00,1.000000e+00,2/6,3.74%,TBX1;SEMA4B
+prerank,B cell differentiation (GO:0030183),-7.600652e-01,-1.383552e+00,7.099698e-02,1.000000e+00,1.000000e+00,3/5,11.28%,PLCG2;PTPN2;HDAC4
+prerank,chemical synaptic transmission (GO:0007268),-5.168168e-01,-1.382428e+00,7.161125e-02,1.000000e+00,1.000000e+00,9/23,14.31%,TBC1D24;KCNQ2;APBA2;GAD1;CHRNG;EXOC4;PRKAR1A;GABRP;APBA1
+prerank,cellular divalent inorganic cation homeostasis (GO:0072503),-6.894915e-01,-1.381861e+00,7.857143e-02,1.000000e+00,1.000000e+00,3/7,14.22%,ATP2A2;ATP2A3;SLC24A4
+prerank,neural crest cell development (GO:0014032),6.425559e-01,1.378937e+00,1.227545e-01,1.000000e+00,1.000000e+00,2/6,3.74%,TBX1;SEMA4B
+prerank,enzyme linked receptor protein signaling pathway (GO:0007167),-6.268799e-01,-1.378422e+00,9.915014e-02,1.000000e+00,1.000000e+00,4/9,14.55%,FYN;PTK2;IGF1R;MERTK
+prerank,calcium ion homeostasis (GO:0055074),-7.200170e-01,-1.377243e+00,7.153502e-02,1.000000e+00,1.000000e+00,3/6,14.22%,ATP2A2;ATP2A3;SLC24A4
+prerank,positive regulation of neuron death (GO:1901216),-7.401760e-01,-1.375914e+00,8.837209e-02,1.000000e+00,1.000000e+00,3/5,10.92%,MAP3K5;FYN;SRPK2
+prerank,negative regulation of intracellular signal transduction (GO:1902532),4.240502e-01,1.370877e+00,1.091703e-01,1.000000e+00,1.000000e+00,6/20,13.59%,THEM4;GSTP1;CAV3;MGRN1;ADGRG3;PPP2R5C
+prerank,positive regulation of TOR signaling (GO:0032008),-7.557373e-01,-1.368005e+00,8.898944e-02,1.000000e+00,1.000000e+00,3/5,17.40%,SEH1L;KLHL22;RHEB
+prerank,chemical homeostasis (GO:0048878),-7.509100e-01,-1.364895e+00,7.305936e-02,1.000000e+00,1.000000e+00,2/5,2.67%,ACOXL;NEDD4L
+prerank,activation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0006919),-6.763041e-01,-1.363122e+00,9.874608e-02,1.000000e+00,1.000000e+00,5/7,26.51%,RIPK1;CFLAR;ATP2A3;FAS;MAPT
+prerank,response to UV (GO:0009411),6.636620e-01,1.360742e+00,1.413043e-01,1.000000e+00,1.000000e+00,2/5,14.76%,MAPK13;AURKB
+prerank,regulation of endothelial cell migration (GO:0010594),-5.850361e-01,-1.360363e+00,1.051893e-01,1.000000e+00,1.000000e+00,6/12,19.22%,PTPRM;PTK2;SCARB1;FOXP1;SPARC;PRKD1
+prerank,glutamine family amino acid metabolic process (GO:0009064),-7.448593e-01,-1.359083e+00,7.606973e-02,1.000000e+00,1.000000e+00,2/5,8.02%,RIMKLB;DGLUCY
+prerank,regulation of cell cycle (GO:0051726),-5.172138e-01,-1.358487e+00,9.492848e-02,1.000000e+00,1.000000e+00,7/23,12.61%,DDIAS;IRF6;CSNK2A1;SRPK2;PML;MED25;NBN
+prerank,chromosome organization (GO:0051276),5.537152e-01,1.357615e+00,1.226415e-01,1.000000e+00,1.000000e+00,2/8,6.94%,NUP133;DOT1L
+prerank,folic acid-containing compound metabolic process (GO:0006760),-7.414417e-01,-1.357260e+00,9.147287e-02,1.000000e+00,1.000000e+00,3/5,15.03%,MTHFD2L;FTCD;MTHFD1L
+prerank,dendritic spine organization (GO:0097061),-6.933497e-01,-1.355080e+00,8.532934e-02,1.000000e+00,1.000000e+00,3/6,14.05%,FYN;ARF1;IGF1R
+prerank,positive regulation of protein transport (GO:0051222),-6.658480e-01,-1.353475e+00,9.587021e-02,1.000000e+00,1.000000e+00,2/7,16.15%,ADAM9;MYH10
+prerank,positive regulation of immune response (GO:0050778),5.150752e-01,1.351268e+00,1.328904e-01,1.000000e+00,1.000000e+00,3/9,8.65%,HLA-DRA;SLC15A4;FPR2
+prerank,maintenance of protein location in nucleus (GO:0051457),-6.386503e-01,-1.350631e+00,9.971510e-02,1.000000e+00,1.000000e+00,3/8,22.63%,SUN1;PML;SYNE1
+prerank,positive regulation of protein secretion (GO:0050714),-6.257161e-01,-1.350577e+00,1.167147e-01,1.000000e+00,1.000000e+00,4/9,34.23%,ADAM9;MYH10;TLR2;TMED10
+prerank,peptidyl-tyrosine phosphorylation (GO:0018108),-6.494279e-01,-1.350540e+00,9.911243e-02,1.000000e+00,1.000000e+00,4/8,20.90%,FYN;PTK2;IGF1R;ABI2
+prerank,G2/M transition of mitotic cell cycle (GO:0000086),-5.799424e-01,-1.348144e+00,1.078167e-01,1.000000e+00,1.000000e+00,2/13,1.91%,CCDC57;CCNY
+prerank,cell cycle G2/M phase transition (GO:0044839),-5.799424e-01,-1.348144e+00,1.078167e-01,1.000000e+00,1.000000e+00,2/13,1.91%,CCDC57;CCNY
+prerank,epithelium development (GO:0060429),5.110525e-01,1.347366e+00,1.180328e-01,1.000000e+00,1.000000e+00,2/10,0.61%,TBX1;ANXA4
+prerank,regulation of Wnt signaling pathway (GO:0030111),-5.862813e-01,-1.347138e+00,1.061224e-01,1.000000e+00,1.000000e+00,4/12,15.18%,CCNY;RUNX1;CSNK2A1;NKD1
+prerank,sphingolipid biosynthetic process (GO:0030148),-5.956142e-01,-1.344169e+00,1.260274e-01,1.000000e+00,1.000000e+00,5/11,22.11%,ACER3;FA2H;CERS5;PRKD1;SPTLC1
+prerank,negative regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902042),-6.832508e-01,-1.342619e+00,1.111111e-01,1.000000e+00,1.000000e+00,3/6,18.96%,RIPK1;CFLAR;FAS
+prerank,positive regulation of DNA metabolic process (GO:0051054),-6.696158e-01,-1.337695e+00,1.107872e-01,1.000000e+00,1.000000e+00,5/7,30.64%,PML;NBN;BABAM1;OTUD4;STPG4
+prerank,regulation of cardiac conduction (GO:1903779),-7.299474e-01,-1.335522e+00,9.090909e-02,1.000000e+00,1.000000e+00,2/5,11.78%,ATP2A2;ATP2A3
+prerank,regulation of protein-containing complex assembly (GO:0043254),5.464504e-01,1.333705e+00,1.514085e-01,1.000000e+00,1.000000e+00,4/9,13.90%,PRKCZ;CD36;LCMT1;SPIDR
+prerank,positive regulation of protein serine/threonine kinase activity (GO:0071902),-7.016145e-01,-1.328953e+00,1.090630e-01,1.000000e+00,1.000000e+00,2/6,16.68%,CCNY;SLC27A1
+prerank,cellular response to oxygen-containing compound (GO:1901701),3.961948e-01,1.328824e+00,9.389671e-02,1.000000e+00,1.000000e+00,5/21,7.76%,TBX1;KAT5;GSTP1;PDK2;LBP
+prerank,negative regulation of protein kinase activity (GO:0006469),5.143692e-01,1.327924e+00,1.340580e-01,1.000000e+00,1.000000e+00,3/10,4.31%,PPM1F;GSTP1;CAV3
+prerank,protein homooligomerization (GO:0051260),4.889359e-01,1.327164e+00,1.521739e-01,1.000000e+00,1.000000e+00,6/11,20.53%,APPL2;RNF213;TDO2;TRPM2;ALDH1A2;ACACB
+prerank,cellular modified amino acid biosynthetic process (GO:0042398),-6.868232e-01,-1.322593e+00,1.137725e-01,1.000000e+00,1.000000e+00,4/6,24.77%,MGST2;SLC27A1;GATM;HAGH
+prerank,sodium ion homeostasis (GO:0055078),-6.638347e-01,-1.321309e+00,1.116139e-01,1.000000e+00,1.000000e+00,5/7,32.16%,NEDD4L;SLC12A2;SCNN1A;SCNN1B;ATP1A1
+prerank,mitotic cytokinesis (GO:0000281),6.095607e-01,1.321226e+00,1.638418e-01,1.000000e+00,1.000000e+00,2/6,4.18%,RACGAP1;NUSAP1
+prerank,protein maturation (GO:0051604),-6.644267e-01,-1.320317e+00,1.219512e-01,1.000000e+00,1.000000e+00,3/7,22.38%,TSPAN14;TSPAN33;LIPT1
+prerank,negative regulation of cell death (GO:0060548),-6.245020e-01,-1.319331e+00,1.282051e-01,1.000000e+00,1.000000e+00,5/9,32.73%,FYN;TNFRSF1B;PRKD1;BECN1;WFS1
+prerank,intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630),-7.249568e-01,-1.319174e+00,1.068702e-01,1.000000e+00,1.000000e+00,2/5,11.61%,TNFRSF1B;PML
+prerank,peptidyl-tyrosine modification (GO:0018212),-7.082431e-01,-1.318513e+00,1.211656e-01,1.000000e+00,1.000000e+00,3/5,20.90%,FYN;PTK2;ABI2
+prerank,positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731),-6.730014e-01,-1.318252e+00,1.336270e-01,1.000000e+00,1.000000e+00,3/6,19.72%,PLCG2;IL23R;ENPP2
+prerank,Golgi to plasma membrane transport (GO:0006893),-6.792527e-01,-1.317547e+00,1.309148e-01,1.000000e+00,1.000000e+00,2/6,9.50%,CCDC93;EXOC4
+prerank,RNA methylation (GO:0001510),-7.204186e-01,-1.315038e+00,1.189759e-01,1.000000e+00,1.000000e+00,1/5,0.07%,TRDMT1
+prerank,extracellular structure organization (GO:0043062),-5.163121e-01,-1.314274e+00,1.586294e-01,1.000000e+00,1.000000e+00,7/20,14.61%,PAPLN;GFOD2;COL15A1;LAMA4;SH3PXD2A;NPNT;SPARC
+prerank,BMP signaling pathway (GO:0030509),6.120047e-01,1.314145e+00,1.606557e-01,1.000000e+00,1.000000e+00,4/6,19.92%,MEGF8;GDF15;USP15;LEFTY1
+prerank,cellular response to BMP stimulus (GO:0071773),6.120047e-01,1.314145e+00,1.606557e-01,1.000000e+00,1.000000e+00,4/6,19.92%,MEGF8;GDF15;USP15;LEFTY1
+prerank,icosanoid metabolic process (GO:0006690),5.578737e-01,1.309494e+00,1.644295e-01,1.000000e+00,1.000000e+00,4/8,14.72%,ABCC1;CYP4F8;PLA2G4C;FAAH
+prerank,positive regulation of cellular component organization (GO:0051130),-6.208429e-01,-1.307496e+00,1.323120e-01,1.000000e+00,1.000000e+00,5/9,21.94%,NEDD4L;RUNX1;ATP10A;IGF1R;WARS1
+prerank,regulation of endocytosis (GO:0030100),-7.111685e-01,-1.307068e+00,1.415241e-01,1.000000e+00,1.000000e+00,4/5,24.46%,NEDD4L;STON2;PRKD1;AP2S1
+prerank,positive regulation of epithelial cell proliferation (GO:0050679),5.307478e-01,1.305370e+00,1.818182e-01,1.000000e+00,1.000000e+00,3/8,10.85%,TBX1;PIK3CD;EMC10
+prerank,regulation of osteoblast differentiation (GO:0045667),-6.370331e-01,-1.303233e+00,1.485294e-01,1.000000e+00,1.000000e+00,4/7,27.01%,PTK2;NPNT;PRKD1;TRPM4
+prerank,cellular transition metal ion homeostasis (GO:0046916),5.253164e-01,1.301372e+00,1.573034e-01,1.000000e+00,1.000000e+00,2/8,2.48%,CP;ATP7B
+prerank,regulation of calcium-mediated signaling (GO:0050848),-7.096998e-01,-1.301244e+00,1.174699e-01,1.000000e+00,1.000000e+00,4/5,26.51%,PLCG2;P2RX5;BST1;MAPT
+prerank,regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902041),-6.359575e-01,-1.301052e+00,1.555556e-01,1.000000e+00,1.000000e+00,3/7,18.96%,RIPK1;CFLAR;FAS
+prerank,fatty acid oxidation (GO:0019395),-7.055794e-01,-1.299969e+00,1.067073e-01,1.000000e+00,1.000000e+00,3/5,19.31%,BDH2;ACAT1;ACSM1
+prerank,external encapsulating structure organization (GO:0045229),-5.177086e-01,-1.299631e+00,1.608752e-01,1.000000e+00,1.000000e+00,7/19,14.61%,PAPLN;GFOD2;COL15A1;LAMA4;SH3PXD2A;NPNT;SPARC
+prerank,protein deubiquitination (GO:0016579),-5.003997e-01,-1.297317e+00,1.368821e-01,1.000000e+00,1.000000e+00,11/21,32.31%,USP13;RIPK1;BABAM1;BECN1;OTUD4;SMAD2;USP35;USP45;POLB;IFIH1;UBC
+prerank,polyol metabolic process (GO:0019751),-6.524756e-01,-1.296053e+00,1.426492e-01,1.000000e+00,1.000000e+00,2/7,5.54%,INPP1;PLCG2
+prerank,inositol phosphate metabolic process (GO:0043647),-6.524756e-01,-1.296053e+00,1.426492e-01,1.000000e+00,1.000000e+00,2/7,5.54%,INPP1;PLCG2
+prerank,maintenance of blood-brain barrier (GO:0035633),-7.159404e-01,-1.293071e+00,1.255887e-01,1.000000e+00,1.000000e+00,2/5,12.76%,CLDN12;SLC12A2
+prerank,cellular response to amino acid starvation (GO:0034198),-6.286137e-01,-1.292337e+00,1.468023e-01,1.000000e+00,1.000000e+00,5/8,19.22%,SEH1L;MAP3K5;RHEB;FAS;PRKD1
+prerank,positive regulation of proteolysis (GO:0045862),-6.301999e-01,-1.291757e+00,1.600000e-01,1.000000e+00,1.000000e+00,2/7,10.18%,ADAM9;TNFRSF1B
+prerank,receptor internalization (GO:0031623),5.627288e-01,1.291514e+00,1.832298e-01,1.000000e+00,1.000000e+00,2/7,5.20%,CAV3;CD36
+prerank,positive regulation of protein kinase activity (GO:0045860),-5.769726e-01,-1.287927e+00,1.525424e-01,1.000000e+00,1.000000e+00,6/10,29.12%,PTK2;IL23R;SLC27A1;XRCC5;STRADB;XRCC6
+prerank,myofibril assembly (GO:0030239),-7.008248e-01,-1.287709e+00,1.441718e-01,1.000000e+00,1.000000e+00,4/5,28.77%,CFLAR;TMOD3;MYL2;OBSCN
+prerank,neurotransmitter transport (GO:0006836),-7.051668e-01,-1.285699e+00,1.408882e-01,1.000000e+00,1.000000e+00,2/5,14.31%,GAD1;APBA1
+prerank,organonitrogen compound catabolic process (GO:1901565),5.526002e-01,1.284572e+00,1.730205e-01,1.000000e+00,1.000000e+00,4/7,17.64%,GNPDA1;ERAP2;PLA2G5;CLN8
+prerank,positive regulation of axonogenesis (GO:0050772),-7.014787e-01,-1.284090e+00,1.307578e-01,1.000000e+00,1.000000e+00,1/5,0.87%,TIAM2
+prerank,chloride transport (GO:0006821),-5.833845e-01,-1.282465e+00,1.549498e-01,1.000000e+00,1.000000e+00,3/10,12.76%,TTYH3;GABRP;SLC12A2
+prerank,cell junction assembly (GO:0034329),5.246501e-01,1.278619e+00,2.018634e-01,1.000000e+00,1.000000e+00,1/8,0.13%,CDH10
+prerank,neuron development (GO:0048666),-5.322405e-01,-1.275761e+00,1.617251e-01,1.000000e+00,1.000000e+00,5/15,13.55%,TBC1D24;BICDL1;RUNX1;PTPRM;GPRIN1
+prerank,negative regulation of cytokine production (GO:0001818),4.018152e-01,1.275210e+00,1.456311e-01,1.000000e+00,1.000000e+00,4/20,12.24%,ANXA4;KAT5;TRIM25;APPL2
+prerank,response to metal ion (GO:0010038),-5.664525e-01,-1.273258e+00,1.664411e-01,1.000000e+00,1.000000e+00,3/11,7.31%,NEDD4L;ADAM9;NDRG1
+prerank,monocarboxylic acid transport (GO:0015718),5.202539e-01,1.271623e+00,1.740506e-01,1.000000e+00,1.000000e+00,4/8,10.18%,ABCC11;CD36;SLC16A11;SLC6A13
+prerank,positive regulation of protein phosphorylation (GO:0001934),-4.550718e-01,-1.270138e+00,1.305419e-01,1.000000e+00,1.000000e+00,12/30,19.72%,BCAR3;PLCG2;FBH1;RIPK1;PTK2;NBN;DDRGK1;XRCC5;FAS;SLCO3A1;PRKD1;ENPP2
+prerank,cellular response to peptide (GO:1901653),4.797737e-01,1.268158e+00,1.830508e-01,1.000000e+00,1.000000e+00,4/10,8.65%,ABCC1;CACNA1A;CD36;FPR2
+prerank,muscle cell differentiation (GO:0042692),6.112168e-01,1.266144e+00,2.212885e-01,1.000000e+00,1.000000e+00,1/5,0.28%,TBX1
+prerank,regulation of protein metabolic process (GO:0051246),-6.738753e-01,-1.264649e+00,1.750381e-01,1.000000e+00,1.000000e+00,1/5,2.67%,NEDD4L
+prerank,positive regulation of cell cycle process (GO:0090068),4.558399e-01,1.263062e+00,1.811847e-01,1.000000e+00,1.000000e+00,5/12,19.14%,RACGAP1;NUSAP1;XRCC3;AURKB;NSFL1C
+prerank,regulation of TOR signaling (GO:0032006),-6.306125e-01,-1.262186e+00,1.733129e-01,1.000000e+00,1.000000e+00,4/7,26.61%,SEH1L;RHEB;GNA12;FBXO9
+prerank,regulation of protein modification process (GO:0031399),-6.604272e-01,-1.259264e+00,1.943199e-01,1.000000e+00,1.000000e+00,3/6,21.94%,PTK2;PML;WARS1
+prerank,negative regulation of developmental process (GO:0051093),5.424187e-01,1.258681e+00,2.012579e-01,1.000000e+00,1.000000e+00,1/7,0.28%,TBX1
+prerank,ERAD pathway (GO:0036503),-5.682059e-01,-1.255777e+00,1.836442e-01,1.000000e+00,1.000000e+00,3/11,13.11%,POMT2;USP13;RNF175
+prerank,positive regulation of protein catabolic process (GO:0045732),-5.507304e-01,-1.254672e+00,1.805746e-01,1.000000e+00,1.000000e+00,5/12,15.18%,NEDD4L;ADAM9;CSNK2A1;TNFRSF1B;NKD1
+prerank,metal ion transport (GO:0030001),-5.977455e-01,-1.254488e+00,1.731044e-01,1.000000e+00,1.000000e+00,4/8,11.78%,NIPA2;FYN;CACNA1C;ATP2A3
+prerank,myeloid leukocyte differentiation (GO:0002573),-5.529257e-01,-1.254384e+00,1.938202e-01,1.000000e+00,1.000000e+00,3/11,12.59%,RUNX1;PML;FOXP1
+prerank,positive regulation of proteasomal protein catabolic process (GO:1901800),-6.855520e-01,-1.252814e+00,1.646154e-01,1.000000e+00,1.000000e+00,3/5,24.16%,USP13;DDRGK1;NUB1
+prerank,nuclear-transcribed mRNA catabolic process (GO:0000956),4.811330e-01,1.251752e+00,1.980831e-01,1.000000e+00,1.000000e+00,4/9,12.74%,AGO1;HELZ2;EIF4A3;XRN1
+prerank,regulation of ion transmembrane transporter activity (GO:0032412),-6.511039e-01,-1.251376e+00,1.681548e-01,1.000000e+00,1.000000e+00,3/6,9.24%,NEDD4L;UTRN;RIPK1
+prerank,regulation of JNK cascade (GO:0046328),-5.867423e-01,-1.249844e+00,1.891496e-01,1.000000e+00,1.000000e+00,3/9,14.05%,MAP3K5;RIPK1;IGF1R
+prerank,IRE1-mediated unfolded protein response (GO:0036498),6.084221e-01,1.248180e+00,2.231638e-01,1.000000e+00,1.000000e+00,2/5,9.35%,WIPI1;EXTL3
+prerank,positive regulation of epithelial cell migration (GO:0010634),-5.273246e-01,-1.246989e+00,1.906040e-01,1.000000e+00,1.000000e+00,8/13,21.90%,ADAM9;PLCG2;SCARB1;FOXP1;SPARC;PRKD1;ENPP2;CLASP2
+prerank,dicarboxylic acid metabolic process (GO:0043648),-5.811468e-01,-1.246821e+00,1.930070e-01,1.000000e+00,1.000000e+00,3/9,15.03%,MTHFD2L;DGLUCY;MTHFD1L
+prerank,protein stabilization (GO:0050821),-5.940863e-01,-1.244923e+00,1.988717e-01,1.000000e+00,1.000000e+00,1/8,3.04%,USP13
+prerank,response to cytokine (GO:0034097),-4.897262e-01,-1.243755e+00,1.772487e-01,1.000000e+00,1.000000e+00,7/18,14.90%,ADAM9;YTHDC2;RIPK1;PTPN2;HDAC4;PML;IL23R
+prerank,potassium ion transmembrane transport (GO:0071805),-5.767565e-01,-1.241485e+00,1.891892e-01,1.000000e+00,1.000000e+00,3/9,14.22%,KCNQ2;SLC12A2;SLC24A4
+prerank,ion transport (GO:0006811),-5.661841e-01,-1.241277e+00,1.809524e-01,1.000000e+00,1.000000e+00,5/10,25.55%,SLC15A3;SLC12A2;SLC24A4;VDAC2;ANO1
+prerank,positive regulation of cellular protein localization (GO:1903829),-6.190621e-01,-1.239946e+00,1.943620e-01,1.000000e+00,1.000000e+00,4/7,26.51%,FYN;TRAPPC12;DDRGK1;MAPT
+prerank,determination of bilateral symmetry (GO:0009855),5.755916e-01,1.239073e+00,2.439024e-01,1.000000e+00,1.000000e+00,4/6,19.92%,TBX1;DNAH11;STIL;LEFTY1
+prerank,skin development (GO:0043588),-6.670857e-01,-1.236551e+00,2.206790e-01,1.000000e+00,1.000000e+00,4/5,27.59%,ADAM9;FA2H;ST14;BCR
+prerank,response to endoplasmic reticulum stress (GO:0034976),-5.956367e-01,-1.236255e+00,2.041729e-01,1.000000e+00,1.000000e+00,4/8,17.37%,ATP2A2;MAP3K5;ATP2A3;DDRGK1
+prerank,axon guidance (GO:0007411),-5.488849e-01,-1.234361e+00,2.178620e-01,1.000000e+00,1.000000e+00,4/11,9.91%,PTPRM;FYN;KIF5C;PTK2
+prerank,response to amino acid starvation (GO:1990928),-5.809367e-01,-1.233742e+00,1.919192e-01,1.000000e+00,1.000000e+00,5/9,19.22%,SEH1L;MAP3K5;RHEB;FAS;PRKD1
+prerank,oxoacid metabolic process (GO:0043436),-6.440484e-01,-1.229143e+00,2.020802e-01,1.000000e+00,1.000000e+00,4/6,27.07%,MTARC2;SULT2B1;LIPT1;MTARC1
+prerank,calcium ion transport (GO:0006816),-5.218312e-01,-1.228990e+00,1.987013e-01,1.000000e+00,1.000000e+00,5/13,14.22%,ATP2A2;FYN;CACNA1C;ATP2A3;SLC24A4
+prerank,positive regulation of binding (GO:0051099),-5.568900e-01,-1.226146e+00,2.237762e-01,1.000000e+00,1.000000e+00,2/10,11.68%,SPPL3;MED25
+prerank,lymphocyte differentiation (GO:0030098),-6.470012e-01,-1.225892e+00,2.017937e-01,1.000000e+00,1.000000e+00,3/6,11.28%,PLCG2;PTPN2;HDAC4
+prerank,interstrand cross-link repair (GO:0036297),-6.587136e-01,-1.223888e+00,2.021440e-01,1.000000e+00,1.000000e+00,1/5,0.85%,FANCA
+prerank,regulation of kinase activity (GO:0043549),-6.636158e-01,-1.222771e+00,2.012480e-01,1.000000e+00,1.000000e+00,4/5,26.51%,NBN;IGF1R;MERTK;MAPT
+prerank,extrinsic apoptotic signaling pathway (GO:0097191),-6.116537e-01,-1.221103e+00,2.174556e-01,1.000000e+00,1.000000e+00,4/7,18.96%,RIPK1;TNFRSF1B;DDX47;FAS
+prerank,regulation of cellular catabolic process (GO:0031329),-6.057838e-01,-1.220887e+00,2.259970e-01,1.000000e+00,1.000000e+00,4/7,26.51%,USP13;SCARB2;DAPK2;MAPT
+prerank,regulation of heart contraction (GO:0008016),-6.137371e-01,-1.220078e+00,2.135338e-01,1.000000e+00,1.000000e+00,3/7,11.78%,ATP2A2;ASB3;ATP2A3
+prerank,positive regulation of neuron projection development (GO:0010976),-6.528950e-01,-1.217688e+00,2.009132e-01,1.000000e+00,1.000000e+00,2/5,19.22%,SCARB2;PRKD1
+prerank,cellular response to lipid (GO:0071396),4.087986e-01,1.217472e+00,2.000000e-01,1.000000e+00,1.000000e+00,4/16,7.76%,TBX1;KAT5;GSTP1;LBP
+prerank,cellular response to amyloid-beta (GO:1904646),5.135173e-01,1.216667e+00,2.305389e-01,1.000000e+00,1.000000e+00,4/7,8.65%,ABCC1;CACNA1A;CD36;FPR2
+prerank,maintenance of protein localization in organelle (GO:0072595),-6.601115e-01,-1.214115e+00,2.312404e-01,1.000000e+00,1.000000e+00,1/5,11.61%,PML
+prerank,regulation of programmed cell death (GO:0043067),-4.985539e-01,-1.212995e+00,2.097625e-01,1.000000e+00,1.000000e+00,10/16,25.88%,ACER3;NDRG1;RIPK1;ANP32A;HTATIP2;ALPK2;FAS;TP53BP2;DAPK2;MALT1
+prerank,protein K63-linked deubiquitination (GO:0070536),-6.712351e-01,-1.212030e+00,2.068429e-01,1.000000e+00,1.000000e+00,3/5,28.20%,USP13;BABAM1;OTUD4
+prerank,cellular response to peptide hormone stimulus (GO:0071375),-5.426455e-01,-1.211113e+00,2.365887e-01,1.000000e+00,1.000000e+00,2/11,10.74%,LPIN2;PRKAR1A
+prerank,negative regulation of angiogenesis (GO:0016525),-6.259729e-01,-1.209877e+00,2.269289e-01,1.000000e+00,1.000000e+00,5/6,16.92%,PTPRM;PML;SLC12A2;SPARC;EPN2
+prerank,response to tumor necrosis factor (GO:0034612),-5.402024e-01,-1.208613e+00,2.226833e-01,1.000000e+00,1.000000e+00,6/10,25.20%,ADAM9;YTHDC2;RIPK1;NPNT;NUB1;CCL16
+prerank,plasma membrane organization (GO:0007009),-5.751810e-01,-1.207399e+00,2.215657e-01,1.000000e+00,1.000000e+00,3/8,13.87%,DYSF;ANXA6;FA2H
+prerank,positive regulation of DNA repair (GO:0045739),-5.937573e-01,-1.207078e+00,2.430454e-01,1.000000e+00,1.000000e+00,2/7,2.31%,SPIRE2;FAM168A
+prerank,regulation of toll-like receptor signaling pathway (GO:0034121),5.479739e-01,1.207029e+00,2.268371e-01,1.000000e+00,1.000000e+00,3/6,12.24%,CD36;IRF1;APPL2
+prerank,adenylate cyclase-modulating G protein-coupled receptor signaling pathway (GO:0007188),4.187695e-01,1.206417e+00,2.380952e-01,1.000000e+00,1.000000e+00,4/15,12.03%,PTH2R;FPR2;CCR3;ADGRG3
+prerank,integrin-mediated signaling pathway (GO:0007229),-5.491638e-01,-1.205456e+00,2.460432e-01,1.000000e+00,1.000000e+00,3/10,19.22%,ADAM9;PTK2;PRKD1
+prerank,regulation of epithelial cell proliferation (GO:0050678),5.814112e-01,1.205077e+00,2.646240e-01,1.000000e+00,1.000000e+00,1/5,0.28%,TBX1
+prerank,positive regulation of cellular biosynthetic process (GO:0031328),-5.127415e-01,-1.204175e+00,2.247340e-01,1.000000e+00,1.000000e+00,5/14,16.90%,BCAR3;PTPN2;SCARB1;SLC27A1;POLDIP3
+prerank,cellular amino acid catabolic process (GO:0009063),-5.307579e-01,-1.203989e+00,2.365887e-01,1.000000e+00,1.000000e+00,5/11,24.25%,QDPR;GAD1;FTCD;ACAT1;HIBCH
+prerank,regulation of MAP kinase activity (GO:0043405),5.148099e-01,1.203203e+00,2.360248e-01,1.000000e+00,1.000000e+00,2/7,4.31%,GSTP1;CAV3
+prerank,regulation of macroautophagy (GO:0016241),-6.562780e-01,-1.202474e+00,2.326656e-01,1.000000e+00,1.000000e+00,3/5,17.40%,EXOC4;ATG13;RHEB
+prerank,regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032434),-6.305910e-01,-1.202225e+00,2.227343e-01,1.000000e+00,1.000000e+00,3/6,25.27%,DDRGK1;NUB1;GNA12
+prerank,selective autophagy (GO:0061912),-6.540128e-01,-1.202140e+00,2.293578e-01,1.000000e+00,1.000000e+00,4/5,32.31%,ATG13;DDRGK1;BECN1;UBC
+prerank,regulation of viral entry into host cell (GO:0046596),5.710208e-01,1.200053e+00,2.486486e-01,1.000000e+00,1.000000e+00,3/5,19.48%,LY6E;TRIM25;TRIM14
+prerank,purine ribonucleotide biosynthetic process (GO:0009152),-5.599821e-01,-1.200008e+00,2.461538e-01,1.000000e+00,1.000000e+00,3/9,23.98%,AMPD3;ACAT1;AK5
+prerank,phosphatidic acid biosynthetic process (GO:0006654),-5.959223e-01,-1.198575e+00,2.470588e-01,1.000000e+00,1.000000e+00,3/7,16.96%,DGKB;SLC27A1;ACP6
+prerank,phosphatidic acid metabolic process (GO:0046473),-5.959223e-01,-1.198575e+00,2.470588e-01,1.000000e+00,1.000000e+00,3/7,16.96%,DGKB;SLC27A1;ACP6
+prerank,response to insulin (GO:0032868),-5.992889e-01,-1.197777e+00,2.302053e-01,1.000000e+00,1.000000e+00,2/7,16.68%,LPIN2;SLC27A1
+prerank,response to lipopolysaccharide (GO:0032496),-5.083370e-01,-1.195910e+00,2.377717e-01,1.000000e+00,1.000000e+00,6/13,18.52%,ADAM9;TNFRSF1B;SCARB1;FOXP1;IL23R;CD14
+prerank,positive regulation of apoptotic process (GO:0043065),-4.197878e-01,-1.193260e+00,2.422360e-01,1.000000e+00,1.000000e+00,12/31,34.03%,TIAM2;STPG1;MAP3K5;RIPK1;SRPK2;FAS;TP53BP2;DAPK2;NGEF;OBSCN;UBC;ABR
+prerank,membrane protein proteolysis (GO:0033619),-6.440713e-01,-1.193039e+00,2.492355e-01,1.000000e+00,1.000000e+00,2/5,8.29%,ADAM9;SPPL3
+prerank,extracellular matrix organization (GO:0030198),-4.452117e-01,-1.192283e+00,2.423501e-01,1.000000e+00,1.000000e+00,7/26,14.61%,PAPLN;GFOD2;COL15A1;LAMA4;SH3PXD2A;NPNT;SPARC
+prerank,negative regulation of cytoskeleton organization (GO:0051494),5.618090e-01,1.192273e+00,2.713864e-01,1.000000e+00,1.000000e+00,1/5,4.31%,CAV3
+prerank,ubiquitin-dependent protein catabolic process (GO:0006511),3.362477e-01,1.190479e+00,1.695906e-01,1.000000e+00,1.000000e+00,13/29,19.14%,KAT5;HECW1;NFE2L2;TRIM25;RNF213;PSMD6;PPP2R5C;TBL1XR1;AURKB;UBR3;IFI27;CUL4A;NSFL1C
+prerank,metal ion homeostasis (GO:0055065),-6.142317e-01,-1.190385e+00,2.466765e-01,1.000000e+00,1.000000e+00,4/6,32.73%,SLC12A2;SCNN1A;SCNN1B;WFS1
+prerank,negative regulation of MAPK cascade (GO:0043409),5.577823e-01,1.189093e+00,2.536023e-01,1.000000e+00,1.000000e+00,2/5,4.31%,GSTP1;CAV3
+prerank,regulation of DNA binding (GO:0051101),5.413884e-01,1.188445e+00,2.558824e-01,1.000000e+00,1.000000e+00,3/6,26.00%,DOT1L;SP100;SIRT2
+prerank,autophagosome maturation (GO:0097352),-6.479125e-01,-1.188273e+00,2.531847e-01,1.000000e+00,1.000000e+00,1/5,1.87%,ATP2A2
+prerank,protein K48-linked ubiquitination (GO:0070936),-6.500596e-01,-1.186609e+00,2.625954e-01,1.000000e+00,1.000000e+00,1/5,2.67%,NEDD4L
+prerank,receptor metabolic process (GO:0043112),4.839202e-01,1.186131e+00,2.404181e-01,1.000000e+00,1.000000e+00,2/8,5.20%,SNX25;CD36
+prerank,positive regulation of phosphorylation (GO:0042327),-4.593370e-01,-1.186046e+00,2.525773e-01,1.000000e+00,1.000000e+00,9/20,18.98%,FBH1;RIPK1;PTK2;PFKFB3;NBN;IGF1R;MERTK;FAS;SLCO3A1
+prerank,ceramide metabolic process (GO:0006672),-5.758220e-01,-1.185463e+00,2.570579e-01,1.000000e+00,1.000000e+00,4/8,22.11%,ACER3;FA2H;CERS5;SPTLC1
+prerank,regulation of interleukin-12 production (GO:0032655),-5.840228e-01,-1.185395e+00,2.474074e-01,1.000000e+00,1.000000e+00,3/7,14.90%,PLCG2;FOXP1;IL23R
+prerank,regulation of cellular protein localization (GO:1903827),5.525702e-01,1.182322e+00,2.714286e-01,1.000000e+00,1.000000e+00,2/5,13.90%,PPM1F;SPIDR
+prerank,regulation of organelle assembly (GO:1902115),-5.715298e-01,-1.181356e+00,2.700000e-01,1.000000e+00,1.000000e+00,4/8,28.07%,TBC1D24;TRAPPC12;TBC1D1;RABGAP1
+prerank,negative regulation of apoptotic process (GO:0043066),3.175010e-01,1.178491e+00,1.781609e-01,1.000000e+00,1.000000e+00,6/34,5.68%,TBX1;ANXA4;CFL1;GSTP1;ERC1;FMN2
+prerank,negative regulation of cell differentiation (GO:0045596),4.720328e-01,1.178241e+00,2.680412e-01,1.000000e+00,1.000000e+00,1/10,0.28%,TBX1
+prerank,positive regulation of programmed cell death (GO:0043068),-4.282719e-01,-1.177722e+00,2.406015e-01,1.000000e+00,1.000000e+00,11/27,34.03%,TIAM2;STPG1;MAP3K5;RIPK1;HTATIP2;FAS;DAPK2;NGEF;OBSCN;UBC;ABR
+prerank,ceramide biosynthetic process (GO:0046513),-6.448070e-01,-1.176878e+00,2.366771e-01,1.000000e+00,1.000000e+00,3/5,22.11%,FA2H;CERS5;SPTLC1
+prerank,"RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)",4.731079e-01,1.175302e+00,2.465753e-01,1.000000e+00,1.000000e+00,3/8,11.78%,GCFC2;PPWD1;EIF4A3
+prerank,generation of neurons (GO:0048699),3.930666e-01,1.174153e+00,2.372263e-01,1.000000e+00,1.000000e+00,3/16,3.50%,RACGAP1;CEP85L;VXN
+prerank,regulation of proteolysis (GO:0030162),5.171455e-01,1.173580e+00,2.848485e-01,1.000000e+00,1.000000e+00,6/6,48.34%,CLN8;SERPINB13;IST1;CSTB;GSAP;FADD
+prerank,cellular response to interleukin-1 (GO:0071347),4.902816e-01,1.173248e+00,2.610063e-01,1.000000e+00,1.000000e+00,2/8,3.20%,MAPK13;IL1R1
+prerank,cellular component assembly (GO:0022607),-4.398818e-01,-1.170201e+00,2.521957e-01,1.000000e+00,1.000000e+00,11/23,34.85%,FANCA;PML;FAS;JHY;CD247;SYCP2;IL2RB;RAC2;RBBP4;LIMA1;TUBGCP2
+prerank,protein modification by small protein removal (GO:0070646),-4.468871e-01,-1.170113e+00,2.509410e-01,1.000000e+00,1.000000e+00,11/22,32.31%,USP13;RIPK1;BABAM1;BECN1;OTUD4;SMAD2;USP35;USP45;POLB;IFIH1;UBC
+prerank,actin filament polymerization (GO:0030041),-6.348238e-01,-1.169900e+00,2.642405e-01,1.000000e+00,1.000000e+00,1/5,1.63%,SPIRE2
+prerank,mitochondrion disassembly (GO:0061726),5.395041e-01,1.169638e+00,2.791411e-01,1.000000e+00,1.000000e+00,1/6,1.41%,WIPI1
+prerank,vascular endothelial growth factor receptor signaling pathway (GO:0048010),-6.000921e-01,-1.168267e+00,2.826421e-01,1.000000e+00,1.000000e+00,3/6,19.22%,FYN;PTK2;PRKD1
+prerank,positive regulation of immune effector process (GO:0002699),4.977083e-01,1.168087e+00,2.834891e-01,1.000000e+00,1.000000e+00,4/7,17.48%,HLA-DRA;LBP;APPL2;PLA2G5
+prerank,regulation of autophagy (GO:0010506),-4.552602e-01,-1.164453e+00,2.743823e-01,1.000000e+00,1.000000e+00,9/19,26.51%,USP13;TPCN1;KLHL22;EXOC4;ATG13;RHEB;PRKD1;DAPK2;MAPT
+prerank,activation of GTPase activity (GO:0090630),-4.862470e-01,-1.163666e+00,2.669221e-01,1.000000e+00,1.000000e+00,7/15,28.16%,TIAM2;GARNL3;RALGAPA2;TBC1D1;BCR;RABGAP1;NGEF
+prerank,positive regulation of response to external stimulus (GO:0032103),3.652917e-01,1.162981e+00,2.232143e-01,1.000000e+00,1.000000e+00,9/18,20.07%,PPM1F;MAPK13;ABCC1;SLC15A4;FPR2;USP15;OASL;PUM2;SETD4
+prerank,calcium-mediated signaling (GO:0019722),-5.300011e-01,-1.162630e+00,2.923729e-01,1.000000e+00,1.000000e+00,3/10,10.57%,ATP2A2;PLCG2;CACNA1C
+prerank,response to hydrogen peroxide (GO:0042542),-5.816039e-01,-1.161788e+00,2.865854e-01,1.000000e+00,1.000000e+00,4/7,9.24%,ADAM9;MAP3K5;FYN;RIPK1
+prerank,regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618),5.279887e-01,1.156563e+00,2.926136e-01,1.000000e+00,1.000000e+00,3/6,20.87%,NFE2L2;PSMD6;CA9
+prerank,ciliary basal body-plasma membrane docking (GO:0097711),-6.045256e-01,-1.156372e+00,2.725926e-01,1.000000e+00,1.000000e+00,2/6,22.42%,B9D2;CC2D2A
+prerank,nitrogen compound transport (GO:0071705),-4.941450e-01,-1.155791e+00,2.953930e-01,1.000000e+00,1.000000e+00,6/13,16.22%,SLC15A3;SCARB2;SLC12A2;SEC14L1;SLC7A6;SNX4
+prerank,protein autophosphorylation (GO:0046777),-4.844850e-01,-1.155520e+00,2.849604e-01,1.000000e+00,1.000000e+00,7/14,25.77%,RIPK1;PTK2;IGF1R;HTATIP2;PRKD1;DAPK2;MAP3K3
+prerank,regulation of anatomical structure morphogenesis (GO:0022603),4.002652e-01,1.155497e+00,2.620087e-01,1.000000e+00,1.000000e+00,3/15,1.28%,TBX1;HECW1;CFL1
+prerank,positive regulation of JNK cascade (GO:0046330),-5.776837e-01,-1.153917e+00,3.001531e-01,1.000000e+00,1.000000e+00,2/7,9.24%,MAP3K5;RIPK1
+prerank,positive regulation of cell-matrix adhesion (GO:0001954),5.163373e-01,1.153666e+00,2.890173e-01,1.000000e+00,1.000000e+00,2/6,5.20%,PPM1F;CD36
+prerank,phosphatidylcholine metabolic process (GO:0046470),-4.873580e-01,-1.153602e+00,2.783641e-01,1.000000e+00,1.000000e+00,6/14,19.72%,PEMT;CSNK2A1;LPIN2;PCTP;SLC27A1;ENPP2
+prerank,peptide metabolic process (GO:0006518),4.359355e-01,1.152589e+00,2.597865e-01,1.000000e+00,1.000000e+00,3/11,7.17%,GSTP1;ERAP2;ABCB9
+prerank,fatty acid catabolic process (GO:0009062),-5.251225e-01,-1.152452e+00,2.847411e-01,1.000000e+00,1.000000e+00,4/10,21.88%,BDH2;LPIN2;ACAT1;MCEE
+prerank,positive regulation of macromolecule metabolic process (GO:0010604),3.204210e-01,1.152245e+00,2.012195e-01,1.000000e+00,1.000000e+00,6/30,8.94%,PPM1F;AGO1;RBPJ;CD36;NFE2L2;PIK3CD
+prerank,regulation of tumor necrosis factor-mediated signaling pathway (GO:0010803),-5.958541e-01,-1.151583e+00,2.942051e-01,1.000000e+00,1.000000e+00,3/6,11.52%,RIPK1;PTPN2;CFLAR
+prerank,cellular defense response (GO:0006968),5.008183e-01,1.151266e+00,2.935484e-01,1.000000e+00,1.000000e+00,3/7,11.28%,TCIRG1;LBP;CCR3
+prerank,negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090101),5.464976e-01,1.147157e+00,2.986667e-01,1.000000e+00,1.000000e+00,1/5,1.57%,SNX25
+prerank,regulation of DNA replication (GO:0006275),-5.670113e-01,-1.146197e+00,3.139881e-01,1.000000e+00,1.000000e+00,1/7,2.46%,BCAR3
+prerank,negative regulation of protein binding (GO:0032091),-6.316617e-01,-1.145246e+00,3.017378e-01,1.000000e+00,1.000000e+00,2/5,11.78%,ATP2A2;ATP2A3
+prerank,protein import into nucleus (GO:0006606),4.981702e-01,1.144880e+00,2.786378e-01,1.000000e+00,1.000000e+00,2/7,12.24%,NUP133;APPL2
+prerank,T cell activation (GO:0042110),-5.962448e-01,-1.143999e+00,3.201821e-01,1.000000e+00,1.000000e+00,2/6,9.79%,MICB;PTPN2
+prerank,negative regulation of apoptotic signaling pathway (GO:2001234),-5.992527e-01,-1.143380e+00,3.057607e-01,1.000000e+00,1.000000e+00,3/6,11.52%,RIPK1;CSNK2A1;CFLAR
+prerank,cellular nitrogen compound biosynthetic process (GO:0044271),-6.340718e-01,-1.142690e+00,3.213213e-01,1.000000e+00,1.000000e+00,4/5,27.07%,ACER3;MTARC2;SPTLC1;MTARC1
+prerank,phosphatidylinositol 3-kinase signaling (GO:0014065),-6.362652e-01,-1.142382e+00,3.001555e-01,1.000000e+00,1.000000e+00,2/5,14.05%,PIK3C2B;IGF1R
+prerank,negative regulation of viral process (GO:0048525),-5.101773e-01,-1.142151e+00,3.089080e-01,1.000000e+00,1.000000e+00,3/10,13.18%,SRPK2;PML;ISG20
+prerank,negative regulation of epidermal growth factor receptor signaling pathway (GO:0042059),-6.160664e-01,-1.142059e+00,2.957317e-01,1.000000e+00,1.000000e+00,1/5,9.79%,PTPN2
+prerank,establishment of protein localization to organelle (GO:0072594),4.933468e-01,1.140094e+00,3.217666e-01,1.000000e+00,1.000000e+00,2/7,12.24%,NUP133;APPL2
+prerank,regulation of phosphorylation (GO:0042325),-5.081813e-01,-1.139774e+00,3.154173e-01,1.000000e+00,1.000000e+00,3/11,11.61%,SEH1L;PTK2;PML
+prerank,positive regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043280),-4.935443e-01,-1.139371e+00,3.197756e-01,1.000000e+00,1.000000e+00,7/12,26.51%,MAP3K5;RIPK1;CFLAR;ATP2A3;FAS;MALT1;MAPT
+prerank,cellular macromolecule catabolic process (GO:0044265),-5.946545e-01,-1.139351e+00,3.059361e-01,1.000000e+00,1.000000e+00,4/6,31.01%,RIPK1;ISG20;RNASET2;DNASE1L3
+prerank,regulation of stress fiber assembly (GO:0051492),5.570260e-01,1.138562e+00,3.138889e-01,1.000000e+00,1.000000e+00,1/5,1.81%,PPM1F
+prerank,antigen receptor-mediated signaling pathway (GO:0050851),-4.809723e-01,-1.138021e+00,3.228883e-01,1.000000e+00,1.000000e+00,4/14,8.29%,NFKBIZ;PLCG2;FYN;SPPL3
+prerank,positive regulation of RIG-I signaling pathway (GO:1900246),5.418441e-01,1.135058e+00,3.027778e-01,1.000000e+00,1.000000e+00,3/5,18.94%,USP15;OASL;PUM2
+prerank,positive regulation of intracellular signal transduction (GO:1902533),-3.768825e-01,-1.134813e+00,2.718786e-01,1.000000e+00,1.000000e+00,14/47,19.22%,BCAR3;SEH1L;PLCG2;KSR1;FYN;P2RX5;RIPK1;PTK2;CFLAR;APOL3;IGF1R;RHEB;CD14;PRKD1
+prerank,mitotic nuclear division (GO:0140014),-5.315371e-01,-1.134578e+00,3.248227e-01,1.000000e+00,1.000000e+00,4/9,21.90%,KNSTRN;KLHL22;STAG1;CLASP2
+prerank,T cell receptor signaling pathway (GO:0050852),-4.978221e-01,-1.133752e+00,3.230337e-01,1.000000e+00,1.000000e+00,4/12,8.29%,NFKBIZ;PLCG2;FYN;SPPL3
+prerank,myeloid cell differentiation (GO:0030099),-5.912872e-01,-1.132922e+00,3.323171e-01,1.000000e+00,1.000000e+00,2/6,9.79%,RUNX1;PTPN2
+prerank,regulation of ubiquitin-dependent protein catabolic process (GO:2000058),-5.656516e-01,-1.131337e+00,3.298193e-01,1.000000e+00,1.000000e+00,5/7,25.27%,CSNK2A1;PTK2;PML;NUB1;GNA12
+prerank,cell-matrix adhesion (GO:0007160),3.813245e-01,1.129842e+00,2.851406e-01,1.000000e+00,1.000000e+00,3/15,5.48%,ACTN1;BCAM;ITGA7
+prerank,neuron migration (GO:0001764),5.184128e-01,1.129787e+00,3.212121e-01,1.000000e+00,1.000000e+00,1/6,2.20%,CEP85L
+prerank,O-glycan processing (GO:0016266),-5.335019e-01,-1.128824e+00,3.183099e-01,1.000000e+00,1.000000e+00,2/9,2.91%,ST6GAL1;B3GNT7
+prerank,pyruvate metabolic process (GO:0006090),-6.111520e-01,-1.128429e+00,3.333333e-01,1.000000e+00,1.000000e+00,4/5,36.97%,PFKL;HAGH;ME3;PFKFB2
+prerank,mitotic cell cycle phase transition (GO:0044772),-4.386174e-01,-1.128336e+00,3.039092e-01,1.000000e+00,1.000000e+00,5/20,22.20%,CCDC57;CCNY;PPP2R2A;CLASP2;TACC3
+prerank,negative regulation of tumor necrosis factor production (GO:0032720),5.086278e-01,1.126803e+00,3.343558e-01,1.000000e+00,1.000000e+00,2/6,7.76%,GSTP1;LBP
+prerank,negative regulation of tumor necrosis factor superfamily cytokine production (GO:1903556),5.086278e-01,1.126803e+00,3.343558e-01,1.000000e+00,1.000000e+00,2/6,7.76%,GSTP1;LBP
+prerank,neuron projection development (GO:0031175),-4.629462e-01,-1.126134e+00,3.250653e-01,1.000000e+00,1.000000e+00,4/15,13.55%,TBC1D24;BICDL1;PTPRM;GPRIN1
+prerank,phosphatidylinositol biosynthetic process (GO:0006661),-4.689493e-01,-1.126082e+00,3.196286e-01,1.000000e+00,1.000000e+00,6/16,16.68%,PIK3C2B;PLCG2;MTMR7;ARF1;RAB14;SLC27A1
+prerank,phosphatidylinositol metabolic process (GO:0046488),-4.519468e-01,-1.125724e+00,3.255208e-01,1.000000e+00,1.000000e+00,6/18,16.68%,PIK3C2B;PLCG2;MTMR7;ARF1;RAB14;SLC27A1
+prerank,regulation of BMP signaling pathway (GO:0030510),5.464591e-01,1.124068e+00,3.211009e-01,1.000000e+00,1.000000e+00,1/5,3.52%,RBPJ
+prerank,peptidyl-threonine modification (GO:0018210),-5.790922e-01,-1.123668e+00,3.376812e-01,1.000000e+00,1.000000e+00,3/6,23.50%,CSNK2A1;PRKD1;GALNT1
+prerank,regulation of cell population proliferation (GO:0042127),-3.536973e-01,-1.122335e+00,2.748603e-01,1.000000e+00,1.000000e+00,25/66,30.38%,IRF6;ACER3;RUNX1;KSR1;SHANK2;CSNK2A1;PTPN2;PTK2;SRPK2;HDAC4;PML;IGF1R;ADGRG1;CLMN;DDRGK1;XRCC5;SULT2B1;WARS1;MELTF;LIFR;BST1;TRPM4;XRCC6;DRD2;ADARB1
+prerank,smoothened signaling pathway (GO:0007224),-6.128086e-01,-1.121560e+00,3.348837e-01,1.000000e+00,1.000000e+00,3/5,22.42%,IFT27;GLI3;CC2D2A
+prerank,positive regulation of lamellipodium organization (GO:1902745),-6.244693e-01,-1.121254e+00,3.368741e-01,1.000000e+00,1.000000e+00,4/5,32.64%,ENPP2;ABI2;AUTS2;RAC2
+prerank,protein-containing complex subunit organization (GO:0043933),-4.748216e-01,-1.121038e+00,3.273728e-01,1.000000e+00,1.000000e+00,6/13,28.99%,FANCA;SEH1L;PML;FAS;CD247;IL2RB
+prerank,regulation of protein secretion (GO:0050708),-4.765882e-01,-1.117874e+00,3.374317e-01,1.000000e+00,1.000000e+00,4/13,16.15%,ADAM9;CACNA1C;SLC12A2;MYH10
+prerank,skeletal system development (GO:0001501),-5.446054e-01,-1.117827e+00,3.563218e-01,1.000000e+00,1.000000e+00,7/8,41.34%,DDRGK1;EXT1;HAPLN2;NPR3;CDH11;ANKRD11;ZBTB16
+prerank,negative regulation of programmed cell death (GO:0043069),3.319604e-01,1.115832e+00,2.727273e-01,1.000000e+00,1.000000e+00,5/24,5.68%,ANXA4;CFL1;GSTP1;ERC1;FMN2
+prerank,fatty acid derivative biosynthetic process (GO:1901570),-6.180608e-01,-1.113477e+00,3.557549e-01,1.000000e+00,1.000000e+00,3/5,26.07%,BDH2;ACAT1;BDH1
+prerank,protein tetramerization (GO:0051262),4.454446e-01,1.111593e+00,3.183391e-01,1.000000e+00,1.000000e+00,5/9,20.53%,APPL2;TDO2;TRPM2;ALDH1A2;ACACB
+prerank,protein homotetramerization (GO:0051289),4.454446e-01,1.111593e+00,3.183391e-01,1.000000e+00,1.000000e+00,5/9,20.53%,APPL2;TDO2;TRPM2;ALDH1A2;ACACB
+prerank,positive regulation of actin filament polymerization (GO:0030838),-6.072756e-01,-1.111360e+00,3.680241e-01,1.000000e+00,1.000000e+00,1/5,1.63%,SPIRE2
+prerank,protein localization to plasma membrane (GO:0072659),-4.381568e-01,-1.111166e+00,3.288948e-01,1.000000e+00,1.000000e+00,4/17,10.61%,TSPAN14;RAB40B;TSPAN33;ASB3
+prerank,regulation of transforming growth factor beta receptor signaling pathway (GO:0017015),5.013468e-01,1.108325e+00,3.487032e-01,1.000000e+00,1.000000e+00,1/6,1.57%,SNX25
+prerank,positive regulation of cell morphogenesis involved in differentiation (GO:0010770),-6.072294e-01,-1.107811e+00,3.586098e-01,1.000000e+00,1.000000e+00,1/5,5.39%,FBXW8
+prerank,regulation of neuron apoptotic process (GO:0043523),-5.602521e-01,-1.105508e+00,3.549383e-01,1.000000e+00,1.000000e+00,5/7,39.73%,SRPK2;TRIM2;WFS1;LGMN;PRKCG
+prerank,positive regulation of cell death (GO:0010942),-5.222619e-01,-1.105409e+00,3.541667e-01,1.000000e+00,1.000000e+00,4/9,15.44%,MAP3K5;FYN;RIPK1;HTATIP2
+prerank,regulation of toll-like receptor 4 signaling pathway (GO:0034143),5.334974e-01,1.104330e+00,3.516820e-01,1.000000e+00,1.000000e+00,3/5,20.39%,LBP;APPL2;RAB7B
+prerank,heart morphogenesis (GO:0003007),5.119777e-01,1.104284e+00,3.476923e-01,1.000000e+00,1.000000e+00,2/6,4.70%,TBX1;MEGF8
+prerank,histone deacetylation (GO:0016575),-5.999750e-01,-1.101822e+00,3.779904e-01,1.000000e+00,1.000000e+00,3/5,23.05%,RCOR1;HDAC4;MTA3
+prerank,protein deacetylation (GO:0006476),-5.999750e-01,-1.101822e+00,3.779904e-01,1.000000e+00,1.000000e+00,3/5,23.05%,RCOR1;HDAC4;MTA3
+prerank,actin filament-based transport (GO:0099515),-6.069591e-01,-1.101720e+00,3.508501e-01,1.000000e+00,1.000000e+00,1/5,3.94%,MYO1G
+prerank,lipid homeostasis (GO:0055088),-5.776970e-01,-1.099817e+00,3.707692e-01,1.000000e+00,1.000000e+00,1/6,1.26%,ACOXL
+prerank,positive regulation of cilium assembly (GO:0045724),5.285397e-01,1.099105e+00,3.667622e-01,1.000000e+00,1.000000e+00,5/5,47.19%,CROCC;BBS4;CEP135;TAPT1;HTT
+prerank,positive regulation of toll-like receptor signaling pathway (GO:0034123),5.444006e-01,1.097380e+00,3.563218e-01,1.000000e+00,1.000000e+00,2/5,7.76%,SLC15A4;LBP
+prerank,regulation of organelle organization (GO:0033043),-5.510160e-01,-1.096549e+00,3.506891e-01,1.000000e+00,1.000000e+00,2/7,9.91%,SCARB2;PTK2
+prerank,carbohydrate catabolic process (GO:0016052),-5.980307e-01,-1.096472e+00,3.564669e-01,1.000000e+00,1.000000e+00,1/5,3.54%,PFKL
+prerank,regulation of extrinsic apoptotic signaling pathway (GO:2001236),-5.264715e-01,-1.096440e+00,3.748191e-01,1.000000e+00,1.000000e+00,4/8,18.96%,RIPK1;CFLAR;PML;FAS
+prerank,positive regulation of apoptotic signaling pathway (GO:2001235),-5.447868e-01,-1.095992e+00,3.582317e-01,1.000000e+00,1.000000e+00,4/7,27.18%,RIPK1;PML;FAS;BECN1
+prerank,negative regulation of sequestering of calcium ion (GO:0051283),-5.992659e-01,-1.094968e+00,3.804665e-01,1.000000e+00,1.000000e+00,2/5,10.28%,PLCG2;ANXA6
+prerank,nucleus organization (GO:0006997),-5.045700e-01,-1.094285e+00,3.638928e-01,1.000000e+00,1.000000e+00,4/9,22.63%,SUN1;SEH1L;IRAG2;SYNE1
+prerank,positive regulation of cellular catabolic process (GO:0031331),-4.433702e-01,-1.093407e+00,3.641161e-01,1.000000e+00,1.000000e+00,5/16,11.91%,ADAM9;TPCN1;TNFRSF1B;AADAC;PFKFB3
+prerank,positive regulation of endothelial cell migration (GO:0010595),-5.021728e-01,-1.092109e+00,3.540462e-01,1.000000e+00,1.000000e+00,4/9,19.22%,SCARB1;FOXP1;SPARC;PRKD1
+prerank,phospholipid transport (GO:0015914),-5.169776e-01,-1.091510e+00,3.684951e-01,1.000000e+00,1.000000e+00,5/9,15.29%,SCARB2;ATP10A;SCARB1;PCTP;SLC66A2
+prerank,regulation of peptidyl-tyrosine phosphorylation (GO:0050730),-5.108692e-01,-1.091067e+00,3.682678e-01,1.000000e+00,1.000000e+00,5/9,26.33%,PLCG2;FYN;IL23R;ENPP2;BST1
+prerank,microtubule polymerization (GO:0046785),-5.957945e-01,-1.090492e+00,3.945783e-01,1.000000e+00,1.000000e+00,4/5,34.85%,CCDC57;CLASP2;MAPT;TUBGCP2
+prerank,transcription by RNA polymerase II (GO:0006366),3.579759e-01,1.090487e+00,3.160173e-01,1.000000e+00,1.000000e+00,5/16,15.15%,RBPJ;ELP2;POU2F2;TBL1XR1;INTS8
+prerank,response to calcium ion (GO:0051592),-5.058123e-01,-1.090067e+00,3.588652e-01,1.000000e+00,1.000000e+00,2/9,5.54%,ADAM9;PLCG2
+prerank,positive regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043123),-4.486026e-01,-1.089278e+00,3.590096e-01,1.000000e+00,1.000000e+00,10/14,40.84%,RIPK1;CFLAR;APOL3;PRKD1;MAP3K3;MALT1;ANKRD17;TRIM27;TIRAP;CCR7
+prerank,iron ion transport (GO:0006826),4.882914e-01,1.087806e+00,3.750000e-01,1.000000e+00,1.000000e+00,2/7,6.85%,CP;TCIRG1
+prerank,myeloid cell activation involved in immune response (GO:0002275),-5.422341e-01,-1.087223e+00,3.757396e-01,1.000000e+00,1.000000e+00,2/7,5.54%,DYSF;PLCG2
+prerank,positive regulation of viral genome replication (GO:0045070),-5.635309e-01,-1.086703e+00,3.938931e-01,1.000000e+00,1.000000e+00,3/6,32.96%,SRPK2;ADARB1;LARP1
+prerank,catecholamine metabolic process (GO:0006584),-6.038728e-01,-1.086183e+00,3.788344e-01,1.000000e+00,1.000000e+00,3/5,30.05%,COMT;SNCAIP;DRD2
+prerank,cellular response to DNA damage stimulus (GO:0006974),-3.887244e-01,-1.085598e+00,3.688725e-01,1.000000e+00,1.000000e+00,10/31,19.24%,FANCA;RAD54L;FBH1;TNFRSF1B;PML;FOXP1;NBN;RAD51B;XRCC5;XRCC2
+prerank,sister chromatid segregation (GO:0000819),-5.954410e-01,-1.084885e+00,3.964687e-01,1.000000e+00,1.000000e+00,2/5,9.11%,KNSTRN;KLHL22
+prerank,regulation of neutrophil chemotaxis (GO:0090022),-5.922906e-01,-1.084425e+00,3.931889e-01,1.000000e+00,1.000000e+00,5/5,40.84%,DAPK2;BST1;RAC2;TIRAP;CCR7
+prerank,cell morphogenesis involved in differentiation (GO:0000904),4.763782e-01,1.084028e+00,3.479730e-01,1.000000e+00,1.000000e+00,3/7,15.61%,ACTN1;NTNG2;PARVB
+prerank,protein-DNA complex assembly (GO:0065004),4.572770e-01,1.082634e+00,3.250000e-01,1.000000e+00,1.000000e+00,3/7,18.18%,CHD1L;PSMD6;CUL4A
+prerank,long-chain fatty acid metabolic process (GO:0001676),4.542182e-01,1.079030e+00,3.423729e-01,1.000000e+00,1.000000e+00,3/8,14.72%,GSTP1;PLA2G4C;FAAH
+prerank,double-strand break repair via homologous recombination (GO:0000724),-5.069276e-01,-1.077091e+00,4.019886e-01,1.000000e+00,1.000000e+00,5/9,19.24%,RAD54L;FBH1;NBN;RAD51B;XRCC2
+prerank,DNA replication (GO:0006260),4.755800e-01,1.075346e+00,3.824451e-01,1.000000e+00,1.000000e+00,2/7,9.92%,KAT5;ING5
+prerank,calcium ion transmembrane transport (GO:0070588),-4.889442e-01,-1.071648e+00,3.927614e-01,1.000000e+00,1.000000e+00,4/10,14.22%,ATP2A2;CACNA1C;ATP2A3;SLC24A4
+prerank,regulation of response to external stimulus (GO:0032101),3.915024e-01,1.071510e+00,3.690037e-01,1.000000e+00,1.000000e+00,4/12,12.24%,IL1R1;CD36;IRF1;APPL2
+prerank,ncRNA processing (GO:0034470),3.816073e-01,1.071313e+00,3.676471e-01,1.000000e+00,1.000000e+00,5/12,21.50%,AGO1;INTS8;DHX37;IMP4;NVL
+prerank,negative regulation of phosphorylation (GO:0042326),-5.381436e-01,-1.069414e+00,4.045911e-01,1.000000e+00,1.000000e+00,3/7,26.51%,HDAC4;WARS1;MAPT
+prerank,cellular lipid catabolic process (GO:0044242),-5.198127e-01,-1.067520e+00,4.242424e-01,1.000000e+00,1.000000e+00,5/8,31.51%,MGST2;LPIN2;ENPP2;AOAH;PLA2G15
+prerank,cellular response to insulin stimulus (GO:0032869),-4.500033e-01,-1.067471e+00,3.968254e-01,1.000000e+00,1.000000e+00,7/15,27.42%,BCAR3;PTPN2;LPIN2;IGF1R;SLC27A1;ZNF106;ATP6V0A4
+prerank,positive regulation of MAP kinase activity (GO:0043406),-5.593183e-01,-1.065543e+00,4.277198e-01,1.000000e+00,1.000000e+00,1/6,7.54%,MAP3K5
+prerank,plasma membrane bounded cell projection organization (GO:0120036),-4.494160e-01,-1.065165e+00,4.015748e-01,1.000000e+00,1.000000e+00,4/14,13.55%,TBC1D24;BICDL1;PTPRM;GPRIN1
+prerank,organelle fission (GO:0048285),-5.526886e-01,-1.064952e+00,4.314330e-01,1.000000e+00,1.000000e+00,2/6,17.29%,GDAP1;PEX11G
+prerank,steroid biosynthetic process (GO:0006694),-5.296210e-01,-1.064599e+00,4.134897e-01,1.000000e+00,1.000000e+00,3/7,24.33%,HSD17B3;OSBPL9;CYP27A1
+prerank,positive regulation of GTPase activity (GO:0043547),-4.020779e-01,-1.063916e+00,3.902133e-01,1.000000e+00,1.000000e+00,9/25,28.16%,TIAM2;BCAR3;GARNL3;RALGAPA2;CCL16;TBC1D1;BCR;RABGAP1;NGEF
+prerank,regulation of cell growth (GO:0001558),-4.309616e-01,-1.063396e+00,4.064603e-01,1.000000e+00,1.000000e+00,6/16,27.88%,KLHL22;CSNK2A1;PML;MYL2;MELTF;AKAP6
+prerank,regulation of T cell activation (GO:0050863),5.158773e-01,1.063256e+00,3.653846e-01,1.000000e+00,1.000000e+00,1/5,1.74%,TNFSF8
+prerank,actomyosin structure organization (GO:0031032),-5.573275e-01,-1.063153e+00,4.393701e-01,1.000000e+00,1.000000e+00,4/6,38.68%,TMOD3;MYH10;OBSCN;ARRB1
+prerank,carboxylic acid transport (GO:0046942),4.850298e-01,1.062226e+00,3.511905e-01,1.000000e+00,1.000000e+00,3/6,10.18%,SLC15A4;SLC16A11;SLC6A13
+prerank,sensory perception of sound (GO:0007605),5.244906e-01,1.061546e+00,3.620178e-01,1.000000e+00,1.000000e+00,1/5,0.28%,TBX1
+prerank,sensory perception of mechanical stimulus (GO:0050954),5.244906e-01,1.061546e+00,3.620178e-01,1.000000e+00,1.000000e+00,1/5,0.28%,TBX1
+prerank,proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161),2.876445e-01,1.060794e+00,4.000000e-01,1.000000e+00,1.000000e+00,14/34,19.14%,KAT5;HECW1;NFE2L2;TRIM25;DNAJC18;PSMD6;PPP2R5C;TBL1XR1;AURKB;FBXL2;UBR3;IFI27;CUL4A;NSFL1C
+prerank,potassium ion transport (GO:0006813),-5.311076e-01,-1.059587e+00,3.936652e-01,1.000000e+00,1.000000e+00,2/7,14.22%,KCNQ2;SLC24A4
+prerank,inositol lipid-mediated signaling (GO:0048017),-5.101591e-01,-1.058863e+00,4.235808e-01,1.000000e+00,1.000000e+00,2/8,14.05%,PIK3C2B;IGF1R
+prerank,regulation of viral genome replication (GO:0045069),-4.697219e-01,-1.058655e+00,4.203730e-01,1.000000e+00,1.000000e+00,5/11,32.96%,SRPK2;ISG20;ADARB1;IFIH1;LARP1
+prerank,cation transmembrane transport (GO:0098655),5.075620e-01,1.058447e+00,3.850746e-01,1.000000e+00,1.000000e+00,3/5,19.98%,TRPM1;TRPM2;MFSD12
+prerank,macrophage activation (GO:0042116),-4.973142e-01,-1.057528e+00,4.160584e-01,1.000000e+00,1.000000e+00,3/9,12.59%,DYSF;PLCG2;FOXP1
+prerank,circulatory system development (GO:0072359),4.638072e-01,1.056947e+00,3.757764e-01,1.000000e+00,1.000000e+00,1/7,0.28%,TBX1
+prerank,positive regulation of cytoskeleton organization (GO:0051495),4.706559e-01,1.056323e+00,3.831776e-01,1.000000e+00,1.000000e+00,2/6,16.74%,KATNBL1;CRACD
+prerank,positive regulation of multicellular organismal process (GO:0051240),2.944126e-01,1.056120e+00,3.352601e-01,1.000000e+00,1.000000e+00,6/31,8.94%,PTH2R;CFL1;CD36;LBP;MACROH2A2;PIK3CD
+prerank,regulation of protein serine/threonine kinase activity (GO:0071900),-5.516553e-01,-1.055283e+00,4.291971e-01,1.000000e+00,1.000000e+00,2/6,16.68%,KSR1;SLC27A1
+prerank,positive regulation of cytosolic calcium ion concentration (GO:0007204),3.446115e-01,1.054718e+00,3.734940e-01,1.000000e+00,1.000000e+00,6/16,11.28%,CACNA1A;CAV3;CD36;TRPM1;FPR2;CCR3
+prerank,protein glycosylation (GO:0006486),-4.035429e-01,-1.053738e+00,4.046095e-01,1.000000e+00,1.000000e+00,2/21,2.91%,POMT2;B3GNT7
+prerank,response to ionizing radiation (GO:0010212),4.760132e-01,1.053500e+00,3.708207e-01,1.000000e+00,1.000000e+00,3/6,17.92%,KAT5;SPIDR;XRRA1
+prerank,protein polymerization (GO:0051258),-5.297571e-01,-1.052407e+00,4.314024e-01,1.000000e+00,1.000000e+00,1/7,1.63%,SPIRE2
+prerank,epithelial cell differentiation (GO:0030855),4.605226e-01,1.052364e+00,4.037267e-01,9.983512e-01,1.000000e+00,2/7,0.61%,TBX1;ANXA4
+prerank,sodium ion transport (GO:0006814),-4.732804e-01,-1.052346e+00,4.246575e-01,1.000000e+00,1.000000e+00,4/11,15.31%,NEDD4L;SLC12A2;SLC24A4;SCNN1A
+prerank,tight junction assembly (GO:0120192),-5.424219e-01,-1.052137e+00,4.371257e-01,1.000000e+00,1.000000e+00,2/6,19.76%,CLDN12;PATJ
+prerank,positive regulation of phagocytosis (GO:0050766),4.451156e-01,1.051543e+00,3.890675e-01,9.929386e-01,1.000000e+00,5/8,17.48%,FPR2;DOCK2;APPL2;C3;PLA2G5
+prerank,regulation of sodium ion transmembrane transport (GO:1902305),-5.712367e-01,-1.050040e+00,4.207317e-01,1.000000e+00,1.000000e+00,2/5,7.68%,NEDD4L;UTRN
+prerank,synaptic vesicle endocytosis (GO:0048488),4.862703e-01,1.050025e+00,3.927492e-01,9.892670e-01,1.000000e+00,5/6,24.90%,ITSN2;SYNJ2;MX2;GAK;DNM2
+prerank,cytokine-mediated signaling pathway (GO:0019221),2.650831e-01,1.049367e+00,3.362832e-01,9.835157e-01,1.000000e+00,14/53,13.40%,MMP2;CFL1;TNFSF8;HLA-DRA;IL1R1;CD36;IRF1;LBP;PIK3CD;TRIM25;CD70;APPL2;CRK;PSMD6
+prerank,positive regulation of cell cycle G1/S phase transition (GO:1902808),-5.863510e-01,-1.047779e+00,4.414125e-01,1.000000e+00,1.000000e+00,4/5,34.90%,PLCG2;DDRGK1;KMT2E;ANKRD17
+prerank,vesicle coating (GO:0006901),4.385008e-01,1.046208e+00,3.855799e-01,9.698898e-01,1.000000e+00,3/8,17.11%,MCFD2;SEC22B;SEC16B
+prerank,COPII vesicle coating (GO:0048208),4.385008e-01,1.046208e+00,3.855799e-01,9.698898e-01,1.000000e+00,3/8,17.11%,MCFD2;SEC22B;SEC16B
+prerank,"vesicle targeting, rough ER to cis-Golgi (GO:0048207)",4.385008e-01,1.046208e+00,3.855799e-01,9.698898e-01,1.000000e+00,3/8,17.11%,MCFD2;SEC22B;SEC16B
+prerank,cytoskeleton organization (GO:0007010),3.716486e-01,1.045425e+00,3.822394e-01,9.649620e-01,1.000000e+00,2/12,5.30%,CFL1;WDPCP
+prerank,gene expression (GO:0010467),-4.577547e-01,-1.043826e+00,4.101839e-01,1.000000e+00,1.000000e+00,7/12,31.20%,TSPAN14;SEH1L;TSPAN33;POLDIP3;WARS1;ADARB1;NUP50
+prerank,regulation of protein kinase activity (GO:0045859),3.900779e-01,1.041947e+00,4.000000e-01,9.673155e-01,1.000000e+00,3/12,4.31%,PPM1F;GSTP1;CAV3
+prerank,positive regulation of cell migration (GO:0030335),-4.026507e-01,-1.041550e+00,4.315515e-01,1.000000e+00,1.000000e+00,7/21,21.90%,ADAM9;PLCG2;PTK2;IGF1R;DDRGK1;ENPP2;CLASP2
+prerank,regulation of apoptotic signaling pathway (GO:2001233),-5.667659e-01,-1.041356e+00,4.583987e-01,1.000000e+00,1.000000e+00,3/5,22.48%,CSNK2A1;FAS;DAPK2
+prerank,innate immune response activating cell surface receptor signaling pathway (GO:0002220),-5.120316e-01,-1.040481e+00,4.401773e-01,1.000000e+00,1.000000e+00,4/7,29.59%,PLCG2;FYN;MALT1;MUC20
+prerank,stimulatory C-type lectin receptor signaling pathway (GO:0002223),-5.120316e-01,-1.040481e+00,4.401773e-01,1.000000e+00,1.000000e+00,4/7,29.59%,PLCG2;FYN;MALT1;MUC20
+prerank,cellular response to lectin (GO:1990858),-5.120316e-01,-1.040481e+00,4.401773e-01,1.000000e+00,1.000000e+00,4/7,29.59%,PLCG2;FYN;MALT1;MUC20
+prerank,positive regulation of viral process (GO:0048524),-5.458149e-01,-1.039758e+00,4.430956e-01,1.000000e+00,1.000000e+00,3/6,32.96%,SRPK2;ADARB1;LARP1
+prerank,nuclear export (GO:0051168),-5.685686e-01,-1.039131e+00,4.558140e-01,1.000000e+00,1.000000e+00,4/5,26.92%,POLDIP3;XPO7;MALT1;STRADB
+prerank,positive regulation of cell population proliferation (GO:0008284),-3.742015e-01,-1.038956e+00,4.081381e-01,1.000000e+00,1.000000e+00,14/31,27.94%,ACER3;SHANK2;CSNK2A1;PTK2;SRPK2;HDAC4;FOXP1;IGF1R;DDRGK1;MAP3K3;LIFR;BST1;TRPM4;C5AR1
+prerank,cellular response to chemical stress (GO:0062197),4.047737e-01,1.038849e+00,3.856655e-01,9.688139e-01,1.000000e+00,2/10,6.15%,GSTP1;NFE2L2
+prerank,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process (GO:0031146),4.939670e-01,1.038514e+00,3.868195e-01,9.626256e-01,1.000000e+00,3/5,18.18%,PSMD6;FBXL2;CUL4A
+prerank,phosphatidylinositol-mediated signaling (GO:0048015),-4.760997e-01,-1.038336e+00,4.121037e-01,1.000000e+00,1.000000e+00,2/10,14.05%,PIK3C2B;IGF1R
+prerank,negative regulation of neuron death (GO:1901215),-5.236592e-01,-1.037468e+00,4.446086e-01,1.000000e+00,1.000000e+00,4/7,39.73%,TNFRSF1B;WFS1;LGMN;PRKCG
+prerank,"nucleotide-excision repair, preincision complex assembly (GO:0006294)",4.955889e-01,1.032738e+00,3.885542e-01,9.718398e-01,1.000000e+00,1/5,1.67%,CHD1L
+prerank,positive regulation of interleukin-12 production (GO:0032735),-5.324630e-01,-1.031012e+00,4.294294e-01,1.000000e+00,1.000000e+00,5/6,40.84%,PLCG2;IL23R;TLR2;TIRAP;CCR7
+prerank,COPII-coated vesicle budding (GO:0090114),4.080396e-01,1.029001e+00,3.980583e-01,9.752530e-01,1.000000e+00,3/9,17.11%,MCFD2;SEC22B;SEC16B
+prerank,RNA splicing (GO:0008380),-5.618296e-01,-1.028457e+00,4.559505e-01,1.000000e+00,1.000000e+00,2/5,16.81%,SRPK2;DDX47
+prerank,plasma membrane invagination (GO:0099024),-5.434252e-01,-1.028379e+00,4.653614e-01,1.000000e+00,1.000000e+00,1/6,1.63%,SPIRE2
+prerank,regulation of response to biotic stimulus (GO:0002831),4.507010e-01,1.027319e+00,3.944099e-01,9.725245e-01,1.000000e+00,3/7,12.24%,CD36;IRF1;APPL2
+prerank,Fc receptor signaling pathway (GO:0038093),-5.303694e-01,-1.027071e+00,4.533333e-01,1.000000e+00,1.000000e+00,3/6,25.88%,PLCG2;MAPK10;MALT1
+prerank,Fc-epsilon receptor signaling pathway (GO:0038095),-5.303694e-01,-1.027071e+00,4.533333e-01,1.000000e+00,1.000000e+00,3/6,25.88%,PLCG2;MAPK10;MALT1
+prerank,positive regulation of stress-activated MAPK cascade (GO:0032874),-4.934538e-01,-1.026697e+00,4.528875e-01,1.000000e+00,1.000000e+00,2/8,9.24%,MAP3K5;RIPK1
+prerank,cilium assembly (GO:0060271),-3.653062e-01,-1.026419e+00,4.513064e-01,1.000000e+00,1.000000e+00,6/35,9.50%,CCDC57;IFT27;POC1B;TEKT1;B9D2;EXOC4
+prerank,cellular response to organic cyclic compound (GO:0071407),3.756240e-01,1.026310e+00,4.125874e-01,9.683795e-01,1.000000e+00,3/12,17.20%,KAT5;SPIDR;TRPM2
+prerank,negative regulation of cell cycle process (GO:0010948),-5.328596e-01,-1.026295e+00,4.544096e-01,1.000000e+00,1.000000e+00,1/6,3.78%,EED
+prerank,negative regulation of ERBB signaling pathway (GO:1901185),-5.527950e-01,-1.025646e+00,4.606061e-01,1.000000e+00,1.000000e+00,1/5,9.79%,PTPN2
+prerank,regulation of Rho protein signal transduction (GO:0035023),-4.747232e-01,-1.025282e+00,4.504881e-01,1.000000e+00,1.000000e+00,8/9,47.95%,ADGRG1;BCR;EPS8L3;ARRB1;ITGA3;ARHGEF2;MYO9B;DLC1
+prerank,regulation of ERK1 and ERK2 cascade (GO:0070372),3.197622e-01,1.024657e+00,4.045455e-01,9.664486e-01,1.000000e+00,4/19,8.65%,GSTP1;PRKCZ;CD36;FPR2
+prerank,regulation of hydrolase activity (GO:0051336),-5.094176e-01,-1.024278e+00,4.879880e-01,1.000000e+00,1.000000e+00,4/7,28.16%,SCARB2;PTK2;RABGAP1;NGEF
+prerank,regulation of cell motility (GO:2000145),3.645409e-01,1.024223e+00,4.090909e-01,9.606462e-01,1.000000e+00,5/13,18.14%,TBCCD1;PKN1;ADGRG3;CRK;TMIGD1
+prerank,proteasomal protein catabolic process (GO:0010498),3.202499e-01,1.022888e+00,3.661972e-01,9.574208e-01,1.000000e+00,9/18,19.14%,KAT5;HECW1;NFE2L2;PSMD6;PPP2R5C;TBL1XR1;IFI27;CUL4A;NSFL1C
+prerank,transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169),-3.627437e-01,-1.021981e+00,4.464501e-01,1.000000e+00,1.000000e+00,14/31,29.59%,BCAR3;FYN;PTPN2;PTK2;IGF1R;MERTK;RAB14;ANKS1B;PRKD1;AP2S1;ZNF106;ATP6V0A4;NGEF;MUC20
+prerank,MAPK cascade (GO:0000165),-4.399591e-01,-1.019722e+00,4.597701e-01,1.000000e+00,1.000000e+00,4/13,9.91%,KSR1;MAP3K5;FYN;PTK2
+prerank,regulation of angiogenesis (GO:0045765),-4.114896e-01,-1.019435e+00,4.543081e-01,1.000000e+00,1.000000e+00,7/17,21.94%,RUNX1;PTPRM;PML;SPARC;HTATIP2;PRKD1;WARS1
+prerank,negative regulation of nucleic acid-templated transcription (GO:1903507),2.738122e-01,1.018181e+00,4.444444e-01,9.633194e-01,1.000000e+00,5/37,5.91%,KAT5;GCFC2;PPM1F;RBPJ;IRF1
+prerank,cellular response to glucagon stimulus (GO:0071377),-5.625675e-01,-1.017355e+00,4.930876e-01,1.000000e+00,1.000000e+00,1/5,10.74%,PRKAR1A
+prerank,activation of protein kinase A activity (GO:0034199),-5.625675e-01,-1.017355e+00,4.930876e-01,1.000000e+00,1.000000e+00,1/5,10.74%,PRKAR1A
+prerank,response to glucagon (GO:0033762),-5.625675e-01,-1.017355e+00,4.930876e-01,1.000000e+00,1.000000e+00,1/5,10.74%,PRKAR1A
+prerank,B cell activation (GO:0042113),-4.525359e-01,-1.015925e+00,4.501385e-01,1.000000e+00,1.000000e+00,3/11,11.28%,PLCG2;PTPN2;HDAC4
+prerank,positive regulation of macromolecule biosynthetic process (GO:0010557),-4.929442e-01,-1.014986e+00,4.580925e-01,1.000000e+00,1.000000e+00,2/8,16.90%,BCAR3;POLDIP3
+prerank,positive regulation of protein metabolic process (GO:0051247),-4.545873e-01,-1.013991e+00,4.596100e-01,1.000000e+00,1.000000e+00,4/11,15.18%,NEDD4L;CSNK2A1;IL23R;NKD1
+prerank,regulation of cilium assembly (GO:1902017),-4.496159e-01,-1.013828e+00,4.673913e-01,1.000000e+00,1.000000e+00,1/11,1.96%,TBC1D24
+prerank,glycosphingolipid metabolic process (GO:0006687),-5.566067e-01,-1.013512e+00,4.657321e-01,1.000000e+00,1.000000e+00,2/5,22.22%,ARSA;GM2A
+prerank,response to molecule of bacterial origin (GO:0002237),-5.014378e-01,-1.013390e+00,4.804217e-01,1.000000e+00,1.000000e+00,3/7,18.52%,FOXP1;IL23R;CD14
+prerank,mononuclear cell differentiation (GO:1903131),4.849889e-01,1.011932e+00,4.378531e-01,9.734339e-01,1.000000e+00,5/5,51.55%,TRPM2;MYH9;IRF8;BLK;IFI16
+prerank,positive regulation of cell growth (GO:0030307),-4.524324e-01,-1.010540e+00,4.844804e-01,1.000000e+00,1.000000e+00,3/11,9.68%,NEDD4L;KLHL22;CSNK2A1
+prerank,action potential (GO:0001508),4.809930e-01,1.009453e+00,4.301370e-01,9.734222e-01,1.000000e+00,3/5,24.51%,SCN7A;KCNMB4;GNA11
+prerank,"phagocytosis, engulfment (GO:0006911)",4.835948e-01,1.009227e+00,4.314286e-01,9.674252e-01,1.000000e+00,1/5,5.20%,CD36
+prerank,phosphorylation (GO:0016310),-3.410841e-01,-1.008977e+00,4.757396e-01,1.000000e+00,1.000000e+00,14/40,27.59%,MAP3K5;FYN;DGKB;CSNK2A1;SRPK2;MERTK;MAPK10;PRKD1;DAPK2;PIK3R4;CDK8;STRADB;NEK11;BCR
+prerank,response to cholesterol (GO:0070723),-5.280498e-01,-1.008641e+00,5.000000e-01,1.000000e+00,1.000000e+00,3/6,28.40%,GRAMD1C;CES1;SMAD2
+prerank,endomembrane system organization (GO:0010256),-3.769722e-01,-1.008293e+00,4.536465e-01,1.000000e+00,1.000000e+00,7/23,22.63%,DYSF;SUN1;FBXW8;TRAPPC12;PRKD1;CLASP2;SYNE1
+prerank,regulation of inflammatory response to antigenic stimulus (GO:0002861),-4.269858e-01,-1.008145e+00,4.675676e-01,1.000000e+00,1.000000e+00,3/13,10.74%,PLCG2;FYN;PRKAR1A
+prerank,negative regulation of inflammatory response to antigenic stimulus (GO:0002862),-4.269858e-01,-1.008145e+00,4.675676e-01,1.000000e+00,1.000000e+00,3/13,10.74%,PLCG2;FYN;PRKAR1A
+prerank,cellular protein localization (GO:0034613),-3.638104e-01,-1.006161e+00,4.852217e-01,1.000000e+00,1.000000e+00,9/29,28.07%,SIL1;IFT27;ARF1;ATG13;RAB14;MESD;REEP1;TBC1D1;RABGAP1
+prerank,positive regulation of defense response (GO:0031349),3.543090e-01,1.006047e+00,4.661654e-01,9.694200e-01,1.000000e+00,4/12,8.65%,MAPK13;ABCC1;SLC15A4;FPR2
+prerank,actin filament organization (GO:0007015),-3.916791e-01,-1.004965e+00,4.606452e-01,1.000000e+00,1.000000e+00,6/20,20.90%,SPIRE2;MYO1G;TMOD3;SVIL;FAT1;ABI2
+prerank,inorganic cation transmembrane transport (GO:0098662),-3.715881e-01,-1.003197e+00,4.650000e-01,1.000000e+00,1.000000e+00,7/26,15.31%,ATP2A2;KCNQ2;CACNA1C;ATP2A3;SLC12A2;SLC24A4;SCNN1A
+prerank,regulation of protein phosphorylation (GO:0001932),-3.791219e-01,-1.002552e+00,4.796438e-01,1.000000e+00,1.000000e+00,8/23,21.94%,FYN;FBH1;RIPK1;PTK2;PML;FAS;SLCO3A1;WARS1
+prerank,determination of heart left/right asymmetry (GO:0061371),4.917115e-01,1.002022e+00,4.373089e-01,9.666318e-01,1.000000e+00,4/5,25.79%,MEGF8;STIL;TGFBR2;BBS4
+prerank,embryonic heart tube morphogenesis (GO:0003143),4.917115e-01,1.002022e+00,4.373089e-01,9.666318e-01,1.000000e+00,4/5,25.79%,MEGF8;STIL;TGFBR2;BBS4
+prerank,hemopoiesis (GO:0030097),-5.015677e-01,-1.000927e+00,4.887556e-01,1.000000e+00,1.000000e+00,1/7,4.74%,RUNX1
+prerank,DNA recombination (GO:0006310),-5.238290e-01,-1.000839e+00,5.148810e-01,1.000000e+00,1.000000e+00,4/6,19.24%,RAD54L;FBH1;RAD51B;XRCC2
+prerank,negative regulation of DNA-binding transcription factor activity (GO:0043433),3.675219e-01,1.000739e+00,4.510490e-01,9.640057e-01,1.000000e+00,1/11,0.61%,ANXA4
+prerank,RNA processing (GO:0006396),-5.015290e-01,-9.982091e-01,5.130814e-01,1.000000e+00,1.000000e+00,4/7,30.38%,SRPK2;DDX47;SF3A2;ADARB1
+prerank,amyloid fibril formation (GO:1990000),-4.601802e-01,-9.954258e-01,4.875912e-01,1.000000e+00,1.000000e+00,3/10,9.29%,TSPAN14;RIPK1;TSPAN33
+prerank,regulation of mitotic cell cycle (GO:0007346),-4.613645e-01,-9.951313e-01,4.921986e-01,1.000000e+00,1.000000e+00,1/9,1.37%,CCDC57
+prerank,regulation of gene silencing by miRNA (GO:0060964),4.169528e-01,9.944243e-01,4.627329e-01,9.750368e-01,1.000000e+00,2/8,3.24%,AGO1;NUP133
+prerank,regulation of carbohydrate catabolic process (GO:0043470),-5.430988e-01,-9.944033e-01,5.192604e-01,1.000000e+00,1.000000e+00,2/5,8.04%,SEH1L;SCARB2
+prerank,protein localization to cell periphery (GO:1990778),-4.054216e-01,-9.938538e-01,4.865229e-01,1.000000e+00,1.000000e+00,3/15,9.29%,TSPAN14;RAB40B;TSPAN33
+prerank,intracellular protein transport (GO:0006886),-3.672946e-01,-9.930023e-01,4.969250e-01,1.000000e+00,1.000000e+00,10/26,31.20%,SIL1;IFT27;ARF1;RAB14;XPO7;STRADB;TBC1D1;AKAP6;RABGAP1;NUP50
+prerank,cellular response to lipopolysaccharide (GO:0071222),-4.460765e-01,-9.919286e-01,4.780220e-01,1.000000e+00,1.000000e+00,4/10,18.52%,ADAM9;TNFRSF1B;BPI;CD14
+prerank,positive regulation of plasma membrane bounded cell projection assembly (GO:0120034),-4.244594e-01,-9.918416e-01,5.209424e-01,1.000000e+00,1.000000e+00,6/14,32.64%,PLEKHM1;ABI2;AUTS2;TENM2;EPS8L3;RAC2
+prerank,"mRNA splicing, via spliceosome (GO:0000398)",3.841828e-01,9.909356e-01,4.589041e-01,9.784102e-01,1.000000e+00,2/9,3.04%,GCFC2;PPWD1
+prerank,anion transmembrane transport (GO:0098656),4.293447e-01,9.901889e-01,4.436860e-01,9.739537e-01,1.000000e+00,4/7,21.88%,ABCC1;SLC6A13;MFSD12;SLC23A1
+prerank,muscle contraction (GO:0006936),-4.299447e-01,-9.878316e-01,5.157750e-01,1.000000e+00,1.000000e+00,4/13,12.96%,DYSF;UTRN;CHRNG;TMOD3
+prerank,retinoid metabolic process (GO:0001523),4.679599e-01,9.857039e-01,4.548105e-01,9.797374e-01,1.000000e+00,2/5,18.92%,TTR;ALDH1A2
+prerank,JNK cascade (GO:0007254),-4.952166e-01,-9.849745e-01,5.171429e-01,1.000000e+00,1.000000e+00,2/7,15.16%,MAP3K5;MAPK10
+prerank,cilium movement (GO:0003341),-5.141627e-01,-9.836106e-01,5.306748e-01,1.000000e+00,1.000000e+00,3/6,29.38%,TEKT1;DNAH5;DNAH17
+prerank,cellular response to cytokine stimulus (GO:0071345),2.633086e-01,9.834937e-01,4.367089e-01,9.796181e-01,1.000000e+00,8/39,8.94%,MMP2;MAPK13;IL1R1;CD36;IRF1;NFE2L2;LBP;PIK3CD
+prerank,"regulation of gene expression, epigenetic (GO:0040029)",-4.910563e-01,-9.822703e-01,5.221239e-01,1.000000e+00,1.000000e+00,2/7,11.28%,EED;HDAC4
+prerank,innate immune response (GO:0045087),-3.526607e-01,-9.816895e-01,5.018727e-01,1.000000e+00,1.000000e+00,12/28,31.73%,PLCG2;FYN;PTK2;SRPK2;PML;IL23R;BPI;NUB1;MALT1;TREM1;IFIH1;TLR2
+prerank,acyl-CoA metabolic process (GO:0006637),4.362595e-01,9.803073e-01,4.698413e-01,9.813834e-01,1.000000e+00,2/7,6.92%,THEM4;ACSM3
+prerank,regulation of ATP metabolic process (GO:1903578),4.803018e-01,9.800103e-01,4.537572e-01,9.760219e-01,1.000000e+00,2/5,3.24%,AK4;NUP133
+prerank,regulation of interleukin-1 beta production (GO:0032651),4.273228e-01,9.787536e-01,4.968354e-01,9.732466e-01,1.000000e+00,2/7,5.20%,GSTP1;CD36
+prerank,regulation of gene silencing by RNA (GO:0060966),4.250425e-01,9.777160e-01,4.712991e-01,9.637171e-01,1.000000e+00,2/7,3.24%,AGO1;NUP133
+prerank,regulation of posttranscriptional gene silencing (GO:0060147),4.250425e-01,9.777160e-01,4.712991e-01,9.637171e-01,1.000000e+00,2/7,3.24%,AGO1;NUP133
+prerank,negative regulation of inflammatory response (GO:0050728),-3.692143e-01,-9.766527e-01,5.087940e-01,1.000000e+00,1.000000e+00,5/23,10.74%,PLCG2;FYN;PTPN2;TNFRSF1B;PRKAR1A
+prerank,negative regulation of smoothened signaling pathway (GO:0045879),4.817647e-01,9.761506e-01,4.757576e-01,9.620580e-01,1.000000e+00,2/5,9.11%,MEGF8;MGRN1
+prerank,protein localization to membrane (GO:0072657),-3.900902e-01,-9.759959e-01,5.167336e-01,1.000000e+00,1.000000e+00,3/17,9.29%,TSPAN14;RAB40B;TSPAN33
+prerank,negative regulation of gene expression (GO:0010629),-3.600414e-01,-9.754369e-01,5.283951e-01,1.000000e+00,1.000000e+00,13/25,37.59%,EED;RUNX1;FOXP1;RBMS3;DDRGK1;NCL;MAPT;TNRC6A;LARP1;RBBP4;SAMD4B;LGMN;TRIM27
+prerank,negative regulation of macromolecule metabolic process (GO:0010605),3.445830e-01,9.744089e-01,4.909091e-01,9.608961e-01,1.000000e+00,2/13,2.02%,RIN3;AGO1
+prerank,regulation of phagocytosis (GO:0050764),-4.363032e-01,-9.733530e-01,4.978479e-01,1.000000e+00,1.000000e+00,3/10,14.55%,DYSF;SCARB1;MERTK
+prerank,regulation of cell death (GO:0010941),-4.789189e-01,-9.728467e-01,5.364431e-01,1.000000e+00,1.000000e+00,4/8,27.18%,ACER3;TNFRSF1B;PRKD1;BECN1
+prerank,regulation of cardiac muscle cell contraction (GO:0086004),-5.318327e-01,-9.709124e-01,5.390625e-01,1.000000e+00,1.000000e+00,2/5,10.57%,ATP2A2;CACNA1C
+prerank,regulation of cardiac muscle cell action potential (GO:0098901),-5.318327e-01,-9.709124e-01,5.390625e-01,1.000000e+00,1.000000e+00,2/5,10.57%,ATP2A2;CACNA1C
+prerank,positive regulation of gene expression (GO:0010628),2.605012e-01,9.704062e-01,4.807692e-01,9.656807e-01,1.000000e+00,7/36,11.78%,PPM1F;AGO1;RBPJ;CD36;NFE2L2;PIK3CD;EIF4A3
+prerank,response to lipid (GO:0033993),-4.832838e-01,-9.689709e-01,5.420290e-01,1.000000e+00,1.000000e+00,3/7,14.90%,MICB;FOXP1;IL23R
+prerank,cellular response to hypoxia (GO:0071456),3.902761e-01,9.688645e-01,4.923077e-01,9.637686e-01,1.000000e+00,3/9,13.40%,AK4;FMN2;PSMD6
+prerank,positive regulation of cellular process (GO:0048522),-3.167030e-01,-9.678272e-01,5.268571e-01,1.000000e+00,1.000000e+00,13/51,17.37%,ACER3;P2RX5;KLHL22;SHANK2;CSNK2A1;PTK2;TNFRSF1B;SRPK2;HDAC4;IGF1R;MERTK;ADGRG1;DDRGK1
+prerank,purine nucleoside bisphosphate metabolic process (GO:0034032),4.465147e-01,9.675591e-01,4.769231e-01,9.554356e-01,1.000000e+00,2/6,6.92%,THEM4;ACSM3
+prerank,ribonucleoside bisphosphate metabolic process (GO:0033875),4.465147e-01,9.675591e-01,4.769231e-01,9.554356e-01,1.000000e+00,2/6,6.92%,THEM4;ACSM3
+prerank,phospholipid translocation (GO:0045332),4.467173e-01,9.661965e-01,4.632588e-01,9.531768e-01,1.000000e+00,2/6,3.55%,ABCC1;ATP11A
+prerank,regulation of plasma membrane bounded cell projection assembly (GO:0120032),-4.368101e-01,-9.657837e-01,5.341530e-01,1.000000e+00,1.000000e+00,1/10,1.96%,TBC1D24
+prerank,mRNA processing (GO:0006397),3.518769e-01,9.651262e-01,4.918033e-01,9.502688e-01,1.000000e+00,2/12,3.04%,GCFC2;PPWD1
+prerank,regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043122),-3.812176e-01,-9.634555e-01,5.138340e-01,1.000000e+00,1.000000e+00,7/18,25.88%,PLCG2;RIPK1;CFLAR;APOL3;PRKD1;MAP3K3;MALT1
+prerank,histone modification (GO:0016570),-4.314970e-01,-9.615276e-01,5.337931e-01,1.000000e+00,1.000000e+00,3/11,11.28%,PHF20L1;RCOR1;HDAC4
+prerank,cellular response to organonitrogen compound (GO:0071417),4.018002e-01,9.598117e-01,4.952381e-01,9.588963e-01,1.000000e+00,1/8,1.87%,MAPK13
+prerank,water-soluble vitamin metabolic process (GO:0006767),3.364647e-01,9.593042e-01,5.192308e-01,9.544666e-01,1.000000e+00,8/12,24.18%,ABCC1;PDXK;NNMT;CYB5R3;GSTO2;SLC23A1;ALDH1L1;MTRR
+prerank,regulation of cell adhesion (GO:0030155),-4.995805e-01,-9.592595e-01,5.506135e-01,1.000000e+00,1.000000e+00,2/6,16.27%,PTK2;ADGRG1
+prerank,regulation of cell cycle G2/M phase transition (GO:1902749),4.586731e-01,9.577452e-01,4.970760e-01,9.525537e-01,1.000000e+00,5/5,54.18%,PPP2R1A;NINL;CEP135;SDCCAG8;NEK10
+prerank,negative regulation of T cell activation (GO:0050868),-5.211794e-01,-9.575192e-01,5.677419e-01,1.000000e+00,1.000000e+00,2/5,41.97%,CEACAM1;CD86
+prerank,regulation of glycolytic process (GO:0006110),-4.488245e-01,-9.561771e-01,5.311615e-01,1.000000e+00,1.000000e+00,3/9,11.91%,SEH1L;HDAC4;PFKFB3
+prerank,mitotic spindle organization (GO:0007052),-3.929434e-01,-9.558802e-01,5.508587e-01,1.000000e+00,1.000000e+00,4/15,21.90%,SEH1L;B9D2;STAG1;CLASP2
+prerank,positive regulation of intracellular protein transport (GO:0090316),-4.196790e-01,-9.554037e-01,5.304709e-01,1.000000e+00,1.000000e+00,3/12,19.00%,FYN;ATG13;TP53BP2
+prerank,regulated exocytosis (GO:0045055),3.153618e-01,9.548567e-01,5.116279e-01,9.544483e-01,1.000000e+00,4/15,14.03%,ACTN1;CD36;SYT12;SCIN
+prerank,positive regulation of catabolic process (GO:0009896),-4.612228e-01,-9.525197e-01,5.714286e-01,1.000000e+00,1.000000e+00,3/8,15.18%,NEDD4L;CSNK2A1;NKD1
+prerank,activation of adenylate cyclase activity (GO:0007190),4.300278e-01,9.524932e-01,5.261538e-01,9.549470e-01,1.000000e+00,6/6,57.04%,RXFP1;ADCY5;ADCY4;ADCY2;ADORA2B;ADCY9
+prerank,regulation of reactive oxygen species metabolic process (GO:2000377),-4.977064e-01,-9.504538e-01,5.672783e-01,1.000000e+00,1.000000e+00,3/6,32.64%,RIPK1;BST1;RAC2
+prerank,negative regulation of cell migration (GO:0030336),-4.104652e-01,-9.502461e-01,5.468114e-01,1.000000e+00,1.000000e+00,6/13,36.88%,ADGRG1;CLASP2;ZMYND8;DRD2;ADARB1;NAV3
+prerank,organic substance transport (GO:0071702),3.161317e-01,9.486043e-01,5.000000e-01,9.590745e-01,1.000000e+00,8/15,21.88%,ABCC11;ABCB9;CETP;CLN8;ABCA9;MFSD12;SCAMP4;SLC23A1
+prerank,monocarboxylic acid biosynthetic process (GO:0072330),-4.755708e-01,-9.472602e-01,5.795981e-01,1.000000e+00,1.000000e+00,4/7,24.33%,OSBPL9;ACSM1;GATM;CYP27A1
+prerank,actin cytoskeleton reorganization (GO:0031532),4.208859e-01,9.470708e-01,4.909091e-01,9.575670e-01,1.000000e+00,3/6,20.40%,PLEK2;PARVB;GAB1
+prerank,regulation of epithelial to mesenchymal transition (GO:0010717),-4.999990e-01,-9.469418e-01,5.838509e-01,1.000000e+00,1.000000e+00,2/6,28.40%,CLASP2;SMAD2
+prerank,chloride transmembrane transport (GO:1902476),-4.545278e-01,-9.464008e-01,5.502183e-01,1.000000e+00,1.000000e+00,3/8,25.55%,GABRP;SLC12A2;ANO1
+prerank,inorganic anion transmembrane transport (GO:0098661),-4.545278e-01,-9.464008e-01,5.502183e-01,1.000000e+00,1.000000e+00,3/8,25.55%,GABRP;SLC12A2;ANO1
+prerank,transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178),3.421965e-01,9.462931e-01,5.110294e-01,9.543064e-01,1.000000e+00,5/12,12.68%,PRKCZ;MEGF8;GDF15;APPL2;USP15
+prerank,cellular response to reactive oxygen species (GO:0034614),4.200490e-01,9.462702e-01,4.955224e-01,9.489981e-01,1.000000e+00,3/7,6.15%,MAPK13;PDK2;NFE2L2
+prerank,regulation of endothelial cell proliferation (GO:0001936),-4.827524e-01,-9.459534e-01,5.906433e-01,1.000000e+00,1.000000e+00,3/7,19.22%,PTPRM;SPARC;PRKD1
+prerank,steroid metabolic process (GO:0008202),-4.417749e-01,-9.456283e-01,5.562044e-01,1.000000e+00,1.000000e+00,3/9,24.33%,HSD17B3;SULT2B1;CYP27A1
+prerank,positive regulation of cell adhesion (GO:0045785),-4.531660e-01,-9.448985e-01,5.722628e-01,1.000000e+00,1.000000e+00,3/8,16.27%,ADAM9;NPNT;ADGRG1
+prerank,proteolysis (GO:0006508),2.858936e-01,9.446459e-01,5.395349e-01,9.476972e-01,1.000000e+00,3/23,4.91%,MMP2;ERAP2;MBTPS1
+prerank,protein processing (GO:0016485),-4.709980e-01,-9.445233e-01,5.504451e-01,1.000000e+00,1.000000e+00,4/7,44.33%,SPPL3;LGMN;CPM;ZMPSTE24
+prerank,heart development (GO:0007507),3.317086e-01,9.444969e-01,5.019920e-01,9.428706e-01,1.000000e+00,2/14,4.70%,TBX1;MEGF8
+prerank,positive regulation of protein binding (GO:0032092),-4.577741e-01,-9.442776e-01,5.812950e-01,1.000000e+00,1.000000e+00,1/8,8.29%,SPPL3
+prerank,protein polyubiquitination (GO:0000209),-3.657014e-01,-9.435176e-01,5.519897e-01,1.000000e+00,1.000000e+00,4/19,14.29%,NEDD4L;FBXW8;TPP2;TRIM2
+prerank,negative regulation of cellular macromolecule biosynthetic process (GO:2000113),2.393588e-01,9.428484e-01,6.174497e-01,9.416765e-01,1.000000e+00,5/45,5.91%,KAT5;GCFC2;PPM1F;RBPJ;IRF1
+prerank,apoptotic process (GO:0006915),2.960050e-01,9.421256e-01,5.463415e-01,9.383145e-01,1.000000e+00,4/22,7.59%,TBX1;IRF1;PRUNE2;IFI27L1
+prerank,axonemal dynein complex assembly (GO:0070286),-5.215805e-01,-9.416474e-01,5.773994e-01,1.000000e+00,1.000000e+00,4/5,45.31%,DNAH5;DNAH17;LRRC49;TTC12
+prerank,cytoplasmic microtubule organization (GO:0031122),4.577337e-01,9.414364e-01,4.954955e-01,9.349121e-01,1.000000e+00,1/5,2.33%,CLIP4
+prerank,positive regulation of ERK1 and ERK2 cascade (GO:0070374),3.327807e-01,9.411140e-01,5.204461e-01,9.306632e-01,1.000000e+00,3/12,8.65%,PRKCZ;CD36;FPR2
+prerank,aminoglycan biosynthetic process (GO:0006023),-5.170821e-01,-9.407665e-01,5.718702e-01,1.000000e+00,1.000000e+00,2/5,22.59%,B3GNT7;EXT1
+prerank,purine ribonucleotide metabolic process (GO:0009150),3.409392e-01,9.403638e-01,5.214286e-01,9.274726e-01,1.000000e+00,3/12,6.92%,AK4;THEM4;ACSM3
+prerank,cilium organization (GO:0044782),-3.489428e-01,-9.374467e-01,5.903030e-01,1.000000e+00,1.000000e+00,5/27,9.50%,CCDC57;POC1B;TEKT1;B9D2;EXOC4
+prerank,regulation of insulin secretion involved in cellular response to glucose stimulus (GO:0061178),-5.086767e-01,-9.360535e-01,5.909091e-01,1.000000e+00,1.000000e+00,2/5,27.01%,ANO1;TRPM4
+prerank,organelle assembly (GO:0070925),-3.190161e-01,-9.359482e-01,5.916955e-01,1.000000e+00,1.000000e+00,9/45,15.70%,CCDC57;ATP2A2;POC1B;TEKT1;B9D2;EXOC4;ATG13;TMOD3;DNAH5
+prerank,regulation of cytosolic calcium ion concentration (GO:0051480),3.166132e-01,9.357269e-01,5.387755e-01,9.343724e-01,1.000000e+00,5/15,11.28%,CACNA1A;CAV3;CD36;FPR2;CCR3
+prerank,membrane organization (GO:0061024),-3.488353e-01,-9.352113e-01,5.566751e-01,1.000000e+00,1.000000e+00,5/24,17.90%,DYSF;SUN1;SCARB2;EPN2;STON2
+prerank,negative regulation of extrinsic apoptotic signaling pathway (GO:2001237),-4.337746e-01,-9.351339e-01,5.875706e-01,1.000000e+00,1.000000e+00,3/9,18.96%,RIPK1;CFLAR;FAS
+prerank,regulation of vesicle-mediated transport (GO:0060627),-4.513263e-01,-9.349820e-01,5.735736e-01,1.000000e+00,1.000000e+00,4/8,26.29%,SCARB1;STON2;AP2S1;DENND10
+prerank,DNA repair (GO:0006281),-3.433369e-01,-9.349756e-01,5.598504e-01,1.000000e+00,1.000000e+00,9/26,19.24%,FANCA;RAD54L;FBH1;KDM4B;NBN;RAD51B;BABAM1;XRCC5;XRCC2
+prerank,positive regulation of cell-substrate adhesion (GO:0010811),3.633068e-01,9.341849e-01,5.587189e-01,9.333376e-01,1.000000e+00,3/10,13.03%,PPM1F;CD36;CRK
+prerank,regulation of ion transport (GO:0043269),-4.812296e-01,-9.321269e-01,5.917768e-01,1.000000e+00,1.000000e+00,1/6,2.67%,NEDD4L
+prerank,glutathione derivative biosynthetic process (GO:1901687),-5.158904e-01,-9.315507e-01,6.120556e-01,1.000000e+00,1.000000e+00,2/5,10.29%,MGST2;MGST1
+prerank,glutathione derivative metabolic process (GO:1901685),-5.158904e-01,-9.315507e-01,6.120556e-01,1.000000e+00,1.000000e+00,2/5,10.29%,MGST2;MGST1
+prerank,regulation of tumor necrosis factor production (GO:0032680),-3.688089e-01,-9.313693e-01,5.749354e-01,1.000000e+00,1.000000e+00,5/17,18.52%,PLCG2;RIPK1;FOXP1;BPI;CD14
+prerank,cell-cell junction assembly (GO:0007043),4.208204e-01,9.300075e-01,5.303030e-01,9.387607e-01,1.000000e+00,1/6,0.13%,CDH10
+prerank,positive regulation of phosphatidylinositol 3-kinase activity (GO:0043552),-5.024346e-01,-9.294688e-01,6.044304e-01,1.000000e+00,1.000000e+00,3/5,23.09%,PTK2;PRKD1;PIK3R4
+prerank,regulation of fibroblast proliferation (GO:0048145),3.950360e-01,9.285262e-01,5.160350e-01,9.373896e-01,1.000000e+00,1/7,2.96%,GSTP1
+prerank,small GTPase mediated signal transduction (GO:0007264),-4.016472e-01,-9.273572e-01,5.778961e-01,1.000000e+00,1.000000e+00,4/13,19.22%,TIAM2;KSR1;RHEB;PRKD1
+prerank,positive regulation of ion transport (GO:0043270),-4.803476e-01,-9.273241e-01,6.032448e-01,1.000000e+00,1.000000e+00,3/6,32.73%,SNX4;DRD2;WFS1
+prerank,negative regulation of cellular process (GO:0048523),-3.000398e-01,-9.266079e-01,6.002278e-01,1.000000e+00,1.000000e+00,14/54,23.70%,APOBEC3B;DYSF;IRF6;PTPN2;TNFRSF1B;ANXA6;PML;ADGRG1;CLMN;TP53BP2;PRKD1;SULT2B1;WARS1;MYL2
+prerank,sulfur compound biosynthetic process (GO:0044272),-4.267107e-01,-9.256844e-01,5.694635e-01,1.000000e+00,1.000000e+00,3/10,10.29%,B3GNT7;MGST2;MGST1
+prerank,regulation of protein binding (GO:0043393),-4.124979e-01,-9.240475e-01,5.869873e-01,1.000000e+00,1.000000e+00,2/11,11.28%,SPPL3;HDAC4
+prerank,protein phosphorylation (GO:0006468),-3.026896e-01,-9.232322e-01,5.875000e-01,1.000000e+00,1.000000e+00,20/51,28.40%,MAP3K5;FYN;RIPK1;CSNK2A1;PTK2;SRPK2;IGF1R;MERTK;MAPK10;HTATIP2;PRKD1;ABI2;DAPK2;PIK3R4;MAP3K3;CDK8;STRADB;NEK11;BCR;SMAD2
+prerank,"DNA damage response, signal transduction by p53 class mediator (GO:0030330)",-4.730087e-01,-9.229155e-01,5.939742e-01,1.000000e+00,1.000000e+00,3/6,12.61%,NDRG1;PML;NBN
+prerank,recombinational repair (GO:0000725),-4.445293e-01,-9.223710e-01,5.982533e-01,1.000000e+00,1.000000e+00,4/8,19.24%,FBH1;NBN;RAD51B;XRCC2
+prerank,lipid translocation (GO:0034204),4.620296e-01,9.214131e-01,5.224359e-01,9.497518e-01,1.000000e+00,2/5,3.55%,ABCC1;ATP11A
+prerank,response to interleukin-1 (GO:0070555),4.116243e-01,9.213738e-01,5.440252e-01,9.448532e-01,1.000000e+00,2/6,3.20%,MAPK13;IL1R1
+prerank,macromolecule catabolic process (GO:0009057),4.326662e-01,9.193028e-01,5.257143e-01,9.447294e-01,1.000000e+00,1/5,1.57%,SNX25
+prerank,plasma membrane bounded cell projection assembly (GO:0120031),-3.296472e-01,-9.191435e-01,6.236559e-01,1.000000e+00,1.000000e+00,5/33,9.50%,CCDC57;POC1B;TEKT1;B9D2;EXOC4
+prerank,regulation of epithelial cell migration (GO:0010632),-4.761903e-01,-9.190962e-01,6.179604e-01,1.000000e+00,1.000000e+00,4/6,21.90%,PLCG2;PTK2;ENPP2;CLASP2
+prerank,dendritic cell differentiation (GO:0097028),4.085264e-01,9.181802e-01,5.410334e-01,9.426479e-01,1.000000e+00,6/6,59.19%,TRPM2;TGFBR2;IRF8;BLK;DHRS2;CCR7
+prerank,regulation of apoptotic process (GO:0042981),-2.959088e-01,-9.173498e-01,6.080627e-01,1.000000e+00,1.000000e+00,17/57,22.48%,TIAM2;STPG1;NDRG1;MAP3K5;RIPK1;PTK2;ANP32A;CFLAR;IGF1R;TRIM2;HTATIP2;DDRGK1;ALPK2;FAS;TP53BP2;SPTLC1;DAPK2
+prerank,cellular protein metabolic process (GO:0044267),2.684444e-01,9.159183e-01,6.373057e-01,9.432713e-01,1.000000e+00,7/26,17.16%,MMP2;CP;MBTPS1;LCMT1;C3;FBXL2;IGFBP7
+prerank,positive regulation of protein-containing complex assembly (GO:0031334),3.611555e-01,9.143603e-01,5.298246e-01,9.420340e-01,1.000000e+00,4/9,18.18%,CHD1L;CD36;SPIDR;CUL4A
+prerank,"transcription, DNA-templated (GO:0006351)",-4.163229e-01,-9.137312e-01,5.977809e-01,1.000000e+00,1.000000e+00,4/10,33.09%,GTF3C3;GMEB2;CCNH;POLRMT
+prerank,glycoprotein biosynthetic process (GO:0009101),-4.070444e-01,-9.129550e-01,6.055556e-01,1.000000e+00,1.000000e+00,1/11,2.91%,B3GNT7
+prerank,organelle organization (GO:0006996),-3.145812e-01,-9.117939e-01,6.133960e-01,1.000000e+00,1.000000e+00,11/37,22.63%,FBXW8;KIF5C;TRAPPC12;RAB14;IRAG2;PRKD1;ZMYM4;ABI2;CLASP2;MICAL3;SYNE1
+prerank,glucose homeostasis (GO:0042593),3.340770e-01,9.114187e-01,5.393701e-01,9.439583e-01,1.000000e+00,3/11,12.24%,CAV3;PDK2;APPL2
+prerank,negative regulation of multicellular organismal process (GO:0051241),-3.782741e-01,-9.112459e-01,6.053985e-01,1.000000e+00,1.000000e+00,4/16,18.77%,LAMA4;PCTP;RHEB;ALPK2
+prerank,intrinsic apoptotic signaling pathway (GO:0097193),-4.040057e-01,-9.100164e-01,6.136986e-01,1.000000e+00,1.000000e+00,5/12,19.00%,MAP3K5;TNFRSF1B;PML;ATP2A3;TP53BP2
+prerank,positive regulation of signal transduction (GO:0009967),2.964784e-01,9.099025e-01,5.973451e-01,9.427481e-01,1.000000e+00,6/18,15.55%,TMEM108;RBPJ;PRKCZ;ING5;C3;CCBE1
+prerank,regulation of cell-matrix adhesion (GO:0001952),-4.529466e-01,-9.093661e-01,6.050296e-01,1.000000e+00,1.000000e+00,2/7,9.91%,UTRN;PTK2
+prerank,cellular response to nerve growth factor stimulus (GO:1990090),4.337361e-01,9.090018e-01,5.515152e-01,9.399736e-01,1.000000e+00,1/5,2.39%,TMEM108
+prerank,nucleotide-excision repair (GO:0006289),3.657756e-01,9.086962e-01,5.404412e-01,9.359189e-01,1.000000e+00,1/9,1.67%,CHD1L
+prerank,protein dephosphorylation (GO:0006470),-3.941569e-01,-9.079522e-01,5.965379e-01,1.000000e+00,1.000000e+00,4/12,19.01%,PTPRM;MTMR7;PTPN2;PPP2R2A
+prerank,negative regulation of cellular response to insulin stimulus (GO:1900077),4.237019e-01,9.078261e-01,5.454545e-01,9.332063e-01,1.000000e+00,2/5,12.24%,PRKCZ;APPL2
+prerank,negative regulation of transcription by RNA polymerase II (GO:0000122),-2.977220e-01,-9.076064e-01,6.146789e-01,1.000000e+00,1.000000e+00,8/50,12.78%,NEDD4L;EED;RUNX1;ZNF391;HDAC4;MED25;FOXP1;GLI3
+prerank,cognition (GO:0050890),3.934976e-01,9.069994e-01,5.753012e-01,9.306145e-01,1.000000e+00,1/7,3.00%,HLA-DRA
+prerank,interleukin-1-mediated signaling pathway (GO:0070498),4.428988e-01,9.064473e-01,5.597826e-01,9.272437e-01,1.000000e+00,2/5,13.40%,IL1R1;PSMD6
+prerank,insulin receptor signaling pathway (GO:0008286),-4.159526e-01,-9.059681e-01,6.024759e-01,1.000000e+00,1.000000e+00,5/10,27.42%,BCAR3;PTPN2;IGF1R;ZNF106;ATP6V0A4
+prerank,transepithelial transport (GO:0070633),4.227828e-01,9.059140e-01,5.446429e-01,9.240105e-01,1.000000e+00,1/5,3.18%,ABCC1
+prerank,regulation of protein autophosphorylation (GO:0031952),-4.666581e-01,-9.056822e-01,6.218236e-01,1.000000e+00,1.000000e+00,1/6,12.61%,NBN
+prerank,lipid biosynthetic process (GO:0008610),-4.097611e-01,-9.056195e-01,6.348315e-01,1.000000e+00,1.000000e+00,3/10,19.31%,ACSS2;HSD17B3;ACSM1
+prerank,positive regulation of tumor necrosis factor production (GO:0032760),-3.919925e-01,-9.032475e-01,6.161202e-01,1.000000e+00,1.000000e+00,5/12,31.73%,PLCG2;RIPK1;CD14;IFIH1;TLR2
+prerank,amide biosynthetic process (GO:0043604),-4.517740e-01,-9.022954e-01,6.189781e-01,1.000000e+00,1.000000e+00,3/7,22.11%,FA2H;CERS5;SPTLC1
+prerank,positive regulation of leukocyte mediated cytotoxicity (GO:0001912),4.475057e-01,9.019690e-01,5.501355e-01,9.283784e-01,1.000000e+00,1/5,3.00%,HLA-DRA
+prerank,signal transduction by p53 class mediator (GO:0072331),-4.717711e-01,-9.017977e-01,6.392694e-01,1.000000e+00,1.000000e+00,3/6,19.00%,NDRG1;NBN;TP53BP2
+prerank,negative regulation of cold-induced thermogenesis (GO:0120163),-4.375796e-01,-9.008719e-01,6.202186e-01,1.000000e+00,1.000000e+00,3/8,17.40%,LAMA4;PCTP;RHEB
+prerank,renal water homeostasis (GO:0003091),-4.412988e-01,-8.995296e-01,6.417266e-01,1.000000e+00,1.000000e+00,3/8,32.73%,PRKAR1A;MYO5B;WFS1
+prerank,negative regulation of immune response (GO:0050777),-3.482459e-01,-8.983676e-01,6.209573e-01,1.000000e+00,1.000000e+00,3/20,10.74%,PLCG2;FYN;PRKAR1A
+prerank,establishment of mitotic spindle localization (GO:0040001),4.323778e-01,8.979088e-01,5.680473e-01,9.332266e-01,1.000000e+00,1/5,4.18%,NUSAP1
+prerank,negative regulation of protein serine/threonine kinase activity (GO:0071901),4.463009e-01,8.968935e-01,5.626741e-01,9.312236e-01,1.000000e+00,2/5,4.31%,GSTP1;CAV3
+prerank,regulation of inflammatory response (GO:0050727),-3.441201e-01,-8.965579e-01,6.310559e-01,1.000000e+00,1.000000e+00,6/22,12.59%,NFKBIZ;MGST2;RIPK1;PTPN2;TNFRSF1B;FOXP1
+prerank,carbohydrate homeostasis (GO:0033500),3.393109e-01,8.946141e-01,5.741445e-01,9.318973e-01,1.000000e+00,3/10,12.24%,CAV3;PDK2;APPL2
+prerank,mitotic spindle assembly (GO:0090307),3.867256e-01,8.932745e-01,5.880503e-01,9.305315e-01,1.000000e+00,1/7,1.52%,RACGAP1
+prerank,cytosolic transport (GO:0016482),-3.702961e-01,-8.931537e-01,6.396277e-01,1.000000e+00,1.000000e+00,13/16,42.51%,VPS53;RAB14;SLC66A2;CCDC91;VPS13A;BECN1;TMEM87B;TRIM27;RHOBTB3;CORO7;DENND2A;GBF1;MYO1D
+prerank,Rho protein signal transduction (GO:0007266),3.717430e-01,8.929681e-01,5.912162e-01,9.268569e-01,1.000000e+00,1/8,1.28%,CFL1
+prerank,mRNA transport (GO:0051028),-4.288440e-01,-8.919968e-01,6.350365e-01,1.000000e+00,1.000000e+00,3/8,16.90%,SEH1L;KIF5C;POLDIP3
+prerank,cellular macromolecule biosynthetic process (GO:0034645),3.454906e-01,8.912348e-01,5.700000e-01,9.261563e-01,1.000000e+00,2/10,9.92%,KAT5;ING5
+prerank,peptidyl-lysine modification (GO:0018205),3.245105e-01,8.899677e-01,6.076923e-01,9.246753e-01,1.000000e+00,3/12,8.70%,KAT5;NUP133;SENP2
+prerank,cytoskeleton-dependent cytokinesis (GO:0061640),3.304690e-01,8.885966e-01,6.448276e-01,9.233583e-01,1.000000e+00,2/11,4.18%,RACGAP1;NUSAP1
+prerank,cellular protein modification process (GO:0006464),-2.714333e-01,-8.879946e-01,6.955128e-01,1.000000e+00,1.000000e+00,27/86,27.59%,B3GNT7;FBXW8;PTPRM;MAP3K5;GAD1;FYN;MTMR7;KLHL22;CSNK2A1;ASB3;SRPK2;MERTK;MAPK10;PPP2R2A;PRKD1;LIPT1;DAPK2;PIK3R4;NUB1;MELTF;CD247;FBXO9;CDK8;STRADB;NEK11;DUSP16;BCR
+prerank,double-strand break repair (GO:0006302),-3.472950e-01,-8.876121e-01,6.427640e-01,1.000000e+00,1.000000e+00,7/18,19.24%,FBH1;KDM4B;NBN;RAD51B;BABAM1;XRCC5;XRCC2
+prerank,synapse organization (GO:0050808),-3.929354e-01,-8.871031e-01,6.348774e-01,1.000000e+00,1.000000e+00,8/12,44.79%,SHANK2;PDZRN3;MAPT;C5AR1;DRD2;PTPRF;DOK7;PPFIBP2
+prerank,glycerophospholipid metabolic process (GO:0006650),3.573012e-01,8.855430e-01,5.631068e-01,9.254434e-01,1.000000e+00,5/9,23.81%,PLA2G4F;PLA2G4C;CETP;ABHD12;PLCB1
+prerank,spindle assembly (GO:0051225),-4.399759e-01,-8.847590e-01,6.439716e-01,1.000000e+00,1.000000e+00,3/7,34.85%,STAG1;CLASP2;TUBGCP2
+prerank,Golgi to endosome transport (GO:0006895),4.195668e-01,8.847388e-01,5.852273e-01,9.228747e-01,1.000000e+00,1/5,1.41%,WIPI1
+prerank,positive regulation of developmental process (GO:0051094),3.392753e-01,8.824013e-01,5.980066e-01,9.239565e-01,1.000000e+00,1/10,1.28%,CFL1
+prerank,organic acid transport (GO:0015849),3.896211e-01,8.812046e-01,5.843373e-01,9.223018e-01,1.000000e+00,2/6,10.18%,ABCC11;SLC6A13
+prerank,cellular response to starvation (GO:0009267),-3.527821e-01,-8.800700e-01,6.509186e-01,1.000000e+00,1.000000e+00,7/17,27.18%,SEH1L;MAP3K5;RHEB;FAS;PRKD1;PIK3R4;BECN1
+prerank,glycerophospholipid catabolic process (GO:0046475),3.817609e-01,8.777492e-01,5.771605e-01,9.257049e-01,1.000000e+00,4/7,21.44%,PLA2G4F;PLA2G4C;PLA2G5;ABHD12
+prerank,positive regulation of type I interferon production (GO:0032481),-4.239430e-01,-8.769313e-01,6.484490e-01,1.000000e+00,1.000000e+00,5/8,31.73%,XRCC5;CD14;XRCC6;IFIH1;TLR2
+prerank,autophagy of mitochondrion (GO:0000422),3.794706e-01,8.737503e-01,5.935484e-01,9.302168e-01,1.000000e+00,1/7,1.41%,WIPI1
+prerank,regulation of defense response (GO:0031347),3.397382e-01,8.737382e-01,6.193772e-01,9.260069e-01,1.000000e+00,3/10,12.24%,IL1R1;IRF1;APPL2
+prerank,toll-like receptor signaling pathway (GO:0002224),-3.714086e-01,-8.706071e-01,6.581769e-01,1.000000e+00,1.000000e+00,8/13,37.92%,PLCG2;RIPK1;CD14;PIK3R4;TLR2;UBC;LGMN;TIRAP
+prerank,axonogenesis (GO:0007409),-3.774299e-01,-8.700510e-01,6.693657e-01,1.000000e+00,1.000000e+00,3/13,9.91%,FYN;KIF5C;PTK2
+prerank,protein import (GO:0017038),3.600478e-01,8.684832e-01,6.143791e-01,9.332283e-01,1.000000e+00,3/8,12.24%,NUP133;SAMM50;APPL2
+prerank,secondary alcohol metabolic process (GO:1902652),-4.301986e-01,-8.684583e-01,6.505848e-01,1.000000e+00,1.000000e+00,3/7,24.33%,CES1;SULT2B1;CYP27A1
+prerank,regulation of interleukin-2 production (GO:0032663),-4.202456e-01,-8.679006e-01,6.607670e-01,1.000000e+00,1.000000e+00,2/8,5.54%,RUNX1;PLCG2
+prerank,negative regulation of fibroblast proliferation (GO:0048147),4.242228e-01,8.678091e-01,6.011561e-01,9.305725e-01,1.000000e+00,1/5,2.96%,GSTP1
+prerank,unsaturated fatty acid metabolic process (GO:0033559),3.595749e-01,8.675415e-01,6.118012e-01,9.269908e-01,1.000000e+00,3/8,14.72%,GSTP1;PLA2G4C;FAAH
+prerank,positive regulation of cell division (GO:0051781),3.975789e-01,8.675048e-01,5.960452e-01,9.229343e-01,1.000000e+00,1/6,1.52%,RACGAP1
+prerank,neutrophil mediated immunity (GO:0002446),-2.774902e-01,-8.670096e-01,7.280799e-01,1.000000e+00,1.000000e+00,26/65,33.57%,TMC6;TSPAN14;ARSA;AMPD3;PFKL;COMMD9;TNFRSF1B;MGST1;RAB14;IRAG2;BPI;XRCC5;CD14;GM2A;BST1;DPP7;C5AR1;ANXA2;SLC2A5;XRCC6;RNASET2;KMT2E;TLR2;CPPED1;PLAC8;CEACAM3
+prerank,transport across blood-brain barrier (GO:0150104),2.972008e-01,8.669596e-01,6.600791e-01,9.200497e-01,1.000000e+00,4/13,11.18%,ABCC1;CD36;SLC6A13;SLC6A1
+prerank,regulation of G2/M transition of mitotic cell cycle (GO:0010389),3.553119e-01,8.665674e-01,5.973154e-01,9.168558e-01,1.000000e+00,2/8,13.40%,RAD51C;PSMD6
+prerank,regulation of substrate adhesion-dependent cell spreading (GO:1900024),-4.391788e-01,-8.646595e-01,6.816817e-01,1.000000e+00,1.000000e+00,2/6,25.07%,PTK2;MELTF
+prerank,positive regulation of interleukin-6 production (GO:0032755),3.201240e-01,8.646405e-01,6.171004e-01,9.169162e-01,1.000000e+00,3/12,9.22%,MAPK13;LBP;POU2F2
+prerank,activation of protein kinase activity (GO:0032147),-3.714419e-01,-8.640240e-01,6.703601e-01,1.000000e+00,1.000000e+00,6/12,42.99%,PRKAR1A;MALT1;STRADB;TIRAP;CD86;ADCY9
+prerank,interleukin-12-mediated signaling pathway (GO:0035722),3.619323e-01,8.639769e-01,6.109422e-01,9.103144e-01,1.000000e+00,1/7,1.28%,CFL1
+prerank,cellular response to interleukin-12 (GO:0071349),3.619323e-01,8.639769e-01,6.109422e-01,9.103144e-01,1.000000e+00,1/7,1.28%,CFL1
+prerank,neutrophil activation involved in immune response (GO:0002283),-2.773594e-01,-8.638644e-01,7.243304e-01,1.000000e+00,1.000000e+00,26/65,33.57%,TMC6;TSPAN14;ARSA;AMPD3;PFKL;COMMD9;TNFRSF1B;MGST1;RAB14;IRAG2;BPI;XRCC5;CD14;GM2A;BST1;DPP7;C5AR1;ANXA2;SLC2A5;XRCC6;RNASET2;DNASE1L3;TLR2;CPPED1;PLAC8;CEACAM3
+prerank,positive regulation of cytokinesis (GO:0032467),4.189561e-01,8.638228e-01,6.000000e-01,9.066478e-01,1.000000e+00,1/5,1.52%,RACGAP1
+prerank,regulation of Notch signaling pathway (GO:0008593),-4.462447e-01,-8.634447e-01,6.552749e-01,1.000000e+00,1.000000e+00,2/6,16.92%,TSPAN14;EPN2
+prerank,negative regulation of cellular component organization (GO:0051129),3.378472e-01,8.630009e-01,6.378738e-01,9.043293e-01,1.000000e+00,4/9,18.52%,PRKCZ;LCMT1;CRACD;SACS
+prerank,regulation of cytokine production (GO:0001817),-3.608567e-01,-8.627226e-01,6.755319e-01,1.000000e+00,1.000000e+00,2/14,12.59%,TNFRSF1B;FOXP1
+prerank,ribosome biogenesis (GO:0042254),3.256064e-01,8.626013e-01,6.440000e-01,9.013883e-01,1.000000e+00,5/10,21.50%,CUL4A;RIOK2;DHX37;IMP4;NVL
+prerank,regulation of signal transduction by p53 class mediator (GO:1901796),2.929225e-01,8.606831e-01,6.567797e-01,9.019707e-01,1.000000e+00,5/15,14.76%,KAT5;ING5;PPP1R13B;PPP2R5C;AURKB
+prerank,antigen processing and presentation of exogenous peptide antigen via MHC class II (GO:0019886),3.281449e-01,8.596612e-01,6.127820e-01,8.923358e-01,1.000000e+00,2/11,3.00%,RACGAP1;HLA-DRA
+prerank,antigen processing and presentation of peptide antigen via MHC class II (GO:0002495),3.281449e-01,8.596612e-01,6.127820e-01,8.923358e-01,1.000000e+00,2/11,3.00%,RACGAP1;HLA-DRA
+prerank,antigen processing and presentation of exogenous peptide antigen (GO:0002478),3.281449e-01,8.596612e-01,6.127820e-01,8.923358e-01,1.000000e+00,2/11,3.00%,RACGAP1;HLA-DRA
+prerank,positive regulation of tumor necrosis factor superfamily cytokine production (GO:1903557),-3.621299e-01,-8.582425e-01,6.680217e-01,1.000000e+00,1.000000e+00,5/13,31.73%,PLCG2;RIPK1;CD14;IFIH1;TLR2
+prerank,negative regulation of innate immune response (GO:0045824),-4.483381e-01,-8.569206e-01,6.886228e-01,1.000000e+00,1.000000e+00,1/6,9.79%,PTPN2
+prerank,cellular response to type I interferon (GO:0071357),-4.018333e-01,-8.551925e-01,6.878698e-01,1.000000e+00,1.000000e+00,2/9,13.18%,IRF6;ISG20
+prerank,type I interferon signaling pathway (GO:0060337),-4.018333e-01,-8.551925e-01,6.878698e-01,1.000000e+00,1.000000e+00,2/9,13.18%,IRF6;ISG20
+prerank,carboxylic acid metabolic process (GO:0019752),-4.028326e-01,-8.540868e-01,6.653005e-01,1.000000e+00,1.000000e+00,1/9,1.72%,ST6GAL1
+prerank,positive regulation of canonical Wnt signaling pathway (GO:0090263),3.510960e-01,8.538977e-01,6.324503e-01,9.000088e-01,1.000000e+00,3/8,14.55%,LRRK1;PSMD6;TBL1XR1
+prerank,receptor-mediated endocytosis (GO:0006898),3.086163e-01,8.533282e-01,6.861314e-01,8.973792e-01,1.000000e+00,4/13,10.63%,TMEM108;CD36;FPR2;CXCL16
+prerank,modulation of chemical synaptic transmission (GO:0050804),3.258565e-01,8.528284e-01,6.304348e-01,8.946579e-01,1.000000e+00,2/11,3.26%,TMEM108;CACNA1A
+prerank,positive regulation of pattern recognition receptor signaling pathway (GO:0062208),3.856853e-01,8.521212e-01,6.637427e-01,8.922747e-01,1.000000e+00,3/6,18.94%,USP15;OASL;PUM2
+prerank,protein catabolic process (GO:0030163),-4.606393e-01,-8.516907e-01,6.965409e-01,1.000000e+00,1.000000e+00,1/5,9.24%,RIPK1
+prerank,neutrophil degranulation (GO:0043312),-2.728764e-01,-8.511472e-01,7.352614e-01,1.000000e+00,1.000000e+00,25/64,33.57%,TMC6;TSPAN14;ARSA;AMPD3;PFKL;COMMD9;TNFRSF1B;MGST1;RAB14;IRAG2;BPI;XRCC5;CD14;GM2A;BST1;DPP7;C5AR1;ANXA2;SLC2A5;XRCC6;RNASET2;TLR2;CPPED1;PLAC8;CEACAM3
+prerank,defense response to virus (GO:0051607),-3.491254e-01,-8.508329e-01,6.941813e-01,1.000000e+00,1.000000e+00,2/15,13.18%,APOBEC3B;ISG20
+prerank,defense response to symbiont (GO:0140546),-3.491254e-01,-8.508329e-01,6.941813e-01,1.000000e+00,1.000000e+00,2/15,13.18%,APOBEC3B;ISG20
+prerank,regulation of cell morphogenesis (GO:0022604),4.094592e-01,8.502199e-01,6.342183e-01,8.924291e-01,1.000000e+00,2/5,13.29%,CFL1;NTNG2
+prerank,phosphate-containing compound metabolic process (GO:0006796),-3.118951e-01,-8.485594e-01,6.945137e-01,1.000000e+00,1.000000e+00,5/28,16.96%,INPP1;PFKL;PLCG2;PFKFB3;ACP6
+prerank,chromatin organization (GO:0006325),-4.204200e-01,-8.484317e-01,6.877761e-01,1.000000e+00,1.000000e+00,2/7,11.28%,KDM4B;HDAC4
+prerank,cellular response to metal ion (GO:0071248),-3.791046e-01,-8.461012e-01,6.931359e-01,1.000000e+00,1.000000e+00,2/10,12.76%,PLCG2;SLC12A2
+prerank,central nervous system development (GO:0007417),2.546857e-01,8.453677e-01,8.064516e-01,8.982564e-01,1.000000e+00,10/24,23.98%,GSTP1;MACROH2A2;SCIN;C3;SYNJ2;RAB3GAP1;DHX37;CNTNAP2;SLC23A1;TGFBR2
+prerank,regulation of focal adhesion assembly (GO:0051893),3.880640e-01,8.450777e-01,6.405797e-01,8.951919e-01,1.000000e+00,1/6,1.81%,PPM1F
+prerank,intraciliary transport involved in cilium assembly (GO:0035735),-4.630138e-01,-8.447410e-01,7.076205e-01,1.000000e+00,1.000000e+00,1/5,4.11%,IFT27
+prerank,positive regulation of reactive oxygen species metabolic process (GO:2000379),3.511423e-01,8.426976e-01,6.622074e-01,8.963842e-01,1.000000e+00,3/8,8.65%,GSTP1;CD36;FPR2
+prerank,positive regulation of ubiquitin-dependent protein catabolic process (GO:2000060),-4.357417e-01,-8.422888e-01,6.951220e-01,1.000000e+00,1.000000e+00,3/6,24.16%,PTK2;DDRGK1;NUB1
+prerank,platelet degranulation (GO:0002576),-3.835091e-01,-8.416041e-01,7.066116e-01,1.000000e+00,1.000000e+00,2/11,14.61%,LHFPL2;SPARC
+prerank,inorganic anion transport (GO:0015698),-3.976613e-01,-8.410027e-01,6.935252e-01,1.000000e+00,1.000000e+00,1/8,1.81%,TTYH3
+prerank,positive regulation of endothelial cell proliferation (GO:0001938),4.076076e-01,8.407128e-01,6.376812e-01,8.964855e-01,1.000000e+00,2/5,10.85%,PIK3CD;EMC10
+prerank,"negative regulation of gene expression, epigenetic (GO:0045814)",-4.629537e-01,-8.398535e-01,7.078825e-01,1.000000e+00,1.000000e+00,1/5,3.78%,EED
+prerank,positive regulation of inflammatory response (GO:0050729),-3.797682e-01,-8.393334e-01,7.009736e-01,1.000000e+00,1.000000e+00,4/10,16.22%,NFKBIZ;MGST2;RIPK1;SNX4
+prerank,telomere maintenance (GO:0000723),-4.176767e-01,-8.389092e-01,7.091454e-01,1.000000e+00,1.000000e+00,3/7,29.12%,NBN;XRCC5;XRCC6
+prerank,regulation of insulin secretion (GO:0050796),3.520848e-01,8.382570e-01,6.282895e-01,8.978887e-01,1.000000e+00,1/8,3.26%,CACNA1A
+prerank,regulation of gluconeogenesis (GO:0006111),4.001102e-01,8.377909e-01,6.303725e-01,8.950766e-01,1.000000e+00,2/5,13.48%,PDK2;NNMT
+prerank,negative regulation of type I interferon production (GO:0032480),3.987776e-01,8.348644e-01,6.480938e-01,8.968462e-01,1.000000e+00,1/5,9.33%,TRIM25
+prerank,regulation of telomere maintenance via telomerase (GO:0032210),-4.596672e-01,-8.333884e-01,7.255814e-01,1.000000e+00,1.000000e+00,2/5,17.79%,PKIB;XRCC5
+prerank,cellular response to growth factor stimulus (GO:0071363),2.934615e-01,8.333394e-01,7.411765e-01,8.961175e-01,1.000000e+00,1/13,0.28%,TBX1
+prerank,regulation of canonical Wnt signaling pathway (GO:0060828),-3.375343e-01,-8.330682e-01,7.148387e-01,1.000000e+00,1.000000e+00,4/16,16.50%,CCNY;GLI3;NKD1;RBMS3
+prerank,positive regulation of cell motility (GO:2000147),-3.388942e-01,-8.327931e-01,7.253045e-01,1.000000e+00,1.000000e+00,4/16,17.37%,ADAM9;PTK2;IGF1R;DDRGK1
+prerank,cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),-3.407502e-01,-8.325832e-01,7.114362e-01,1.000000e+00,1.000000e+00,2/15,5.81%,CLDN12;PTPRM
+prerank,autophagosome assembly (GO:0000045),-3.728488e-01,-8.301925e-01,7.004161e-01,1.000000e+00,1.000000e+00,2/11,10.13%,ATP2A2;ATG13
+prerank,autophagosome organization (GO:1905037),-3.728488e-01,-8.301925e-01,7.004161e-01,1.000000e+00,1.000000e+00,2/11,10.13%,ATP2A2;ATG13
+prerank,regulation of nucleic acid-templated transcription (GO:1903506),-3.096448e-01,-8.290901e-01,7.175866e-01,1.000000e+00,1.000000e+00,8/23,27.12%,USP13;PML;ZSCAN26;ZNF395;GLI4;MYT1;PPARGC1B;RALY
+prerank,non-canonical Wnt signaling pathway (GO:0035567),3.477839e-01,8.289014e-01,6.534954e-01,9.011373e-01,1.000000e+00,2/8,13.40%,AGO1;PSMD6
+prerank,positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068),-3.940381e-01,-8.286537e-01,7.206704e-01,1.000000e+00,1.000000e+00,3/9,27.18%,PTK2;IGF1R;BECN1
+prerank,positive regulation of cysteine-type endopeptidase activity (GO:2001056),-3.866370e-01,-8.280486e-01,7.181009e-01,1.000000e+00,1.000000e+00,2/9,7.83%,MAP3K5;FYN
+prerank,positive regulation of organelle assembly (GO:1902117),3.861323e-01,8.278856e-01,6.506410e-01,8.996246e-01,1.000000e+00,3/6,25.79%,RAB3GAP1;CROCC;BBS4
+prerank,receptor catabolic process (GO:0032801),3.998519e-01,8.265697e-01,6.510264e-01,8.986073e-01,1.000000e+00,1/5,1.57%,SNX25
+prerank,negative regulation of metabolic process (GO:0009892),3.377953e-01,8.264248e-01,6.718147e-01,8.952985e-01,1.000000e+00,2/9,3.52%,GSTP1;RBPJ
+prerank,regulation of adenylate cyclase activity (GO:0045761),-4.510255e-01,-8.255356e-01,7.095310e-01,1.000000e+00,1.000000e+00,3/5,30.05%,CACNA1C;ADGRV1;DRD2
+prerank,immune response-activating cell surface receptor signaling pathway (GO:0002429),-4.275027e-01,-8.245357e-01,7.099698e-01,1.000000e+00,1.000000e+00,1/6,6.42%,MICB
+prerank,regulation of intracellular signal transduction (GO:1902531),-2.726521e-01,-8.240384e-01,7.642369e-01,1.000000e+00,1.000000e+00,16/47,28.77%,TIAM2;PLCG2;CSNK2A1;PRKAR1A;PML;NBN;TP53BP2;DAPK2;GNA12;BST1;MAPT;FBXO9;BCR;AKAP6;NGEF;OBSCN
+prerank,peptidyl-serine modification (GO:0018209),2.623321e-01,8.232752e-01,7.325103e-01,8.978306e-01,1.000000e+00,2/16,3.68%,MAPK13;PRKCZ
+prerank,interferon-gamma-mediated signaling pathway (GO:0060333),3.334882e-01,8.227649e-01,6.610738e-01,8.952233e-01,1.000000e+00,3/9,9.33%,HLA-DRA;IRF1;TRIM25
+prerank,regulation of GTPase activity (GO:0043087),-3.362104e-01,-8.223763e-01,7.097204e-01,1.000000e+00,1.000000e+00,5/15,28.16%,BCAR3;PTK2;CCL16;RABGAP1;NGEF
+prerank,brain development (GO:0007420),2.662631e-01,8.222600e-01,7.608696e-01,8.927241e-01,1.000000e+00,8/17,25.79%,MACROH2A2;SYNJ2;RAB3GAP1;DHX37;CNTNAP2;SLC23A1;TGFBR2;BBS4
+prerank,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum (GO:0006890)",3.272597e-01,8.222075e-01,6.542373e-01,8.893566e-01,1.000000e+00,2/9,11.00%,RACGAP1;SEC22B
+prerank,protein ubiquitination (GO:0016567),-2.820041e-01,-8.203827e-01,7.573616e-01,1.000000e+00,1.000000e+00,10/37,26.61%,NEDD4L;FBXW8;TPP2;FBH1;KLHL22;TRIM2;RNF141;PDZRN3;NUB1;FBXO9
+prerank,regulation of gene expression (GO:0010468),-2.583526e-01,-8.186084e-01,8.070562e-01,1.000000e+00,1.000000e+00,18/76,22.98%,ZNF827;USP13;RUNX1;NFKBIZ;PLCG2;SRPK2;HDAC4;PML;FOXP1;ZSCAN26;RBMS3;UBAP2;DDRGK1;ALPK2;ZNF395;WARS1;GLI4;MYT1
+prerank,RNA transport (GO:0050658),-4.391811e-01,-8.181653e-01,7.495987e-01,1.000000e+00,1.000000e+00,2/5,16.90%,KIF5C;POLDIP3
+prerank,RNA metabolic process (GO:0016070),3.750663e-01,8.179572e-01,6.793003e-01,8.938660e-01,1.000000e+00,2/6,8.00%,AGO1;PCBP3
+prerank,monovalent inorganic cation homeostasis (GO:0055067),-4.077564e-01,-8.174791e-01,7.315634e-01,1.000000e+00,1.000000e+00,4/7,31.70%,SLC12A2;SCNN1A;ATP6V0A4;SCNN1B
+prerank,positive regulation of establishment of protein localization to mitochondrion (GO:1903749),-4.266074e-01,-8.167184e-01,7.443946e-01,1.000000e+00,1.000000e+00,4/6,38.09%,ATG13;TP53BP2;RAC2;TFDP2
+prerank,positive regulation of hydrolase activity (GO:0051345),-3.707560e-01,-8.151217e-01,7.200000e-01,1.000000e+00,1.000000e+00,1/10,2.46%,BCAR3
+prerank,regulation of T cell mediated cytotoxicity (GO:0001914),4.051901e-01,8.148048e-01,6.853933e-01,8.963181e-01,1.000000e+00,1/5,3.00%,HLA-DRA
+prerank,lipid transport (GO:0006869),2.767431e-01,8.141392e-01,7.171315e-01,8.942171e-01,1.000000e+00,6/15,18.31%,ABCC11;CD36;LBP;CETP;CLN8;ABCA9
+prerank,positive regulation of autophagy (GO:0010508),3.298666e-01,8.135838e-01,6.993007e-01,8.917609e-01,1.000000e+00,1/9,0.76%,KAT5
+prerank,dephosphorylation (GO:0016311),-3.537959e-01,-8.130384e-01,7.283951e-01,1.000000e+00,1.000000e+00,4/12,19.01%,PTPRM;MTMR7;ACP6;PPP2R2A
+prerank,cellular response to alcohol (GO:0097306),-3.928160e-01,-8.119605e-01,7.352071e-01,1.000000e+00,1.000000e+00,2/8,17.87%,GRAMD1C;CES1
+prerank,import into nucleus (GO:0051170),3.487494e-01,8.116731e-01,7.066246e-01,8.919093e-01,1.000000e+00,2/7,12.24%,NUP133;APPL2
+prerank,positive regulation of cytokine production (GO:0001819),2.113571e-01,8.103118e-01,8.303030e-01,8.908383e-01,1.000000e+00,7/41,9.22%,MAPK13;IL1R1;PRKCZ;IRF1;LBP;PIK3CD;POU2F2
+prerank,regulation of cell migration (GO:0030334),2.198668e-01,8.060587e-01,8.404908e-01,8.947645e-01,1.000000e+00,8/38,13.29%,PPM1F;SEMA4B;TBCCD1;PIK3CD;CXCL16;ADGRG3;APPL2;NTNG2
+prerank,vascular transport (GO:0010232),-3.523867e-01,-8.045132e-01,7.469553e-01,1.000000e+00,1.000000e+00,4/12,18.98%,ATP2A3;SLC12A2;SLC27A1;SLCO3A1
+prerank,protein transport (GO:0015031),-2.911666e-01,-8.036478e-01,7.735149e-01,1.000000e+00,1.000000e+00,9/31,28.07%,SIL1;IFT27;ARF1;RAB14;SNX4;DENND10;ATP6V0A4;TBC1D1;RABGAP1
+prerank,negative regulation of protein modification process (GO:0031400),-4.186623e-01,-8.029152e-01,7.452693e-01,1.000000e+00,1.000000e+00,2/6,26.51%,WARS1;MAPT
+prerank,regulation of transcription by RNA polymerase II (GO:0006357),-2.371271e-01,-8.026182e-01,8.495851e-01,1.000000e+00,1.000000e+00,45/129,33.01%,PHF20L1;ZNF827;NEDD4L;IRF6;EED;RUNX1;RCOR1;RIPK1;LPIN2;ZNF391;PRKAR1A;HDAC4;MED25;VAX2;FOXP1;GLI3;ZSCAN26;TOX2;HTATIP2;DDRGK1;RARB;PRKD1;ZNF395;MYT1;MTA3;SP140L;PPARGC1B;MRTFA;AUTS2;CDK8;TENM2;SMAD2;GMEB2;ZNF587;XRCC6;ZNF521;ZNF649;ZNF558;ZNF605;TLR2;CCNH;TNRC6A;UBC;WFS1;PLAC8
+prerank,regulation of cellular macromolecule biosynthetic process (GO:2000112),-2.953445e-01,-8.023373e-01,7.659033e-01,1.000000e+00,1.000000e+00,7/25,24.74%,USP13;PML;ZSCAN26;ZNF395;GLI4;MYT1;PPARGC1B
+prerank,regulation of cell differentiation (GO:0045595),3.214762e-01,7.995433e-01,7.116564e-01,9.027567e-01,1.000000e+00,1/9,0.28%,TBX1
+prerank,endoplasmic reticulum to Golgi vesicle-mediated transport (GO:0006888),2.734041e-01,7.980706e-01,7.644788e-01,9.020125e-01,1.000000e+00,5/14,19.03%,MCFD2;SEC22B;MIA2;SEC16B;COG2
+prerank,DNA metabolic process (GO:0006259),-2.820306e-01,-7.978923e-01,7.796610e-01,1.000000e+00,1.000000e+00,13/30,32.31%,FANCA;RAD54L;SRPK2;NBN;RAD51B;XRCC5;XRCC2;XRCC6;USP45;POLB;TDP1;DNASE1L3;UBC
+prerank,sterol metabolic process (GO:0016125),-3.807064e-01,-7.972725e-01,7.478632e-01,1.000000e+00,1.000000e+00,3/8,24.33%,CES1;SULT2B1;CYP27A1
+prerank,regulation of chromosome segregation (GO:0051983),-4.411058e-01,-7.960691e-01,7.511521e-01,1.000000e+00,1.000000e+00,1/5,9.68%,CSNK2A1
+prerank,supramolecular fiber organization (GO:0097435),-2.754348e-01,-7.955050e-01,8.011696e-01,1.000000e+00,1.000000e+00,8/39,19.20%,TSPAN14;MYO1G;COL15A1;RIPK1;TSPAN33;TMOD3;FAT1;SNCAIP
+prerank,regulation of fat cell differentiation (GO:0045598),-4.125195e-01,-7.953828e-01,7.632777e-01,1.000000e+00,1.000000e+00,3/6,41.34%,TRPM4;FTO;ZBTB16
+prerank,nervous system development (GO:0007399),-2.803564e-01,-7.953736e-01,7.866508e-01,1.000000e+00,1.000000e+00,8/35,14.55%,KCNQ2;APBA2;P2RX5;SHANK2;HDAC4;VAX2;APBA1;MERTK
+prerank,regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043281),-4.159121e-01,-7.953447e-01,7.578475e-01,1.000000e+00,1.000000e+00,2/6,9.68%,MAP3K5;CSNK2A1
+prerank,positive regulation of nucleic acid-templated transcription (GO:1903508),-2.813878e-01,-7.936595e-01,7.936508e-01,1.000000e+00,1.000000e+00,7/33,15.94%,IRF6;RUNX1;MAP3K5;HDAC4;PML;GLI3;WBP2NL
+prerank,regulation of sodium ion transmembrane transporter activity (GO:2000649),-4.270057e-01,-7.934584e-01,7.665198e-01,1.000000e+00,1.000000e+00,2/5,7.68%,NEDD4L;UTRN
+prerank,positive regulation of proteolysis involved in cellular protein catabolic process (GO:1903052),-4.301438e-01,-7.923134e-01,7.544715e-01,1.000000e+00,1.000000e+00,2/5,17.37%,PTK2;DDRGK1
+prerank,cholesterol metabolic process (GO:0008203),-3.688090e-01,-7.913001e-01,7.378641e-01,1.000000e+00,1.000000e+00,3/9,24.33%,CES1;SULT2B1;CYP27A1
+prerank,ephrin receptor signaling pathway (GO:0048013),-3.493326e-01,-7.911050e-01,7.792208e-01,1.000000e+00,1.000000e+00,5/10,28.16%,FYN;PTK2;ANKS1B;AP2S1;NGEF
+prerank,response to reactive oxygen species (GO:0000302),-4.348391e-01,-7.906735e-01,7.889060e-01,1.000000e+00,1.000000e+00,2/5,7.83%,ADAM9;FYN
+prerank,positive regulation of DNA-binding transcription factor activity (GO:0051091),-2.948392e-01,-7.901683e-01,7.695167e-01,1.000000e+00,1.000000e+00,15/24,38.90%,PLCG2;RIPK1;HDAC4;CFLAR;DDRGK1;SLCO3A1;PRKD1;PPARGC1B;MALT1;TLR2;UBC;CLOCK;TRIM27;TIRAP;MAP3K13
+prerank,regulation of transcription initiation from RNA polymerase II promoter (GO:0060260),3.840481e-01,7.900649e-01,7.191601e-01,9.096327e-01,1.000000e+00,1/5,2.02%,AGO1
+prerank,"regulation of DNA-templated transcription, initiation (GO:2000142)",3.840481e-01,7.900649e-01,7.191601e-01,9.096327e-01,1.000000e+00,1/5,2.02%,AGO1
+prerank,second-messenger-mediated signaling (GO:0019932),3.072781e-01,7.891545e-01,7.212544e-01,9.078383e-01,1.000000e+00,3/10,11.28%,CD36;FPR2;CCR3
+prerank,regulation of small GTPase mediated signal transduction (GO:0051056),-3.129539e-01,-7.883594e-01,7.810499e-01,1.000000e+00,1.000000e+00,1/18,0.87%,TIAM2
+prerank,cellular amide metabolic process (GO:0043603),-2.998653e-01,-7.879197e-01,7.918216e-01,1.000000e+00,1.000000e+00,5/21,19.31%,ST6GAL1;MTHFD2L;NLN;MTHFD1L;ACSM1
+prerank,regulation of protein catabolic process (GO:0042176),-3.335538e-01,-7.868548e-01,7.680000e-01,1.000000e+00,1.000000e+00,3/13,15.18%,NEDD4L;CSNK2A1;NKD1
+prerank,regulation of fibroblast migration (GO:0010762),-4.297083e-01,-7.867747e-01,7.568389e-01,1.000000e+00,1.000000e+00,2/5,25.27%,PTK2;GNA12
+prerank,positive regulation of cellular metabolic process (GO:0031325),-4.090750e-01,-7.862444e-01,7.571644e-01,1.000000e+00,1.000000e+00,3/6,38.68%,RIPK1;ANXA2;ARRB1
+prerank,regulation of MAPK cascade (GO:0043408),-3.336410e-01,-7.843359e-01,7.707510e-01,1.000000e+00,1.000000e+00,5/14,18.96%,BCAR3;PLCG2;KSR1;IGF1R;FAS
+prerank,negative regulation of cell population proliferation (GO:0008285),-2.702087e-01,-7.834881e-01,8.134777e-01,1.000000e+00,1.000000e+00,8/36,21.94%,IRF6;PTPN2;PML;MED25;ADGRG1;CLMN;SULT2B1;WARS1
+prerank,negative regulation of cell-cell adhesion (GO:0022408),3.793095e-01,7.834510e-01,7.002882e-01,9.141709e-01,1.000000e+00,1/5,1.81%,PPM1F
+prerank,positive regulation of developmental growth (GO:0048639),-3.938172e-01,-7.830226e-01,7.798561e-01,1.000000e+00,1.000000e+00,1/7,2.67%,NEDD4L
+prerank,transcription initiation from RNA polymerase II promoter (GO:0006367),3.709786e-01,7.815369e-01,7.058824e-01,9.141441e-01,1.000000e+00,2/5,14.55%,RBPJ;TBL1XR1
+prerank,neuron differentiation (GO:0030182),-3.874539e-01,-7.813612e-01,7.722474e-01,1.000000e+00,1.000000e+00,2/7,12.53%,RUNX1;VAX2
+prerank,actin polymerization or depolymerization (GO:0008154),-3.416122e-01,-7.807266e-01,7.799175e-01,1.000000e+00,1.000000e+00,4/11,22.57%,SPIRE2;SVIL;ABI2;MICAL3
+prerank,regulation of interleukin-8 production (GO:0032677),2.968045e-01,7.791527e-01,7.272727e-01,9.148173e-01,1.000000e+00,2/10,7.76%,ANXA4;LBP
+prerank,negative regulation of Wnt signaling pathway (GO:0030178),-3.495155e-01,-7.759165e-01,7.677330e-01,1.000000e+00,1.000000e+00,4/11,18.77%,GLI3;NKD1;RBMS3;ALPK2
+prerank,organic anion transport (GO:0015711),-4.054782e-01,-7.756752e-01,7.699248e-01,1.000000e+00,1.000000e+00,3/6,18.98%,CA12;MGST1;SLCO3A1
+prerank,protein localization to Golgi apparatus (GO:0034067),-4.262868e-01,-7.753621e-01,7.851623e-01,1.000000e+00,1.000000e+00,4/5,43.94%,VPS13A;TMED10;GBF1;GBP5
+prerank,negative regulation of signal transduction (GO:0009968),-3.072561e-01,-7.749490e-01,7.957125e-01,1.000000e+00,1.000000e+00,5/20,16.92%,CSNK2A1;PTPN2;GLI3;NKD1;EPN2
+prerank,telomere organization (GO:0032200),-4.239314e-01,-7.742492e-01,7.837838e-01,1.000000e+00,1.000000e+00,3/5,29.12%,NBN;XRCC5;XRCC6
+prerank,negative regulation of canonical Wnt signaling pathway (GO:0090090),-3.738667e-01,-7.738350e-01,7.857143e-01,1.000000e+00,1.000000e+00,3/8,16.50%,GLI3;NKD1;RBMS3
+prerank,positive regulation of protein modification by small protein conjugation or removal (GO:1903322),-4.264738e-01,-7.716869e-01,7.967115e-01,1.000000e+00,1.000000e+00,3/5,32.73%,HDAC4;MALT1;WFS1
+prerank,iron ion homeostasis (GO:0055072),-4.304287e-01,-7.712023e-01,7.705426e-01,1.000000e+00,1.000000e+00,1/5,4.96%,BDH2
+prerank,regulation of T cell proliferation (GO:0042129),3.241216e-01,7.706654e-01,7.694805e-01,9.253761e-01,1.000000e+00,2/8,11.94%,TNFSF8;CD70
+prerank,sodium ion transmembrane transport (GO:0035725),-3.501912e-01,-7.703857e-01,7.819972e-01,1.000000e+00,1.000000e+00,6/10,32.16%,SLC12A2;SLC24A4;SCNN1A;TRPM4;SCNN1B;ATP1A1
+prerank,positive regulation of interleukin-8 production (GO:0032757),-3.930483e-01,-7.690344e-01,7.699387e-01,1.000000e+00,1.000000e+00,4/6,37.92%,RIPK1;CD14;TLR2;TIRAP
+prerank,"positive regulation of transcription, DNA-templated (GO:0045893)",-2.376951e-01,-7.683869e-01,8.690476e-01,1.000000e+00,1.000000e+00,28/76,33.01%,ZNF827;IRF6;RUNX1;MAP3K5;RIPK1;LPIN2;HDAC4;PML;MED25;GLI3;TOX2;HTATIP2;WBP2NL;DDRGK1;RARB;PRKD1;ZNF395;PPARGC1B;MRTFA;AUTS2;CDK8;SMAD2;XRCC6;KMT2E;TLR2;UBC;ZNF318;PLAC8
+prerank,"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",3.431959e-01,7.671118e-01,7.555556e-01,9.277937e-01,1.000000e+00,2/6,11.78%,HELZ2;EIF4A3
+prerank,negative regulation of cell growth (GO:0030308),-3.585585e-01,-7.670802e-01,7.919656e-01,1.000000e+00,1.000000e+00,2/9,23.70%,PML;MYL2
+prerank,"negative regulation of transcription, DNA-templated (GO:0045892)",-2.413720e-01,-7.665627e-01,8.517699e-01,1.000000e+00,1.000000e+00,10/69,12.78%,NEDD4L;EED;RUNX1;RCOR1;ZNF391;HDAC4;PML;MED25;FOXP1;GLI3
+prerank,fatty acid biosynthetic process (GO:0006633),-3.810544e-01,-7.659277e-01,7.808824e-01,1.000000e+00,1.000000e+00,4/7,33.85%,DECR2;ACSM1;FADS3;EPHX2
+prerank,regulation of mitotic cell cycle phase transition (GO:1901990),2.724068e-01,7.657955e-01,7.588933e-01,9.267117e-01,1.000000e+00,12/12,72.82%,APPL2;PSMD6;RIOK2;PPP2R1A;SIRT2;CDC16;NINL;CEP135;SDCCAG8;UBE2E1;UBC;NEK11
+prerank,protein modification by small protein conjugation (GO:0032446),-2.678821e-01,-7.654936e-01,8.231132e-01,1.000000e+00,1.000000e+00,13/35,32.31%,NEDD4L;SEH1L;FBXW8;FBH1;DDRGK1;PDZRN3;NUB1;FBXO9;TRPM4;RNF220;IFIH1;NUP50;UBC
+prerank,anaphase-promoting complex-dependent catabolic process (GO:0031145),3.669964e-01,7.652713e-01,6.974790e-01,9.241899e-01,1.000000e+00,2/5,14.76%,PSMD6;AURKB
+prerank,protein N-linked glycosylation (GO:0006487),-3.427256e-01,-7.637237e-01,7.882514e-01,1.000000e+00,1.000000e+00,1/11,1.72%,ST6GAL1
+prerank,Ras protein signal transduction (GO:0007265),-3.051445e-01,-7.627277e-01,8.217949e-01,1.000000e+00,1.000000e+00,7/17,32.64%,KSR1;ADGRG1;PRKD1;ABI2;GNA12;EPS8L3;RAC2
+prerank,positive regulation of MAPK cascade (GO:0043410),-2.874914e-01,-7.612947e-01,8.068460e-01,1.000000e+00,1.000000e+00,5/23,14.05%,BCAR3;PLCG2;KSR1;NPNT;IGF1R
+prerank,negative regulation of mitotic cell cycle phase transition (GO:1901991),3.647274e-01,7.607357e-01,7.293814e-01,9.282286e-01,1.000000e+00,3/5,26.24%,PSMD6;DLG1;CDK6
+prerank,monocarboxylic acid metabolic process (GO:0032787),-3.192660e-01,-7.600005e-01,8.185379e-01,1.000000e+00,1.000000e+00,6/15,24.77%,FA2H;MTHFD1L;ACSM1;GATM;AOAH;HAGH
+prerank,negative regulation of transport (GO:0051051),-3.783571e-01,-7.592439e-01,8.168605e-01,1.000000e+00,1.000000e+00,1/7,2.13%,DYSF
+prerank,protein sumoylation (GO:0016925),-4.142139e-01,-7.578874e-01,8.112633e-01,1.000000e+00,1.000000e+00,4/5,31.20%,SEH1L;TRPM4;IFIH1;NUP50
+prerank,protein-containing complex assembly (GO:0065003),-2.727771e-01,-7.577126e-01,8.205772e-01,1.000000e+00,1.000000e+00,4/27,11.61%,FANCA;RIPK1;TSPAN33;PML
+prerank,response to interferon-gamma (GO:0034341),-3.540432e-01,-7.531936e-01,7.917847e-01,1.000000e+00,1.000000e+00,4/9,31.73%,IL23R;NUB1;CCL16;TLR2
+prerank,glycosaminoglycan biosynthetic process (GO:0006024),-3.921977e-01,-7.524326e-01,8.114630e-01,1.000000e+00,1.000000e+00,1/6,2.91%,B3GNT7
+prerank,microtubule cytoskeleton organization involved in mitosis (GO:1902850),-3.221771e-01,-7.516715e-01,8.171745e-01,1.000000e+00,1.000000e+00,4/13,22.20%,SEH1L;B9D2;CLASP2;TACC3
+prerank,positive regulation of protein localization to membrane (GO:1905477),-3.318046e-01,-7.504425e-01,8.038943e-01,1.000000e+00,1.000000e+00,2/11,19.00%,FYN;TP53BP2
+prerank,positive regulation of protein modification process (GO:0031401),-2.902909e-01,-7.486497e-01,7.997416e-01,1.000000e+00,1.000000e+00,6/19,18.98%,FBH1;SPPL3;RIPK1;PTK2;FAS;SLCO3A1
+prerank,regulation of cellular component organization (GO:0051128),-3.500454e-01,-7.486374e-01,8.284457e-01,1.000000e+00,1.000000e+00,4/9,25.07%,STON2;SNCAIP;AP2S1;MELTF
+prerank,regulation of interleukin-6 production (GO:0032675),2.573450e-01,7.474033e-01,8.181818e-01,9.460194e-01,1.000000e+00,3/15,9.22%,MAPK13;LBP;POU2F2
+prerank,protein localization to nucleus (GO:0034504),3.014886e-01,7.466238e-01,8.000000e-01,9.438832e-01,1.000000e+00,2/9,12.24%,NUP133;APPL2
+prerank,inflammatory response (GO:0006954),-3.040673e-01,-7.456413e-01,8.383706e-01,1.000000e+00,1.000000e+00,7/16,31.73%,HDAC4;APOL3;CD14;CCL16;MGLL;C5AR1;TLR2
+prerank,positive regulation of protein polymerization (GO:0032273),3.346451e-01,7.455723e-01,7.637540e-01,9.420664e-01,1.000000e+00,2/6,16.74%,CAV3;CRACD
+prerank,I-kappaB kinase/NF-kappaB signaling (GO:0007249),-3.906650e-01,-7.450071e-01,8.037094e-01,1.000000e+00,1.000000e+00,4/6,32.31%,RIPK1;CD14;TLR2;UBC
+prerank,positive regulation of mitotic cell cycle phase transition (GO:1901992),3.500970e-01,7.436487e-01,7.942857e-01,9.417096e-01,1.000000e+00,1/6,2.76%,RAD51C
+prerank,cellular response to calcium ion (GO:0071277),-3.846067e-01,-7.428337e-01,8.159057e-01,1.000000e+00,1.000000e+00,1/6,5.54%,PLCG2
+prerank,cellular response to hydrogen peroxide (GO:0070301),-3.997900e-01,-7.419732e-01,8.117284e-01,1.000000e+00,1.000000e+00,2/5,9.24%,MAP3K5;RIPK1
+prerank,protein-containing complex disassembly (GO:0032984),3.602669e-01,7.418195e-01,7.698413e-01,9.411122e-01,1.000000e+00,5/5,64.01%,TECPR1;MAP1LC3A;EPG5;RPL23;MAP1LC3B2
+prerank,regulation of G1/S transition of mitotic cell cycle (GO:2000045),3.173644e-01,7.410289e-01,7.559524e-01,9.391073e-01,1.000000e+00,4/7,26.24%,APPL2;DLG1;PLCB1;CDK6
+prerank,positive regulation of supramolecular fiber organization (GO:1902905),3.149526e-01,7.392448e-01,7.952218e-01,9.387024e-01,1.000000e+00,2/7,16.74%,CAV3;CRACD
+prerank,positive regulation of transcription by RNA polymerase II (GO:0045944),-2.341288e-01,-7.367765e-01,9.013453e-01,1.000000e+00,1.000000e+00,20/61,29.12%,ZNF827;IRF6;RUNX1;RIPK1;LPIN2;HDAC4;MED25;GLI3;TOX2;HTATIP2;DDRGK1;RARB;PRKD1;ZNF395;PPARGC1B;MRTFA;AUTS2;CDK8;SMAD2;XRCC6
+prerank,tumor necrosis factor-mediated signaling pathway (GO:0033209),-3.829292e-01,-7.345904e-01,8.372093e-01,1.000000e+00,1.000000e+00,2/6,10.18%,RIPK1;TNFRSF1B
+prerank,ribonucleoprotein complex assembly (GO:0022618),3.352190e-01,7.337628e-01,7.920489e-01,9.437665e-01,1.000000e+00,1/6,1.44%,GCFC2
+prerank,regulation of cell-substrate adhesion (GO:0010810),-3.670154e-01,-7.298434e-01,8.323442e-01,1.000000e+00,1.000000e+00,5/7,33.25%,PTK2;NPNT;BST1;RAC2;TBCD
+prerank,negative regulation of toll-like receptor signaling pathway (GO:0034122),-4.009701e-01,-7.278728e-01,8.248848e-01,1.000000e+00,1.000000e+00,2/5,28.20%,CD14;OTUD4
+prerank,regulation of G protein-coupled receptor signaling pathway (GO:0008277),3.171185e-01,7.254134e-01,8.170347e-01,9.523864e-01,1.000000e+00,3/7,23.81%,MGRN1;C3;PLCB1
+prerank,neuron projection morphogenesis (GO:0048812),3.005748e-01,7.253619e-01,8.194444e-01,9.491470e-01,1.000000e+00,8/8,69.99%,NTNG2;CNTNAP2;DNM2;DOCK7;GPM6A;CDC42;GAS7;DRD2
+prerank,mitochondrion organization (GO:0007005),-3.381134e-01,-7.246850e-01,8.060781e-01,1.000000e+00,1.000000e+00,1/9,5.15%,GDAP1
+prerank,collagen fibril organization (GO:0030199),-3.387913e-01,-7.242569e-01,8.302687e-01,1.000000e+00,1.000000e+00,1/9,5.83%,COL15A1
+prerank,regulation of cellular response to stress (GO:0080135),-3.497706e-01,-7.218371e-01,8.369099e-01,1.000000e+00,1.000000e+00,1/8,3.50%,SEH1L
+prerank,protein monoubiquitination (GO:0006513),3.489890e-01,7.212474e-01,8.119891e-01,9.516922e-01,1.000000e+00,2/5,9.33%,MGRN1;TRIM25
+prerank,cellular response to molecule of bacterial origin (GO:0071219),-3.187368e-01,-7.206880e-01,8.392371e-01,1.000000e+00,1.000000e+00,3/11,18.52%,ADAM9;TNFRSF1B;CD14
+prerank,negative regulation of translation (GO:0017148),-3.597156e-01,-7.201206e-01,8.267254e-01,1.000000e+00,1.000000e+00,4/7,37.29%,NCL;FTO;LARP1;SAMD4B
+prerank,mitotic nuclear membrane reassembly (GO:0007084),-3.343751e-01,-7.190964e-01,8.304348e-01,1.000000e+00,1.000000e+00,2/9,19.01%,SEH1L;PPP2R2A
+prerank,mitotic nuclear membrane organization (GO:0101024),-3.343751e-01,-7.190964e-01,8.304348e-01,1.000000e+00,1.000000e+00,2/9,19.01%,SEH1L;PPP2R2A
+prerank,Golgi organization (GO:0007030),-2.921984e-01,-7.190785e-01,8.486842e-01,1.000000e+00,1.000000e+00,5/16,22.63%,FBXW8;TRAPPC12;PRKD1;CLASP2;SYNE1
+prerank,cellular response to interferon-gamma (GO:0071346),2.620142e-01,7.186360e-01,8.689139e-01,9.521953e-01,1.000000e+00,3/12,9.33%,HLA-DRA;IRF1;TRIM25
+prerank,positive regulation of protein kinase B signaling (GO:0051897),-3.115566e-01,-7.166496e-01,8.232877e-01,1.000000e+00,1.000000e+00,3/13,14.05%,FYN;PTK2;IGF1R
+prerank,cellular response to ionizing radiation (GO:0071479),-3.648721e-01,-7.163072e-01,8.260212e-01,1.000000e+00,1.000000e+00,3/6,35.94%,XRCC5;XRCC6;CLOCK
+prerank,macroautophagy (GO:0016236),-2.936865e-01,-7.155635e-01,8.623377e-01,1.000000e+00,1.000000e+00,3/16,10.13%,PLEKHM1;CSNK2A1;ATG13
+prerank,diterpenoid metabolic process (GO:0016101),3.428466e-01,7.139917e-01,7.767584e-01,9.552381e-01,1.000000e+00,5/5,65.75%,TTR;PLB1;DHRS3;PECR;AKR1B1
+prerank,positive regulation of cold-induced thermogenesis (GO:0120162),2.772083e-01,7.132136e-01,8.669065e-01,9.529961e-01,1.000000e+00,2/9,5.20%,PTH2R;CD36
+prerank,"Wnt signaling pathway, planar cell polarity pathway (GO:0060071)",-3.897301e-01,-7.109298e-01,8.566929e-01,1.000000e+00,1.000000e+00,2/5,25.87%,AP2S1;VANGL1
+prerank,regulation of establishment of planar polarity (GO:0090175),-3.897301e-01,-7.109298e-01,8.566929e-01,1.000000e+00,1.000000e+00,2/5,25.87%,AP2S1;VANGL1
+prerank,"regulation of transcription, DNA-templated (GO:0006355)",-2.125911e-01,-7.097680e-01,9.430380e-01,1.000000e+00,1.000000e+00,18/114,15.94%,PHF20L1;USP13;IRF6;EED;RUNX1;MAP3K5;RCOR1;ZNF391;PRKAR1A;HDAC4;PML;VAX2;FOXP1;GLI3;ZSCAN26;TOX2;HTATIP2;WBP2NL
+prerank,regulation of cellular response to heat (GO:1900034),-3.693800e-01,-7.083380e-01,8.497024e-01,1.000000e+00,1.000000e+00,1/6,3.50%,SEH1L
+prerank,regulation of cytokinesis (GO:0032465),2.595106e-01,7.061095e-01,8.252427e-01,9.592411e-01,1.000000e+00,1/11,1.52%,RACGAP1
+prerank,lipid catabolic process (GO:0016042),-3.883052e-01,-7.057152e-01,8.584906e-01,1.000000e+00,1.000000e+00,1/5,17.87%,CES1
+prerank,positive regulation of metabolic process (GO:0009893),2.659756e-01,7.047511e-01,8.712121e-01,9.579326e-01,1.000000e+00,2/10,5.20%,PTH2R;CD36
+prerank,regulation of potassium ion transmembrane transport (GO:1901379),-3.384591e-01,-7.047350e-01,8.485294e-01,1.000000e+00,1.000000e+00,1/8,2.67%,NEDD4L
+prerank,cyclic-nucleotide-mediated signaling (GO:0019935),-3.843690e-01,-7.044153e-01,8.634223e-01,1.000000e+00,1.000000e+00,1/5,7.37%,KSR1
+prerank,tube closure (GO:0060606),-3.837164e-01,-7.043863e-01,8.549383e-01,1.000000e+00,1.000000e+00,1/5,15.03%,MTHFD1L
+prerank,primary neural tube formation (GO:0014020),-3.837164e-01,-7.043863e-01,8.549383e-01,1.000000e+00,1.000000e+00,1/5,15.03%,MTHFD1L
+prerank,neural tube closure (GO:0001843),-3.837164e-01,-7.043863e-01,8.549383e-01,1.000000e+00,1.000000e+00,1/5,15.03%,MTHFD1L
+prerank,negative regulation of cell motility (GO:2000146),2.677180e-01,7.018161e-01,8.469751e-01,9.587194e-01,1.000000e+00,11/11,73.28%,CRK;AFDN;KANK1;VCL;SRGAP3;TCAF1;DLC1;NAV3;ADARB1;DRD2;ZMYND8
+prerank,double-strand break repair via nonhomologous end joining (GO:0006303),-3.288152e-01,-7.010477e-01,8.544936e-01,1.000000e+00,1.000000e+00,5/9,29.92%,NBN;BABAM1;XRCC5;XRCC6;POLB
+prerank,positive regulation of interleukin-1 production (GO:0032732),3.424729e-01,6.992057e-01,8.424242e-01,9.588758e-01,1.000000e+00,1/5,5.20%,CD36
+prerank,post-translational protein modification (GO:0043687),-2.872795e-01,-6.987838e-01,8.724832e-01,1.000000e+00,1.000000e+00,6/16,26.61%,FBXW8;KLHL22;ASB3;NUB1;MELTF;FBXO9
+prerank,negative regulation of cellular protein localization (GO:1903828),-3.803972e-01,-6.963329e-01,8.721109e-01,1.000000e+00,1.000000e+00,1/5,2.67%,NEDD4L
+prerank,transcription-coupled nucleotide-excision repair (GO:0006283),3.223355e-01,6.953947e-01,8.178914e-01,9.603128e-01,1.000000e+00,6/6,67.80%,CUL4A;USP7;UVSSA;MNAT1;UBC;CCNH
+prerank,regulation of interferon-beta production (GO:0032648),3.121250e-01,6.932689e-01,8.277946e-01,9.598978e-01,1.000000e+00,1/6,5.91%,IRF1
+prerank,phospholipid metabolic process (GO:0006644),2.632020e-01,6.921592e-01,8.925081e-01,9.580538e-01,1.000000e+00,5/10,21.44%,PLA2G4F;PLA2G4C;PLA2G5;CLN8;ABHD12
+prerank,monocarboxylic acid catabolic process (GO:0072329),-3.629526e-01,-6.919161e-01,8.748115e-01,1.000000e+00,1.000000e+00,1/6,10.02%,LPIN2
+prerank,cellular response to tumor necrosis factor (GO:0071356),-3.016229e-01,-6.912391e-01,8.442623e-01,1.000000e+00,1.000000e+00,3/11,13.89%,RIPK1;TNFRSF1B;NPNT
+prerank,regulation of translation (GO:0006417),-3.218420e-01,-6.885668e-01,8.698727e-01,1.000000e+00,1.000000e+00,4/9,37.29%,POLDIP3;NCL;LARP1;SAMD4B
+prerank,proteolysis involved in cellular protein catabolic process (GO:0051603),-3.314240e-01,-6.881737e-01,8.647059e-01,1.000000e+00,1.000000e+00,4/8,43.47%,MALT1;UBC;LGMN;CTSC
+prerank,regulation of interferon-gamma production (GO:0032649),2.713783e-01,6.808678e-01,8.442907e-01,9.684514e-01,1.000000e+00,1/9,3.20%,IL1R1
+prerank,G1/S transition of mitotic cell cycle (GO:0000082),2.783238e-01,6.800188e-01,8.448276e-01,9.661854e-01,1.000000e+00,8/8,72.21%,CDK17;CUL4A;CDK6;CUL2;MNAT1;TFDP2;CCNH;GPR132
+prerank,"retrograde transport, endosome to Golgi (GO:0042147)",-3.073575e-01,-6.779395e-01,8.751734e-01,1.000000e+00,1.000000e+00,7/10,42.38%,VPS53;SLC66A2;TMEM87B;TRIM27;RHOBTB3;DENND2A;GBF1
+prerank,peptidyl-serine phosphorylation (GO:0018105),-2.805370e-01,-6.778344e-01,8.787466e-01,1.000000e+00,1.000000e+00,4/14,19.22%,RIPK1;CSNK2A1;SRPK2;PRKD1
+prerank,nuclear membrane reassembly (GO:0031468),-3.032226e-01,-6.742941e-01,8.910891e-01,1.000000e+00,1.000000e+00,1/10,3.50%,SEH1L
+prerank,adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway (GO:0007193),3.051215e-01,6.728960e-01,8.735632e-01,9.713158e-01,1.000000e+00,1/6,8.65%,FPR2
+prerank,bicellular tight junction assembly (GO:0070830),-3.657267e-01,-6.723707e-01,8.794992e-01,1.000000e+00,1.000000e+00,2/5,33.25%,PATJ;TBCD
+prerank,positive regulation of growth (GO:0045927),-3.258360e-01,-6.717976e-01,8.964539e-01,1.000000e+00,1.000000e+00,2/8,9.68%,KLHL22;CSNK2A1
+prerank,positive regulation of interferon-gamma production (GO:0032729),2.952581e-01,6.716682e-01,8.694268e-01,9.697127e-01,1.000000e+00,1/7,3.20%,IL1R1
+prerank,modification-dependent protein catabolic process (GO:0019941),-2.773667e-01,-6.692645e-01,8.994638e-01,1.000000e+00,1.000000e+00,1/15,2.67%,NEDD4L
+prerank,myelination (GO:0042552),-3.691917e-01,-6.692306e-01,8.703125e-01,1.000000e+00,1.000000e+00,1/5,4.68%,ACER3
+prerank,positive regulation of lymphocyte proliferation (GO:0050671),-3.363955e-01,-6.685209e-01,8.921713e-01,1.000000e+00,1.000000e+00,4/7,41.97%,IL23R;BST1;TIRAP;CD86
+prerank,regulation of nitric-oxide synthase activity (GO:0050999),3.273109e-01,6.656115e-01,8.632479e-01,9.733427e-01,1.000000e+00,1/5,4.31%,CAV3
+prerank,positive regulation of translation (GO:0045727),-3.548162e-01,-6.647452e-01,8.848580e-01,1.000000e+00,1.000000e+00,2/5,32.96%,POLDIP3;LARP1
+prerank,cellular response to transforming growth factor beta stimulus (GO:0071560),-2.916164e-01,-6.636049e-01,8.748261e-01,1.000000e+00,1.000000e+00,2/12,9.91%,ADAM9;PTK2
+prerank,cholesterol homeostasis (GO:0042632),-2.930258e-01,-6.630421e-01,8.892006e-01,1.000000e+00,1.000000e+00,6/11,33.85%,SCARB1;CES1;ACSM1;RALY;LIMA1;EPHX2
+prerank,sterol homeostasis (GO:0055092),-2.930258e-01,-6.630421e-01,8.892006e-01,1.000000e+00,1.000000e+00,6/11,33.85%,SCARB1;CES1;ACSM1;RALY;LIMA1;EPHX2
+prerank,negative regulation of supramolecular fiber organization (GO:1902904),2.609246e-01,6.616999e-01,8.829431e-01,9.743830e-01,1.000000e+00,1/9,4.31%,CAV3
+prerank,cellular response to virus (GO:0098586),-3.563255e-01,-6.613345e-01,8.893939e-01,1.000000e+00,1.000000e+00,1/5,9.31%,ARF1
+prerank,positive regulation of transport (GO:0051050),-2.855223e-01,-6.612974e-01,8.835905e-01,1.000000e+00,1.000000e+00,4/12,28.99%,NEDD4L;MERTK;ANXA2;IL2RB
+prerank,mRNA export from nucleus (GO:0006406),-3.268869e-01,-6.598228e-01,8.910448e-01,1.000000e+00,1.000000e+00,2/7,16.90%,SEH1L;POLDIP3
+prerank,RNA export from nucleus (GO:0006405),-3.268869e-01,-6.598228e-01,8.910448e-01,1.000000e+00,1.000000e+00,2/7,16.90%,SEH1L;POLDIP3
+prerank,mRNA-containing ribonucleoprotein complex export from nucleus (GO:0071427),-3.268869e-01,-6.598228e-01,8.910448e-01,1.000000e+00,1.000000e+00,2/7,16.90%,SEH1L;POLDIP3
+prerank,intrinsic apoptotic signaling pathway by p53 class mediator (GO:0072332),-3.411758e-01,-6.579943e-01,8.835098e-01,1.000000e+00,1.000000e+00,2/6,19.00%,PML;TP53BP2
+prerank,transforming growth factor beta receptor signaling pathway (GO:0007179),-2.938301e-01,-6.555357e-01,8.821879e-01,1.000000e+00,1.000000e+00,2/11,9.91%,ADAM9;PTK2
+prerank,regulation of signal transduction (GO:0009966),-2.513006e-01,-6.554780e-01,9.109415e-01,1.000000e+00,1.000000e+00,7/22,26.50%,RUNX1;FYN;PTPN2;PRKD1;LIFR;BST1;MGLL
+prerank,nucleic acid phosphodiester bond hydrolysis (GO:0090305),-3.266519e-01,-6.522240e-01,8.831909e-01,1.000000e+00,1.000000e+00,2/7,13.18%,FBH1;ISG20
+prerank,positive regulation of carbohydrate metabolic process (GO:0045913),-3.573493e-01,-6.484590e-01,8.965517e-01,1.000000e+00,1.000000e+00,1/5,11.91%,PFKFB3
+prerank,regulation of Ras protein signal transduction (GO:0046578),-3.063299e-01,-6.437474e-01,8.982808e-01,1.000000e+00,1.000000e+00,6/8,50.18%,BCR;EPS8L3;ARHGEF2;MYO9B;DLC1;RAPGEF1
+prerank,regulation of mRNA stability (GO:0043488),-3.132689e-01,-6.412839e-01,9.209370e-01,1.000000e+00,1.000000e+00,5/8,37.29%,ANP32A;FTO;UBC;LARP1;SAMD4B
+prerank,cholesterol transport (GO:0030301),-3.212476e-01,-6.402936e-01,9.047619e-01,1.000000e+00,1.000000e+00,2/7,17.87%,SCARB1;CES1
+prerank,triglyceride metabolic process (GO:0006641),3.107954e-01,6.392506e-01,8.728814e-01,9.939638e-01,1.000000e+00,2/5,16.81%,CAV3;CETP
+prerank,visual perception (GO:0007601),2.544510e-01,6.342176e-01,9.270833e-01,9.955979e-01,1.000000e+00,9/9,74.60%,TRPM1;BBS2;CRYGN;DHRS3;CACNA2D4;GPR179;CNGB1;WFS1;ADGRV1
+prerank,apical junction assembly (GO:0043297),-3.246634e-01,-6.325640e-01,9.182764e-01,1.000000e+00,1.000000e+00,2/6,33.25%,PATJ;TBCD
+prerank,neutrophil migration (GO:1990266),2.848990e-01,6.302958e-01,9.036145e-01,9.962589e-01,1.000000e+00,1/6,8.94%,PIK3CD
+prerank,endoplasmic reticulum organization (GO:0007029),3.115653e-01,6.296823e-01,8.960000e-01,9.936391e-01,1.000000e+00,3/5,23.96%,SEC16B;GAK;SERP1
+prerank,glycoprotein metabolic process (GO:0009100),-3.309759e-01,-6.291290e-01,9.201807e-01,1.000000e+00,1.000000e+00,1/6,16.37%,GANC
+prerank,cellular protein catabolic process (GO:0044257),-2.799583e-01,-6.285729e-01,9.141631e-01,1.000000e+00,1.000000e+00,3/11,25.88%,RIPK1;AP2S1;MALT1
+prerank,positive regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032436),-3.402297e-01,-6.280074e-01,9.292453e-01,1.000000e+00,1.000000e+00,2/5,24.16%,DDRGK1;NUB1
+prerank,fatty acid metabolic process (GO:0006631),-2.701279e-01,-6.272682e-01,9.179004e-01,1.000000e+00,1.000000e+00,5/14,24.18%,LPIN2;FA2H;CES1;ACSM1;AOAH
+prerank,sensory perception of light stimulus (GO:0050953),2.610767e-01,6.271129e-01,9.331104e-01,9.927114e-01,1.000000e+00,1/8,6.13%,TRPM1
+prerank,regulation of protein kinase B signaling (GO:0051896),-2.621064e-01,-6.243440e-01,9.173333e-01,1.000000e+00,1.000000e+00,3/15,14.05%,FYN;PTK2;IGF1R
+prerank,nucleobase-containing compound catabolic process (GO:0034655),-3.432992e-01,-6.242051e-01,9.321267e-01,1.000000e+00,1.000000e+00,3/5,31.01%,ISG20;RNASET2;DNASE1L3
+prerank,regulation of filopodium assembly (GO:0051489),2.795181e-01,6.240658e-01,8.982036e-01,9.921670e-01,1.000000e+00,6/6,72.08%,TRPM2;GPM6A;CDC42;RAB17;CCR7;TENM2
+prerank,regulation of RNA metabolic process (GO:0051252),-3.414737e-01,-6.239503e-01,9.027356e-01,1.000000e+00,1.000000e+00,3/5,32.75%,TNFRSF1B;HNRNPLL;RBM20
+prerank,regulation of neuron projection development (GO:0010975),-2.810240e-01,-6.237497e-01,9.289694e-01,1.000000e+00,1.000000e+00,3/10,20.90%,SCARB2;PRKD1;ABI2
+prerank,stress-activated MAPK cascade (GO:0051403),-3.025181e-01,-6.229406e-01,9.157303e-01,1.000000e+00,1.000000e+00,2/8,15.16%,MAP3K5;MAPK10
+prerank,pattern recognition receptor signaling pathway (GO:0002221),-3.126934e-01,-6.228630e-01,9.181034e-01,1.000000e+00,1.000000e+00,5/7,37.31%,PLCG2;CD14;TLR2;UBC;LGMN
+prerank,regulation of RIG-I signaling pathway (GO:0039535),2.775195e-01,6.189789e-01,9.210526e-01,9.934081e-01,1.000000e+00,3/6,18.94%,USP15;OASL;PUM2
+prerank,regulation of cell cycle process (GO:0010564),-2.618908e-01,-6.185420e-01,9.289544e-01,1.000000e+00,1.000000e+00,2/14,9.68%,KNSTRN;CSNK2A1
+prerank,sensory perception of smell (GO:0007608),-3.459809e-01,-6.175301e-01,9.283626e-01,1.000000e+00,1.000000e+00,2/5,30.05%,SLC24A4;DRD2
+prerank,amino acid transmembrane transport (GO:0003333),2.979273e-01,6.174819e-01,8.997135e-01,9.916076e-01,1.000000e+00,3/5,19.98%,SLC6A13;SLC38A8;MFSD12
+prerank,leukotriene metabolic process (GO:0006691),-3.366644e-01,-6.164611e-01,9.380665e-01,1.000000e+00,1.000000e+00,1/5,6.80%,MGST2
+prerank,arachidonic acid metabolic process (GO:0019369),2.810065e-01,6.156292e-01,8.944099e-01,9.898903e-01,1.000000e+00,2/6,14.72%,PLA2G4C;FAAH
+prerank,negative regulation of cellular protein metabolic process (GO:0032269),2.462451e-01,6.151492e-01,9.202658e-01,9.871116e-01,1.000000e+00,8/8,75.41%,EIF4A3;CLN8;CAPRIN1;CSTB;PUS7;SAMD4B;LARP1;NCL
+prerank,positive regulation of cellular amide metabolic process (GO:0034250),-3.312554e-01,-6.135330e-01,9.211747e-01,1.000000e+00,1.000000e+00,1/5,16.90%,POLDIP3
+prerank,"DNA-templated transcription, initiation (GO:0006352)",2.527494e-01,6.131316e-01,9.248366e-01,9.855584e-01,1.000000e+00,1/8,3.52%,RBPJ
+prerank,positive regulation of T cell proliferation (GO:0042102),-3.175511e-01,-6.123550e-01,9.345238e-01,1.000000e+00,1.000000e+00,1/6,14.90%,IL23R
+prerank,phospholipase C-activating G protein-coupled receptor signaling pathway (GO:0007200),-3.197208e-01,-6.111299e-01,9.454023e-01,1.000000e+00,1.000000e+00,3/6,30.05%,ANO1;C5AR1;DRD2
+prerank,regulation of myeloid cell differentiation (GO:0045637),-3.069665e-01,-6.108259e-01,9.293233e-01,1.000000e+00,1.000000e+00,1/7,4.74%,RUNX1
+prerank,positive regulation of angiogenesis (GO:0045766),-2.960525e-01,-6.103658e-01,9.296765e-01,1.000000e+00,1.000000e+00,2/8,19.22%,RUNX1;PRKD1
+prerank,positive regulation of vasculature development (GO:1904018),-2.960525e-01,-6.103658e-01,9.296765e-01,1.000000e+00,1.000000e+00,2/8,19.22%,RUNX1;PRKD1
+prerank,nucleobase-containing small molecule interconversion (GO:0015949),-3.304823e-01,-6.098587e-01,9.423676e-01,1.000000e+00,1.000000e+00,2/5,23.98%,AK9;AK5
+prerank,embryonic organ development (GO:0048568),-3.189026e-01,-6.084021e-01,9.395280e-01,9.993560e-01,1.000000e+00,2/6,18.50%,GLI3;RARB
+prerank,cell cycle G1/S phase transition (GO:0044843),2.782206e-01,6.044521e-01,8.906250e-01,9.894107e-01,1.000000e+00,6/6,72.21%,CUL4A;CDK6;CUL2;MNAT1;CCNH;GPR132
+prerank,establishment of protein localization to membrane (GO:0090150),2.745134e-01,5.978007e-01,9.449275e-01,9.912483e-01,1.000000e+00,6/6,72.58%,RAB3GAP1;AFDN;SYNE3;ZDHHC20;RABGEF1;REEP1
+prerank,cation transport (GO:0006812),-2.337440e-01,-5.969862e-01,9.601030e-01,1.000000e+00,1.000000e+00,5/20,27.01%,NEDD4L;SLC12A2;SLC7A6;ANO1;TRPM4
+prerank,positive regulation of Wnt signaling pathway (GO:0030177),-2.730158e-01,-5.953370e-01,9.562764e-01,1.000000e+00,1.000000e+00,4/10,31.73%,CSNK2A1;TRPM4;RNF220;TLR2
+prerank,defense response to bacterium (GO:0042742),-2.809647e-01,-5.914445e-01,9.452663e-01,1.000000e+00,1.000000e+00,5/8,37.92%,IL23R;BPI;TLR2;ANKRD17;TIRAP
+prerank,inorganic cation import across plasma membrane (GO:0098659),-2.842544e-01,-5.888640e-01,9.499305e-01,1.000000e+00,1.000000e+00,3/8,32.16%,SLC12A2;TRPM4;ATP1A1
+prerank,positive regulation of receptor-mediated endocytosis (GO:0048260),2.844700e-01,5.865785e-01,9.582173e-01,9.960839e-01,1.000000e+00,5/5,71.58%,C3;DGKD;EGF;ARRB1;ANXA2
+prerank,regulation of phosphatidylinositol 3-kinase signaling (GO:0014066),-2.535029e-01,-5.861892e-01,9.431968e-01,1.000000e+00,1.000000e+00,2/13,14.05%,PTK2;IGF1R
+prerank,cellular protein-containing complex assembly (GO:0034622),-2.529607e-01,-5.856230e-01,9.480164e-01,1.000000e+00,1.000000e+00,8/13,47.49%,AP2S1;MAPT;SMAD2;TBCD;TTC12;TCF4;SHQ1;AHCTF1
+prerank,positive regulation of epithelial to mesenchymal transition (GO:0010718),-3.252923e-01,-5.853295e-01,9.463415e-01,1.000000e+00,1.000000e+00,1/5,28.40%,SMAD2
+prerank,regulation of cell division (GO:0051302),2.308976e-01,5.843340e-01,9.638158e-01,9.944480e-01,1.000000e+00,9/9,76.95%,AURKB;KIF13A;BBS4;SIRT2;EFHC1;AHCTF1;RAB11FIP3;BECN1;PIK3R4
+prerank,protein autoubiquitination (GO:0051865),-2.897656e-01,-5.806414e-01,9.700599e-01,1.000000e+00,1.000000e+00,3/7,39.90%,RNF141;RNF220;RNF10
+prerank,regulation of cell cycle phase transition (GO:1901987),2.720534e-01,5.773853e-01,9.508197e-01,9.957023e-01,1.000000e+00,5/5,72.82%,PSMD6;CDC16;NEK10;UBE2E1;NEK11
+prerank,regulation of actin cytoskeleton organization (GO:0032956),2.632067e-01,5.758046e-01,9.399399e-01,9.936287e-01,1.000000e+00,6/6,73.71%,CRK;TRPM2;DLC1;RHOBTB3;RAC2;BST1
+prerank,melanosome transport (GO:0032402),2.633920e-01,5.753256e-01,9.643917e-01,9.816598e-01,1.000000e+00,6/6,73.69%,BBS4;MYO5A;BBS2;MLPH;RAB17;BBS5
+prerank,melanosome localization (GO:0032400),2.633920e-01,5.753256e-01,9.643917e-01,9.816598e-01,1.000000e+00,6/6,73.69%,BBS4;MYO5A;BBS2;MLPH;RAB17;BBS5
+prerank,pigment granule transport (GO:0051904),2.633920e-01,5.753256e-01,9.643917e-01,9.816598e-01,1.000000e+00,6/6,73.69%,BBS4;MYO5A;BBS2;MLPH;RAB17;BBS5
+prerank,establishment of melanosome localization (GO:0032401),2.633920e-01,5.753256e-01,9.643917e-01,9.816598e-01,1.000000e+00,6/6,73.69%,BBS4;MYO5A;BBS2;MLPH;RAB17;BBS5
+prerank,acetyl-CoA metabolic process (GO:0006084),-3.012065e-01,-5.747505e-01,9.457478e-01,1.000000e+00,1.000000e+00,1/6,16.46%,ACAT1
+prerank,regulation of megakaryocyte differentiation (GO:0045652),-2.863722e-01,-5.739705e-01,9.587021e-01,1.000000e+00,1.000000e+00,1/7,4.74%,RUNX1
+prerank,negative regulation of protein secretion (GO:0050709),-3.115494e-01,-5.690687e-01,9.560606e-01,1.000000e+00,1.000000e+00,4/5,55.92%,DRD2;RAB11FIP3;PRKN;KCNB1
+prerank,positive regulation of macroautophagy (GO:0016239),-3.156093e-01,-5.688735e-01,9.750390e-01,1.000000e+00,1.000000e+00,2/5,32.96%,SPTLC1;LARP1
+prerank,ubiquitin-dependent ERAD pathway (GO:0030433),2.343893e-01,5.655425e-01,9.754601e-01,9.845720e-01,1.000000e+00,2/8,12.52%,TRIM25;DNAJC18
+prerank,protein modification process (GO:0036211),2.238501e-01,5.644493e-01,9.744526e-01,9.821516e-01,1.000000e+00,9/9,77.65%,LCMT1;FBXL2;SERP1;NAGPA;LOXL2;PLOD2;B4GALT7;ST3GAL1;LIPT1
+prerank,regulation of protein ubiquitination (GO:0031396),-2.831770e-01,-5.618756e-01,9.585799e-01,1.000000e+00,1.000000e+00,4/7,39.73%,MALT1;WFS1;ARRB1;PRKCG
+prerank,acylglycerol catabolic process (GO:0046464),2.698695e-01,5.596805e-01,9.541779e-01,9.818928e-01,1.000000e+00,3/5,29.86%,FAAH;ABHD12;FABP3
+prerank,negative regulation of catabolic process (GO:0009895),-3.080342e-01,-5.592310e-01,9.534510e-01,1.000000e+00,1.000000e+00,1/5,11.28%,HDAC4
+prerank,positive regulation of NF-kappaB transcription factor activity (GO:0051092),-2.130470e-01,-5.549127e-01,9.783439e-01,1.000000e+00,1.000000e+00,12/21,38.90%,RIPK1;CFLAR;DDRGK1;SLCO3A1;PRKD1;MALT1;TLR2;UBC;CLOCK;TRIM27;TIRAP;MAP3K13
+prerank,negative regulation of growth (GO:0045926),-2.442596e-01,-5.539964e-01,9.600551e-01,1.000000e+00,1.000000e+00,4/11,38.25%,PML;MYL2;WFDC1;MT1X
+prerank,negative regulation of cellular amide metabolic process (GO:0034249),-2.893549e-01,-5.532046e-01,9.684685e-01,1.000000e+00,1.000000e+00,3/6,37.29%,NCL;LARP1;SAMD4B
+prerank,MyD88-dependent toll-like receptor signaling pathway (GO:0002755),-3.111218e-01,-5.497799e-01,9.688958e-01,1.000000e+00,1.000000e+00,4/5,37.92%,CD14;TLR2;UBC;TIRAP
+prerank,carboxylic acid transmembrane transport (GO:1905039),-2.814698e-01,-5.445642e-01,9.606061e-01,1.000000e+00,1.000000e+00,2/6,16.68%,SLC7A6;SLC27A1
+prerank,cell junction organization (GO:0034330),2.650111e-01,5.429810e-01,9.695291e-01,9.871837e-01,1.000000e+00,5/5,73.52%,SLC6A1;LIMS1;CDC42;PPFIBP2;MAPT
+prerank,acylglycerol metabolic process (GO:0006639),-2.761556e-01,-5.392133e-01,9.722222e-01,1.000000e+00,1.000000e+00,1/6,8.70%,DGKB
+prerank,monoacylglycerol metabolic process (GO:0046462),2.648258e-01,5.391457e-01,9.608434e-01,9.858372e-01,1.000000e+00,5/5,73.54%,FAAH;ABHD12;ABHD12B;MOGAT2;MGLL
+prerank,negative regulation of defense response (GO:0031348),-2.403399e-01,-5.388535e-01,9.696552e-01,1.000000e+00,1.000000e+00,2/11,24.18%,PTPN2;AOAH
+prerank,regulation of type I interferon production (GO:0032479),-2.451518e-01,-5.373949e-01,9.655172e-01,9.997058e-01,1.000000e+00,5/10,37.92%,XRCC5;CD14;XRCC6;IFIH1;TIRAP
+prerank,rRNA metabolic process (GO:0016072),2.057817e-01,5.372458e-01,9.759036e-01,9.836314e-01,1.000000e+00,4/10,21.50%,XRN1;DHX37;IMP4;NVL
+prerank,positive regulation of cell differentiation (GO:0045597),-2.121357e-01,-5.351225e-01,9.790026e-01,9.989363e-01,1.000000e+00,9/18,45.84%,NPNT;PRKD1;TRPM4;SMAD2;CEACAM1;ZBTB16;PRKCH;ARHGEF2;TCF4
+prerank,regulation of immune response (GO:0050776),-2.110402e-01,-5.336953e-01,9.829396e-01,9.978361e-01,1.000000e+00,5/18,29.24%,MICB;FOXP1;PILRA;CD247;TREM1
+prerank,positive regulation of T cell activation (GO:0050870),-2.570706e-01,-5.170596e-01,9.780702e-01,1.000000e+00,1.000000e+00,1/7,14.90%,IL23R
+prerank,regulation of cytoskeleton organization (GO:0051493),-2.427506e-01,-5.137445e-01,9.720588e-01,1.000000e+00,1.000000e+00,5/9,38.72%,PTK2;BST1;MAPT;RAC2;RHOBTB3
+prerank,regulation of actin filament-based process (GO:0032970),-2.748424e-01,-5.106849e-01,9.811912e-01,1.000000e+00,1.000000e+00,3/5,38.72%,BST1;RAC2;RHOBTB3
+prerank,negative regulation of response to external stimulus (GO:0032102),-2.174980e-01,-5.051247e-01,9.824324e-01,1.000000e+00,1.000000e+00,4/13,34.73%,PTPN2;AOAH;DRD2;ENPP3
+prerank,proteoglycan biosynthetic process (GO:0030166),2.407169e-01,4.912109e-01,9.911243e-01,9.949683e-01,1.000000e+00,1/5,9.35%,EXTL3
+prerank,glycosaminoglycan metabolic process (GO:0030203),2.257646e-01,4.829120e-01,9.969880e-01,9.935999e-01,1.000000e+00,6/6,77.45%,SGSH;XYLT1;GUSB;B3GAT1;B4GALT7;EXT1
+prerank,phosphatidylserine metabolic process (GO:0006658),-2.258857e-01,-4.750310e-01,9.914773e-01,1.000000e+00,1.000000e+00,3/8,31.51%,SLC27A1;OSBPL10;PLA2G15
+prerank,sensory perception of chemical stimulus (GO:0007606),-2.399668e-01,-4.672385e-01,9.958621e-01,1.000000e+00,1.000000e+00,3/7,30.05%,SLC24A4;C5AR1;DRD2
+prerank,alpha-amino acid catabolic process (GO:1901606),-2.542125e-01,-4.591813e-01,9.888712e-01,1.000000e+00,1.000000e+00,1/5,16.46%,ACAT1
+prerank,regulation of mRNA catabolic process (GO:0061013),-2.299693e-01,-4.586732e-01,9.912664e-01,1.000000e+00,1.000000e+00,1/7,11.18%,ANP32A
+prerank,positive regulation of cellular protein metabolic process (GO:0032270),-2.079945e-01,-4.342356e-01,9.942197e-01,1.000000e+00,1.000000e+00,1/8,16.90%,POLDIP3
+prerank,rRNA processing (GO:0006364),-1.940631e-01,-4.273826e-01,9.945946e-01,1.000000e+00,1.000000e+00,11/11,80.65%,DDX47;TFB1M;RCL1;DDX10;MRPL1;RPL23;WDR12;NVL;IMP4;DHX37;RIOK2
+prerank,protein localization to organelle (GO:0033365),-1.788497e-01,-4.053801e-01,1.000000e+00,1.000000e+00,1.000000e+00,11/11,82.17%,DDRGK1;OBSCN;GBF1;GBP5;UBE2J2;BBS2;IFT122;BBS4;SERP1;GAK;CROCC
+prerank,response to light stimulus (GO:0009416),-1.922753e-01,-4.001498e-01,1.000000e+00,1.000000e+00,1.000000e+00,3/8,35.94%,MAPK10;DRD2;CLOCK
+prerank,adenylate cyclase-activating G protein-coupled receptor signaling pathway (GO:0007189),-1.845994e-01,-3.910810e-01,1.000000e+00,1.000000e+00,1.000000e+00,2/9,30.05%,ADGRG1;DRD2
+prerank,regulation of NIK/NF-kappaB signaling (GO:1901222),-1.859538e-01,-3.801894e-01,1.000000e+00,9.996097e-01,1.000000e+00,3/8,41.97%,CD14;TLR2;CD86

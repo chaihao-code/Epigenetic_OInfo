@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Estrogen Response Early.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Estrogen Response Early",
+      "historical_pdf_name": "Estrogen Response Early.pdf",
+      "n_ranked": 1010,
+      "n_hits": 5,
+      "saved_ES": 0.7774194,
+      "recomputed_ES": 0.7774193565688081,
+      "absolute_ES_error": 4.343119186511757e-08,
+      "NES": 1.505445,
+      "nominal_P": 0.05089059,
+      "FDR_q": 0.09701493,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Estrogen Response Early.pdf",
+          "bytes": 27720,
+          "sha256": "cb407ce0fb5dc783af972ece9453bcaec43a21ee8dada5dc5016a7595fea482d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Estrogen Response Early.png",
+          "bytes": 100724,
+          "sha256": "d0aed4428f08be02756ca61feb490bca4e5fdd90d1208283ee8e5539975797e7"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.59
+}

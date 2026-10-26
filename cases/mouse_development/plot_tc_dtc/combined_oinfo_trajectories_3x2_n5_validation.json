@@ -1,0 +1,177 @@
+{
+  "figure_size_cm": [
+    18.0,
+    8.0
+  ],
+  "reference_dtc_figure_size_cm": [
+    18,
+    9.75
+  ],
+  "height_ratio_vs_dtc": 0.8205128205128205,
+  "metric": "total O-information",
+  "label_font_size_pt": 8,
+  "metric_heading_font_size_pt": 10,
+  "layout": {
+    "metric": "oinfo",
+    "height_cm": 8.0,
+    "panel_size_cm": [
+      6.1,
+      1.6133333333333333
+    ],
+    "y_axis_limits": [
+      [
+        -2.170101190316135,
+        0.2442889194703898
+      ],
+      [
+        -3.3940483972710136,
+        0.062626285933868
+      ],
+      [
+        -3.535819998565872,
+        0.2361033577122838
+      ],
+      [
+        -4.1789623366664035,
+        0.198998206507924
+      ],
+      [
+        -3.772067011004678,
+        0.2798652416021491
+      ],
+      [
+        -3.062891513538448,
+        0.14585197683516418
+      ]
+    ],
+    "x_axis_limits": [
+      [
+        -0.2725,
+        27.5225
+      ],
+      [
+        -0.2725,
+        27.5225
+      ],
+      [
+        -0.2725,
+        27.5225
+      ],
+      [
+        -0.2725,
+        27.5225
+      ],
+      [
+        -0.2725,
+        27.5225
+      ],
+      [
+        -0.2725,
+        27.5225
+      ]
+    ],
+    "line_signature_sha256": [
+      "873dabec36010cfc2a6f8195b714f5e02696f9f4548fd7f104b06e339225f1e7",
+      "47645bbcced414a94f1bea70ffdf9c8ae2c475522db1b5dd2e50bc324781b799",
+      "4b1f1b0c33fffaeba094f0243a71e84f21c009417e78e2ba9069689ede87aa82",
+      "5cbe5cb7ed2559d64c8e4182703b94324f3d060381caf01b3adef4cc8ac42612",
+      "2c19201d393e28bb7b6b32186eae7fb8daaff0c314ebd7b33d8d552cf0d37f08",
+      "71e738e241b676870575a06fc8ef38bdc0150f1e4feafbe19d9e0ac8322ff8ed"
+    ],
+    "display_coordinates_unchanged_during_styling": true,
+    "trajectory_days_values_colors_and_styles_preserved": true,
+    "extra_left_margin_for_negative_ticks_cm": 0.2
+  },
+  "region_titles": [
+    "Promoter / CpG island",
+    "Promoter / LINE",
+    "Proximal enhancer CTCF- / CpG island",
+    "Proximal enhancer CTCF- / LINE",
+    "Distal enhancer CTCF- / CpG island",
+    "Distal enhancer CTCF- / LINE"
+  ],
+  "zero_reference_line": true,
+  "tissue_colors_line_styles_and_time_coordinates_match_tc_dtc": true,
+  "early_categorical_time_step": 1.25,
+  "x_coordinates": "Same TC/DTC display scale: early categorical step 1.25; organogenesis 2 units/day; ICM and TE share E3.5",
+  "legend_labelspacing": 0.03,
+  "legend_n_entries": 24,
+  "legend_right_margin_at_least_cm": 0.4,
+  "legend_bbox_cm": [
+    14.55,
+    0.600620104166667,
+    2.513541666666667,
+    6.798759791666667
+  ],
+  "validation": {
+    "text_bounds_checked": true,
+    "time_labels_do_not_overlap": true,
+    "vertical_tick_labels_do_not_overlap": true,
+    "ICM_TE_labels_do_not_overlap": true,
+    "legend_clear_of_panels": true,
+    "all_other_text_8pt_heading_10pt": true
+  },
+  "plot_input_table": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/plot_tc_dtc/tc_dtc_overall_values_for_plot.tsv",
+  "plot_input_table_sha256": "87f4be41882274dfca3c302f4a06c314bc63e60fff4e920ded5ec8f021c07af0",
+  "input_column": "hoi",
+  "n_samples": 82,
+  "n_blocks": 6,
+  "n_values": 492,
+  "n_signals": 7,
+  "n_bins": 5,
+  "order": 7,
+  "n_missing": 0,
+  "metric_definition": "Total O-information = TC - DTC",
+  "max_abs_error_hoi_vs_tc_minus_dtc": 1.3322676295501878e-15,
+  "no_recomputation": true,
+  "per_block_trajectory_sample_coverage": {
+    "promoter_AND_CpG_island": 82,
+    "promoter_AND_LINE": 82,
+    "proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island": 82,
+    "proximal_not_ctcf_bound_enhancer_purified_bins_AND_LINE": 82,
+    "distal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island": 82,
+    "distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE": 82
+  },
+  "tc_dtc_validation_file": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/plot_tc_dtc/combined_tc_dtc_trajectories_6x2_n5_validation.json",
+  "tc_dtc_validation_file_sha256": "08d50cf0e3cc67137d76333d8c8c1badc1a256593745c2aaf26500bdd71bb5d6",
+  "original_archived_source_directory": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/plot_tc_dtc",
+  "original_archived_source_file_sha256": {
+    "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/plot_tc_dtc/tc_dtc_overall_values_for_plot.tsv": "87f4be41882274dfca3c302f4a06c314bc63e60fff4e920ded5ec8f021c07af0"
+  },
+  "archived_regional_comparisons_in_tc_dtc_run": 0,
+  "differentiation_tree": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/plot_tc_dtc/inputs/mouse_differentiation_tree.txt",
+  "tree_sha256": "ae92b4dad85eb7bbe0b786c746e4c20b040fc991fc32813afc12a18b80eb71d5",
+  "excluded_missing_tree_samples": [
+    "E10.5_Embryonic_Facial_Prominence",
+    "E10.5_Forebrain",
+    "E10.5_Heart",
+    "E10.5_Hindbrain",
+    "E10.5_Intestine",
+    "E10.5_Kidney",
+    "E10.5_Limb",
+    "E10.5_Liver",
+    "E10.5_Lung",
+    "E10.5_Midbrain",
+    "E10.5_Neural_Tube",
+    "E10.5_Stomach",
+    "E11.5_Intestine",
+    "E11.5_Kidney",
+    "E11.5_Lung",
+    "E11.5_Stomach",
+    "E12.5_Intestine",
+    "E12.5_Kidney",
+    "E12.5_Lung",
+    "E12.5_Stomach",
+    "E13.5_Intestine",
+    "E13.5_Kidney",
+    "E13.5_Lung",
+    "E13.5_Stomach",
+    "E16.5_Embryonic_Facial_Prominence",
+    "E16.5_Limb",
+    "E16.5_Neural_Tube",
+    "P0_Embryonic_Facial_Prominence",
+    "P0_Limb",
+    "P0_Neural_Tube"
+  ],
+  "missing_inputs_report_sha256": "c4cdd433bba602f1014956a5acff9751b756941217cc474c87323f3965f1f629"
+}

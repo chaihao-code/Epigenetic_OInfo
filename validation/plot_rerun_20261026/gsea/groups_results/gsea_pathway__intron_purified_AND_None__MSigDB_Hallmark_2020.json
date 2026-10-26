@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Apical Junction.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Apical Junction",
+      "historical_pdf_name": "Apical Junction.pdf",
+      "n_ranked": 14813,
+      "n_hits": 42,
+      "saved_ES": 0.4884342,
+      "recomputed_ES": 0.48843421013019994,
+      "absolute_ES_error": 1.0130199956659425e-08,
+      "NES": 1.708716,
+      "nominal_P": 0.003533569,
+      "FDR_q": 0.1942657,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/prerank/Apical Junction.pdf",
+          "bytes": 32191,
+          "sha256": "4f1a555a1e81633de2e6c1ec1d9d618e5f7aafce89aa0e683c26aede3516b22e"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_None/MSigDB_Hallmark_2020/prerank/Apical Junction.png",
+          "bytes": 100997,
+          "sha256": "b5d7770fd8ad8896dbf108e361f89bb7b9c91163c56c1e4f42b922831062147e"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.58
+}

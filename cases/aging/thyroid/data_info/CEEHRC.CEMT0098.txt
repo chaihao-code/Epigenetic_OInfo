@@ -1,0 +1,7 @@
+data/aging/thyroid/input_normed_binned_results/98320.CEEHRC.CEMT0098.H3K36me3.signal_unstranded.bin1000.step1000.divInput.bp
+data/aging/thyroid/input_normed_binned_results/98311.CEEHRC.CEMT0098.H3K4me3.signal_unstranded.bin1000.step1000.divInput.bp
+data/aging/thyroid/input_normed_binned_results/98317.CEEHRC.CEMT0098.H3K27me3.signal_unstranded.bin1000.step1000.divInput.bp
+data/aging/thyroid/input_normed_binned_results/98642.CEEHRC.CEMT0098.WGB-Seq.methylation_profile.bin1000.step1000.bp
+data/aging/thyroid/input_normed_binned_results/98308.CEEHRC.CEMT0098.H3K4me1.signal_unstranded.bin1000.step1000.divInput.bp
+data/aging/thyroid/input_normed_binned_results/98314.CEEHRC.CEMT0098.H3K9me3.signal_unstranded.bin1000.step1000.divInput.bp
+data/aging/thyroid/input_normed_binned_results/98323.CEEHRC.CEMT0098.H3K27ac.signal_unstranded.bin1000.step1000.divInput.bp

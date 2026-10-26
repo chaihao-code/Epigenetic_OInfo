@@ -1,0 +1,74 @@
+{
+  "created_at_utc": "2026-10-26T11:08:00.471618+00:00",
+  "females_R": [
+    "CEMT0005",
+    "CEMT0025",
+    "CEMT0028",
+    "CEMT0030"
+  ],
+  "females_S": [],
+  "males_R": [
+    "CEMT0004",
+    "CEMT0026",
+    "CEMT0027",
+    "CEMT0029"
+  ],
+  "males_S": [
+    "CEMT0006",
+    "CEMT0094",
+    "CEMT0095",
+    "CEMT0096",
+    "CEMT0097"
+  ],
+  "primary_genes": "Fixed male FDR<0.05 set, 38 genes; never selected using female data",
+  "normalization": "RSEM lengthScaledTPM counts rounded; DESeq-style ratio factors against a frozen male-only geometric-mean reference; log2(normalized counts+1)",
+  "n_normalization_reference_genes": 16415,
+  "projection": "OLS log-expression fit using males only, removing RNA-method and IGHV terms; z scaling learned in males only. This projection is distinct from the original DESeq2 test.",
+  "models": {
+    "logcounts_method_IGHV_adjusted": {
+      "n_train": 9,
+      "n_parameters": 4,
+      "residual_degrees_of_freedom": 5,
+      "condition_number": 6.769084739007959,
+      "covariates": [
+        "unstranded",
+        "IGHV_M"
+      ]
+    },
+    "logcounts_unadjusted": {
+      "n_train": 9,
+      "n_parameters": 2,
+      "residual_degrees_of_freedom": 7,
+      "condition_number": 2.5081953408613122,
+      "covariates": []
+    },
+    "logTPM_method_IGHV_adjusted": {
+      "n_train": 9,
+      "n_parameters": 4,
+      "residual_degrees_of_freedom": 5,
+      "condition_number": 6.769084739007959,
+      "covariates": [
+        "unstranded",
+        "IGHV_M"
+      ]
+    },
+    "stranded_logcounts_IGHV_adjusted": {
+      "n_train": 6,
+      "n_parameters": 3,
+      "residual_degrees_of_freedom": 3,
+      "condition_number": 6.5579318703642135,
+      "covariates": [
+        "IGHV_M"
+      ]
+    }
+  },
+  "interpretation": "Distance/projection are descriptive concordance, not validated diagnostic classification; female donors have no S controls.",
+  "no_female_DE_pvalues": true,
+  "input_hashes": {
+    "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/bcells_and_CLL/results_rna_de_slurm/sample_metadata.tsv": "92b067e9e54f2adf1dc8973ae53771798205c55a4e5fea5aa4f6ee3a80cf0197",
+    "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/bcells_and_CLL/results_rna_de_slurm/length_scaled_counts.tsv": "17859b91135be1b8c08d77237b703a63fc90f8f896d8356e0495d09cb852bcda",
+    "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/bcells_and_CLL/results_rna_de_slurm/gene_tpm_tximport.tsv": "6498875502b6986bdb820e54b832b7cbd1502b6f1e5752c9806707e80582376c",
+    "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/bcells_and_CLL/results_rna_de_male_ighv/rna_method_ighv_adjusted_FDR_0.05.tsv": "c510039e4825cba4b88219247f6249c43eea2608e928b9b4af40212ddefd3199",
+    "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/bcells_and_CLL/results_rna_de_male_ighv/rna_method_ighv_adjusted_FDR_0.10.tsv": "368209e74a5fa2c7e54e2cbacc41d5b5309ec7ad4602f4fa62e7b91e09b4a4d9"
+  }
+}

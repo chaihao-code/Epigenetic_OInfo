@@ -1,0 +1,8 @@
+{
+  "source": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/mouse_development/synergistic_triplets/all_triplets_fdr_10000.tsv.gz",
+  "analysis_created_at_utc": "2026-10-20T13:31:44.671147+00:00",
+  "n_samples": 82,
+  "selection": "observed_hoi < 0 and q_down_sample_block_bh <= 0.05",
+  "family": "35 lower-tail p-values per sample x block",
+  "aggregation": "Mean per-sample discovery count across available tissues in each stage"
+}

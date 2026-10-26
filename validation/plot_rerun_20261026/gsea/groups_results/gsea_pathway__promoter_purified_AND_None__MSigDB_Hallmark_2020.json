@@ -1,0 +1,61 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "E2F Targets.pdf",
+    "Mitotic Spindle.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "E2F Targets",
+      "historical_pdf_name": "E2F Targets.pdf",
+      "n_ranked": 45199,
+      "n_hits": 105,
+      "saved_ES": 0.3668042,
+      "recomputed_ES": 0.3668041556348427,
+      "absolute_ES_error": 4.436515732564317e-08,
+      "NES": 1.648634,
+      "nominal_P": 0.0,
+      "FDR_q": 0.03934297,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/prerank/E2F Targets.pdf",
+          "bytes": 32745,
+          "sha256": "23311cc61e798ebb100e11733be3c1995f2410d1b96d2df1b4a0c1759affce09"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/prerank/E2F Targets.png",
+          "bytes": 96612,
+          "sha256": "368e6a245b6eee499caed03de20727b6ad26e0c01f935bea40aee844620aa09f"
+        }
+      ]
+    },
+    {
+      "term": "Mitotic Spindle",
+      "historical_pdf_name": "Mitotic Spindle.pdf",
+      "n_ranked": 45199,
+      "n_hits": 132,
+      "saved_ES": 0.3644402,
+      "recomputed_ES": 0.3644401918557176,
+      "absolute_ES_error": 8.14428241513454e-09,
+      "NES": 1.673957,
+      "nominal_P": 0.0,
+      "FDR_q": 0.06525175,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/prerank/Mitotic Spindle.pdf",
+          "bytes": 31815,
+          "sha256": "c733a7880dcc6c50d0d964302ac6bce0125db4cf7e138cfe71adad6ef106bb6c"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/MSigDB_Hallmark_2020/prerank/Mitotic Spindle.png",
+          "bytes": 97743,
+          "sha256": "d5ef91d21561d2e3526eeace6422834ca1a2f971e45444ec6ea4cbd6628e5a77"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.98
+}

@@ -1,0 +1,111 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Allograft Rejection.pdf",
+    "Inflammatory Response.pdf",
+    "Protein Secretion.pdf",
+    "Spermatogenesis.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Allograft Rejection",
+      "historical_pdf_name": "Allograft Rejection.pdf",
+      "n_ranked": 17342,
+      "n_hits": 60,
+      "saved_ES": 0.2954511,
+      "recomputed_ES": 0.2954510772107651,
+      "absolute_ES_error": 2.2789234943587644e-08,
+      "NES": 1.257051,
+      "nominal_P": 0.05263158,
+      "FDR_q": 0.2128811,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Allograft Rejection.pdf",
+          "bytes": 33666,
+          "sha256": "b74f0e7825ef3cef52565ffa3dd75ec1bb09f5f216cb5366b4f734d63695592a"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Allograft Rejection.png",
+          "bytes": 106878,
+          "sha256": "7a73e11a50394fb539a8996a2b37f88dc456e176059351258b0a98ca0bd6466e"
+        }
+      ]
+    },
+    {
+      "term": "Inflammatory Response",
+      "historical_pdf_name": "Inflammatory Response.pdf",
+      "n_ranked": 17342,
+      "n_hits": 54,
+      "saved_ES": 0.3662412,
+      "recomputed_ES": 0.3662411699040376,
+      "absolute_ES_error": 3.0095962388898556e-08,
+      "NES": 1.537706,
+      "nominal_P": 0.00952381,
+      "FDR_q": 0.1685976,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Inflammatory Response.pdf",
+          "bytes": 33374,
+          "sha256": "3afb6a793b8252d38cb48c910dc0157ef3aa36aece0238f1db6f87f847ae3f00"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Inflammatory Response.png",
+          "bytes": 106582,
+          "sha256": "2f29ad5233cdb4cb881733aa8c547a8d7d9472c8af10f3d3168af4384ff8b4ae"
+        }
+      ]
+    },
+    {
+      "term": "Protein Secretion",
+      "historical_pdf_name": "Protein Secretion.pdf",
+      "n_ranked": 17342,
+      "n_hits": 28,
+      "saved_ES": 0.3695913,
+      "recomputed_ES": 0.3695912912246555,
+      "absolute_ES_error": 8.77534450660633e-09,
+      "NES": 1.341939,
+      "nominal_P": 0.09202454,
+      "FDR_q": 0.1778455,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Protein Secretion.pdf",
+          "bytes": 31341,
+          "sha256": "5a8950d9ca0d0f09c0d547fcdd563f76d4ce66e6dec40432da8291f8984d63f3"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Protein Secretion.png",
+          "bytes": 95711,
+          "sha256": "4d1e3d50cd0407eb24ec6537c127854a64e38abb6844893fc9c560ca5c5a3d81"
+        }
+      ]
+    },
+    {
+      "term": "Spermatogenesis",
+      "historical_pdf_name": "Spermatogenesis.pdf",
+      "n_ranked": 17342,
+      "n_hits": 31,
+      "saved_ES": 0.4098682,
+      "recomputed_ES": 0.4098682247616587,
+      "absolute_ES_error": 2.476165866793778e-08,
+      "NES": 1.492281,
+      "nominal_P": 0.0130719,
+      "FDR_q": 0.1104421,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Spermatogenesis.pdf",
+          "bytes": 32559,
+          "sha256": "2b5274d0858537265b23131f7c3020b658f8294ff8fab065c6b6a667a0b17ae4"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/Spermatogenesis.png",
+          "bytes": 104554,
+          "sha256": "bdd1c45aa142686146c8c5422b82571747cb8bc718a5e57fa7d10ab92d5a201d"
+        }
+      ]
+    }
+  ],
+  "seconds": 2.17
+}

@@ -1,0 +1,52 @@
+{
+  "mouse_preimp": {
+    "genome": "mm10",
+    "input_dir": "cases/mouse_preimp/calculation_results/data_info",
+    "n_permutations": 10000,
+    "panel": "published full signal panel; retain feature names from each input list",
+    "fdr_family": "sample-block"
+  },
+  "mouse_after_E11.5": {
+    "genome": "mm10",
+    "input_dir": "cases/mouse_after_E11.5/data/input_files",
+    "n_permutations": 10000,
+    "panel": "published full signal panel; retain feature names from each input list",
+    "fdr_family": "sample-block"
+  },
+  "mouse_development": {
+    "genome": "mm10",
+    "input_dir": "cases/mouse_development/data/input_files",
+    "n_permutations": 10000,
+    "panel": "7 signals; 35 triplets per sample/class; BH separately in each sample/class",
+    "fdr_family": "sample-block"
+  },
+  "bcells_and_CLL": {
+    "genome": "hg38",
+    "input_dir": "cases/bcells_and_CLL/data_info",
+    "n_permutations": 10000,
+    "panel": "7 signals; use the published per-sample/global BH families",
+    "fdr_family": "sample"
+  },
+  "aging/neutrophil": {
+    "genome": "hg38",
+    "input_dir": "cases/aging/neutrophil/data_info",
+    "n_permutations": 10000,
+    "panel": "published neutrophil panel",
+    "fdr_family": "sample-block"
+  },
+  "aging/thyroid": {
+    "genome": "hg38",
+    "input_dir": "cases/aging/thyroid/data_info",
+    "n_permutations": 10000,
+    "panel": "6 donors, 7 marks; local analysis and immune adjustment",
+    "fdr_family": "sample-block",
+    "permutation_level": "system"
+  },
+  "H3K36me3_developmental_switch": {
+    "genome": "mm10",
+    "input_dir": "cases/H3K36me3_developmental_switch/redundancy_core/inputs",
+    "panel": "shared-eight-signal comparison; reuse preimplantation/late-development inputs",
+    "n_permutations": 10000,
+    "fdr_family": "sample-block"
+  }
+}

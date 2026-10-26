@@ -1,0 +1,28 @@
+{
+  "script": "cases/aging/neutrophil/scripts/plot_volcano_oinfo_age.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only plot_volcano_oinfo_age.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/plot_volcano_oinfo_age.log",
+  "started_unix": 1793013720.6703317,
+  "status": "success",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/oinfo_age_regression_adults.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/neutrophil/oinfo_age_regression_adults.tsv",
+      "bytes": 14877,
+      "sha256": "2b865ecd9d12297135564deabf793c024160a3098ab12f5ac1922814793b924d"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "cases/aging/neutrophil/plots/volcano_oinfo_slope_vs_p_adults.png",
+      "bytes": 147517,
+      "sha256": "2de1a7223745c9452c07c5255e7541b3305396169e6502d7b76cacbfe4460ee4"
+    }
+  ],
+  "elapsed_seconds": 1.64,
+  "description_zh": "成人中性粒细胞O-info年龄斜率/P值火山图",
+  "input_nature_zh": "中间oinfo_age_regression_adults.tsv；纯绘图",
+  "source_sha256": "80394aeffcf7d403befd43b006b2fcc2dadcd83fd4720a90310f5affd1851849",
+  "figure_count": 1,
+  "file_count": 1
+}

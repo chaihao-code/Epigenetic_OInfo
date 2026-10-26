@@ -1,0 +1,21 @@
+{
+  "figure_size_cm": [
+    8,
+    8
+  ],
+  "font_size_pt": 5,
+  "source": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/bcells_and_CLL/dmr_repro_cemt/output/all_bins_1kb_cemt_g2_g3_limma_results.csv",
+  "x": "Signed delta_beta = Group2/R - Group3/S",
+  "y": "-log10 nominal P-value from age/sex-adjusted limma M-value model",
+  "n_input": 2697259,
+  "n_plotted": 2697256,
+  "n_excluded": 3,
+  "n_FDR005": 29,
+  "n_FDR005_effect_large": 15,
+  "n_R_higher": 11,
+  "n_S_higher": 4,
+  "BH_family": "All windows retained by the original analysis, not only effect-filtered windows",
+  "raw_P_boundary_for_FDR005": 4.76488609665244e-07,
+  "horizontal_line": "Largest observed raw P among windows with BH q<0.05; data-specific, not universal",
+  "background": "All non-FDR windows plotted, no sampling; background rasterized in PDF"
+}

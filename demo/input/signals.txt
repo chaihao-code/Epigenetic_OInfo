@@ -1,0 +1,7 @@
+demo/input/binned/98320.CEEHRC.CEMT0098.H3K36me3.signal_unstranded.bin1000.step1000.divInput.bp
+demo/input/binned/98311.CEEHRC.CEMT0098.H3K4me3.signal_unstranded.bin1000.step1000.divInput.bp
+demo/input/binned/98317.CEEHRC.CEMT0098.H3K27me3.signal_unstranded.bin1000.step1000.divInput.bp
+demo/input/binned/98642.CEEHRC.CEMT0098.WGB-Seq.methylation_profile.bin1000.step1000.bp
+demo/input/binned/98308.CEEHRC.CEMT0098.H3K4me1.signal_unstranded.bin1000.step1000.divInput.bp
+demo/input/binned/98314.CEEHRC.CEMT0098.H3K9me3.signal_unstranded.bin1000.step1000.divInput.bp
+demo/input/binned/98323.CEEHRC.CEMT0098.H3K27ac.signal_unstranded.bin1000.step1000.divInput.bp

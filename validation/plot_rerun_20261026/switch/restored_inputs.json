@@ -1,0 +1,38 @@
+[
+  {
+    "source": "/tmp/Epigenetic_OInfo_upstream_20261026/results/H3K36me3_developmental_switch/batch_effect_figures/data/all_16variant_triplets_bh56.tsv.gz",
+    "destination": "cases/H3K36me3_developmental_switch/batch_effect_figures/data/all_16variant_triplets_bh56.tsv.gz",
+    "sha256": "4104f46b243ed6cc50d4f8e07ca7bd685ac55dd6165e578ab51282824061f855",
+    "bytes": 2041486
+  },
+  {
+    "source": "/tmp/Epigenetic_OInfo_upstream_20261026/results/H3K36me3_developmental_switch/batch_effect_figures/data/late_reference_triplets_bh56.tsv.gz",
+    "destination": "cases/H3K36me3_developmental_switch/batch_effect_figures/data/late_reference_triplets_bh56.tsv.gz",
+    "sha256": "ff435b874ee365640188908837e43f0e057f1134a636597c1ff4be0b29c32cc8",
+    "bytes": 1470349
+  },
+  {
+    "source": "/tmp/Epigenetic_OInfo_upstream_20261026/results/H3K36me3_developmental_switch/synergistic_triplets/inputs/source_manifest.json",
+    "destination": "cases/H3K36me3_developmental_switch/synergistic_triplets/inputs/source_manifest.json",
+    "sha256": "d4cff7a999d599a99bccbd7303d50b9a96fbba07fdcc28843a72ad84286eb133",
+    "bytes": 940
+  },
+  {
+    "source": "/tmp/Epigenetic_OInfo_upstream_20261026/results/H3K36me3_developmental_switch/synergistic_triplets/inputs/preimplantation_additional_stages_bh56.tsv.gz",
+    "destination": "cases/H3K36me3_developmental_switch/synergistic_triplets/inputs/preimplantation_additional_stages_bh56.tsv.gz",
+    "sha256": "c09c5c60c3d887a8e6c5c9d44ad6b1d8edde99747eef65da1fc31440b5753fd3",
+    "bytes": 177652
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/H3K36me3_developmental_switch/batch_effect_figures/fdr_lt_0p1/triplet_support_across_variants.tsv",
+    "destination": "cases/H3K36me3_developmental_switch/batch_effect_figures/fdr_lt_0p1/triplet_support_across_variants.tsv",
+    "sha256": "5272fa26243dbc9ba10ae3d75ab31c08dd22d5111178dbdcab2592c17f332e15",
+    "bytes": 724211
+  },
+  {
+    "source": "/lustre/home/2101110354/sequence_entropy/project/H3K36me3_developmental_switch/batch_effect_figures/fdr_lt_0p1/threshold_comparison.tsv",
+    "destination": "cases/H3K36me3_developmental_switch/batch_effect_figures/fdr_lt_0p1/threshold_comparison.tsv",
+    "sha256": "d406ace91a01727e40a88ceec0f6bf546e4c7ade0f0e1cfcd476f2c7fb051f76",
+    "bytes": 412
+  }
+]

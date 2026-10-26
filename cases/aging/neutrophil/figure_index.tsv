@@ -1,0 +1,8 @@
+category	figure	region	library	pdf	png	svg
+plot_oinfo_vs_age	oinfo_vs_age_all_blocks				cases/aging/neutrophil/plots/oinfo_vs_age_all_blocks.png	
+plot_oinfo_vs_age	oinfo_vs_age_all_blocks_adults				cases/aging/neutrophil/plots/oinfo_vs_age_all_blocks_adults.png	
+plot_oinfo_vs_age	oinfo_vs_age_cpg_blocks				cases/aging/neutrophil/plots/oinfo_vs_age_cpg_blocks.png	
+plot_oinfo_vs_age	oinfo_vs_age_cpg_blocks_adults				cases/aging/neutrophil/plots/oinfo_vs_age_cpg_blocks_adults.png	
+plot_paper_figures	heatmap_oinfo_age				cases/aging/neutrophil/plots/heatmap_oinfo_age.png	
+plot_paper_figures	scatter_selected_blocks				cases/aging/neutrophil/plots/scatter_selected_blocks.png	
+plot_volcano_oinfo_age	volcano_oinfo_slope_vs_p_adults				cases/aging/neutrophil/plots/volcano_oinfo_slope_vs_p_adults.png	

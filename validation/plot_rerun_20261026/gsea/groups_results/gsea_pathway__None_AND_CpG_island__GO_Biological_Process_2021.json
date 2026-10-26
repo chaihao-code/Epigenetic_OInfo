@@ -1,0 +1,386 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "generation of neurons (GO_0048699).pdf",
+    "mitochondrion organization (GO_0007005).pdf",
+    "negative regulation of cellular macromolecule biosynthetic process (GO_2000113).pdf",
+    "negative regulation of nucleic acid-templated transcription (GO_1903507).pdf",
+    "negative regulation of transcription by RNA polymerase II (GO_0000122).pdf",
+    "negative regulation of transcription, DNA-templated (GO_0045892).pdf",
+    "neuron differentiation (GO_0030182).pdf",
+    "organelle organization (GO_0006996).pdf",
+    "positive regulation of cellular process (GO_0048522).pdf",
+    "positive regulation of transcription by RNA polymerase II (GO_0045944).pdf",
+    "positive regulation of transcription, DNA-templated (GO_0045893).pdf",
+    "protein phosphorylation (GO_0006468).pdf",
+    "regulation of gene expression (GO_0010468).pdf",
+    "regulation of transcription by RNA polymerase II (GO_0006357).pdf",
+    "regulation of transcription, DNA-templated (GO_0006355).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "generation of neurons (GO:0048699)",
+      "historical_pdf_name": "generation of neurons (GO_0048699).pdf",
+      "n_ranked": 631,
+      "n_hits": 5,
+      "saved_ES": -0.6895779,
+      "recomputed_ES": -0.6895779474100825,
+      "absolute_ES_error": 4.741008252651113e-08,
+      "NES": -1.29861,
+      "nominal_P": 0.1345455,
+      "FDR_q": 0.17783,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/generation of neurons (GO_0048699).pdf",
+          "bytes": 31366,
+          "sha256": "6a1367c99f4d90ecd4b7603e5fbaa8211dade0de6d04d5912c0a12eb35dd455c"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/generation of neurons (GO_0048699).png",
+          "bytes": 107004,
+          "sha256": "135cb4bbf3ebfce3488610246acc96a4b4e3517add4b83da8d7799399732f9a0"
+        }
+      ]
+    },
+    {
+      "term": "mitochondrion organization (GO:0007005)",
+      "historical_pdf_name": "mitochondrion organization (GO_0007005).pdf",
+      "n_ranked": 631,
+      "n_hits": 5,
+      "saved_ES": -0.7650519,
+      "recomputed_ES": -0.7650518634674198,
+      "absolute_ES_error": 3.6532580183212815e-08,
+      "NES": -1.443867,
+      "nominal_P": 0.04920914,
+      "FDR_q": 0.08674919,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/mitochondrion organization (GO_0007005).pdf",
+          "bytes": 31001,
+          "sha256": "a01406297dfda0cdf40bf6d6dfcd1a91ebea868b6003b8b9f38895289c485d23"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/mitochondrion organization (GO_0007005).png",
+          "bytes": 102733,
+          "sha256": "1da9dddcc90dd0f43795f5cc7f444d1f6de05a5127e2df719a4d45bf1167073e"
+        }
+      ]
+    },
+    {
+      "term": "negative regulation of cellular macromolecule biosynthetic process (GO:2000113)",
+      "historical_pdf_name": "negative regulation of cellular macromolecule biosynthetic process (GO_2000113).pdf",
+      "n_ranked": 631,
+      "n_hits": 6,
+      "saved_ES": -0.8135328,
+      "recomputed_ES": -0.8135328145778601,
+      "absolute_ES_error": 1.457786014125162e-08,
+      "NES": -1.612803,
+      "nominal_P": 0.008680556,
+      "FDR_q": 0.04033076,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of cellular macromolecule biosynthetic process (GO_2000113).pdf",
+          "bytes": 30119,
+          "sha256": "cdafc624243f863e82812b0c27e0f900b903e08dae0a22dfaca2c148825c4bf8"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of cellular macromolecule biosynthetic process (GO_2000113).png",
+          "bytes": 111919,
+          "sha256": "8f2ea0d46da23af90123a731de482ba11b62f3495dca15030bba782203da103c"
+        }
+      ]
+    },
+    {
+      "term": "negative regulation of nucleic acid-templated transcription (GO:1903507)",
+      "historical_pdf_name": "negative regulation of nucleic acid-templated transcription (GO_1903507).pdf",
+      "n_ranked": 631,
+      "n_hits": 6,
+      "saved_ES": -0.8135328,
+      "recomputed_ES": -0.8135328145778601,
+      "absolute_ES_error": 1.457786014125162e-08,
+      "NES": -1.612803,
+      "nominal_P": 0.008680556,
+      "FDR_q": 0.04033076,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of nucleic acid-templated transcription (GO_1903507).pdf",
+          "bytes": 29916,
+          "sha256": "ecb09ac85db5c2071bf5416ecdfae22ca9728ac93841a3ca9a957c212456e716"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of nucleic acid-templated transcription (GO_1903507).png",
+          "bytes": 110258,
+          "sha256": "1768aecd072f56adcdb1e72f6e834a45387d6a846dd50704b667119a6bef23be"
+        }
+      ]
+    },
+    {
+      "term": "negative regulation of transcription by RNA polymerase II (GO:0000122)",
+      "historical_pdf_name": "negative regulation of transcription by RNA polymerase II (GO_0000122).pdf",
+      "n_ranked": 631,
+      "n_hits": 9,
+      "saved_ES": -0.6898935,
+      "recomputed_ES": -0.6898934884209452,
+      "absolute_ES_error": 1.157905482607191e-08,
+      "NES": -1.542181,
+      "nominal_P": 0.04530201,
+      "FDR_q": 0.05960836,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of transcription by RNA polymerase II (GO_0000122).pdf",
+          "bytes": 31517,
+          "sha256": "3207336f339cf42b6231768456906872cd00b52a35f0a880f8b90b8f1f46bb5d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of transcription by RNA polymerase II (GO_0000122).png",
+          "bytes": 112345,
+          "sha256": "fca7d05ed1c63676e32d7c3dd8ba18ca0b77795805308aadce1809953bfb035d"
+        }
+      ]
+    },
+    {
+      "term": "negative regulation of transcription, DNA-templated (GO:0045892)",
+      "historical_pdf_name": "negative regulation of transcription, DNA-templated (GO_0045892).pdf",
+      "n_ranked": 631,
+      "n_hits": 13,
+      "saved_ES": -0.67762,
+      "recomputed_ES": -0.6776199573017881,
+      "absolute_ES_error": 4.26982118550967e-08,
+      "NES": -1.66876,
+      "nominal_P": 0.01317957,
+      "FDR_q": 0.03196023,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of transcription, DNA-templated (GO_0045892).pdf",
+          "bytes": 31179,
+          "sha256": "03639bbcefdcd9a5d0b4068cb80ab4ed88f9316f44ddc3c720550e9be63c2112"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/negative regulation of transcription, DNA-templated (GO_0045892).png",
+          "bytes": 113315,
+          "sha256": "859f485451061f929bc3bb753fc6b7caade80bd05c47024165815cf02cdf3625"
+        }
+      ]
+    },
+    {
+      "term": "neuron differentiation (GO:0030182)",
+      "historical_pdf_name": "neuron differentiation (GO_0030182).pdf",
+      "n_ranked": 631,
+      "n_hits": 5,
+      "saved_ES": -0.6895779,
+      "recomputed_ES": -0.6895779474100825,
+      "absolute_ES_error": 4.741008252651113e-08,
+      "NES": -1.29861,
+      "nominal_P": 0.1345455,
+      "FDR_q": 0.17783,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/neuron differentiation (GO_0030182).pdf",
+          "bytes": 31232,
+          "sha256": "399da8571145d97d5e94b007efe85dec5e35b588aae50f09652636b6b84db525"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/neuron differentiation (GO_0030182).png",
+          "bytes": 106199,
+          "sha256": "8066887f64ccd239f7893d8143b1c215b3753516d02170107f50414426d204b4"
+        }
+      ]
+    },
+    {
+      "term": "organelle organization (GO:0006996)",
+      "historical_pdf_name": "organelle organization (GO_0006996).pdf",
+      "n_ranked": 631,
+      "n_hits": 6,
+      "saved_ES": -0.7288513,
+      "recomputed_ES": -0.7288512890653341,
+      "absolute_ES_error": 1.0934665839457125e-08,
+      "NES": -1.409965,
+      "nominal_P": 0.06122449,
+      "FDR_q": 0.1025218,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/organelle organization (GO_0006996).pdf",
+          "bytes": 30309,
+          "sha256": "c6adac981dd4b47986d82e87424887b2465c780a95e72f575343b4ae3fdcd202"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/organelle organization (GO_0006996).png",
+          "bytes": 103853,
+          "sha256": "432f164dee1f1376d65724d55931a711f38663607437ceaf5c0308545fb5c02d"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of cellular process (GO:0048522)",
+      "historical_pdf_name": "positive regulation of cellular process (GO_0048522).pdf",
+      "n_ranked": 631,
+      "n_hits": 6,
+      "saved_ES": -0.6445338,
+      "recomputed_ES": -0.6445338041128849,
+      "absolute_ES_error": 4.1128848105032034e-09,
+      "NES": -1.254935,
+      "nominal_P": 0.2027972,
+      "FDR_q": 0.1935877,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of cellular process (GO_0048522).pdf",
+          "bytes": 29627,
+          "sha256": "d7b3daa13fa662c9c81d28d540205792ab4fa254d671075f651205c90d5f770d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of cellular process (GO_0048522).png",
+          "bytes": 101241,
+          "sha256": "9749efb79268ce23344f3f0ec2a4e65ccb576da75ab392bec4156985099ccd8f"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of transcription by RNA polymerase II (GO:0045944)",
+      "historical_pdf_name": "positive regulation of transcription by RNA polymerase II (GO_0045944).pdf",
+      "n_ranked": 631,
+      "n_hits": 8,
+      "saved_ES": -0.6703026,
+      "recomputed_ES": -0.6703025799369831,
+      "absolute_ES_error": 2.0063016914484422e-08,
+      "NES": -1.450297,
+      "nominal_P": 0.05245347,
+      "FDR_q": 0.09148404,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of transcription by RNA polymerase II (GO_0045944).pdf",
+          "bytes": 32022,
+          "sha256": "ca766b383980865739e6359b49abcfefbc3b4bbadfa2f7b11b736f097fde935a"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of transcription by RNA polymerase II (GO_0045944).png",
+          "bytes": 113327,
+          "sha256": "d7408cc939cd53a7cbcb4339011e5b9779394cc9d2b0649b991c386c186799f9"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of transcription, DNA-templated (GO:0045893)",
+      "historical_pdf_name": "positive regulation of transcription, DNA-templated (GO_0045893).pdf",
+      "n_ranked": 631,
+      "n_hits": 8,
+      "saved_ES": -0.6703026,
+      "recomputed_ES": -0.6703025799369831,
+      "absolute_ES_error": 2.0063016914484422e-08,
+      "NES": -1.450297,
+      "nominal_P": 0.05245347,
+      "FDR_q": 0.09148404,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of transcription, DNA-templated (GO_0045893).pdf",
+          "bytes": 31729,
+          "sha256": "aea7ba3a99aa303458b63ab307c9a08f4947e96834adf62f1b1db208103304b2"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/positive regulation of transcription, DNA-templated (GO_0045893).png",
+          "bytes": 113505,
+          "sha256": "f9993926fac5061a4090526cb2fd99594e81f4fbfe45e15e80ae24dd2911b776"
+        }
+      ]
+    },
+    {
+      "term": "protein phosphorylation (GO:0006468)",
+      "historical_pdf_name": "protein phosphorylation (GO_0006468).pdf",
+      "n_ranked": 631,
+      "n_hits": 5,
+      "saved_ES": -0.6852747,
+      "recomputed_ES": -0.685274724471295,
+      "absolute_ES_error": 2.4471294990391357e-08,
+      "NES": -1.28672,
+      "nominal_P": 0.1795775,
+      "FDR_q": 0.1763248,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/protein phosphorylation (GO_0006468).pdf",
+          "bytes": 31317,
+          "sha256": "290ddbc0a7302d19bb159510892c4ee4fc6c77fbdc989d79e6060c754265dfbe"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/protein phosphorylation (GO_0006468).png",
+          "bytes": 103271,
+          "sha256": "52653a1888379789e969ee045bc35616aa16c50107092cb7e87d90a3c8ae21b6"
+        }
+      ]
+    },
+    {
+      "term": "regulation of gene expression (GO:0010468)",
+      "historical_pdf_name": "regulation of gene expression (GO_0010468).pdf",
+      "n_ranked": 631,
+      "n_hits": 9,
+      "saved_ES": -0.663518,
+      "recomputed_ES": -0.6635179788069714,
+      "absolute_ES_error": 2.11930286653228e-08,
+      "NES": -1.461141,
+      "nominal_P": 0.05612245,
+      "FDR_q": 0.105447,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of gene expression (GO_0010468).pdf",
+          "bytes": 30792,
+          "sha256": "fd76eff6eb27537d907e14f8285f155c034b6a2b6a28126e284a69194f94c1d7"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of gene expression (GO_0010468).png",
+          "bytes": 107620,
+          "sha256": "0e97e2d3a39621a01d13a07ee92ebeb2d7345318b835d741a866288c30127af8"
+        }
+      ]
+    },
+    {
+      "term": "regulation of transcription by RNA polymerase II (GO:0006357)",
+      "historical_pdf_name": "regulation of transcription by RNA polymerase II (GO_0006357).pdf",
+      "n_ranked": 631,
+      "n_hits": 28,
+      "saved_ES": -0.5955684,
+      "recomputed_ES": -0.595568374910129,
+      "absolute_ES_error": 2.50898709586167e-08,
+      "NES": -1.748056,
+      "nominal_P": 0.0,
+      "FDR_q": 0.01674107,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of transcription by RNA polymerase II (GO_0006357).pdf",
+          "bytes": 32579,
+          "sha256": "4496a801e6c8241056a616fa303748bf48a518ed6c15842175ae7bf33b979988"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of transcription by RNA polymerase II (GO_0006357).png",
+          "bytes": 110959,
+          "sha256": "346b581b33cc794f35ae16142b37cd803093f4154fda0008723c7d0d12d6c796"
+        }
+      ]
+    },
+    {
+      "term": "regulation of transcription, DNA-templated (GO:0006355)",
+      "historical_pdf_name": "regulation of transcription, DNA-templated (GO_0006355).pdf",
+      "n_ranked": 631,
+      "n_hits": 22,
+      "saved_ES": -0.5788731,
+      "recomputed_ES": -0.5788730739508915,
+      "absolute_ES_error": 2.6049108536874144e-08,
+      "NES": -1.608423,
+      "nominal_P": 0.01650165,
+      "FDR_q": 0.03591721,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of transcription, DNA-templated (GO_0006355).pdf",
+          "bytes": 31266,
+          "sha256": "8c71da5f303d66747c15be1c42c0f7f3f0fd62648099c91dc283669b670c81bf"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/None_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of transcription, DNA-templated (GO_0006355).png",
+          "bytes": 108273,
+          "sha256": "72cd4a96fe8cf97f774801b488477d66a1ea74664e24c47318c7dbbed58a311c"
+        }
+      ]
+    }
+  ],
+  "seconds": 9.14
+}

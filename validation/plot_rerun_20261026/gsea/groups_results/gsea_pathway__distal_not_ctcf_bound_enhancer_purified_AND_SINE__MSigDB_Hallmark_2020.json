@@ -1,0 +1,111 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "G2-M Checkpoint.pdf",
+    "Mitotic Spindle.pdf",
+    "Myc Targets V1.pdf",
+    "Oxidative Phosphorylation.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "G2-M Checkpoint",
+      "historical_pdf_name": "G2-M Checkpoint.pdf",
+      "n_ranked": 19913,
+      "n_hits": 93,
+      "saved_ES": 0.3317473,
+      "recomputed_ES": 0.3317472641815471,
+      "absolute_ES_error": 3.581845292588426e-08,
+      "NES": 1.450362,
+      "nominal_P": 0.02097902,
+      "FDR_q": 0.1099892,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.pdf",
+          "bytes": 32378,
+          "sha256": "a4d2a19791c6e17f1868a4786afc274067ada566b090afc9d6178914826df00c"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.png",
+          "bytes": 101525,
+          "sha256": "80b8dbc85bc76a71dadf9a57c0b3c8b155f84092d603d8b341dcee21ce523f17"
+        }
+      ]
+    },
+    {
+      "term": "Mitotic Spindle",
+      "historical_pdf_name": "Mitotic Spindle.pdf",
+      "n_ranked": 19913,
+      "n_hits": 118,
+      "saved_ES": 0.3521029,
+      "recomputed_ES": 0.3521028687658735,
+      "absolute_ES_error": 3.1234126507406756e-08,
+      "NES": 1.581865,
+      "nominal_P": 0.0,
+      "FDR_q": 0.05332808,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Mitotic Spindle.pdf",
+          "bytes": 31054,
+          "sha256": "801269b9b1fac2370c80bd4daf95573d55b4b4ac7fa1192b2370014f1a7ef35b"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Mitotic Spindle.png",
+          "bytes": 100177,
+          "sha256": "d1511631ac115fda38df5eaad4b1c40ab395197fabae9e98c4bd64d4a31048b3"
+        }
+      ]
+    },
+    {
+      "term": "Myc Targets V1",
+      "historical_pdf_name": "Myc Targets V1.pdf",
+      "n_ranked": 19913,
+      "n_hits": 87,
+      "saved_ES": 0.3897121,
+      "recomputed_ES": 0.3897121100458939,
+      "absolute_ES_error": 1.0045893894528035e-08,
+      "NES": 1.731043,
+      "nominal_P": 0.0,
+      "FDR_q": 0.04965028,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.pdf",
+          "bytes": 32436,
+          "sha256": "f20c79a488a4b39ab7610672a839af88f197f933b4370d2ebbd017c479df0efc"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Myc Targets V1.png",
+          "bytes": 101989,
+          "sha256": "cd58f1a02f86de5bf2bec7de89580290ecdcd2c491d1d5e5dc89a3522b0d97b6"
+        }
+      ]
+    },
+    {
+      "term": "Oxidative Phosphorylation",
+      "historical_pdf_name": "Oxidative Phosphorylation.pdf",
+      "n_ranked": 19913,
+      "n_hits": 80,
+      "saved_ES": 0.387374,
+      "recomputed_ES": 0.38737395147908266,
+      "absolute_ES_error": 4.852091733953401e-08,
+      "NES": 1.619939,
+      "nominal_P": 0.0,
+      "FDR_q": 0.06620037,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Oxidative Phosphorylation.pdf",
+          "bytes": 32011,
+          "sha256": "7ae389ac2bdcbd5184144eb2e99f272e67eff75e985b6bdd59c8e4ea9eec4dfc"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Oxidative Phosphorylation.png",
+          "bytes": 104235,
+          "sha256": "de817e2cf7344edcd7fa34c9ee6b0ee33b8e707171f89984bdfdef499a6220ce"
+        }
+      ]
+    }
+  ],
+  "seconds": 2.02
+}

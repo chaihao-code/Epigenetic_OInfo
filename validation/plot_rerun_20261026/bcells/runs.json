@@ -1,0 +1,441 @@
+[
+  {
+    "script": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/plot_dmr_volcano.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/dmr_repro_cemt/scripts/plot_dmr_volcano.py",
+    "returncode": 0,
+    "seconds": 7.39,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_dmr_volcano.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/cemt_R_vs_S_dmr_volcano.pdf",
+        "bytes": 88360,
+        "sha256": "71a7207028a3911f92af669bbf9f7d373118cf8d72bc87386f19e666174ae29c"
+      },
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/cemt_R_vs_S_dmr_volcano.png",
+        "bytes": 155653,
+        "sha256": "5dbe9d40bc7ab1ff8f6b99b57098d49c951980c3cb7506a38088b496f5308fdb"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/eight_panel_GSEA_v2_18x10cm/GSEA_8pathways_18x10cm.pdf",
+        "bytes": 1693394,
+        "sha256": "1a3c5e0b6f2945a6e7dd9329222e9e21019f4ef24e7c8ad3c82ea6087cbe78b8"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_male_ighv/RNA_IGHV_adjusted_volcano_nominalP_labeled10_6cm_clear.png",
+        "bytes": 101327,
+        "sha256": "46f919eb1f5b620fe824e169e7f1958a84435e427e24cf227fd6c86c999b71b2"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_male_ighv/RNA_IGHV_adjusted_volcano_nominalP_labeled10_6cm_clear.pdf",
+        "bytes": 51381,
+        "sha256": "b486dc3ab5c29bac3c8a7eb5f0206900519a8111902a425d52a2ca127b53f960"
+      }
+    ]
+  },
+  {
+    "script": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/plot_igh_tracks_corrected.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/dmr_repro_cemt/scripts/plot_igh_tracks_corrected.py",
+    "returncode": 0,
+    "seconds": 18.35,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_igh_tracks_corrected.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/cemt_R_vs_S_dmr_volcano.pdf",
+        "bytes": 88360,
+        "sha256": "71a7207028a3911f92af669bbf9f7d373118cf8d72bc87386f19e666174ae29c"
+      },
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/cemt_R_vs_S_dmr_volcano.png",
+        "bytes": 155653,
+        "sha256": "5dbe9d40bc7ab1ff8f6b99b57098d49c951980c3cb7506a38088b496f5308fdb"
+      },
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/chr14_105800000_106500000_methylation_tracks_corrected.pdf",
+        "bytes": 186529,
+        "sha256": "abe36dde47e854ffa1f2c37402ceea669cdebd8973a624ab4ae3e165b4495b0c"
+      },
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/chr14_105800000_106500000_methylation_tracks_corrected.png",
+        "bytes": 631501,
+        "sha256": "efa67537c1b9cfdb11aab6e7fc149876f864f40fc4e3bb89797e0af9b32b620f"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_female_validation/female_male_signature_concordance.pdf",
+        "bytes": 46114,
+        "sha256": "0b952d9e763aa4c513227a6730df4b1361b228b9f5439e8b4851286d6e9c64d9"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/top20_pathways/top20_GO_FDR_NES_12x6cm.png",
+        "bytes": 309697,
+        "sha256": "55ca1eaf179ec34e26433d88c9f5f6492bcfbbde39f9b31a40c00e44ac540e6b"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/top20_pathways/top20_GO_FDR_NES_12x6cm.pdf",
+        "bytes": 35579,
+        "sha256": "b4ef6d9bf5c3cc9fd0270b9cc35abd9fd43c43c4a981bde76ddcb9fc0707ee8f"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/eight_panel_GSEA_v2_18x10cm/GSEA_8pathways_18x10cm.pdf",
+        "bytes": 1693394,
+        "sha256": "1a3c5e0b6f2945a6e7dd9329222e9e21019f4ef24e7c8ad3c82ea6087cbe78b8"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/eight_panel_GSEA_v2_18x10cm/GSEA_8pathways_18x10cm.png",
+        "bytes": 343723,
+        "sha256": "70f96c347ddd25959bbb0ebd8630b3dd83dcf4b9505c6c92daf7b126416f3ef2"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/representative_pathways/representative_GO_FDR_NES_12x6cm.png",
+        "bytes": 236313,
+        "sha256": "c944693edf0c06a24fef8a5ee961facec86821cd06c377879bff25069aa7422a"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/representative_pathways/representative_GO_FDR_NES_12x6cm.pdf",
+        "bytes": 35708,
+        "sha256": "b9f04863aee671139b864294481338e4e2f4cbe47f8f6d6cf10e1fae2f82035e"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/A_sample_heatmap.pdf",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_male_ighv/RNA_IGHV_adjusted_volcano_nominalP_labeled10_6cm_clear.png",
+        "bytes": 101327,
+        "sha256": "46f919eb1f5b620fe824e169e7f1958a84435e427e24cf227fd6c86c999b71b2"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_male_ighv/RNA_IGHV_adjusted_volcano_nominalP_labeled10_6cm_clear.pdf",
+        "bytes": 51381,
+        "sha256": "b486dc3ab5c29bac3c8a7eb5f0206900519a8111902a425d52a2ca127b53f960"
+      }
+    ]
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_de_male_ighv_volcano_clear.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/scripts/plot_de_male_ighv_volcano_clear.py",
+    "returncode": 0,
+    "seconds": 3.15,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_de_male_ighv_volcano_clear.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_male_ighv/RNA_IGHV_adjusted_volcano_nominalP_labeled10_6cm_clear.png",
+        "bytes": 101327,
+        "sha256": "46f919eb1f5b620fe824e169e7f1958a84435e427e24cf227fd6c86c999b71b2"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_male_ighv/RNA_IGHV_adjusted_volcano_nominalP_labeled10_6cm_clear.pdf",
+        "bytes": 51381,
+        "sha256": "b486dc3ab5c29bac3c8a7eb5f0206900519a8111902a425d52a2ca127b53f960"
+      }
+    ]
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_gsea_eight_panel_v2_18x10cm.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/scripts/plot_gsea_eight_panel_v2_18x10cm.py",
+    "returncode": 0,
+    "seconds": 5.12,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_gsea_eight_panel_v2_18x10cm.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/cemt_R_vs_S_dmr_volcano.pdf",
+        "bytes": 88360,
+        "sha256": "71a7207028a3911f92af669bbf9f7d373118cf8d72bc87386f19e666174ae29c"
+      },
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/cemt_R_vs_S_dmr_volcano.png",
+        "bytes": 155653,
+        "sha256": "5dbe9d40bc7ab1ff8f6b99b57098d49c951980c3cb7506a38088b496f5308fdb"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/eight_panel_GSEA_v2_18x10cm/GSEA_8pathways_18x10cm.pdf",
+        "bytes": 1693394,
+        "sha256": "1a3c5e0b6f2945a6e7dd9329222e9e21019f4ef24e7c8ad3c82ea6087cbe78b8"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/eight_panel_GSEA_v2_18x10cm/GSEA_8pathways_18x10cm.png",
+        "bytes": 343723,
+        "sha256": "70f96c347ddd25959bbb0ebd8630b3dd83dcf4b9505c6c92daf7b126416f3ef2"
+      }
+    ]
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_gsea_representative_bars.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/scripts/plot_gsea_representative_bars.py",
+    "returncode": 0,
+    "seconds": 3.08,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_gsea_representative_bars.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/top20_pathways/top20_GO_FDR_NES_12x6cm.pdf",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/eight_panel_GSEA_v2_18x10cm/GSEA_8pathways_18x10cm.png",
+        "bytes": 343723,
+        "sha256": "70f96c347ddd25959bbb0ebd8630b3dd83dcf4b9505c6c92daf7b126416f3ef2"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/representative_pathways/representative_GO_FDR_NES_12x6cm.png",
+        "bytes": 236313,
+        "sha256": "c944693edf0c06a24fef8a5ee961facec86821cd06c377879bff25069aa7422a"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/representative_pathways/representative_GO_FDR_NES_12x6cm.pdf",
+        "bytes": 35708,
+        "sha256": "b9f04863aee671139b864294481338e4e2f4cbe47f8f6d6cf10e1fae2f82035e"
+      }
+    ]
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_gsea_top20_bars.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/scripts/plot_gsea_top20_bars.py",
+    "returncode": 0,
+    "seconds": 3.88,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_gsea_top20_bars.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/top20_pathways/top20_GO_FDR_NES_12x6cm.png",
+        "bytes": 309697,
+        "sha256": "55ca1eaf179ec34e26433d88c9f5f6492bcfbbde39f9b31a40c00e44ac540e6b"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/top20_pathways/top20_GO_FDR_NES_12x6cm.pdf",
+        "bytes": 35579,
+        "sha256": "b4ef6d9bf5c3cc9fd0270b9cc35abd9fd43c43c4a981bde76ddcb9fc0707ee8f"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/representative_pathways/representative_GO_FDR_NES_12x6cm.png",
+        "bytes": 236313,
+        "sha256": "c944693edf0c06a24fef8a5ee961facec86821cd06c377879bff25069aa7422a"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/representative_pathways/representative_GO_FDR_NES_12x6cm.pdf",
+        "bytes": 35708,
+        "sha256": "b9f04863aee671139b864294481338e4e2f4cbe47f8f6d6cf10e1fae2f82035e"
+      }
+    ]
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/validate_male_de_in_females.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/scripts/validate_male_de_in_females.py",
+    "returncode": 0,
+    "seconds": 9.99,
+    "log": "validation/plot_rerun_20261026/bcells/logs/validate_male_de_in_females.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/chr14_105800000_106500000_methylation_tracks_corrected.pdf",
+        "bytes": 186529,
+        "sha256": "abe36dde47e854ffa1f2c37402ceea669cdebd8973a624ab4ae3e165b4495b0c"
+      },
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/chr14_105800000_106500000_methylation_tracks_corrected.png",
+        "bytes": 631501,
+        "sha256": "efa67537c1b9cfdb11aab6e7fc149876f864f40fc4e3bb89797e0af9b32b620f"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_female_validation/female_male_signature_concordance.png",
+        "bytes": 337057,
+        "sha256": "83e757604b79cb87577472647ac80ba2a56e5c96954e5a33af9407215acd0546"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_female_validation/female_male_signature_concordance.pdf",
+        "bytes": 46114,
+        "sha256": "0b952d9e763aa4c513227a6730df4b1361b228b9f5439e8b4851286d6e9c64d9"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_gsea_rna_male/male_RNA_method_IGHV_adjusted/top20_pathways/top20_GO_FDR_NES_12x6cm.png",
+        "bytes": 309697,
+        "sha256": "55ca1eaf179ec34e26433d88c9f5f6492bcfbbde39f9b31a40c00e44ac540e6b"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/A_sample_heatmap.png",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/A_sample_heatmap.pdf",
+        "bytes": 47510,
+        "sha256": "4aea7d8aa4abf4ce9a243443a7c63c0d807d4b099c796f1429dc1584623a4835"
+      }
+    ]
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_abc_triplet_classes.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/scripts/plot_abc_triplet_classes.py",
+    "returncode": 0,
+    "seconds": 24.8,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_abc_triplet_classes.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/chr14_105800000_106500000_methylation_tracks_corrected.pdf",
+        "bytes": 186529,
+        "sha256": "abe36dde47e854ffa1f2c37402ceea669cdebd8973a624ab4ae3e165b4495b0c"
+      },
+      {
+        "path": "cases/bcells_and_CLL/dmr_repro_cemt/output/chr14_105800000_106500000_methylation_tracks_corrected.png",
+        "bytes": 631501,
+        "sha256": "efa67537c1b9cfdb11aab6e7fc149876f864f40fc4e3bb89797e0af9b32b620f"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_female_validation/female_male_signature_concordance.png",
+        "bytes": 337057,
+        "sha256": "83e757604b79cb87577472647ac80ba2a56e5c96954e5a33af9407215acd0546"
+      },
+      {
+        "path": "cases/bcells_and_CLL/results_rna_de_female_validation/female_male_signature_concordance.pdf",
+        "bytes": 46114,
+        "sha256": "0b952d9e763aa4c513227a6730df4b1361b228b9f5439e8b4851286d6e9c64d9"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/C_sample_heatmap_FDR005.png",
+        "bytes": 171048,
+        "sha256": "7092817c4ac2c35f82b58f899847e58e35fa27517a24c39522c85bed2ec39155"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/B_sample_heatmap_FDR005.png",
+        "bytes": 210855,
+        "sha256": "cbd2cf21656f56047b60c66ed3c8498b607ef7ad9f9f7454eb5142634245ac59"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/C_pooled_average_heatmap.pdf",
+        "bytes": 39273,
+        "sha256": "44aac234fedbcaa86b6dad08ea8ffffcbd821c3c38a504d10ee6f35bf911bd1f"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/A_sample_heatmap_FDR005.pdf",
+        "bytes": 47875,
+        "sha256": "3e8a3ee14bde0f5bde6b9d9bafdc4480f72ba2cb0004727c38421db8c39da136"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/A_pooled_average_heatmap.pdf",
+        "bytes": 42138,
+        "sha256": "29bbc3bf7764aad249a150cc3d0511f561d302c806e04c13ee1d87db0d4aabfc"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/C_pooled_average_heatmap.png",
+        "bytes": 104078,
+        "sha256": "a7eb8a833ce5b980b90a2cb60eb666085c98c1758fb91323586c380a1b1c44f1"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/C_sample_heatmap.png",
+        "bytes": 170693,
+        "sha256": "7450c1a06cea9cbf51d5c77312bb1dba0298f3988ffd5a22cbed14b30ad2a2f2"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/A_sample_heatmap.png",
+        "bytes": 204671,
+        "sha256": "9e2d832e4ac48424ddc62e003c131a0df752a5c0bf0d780d324fc6ed551821b8"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/B_sample_heatmap_FDR005.pdf",
+        "bytes": 46693,
+        "sha256": "07ec2ab9a746707515edfc7d7e5ef8c0abc0568c6a69fd014388b76aa8fc713c"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/C_sample_heatmap.pdf",
+        "bytes": 42041,
+        "sha256": "81f00ecafe169481f73f1897de8b4edc2edb82da59e1a02e3f3dbb4e4a54ff11"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/B_pooled_average_heatmap.png",
+        "bytes": 131617,
+        "sha256": "07eabcc22d53aa7aa7627b8fe4ef7d70231c4eabbb44103a5e270d49a217b2eb"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/B_sample_heatmap.png",
+        "bytes": 212083,
+        "sha256": "b89c18aad47a53f2fc0374577fc98dcf700a17a3508d38429adf85e7d35c4248"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/C_sample_heatmap_FDR005.pdf",
+        "bytes": 42221,
+        "sha256": "a8292f58b335a5e05e36846267092e76344490f29f7b26ed351c0e3e1f6bc68a"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/A_sample_heatmap.pdf",
+        "bytes": 47510,
+        "sha256": "4aea7d8aa4abf4ce9a243443a7c63c0d807d4b099c796f1429dc1584623a4835"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/B_sample_heatmap.pdf",
+        "bytes": 46649,
+        "sha256": "7ee458113af400e909de631cdc9ff86f53e7e2f9527e9f74445a35c5278cb3ba"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/B_pooled_average_heatmap.pdf",
+        "bytes": 39780,
+        "sha256": "8aeb09c0d33306386fac56b4e932e7ff0e69f5151742b8ed01b12d089924975a"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/A_sample_heatmap_FDR005.png",
+        "bytes": 204383,
+        "sha256": "676d68dbfda1d592d9d82dc4fdee1657216841b632f0f2cc143b7f3d277e93a3"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/A_pooled_average_heatmap.png",
+        "bytes": 121474,
+        "sha256": "8c52246515aa62cae5e79e5142e8e0a1543cc6f027e953449eeb409f20cb2979"
+      }
+    ]
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_abc_pooled_combined.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/scripts/plot_abc_pooled_combined.py",
+    "returncode": 0,
+    "seconds": 7.52,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_abc_pooled_combined.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/ABC_pooled_average_heatmap.pdf",
+        "bytes": 46631,
+        "sha256": "e05624bd266dc31532863b27b31959225f4e0277da6f9d1ba058ff0e5f236c50"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/ABC_pooled_average_heatmap.png",
+        "bytes": 198930,
+        "sha256": "da050dba94ef6a5d44b4e8ad33abed0ebd74398f94273a7b1e246def18d85769"
+      }
+    ]
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_abc_pooled_compact_preview.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/scripts/plot_abc_pooled_compact_preview.py",
+    "returncode": 0,
+    "seconds": 8.18,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_abc_pooled_compact_preview.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/ABC_pooled_average_heatmap_compact_preview.png",
+        "bytes": 136091,
+        "sha256": "678bbd9c79a333996943a0ec9b19c3476c27b91759ecb1f13bd474237f7b7823"
+      },
+      {
+        "path": "cases/bcells_and_CLL/ABC_triplet_classes/plots/ABC_pooled_average_heatmap_compact_preview.pdf",
+        "bytes": 36823,
+        "sha256": "87277e426ff53655eaf2279abe69e5b94fc41693d2a552810d4a761610087c96"
+      }
+    ]
+  },
+  {
+    "script": "cases/bcells_and_CLL/global_oinfo_and_triplets/plot_global_oinfo_and_ABC_triplets.py",
+    "command": "EPINFO_ROOT=\"$PWD\" MPLBACKEND=Agg OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=1 python cases/bcells_and_CLL/global_oinfo_and_triplets/plot_global_oinfo_and_ABC_triplets.py",
+    "returncode": 0,
+    "seconds": 12.11,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_global_oinfo_and_ABC_triplets.log",
+    "outputs": [
+      {
+        "path": "cases/bcells_and_CLL/global_oinfo_and_triplets/plots/global_oinfo_and_ABC_triplets_18x8p5cm.pdf",
+        "bytes": 55605,
+        "sha256": "7dc055fa21141a9148e0b7ac1b2406b0fc08bb66df63a49aa0203da225f95bd6"
+      },
+      {
+        "path": "cases/bcells_and_CLL/global_oinfo_and_triplets/plots/global_oinfo_and_ABC_triplets_18x8p5cm.png",
+        "bytes": 215872,
+        "sha256": "fa2e1c7668dc5f275fa2210bcbc729fa9c419bc8c745cb6c23f9cb92fad77e4f"
+      }
+    ]
+  }
+]

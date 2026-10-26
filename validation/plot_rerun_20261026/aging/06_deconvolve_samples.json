@@ -1,0 +1,30 @@
+{
+  "script": "cases/aging/thyroid/deconvolution/scripts/06_deconvolve_samples.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 06_deconvolve_samples.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/06_deconvolve_samples.log",
+  "started_unix": 1793012992.5533695,
+  "status": "removed_by_request",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+      "bytes": 18707,
+      "sha256": "c07d2da39dac5404104b42e438606a88120e848022d1eb4a8b8a08163052842f"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+      "bytes": 283,
+      "sha256": "ccfb74f942809c74464171d01e87510db96a7038eed787763d039f84df792c75"
+    }
+  ],
+  "outputs": [],
+  "elapsed_seconds": 3.21,
+  "description_zh": "6供体细胞组成与模型敏感性图（4面板）",
+  "input_nature_zh": "原入口读取甲基化bigWig并重新去卷积/bootstrap；本次读取细胞比例表调用figures()",
+  "source_sha256": "a2c8b5f87f127f76166420f4bde4b3d1aeb457a4c6eb83884f84b59808ebb0a9",
+  "figure_count": 1,
+  "file_count": 2,
+  "previous_status": "success",
+  "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+}

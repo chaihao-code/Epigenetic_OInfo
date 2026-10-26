@@ -1,0 +1,114 @@
+[
+  {
+    "script": "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_batch_effect.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_batch_effect.py --plots-only",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_batch_effect.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_support_without_h3k27me3_replacement.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_support_without_h3k27me3_replacement.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_support_without_h3k27me3_replacement.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_triplet_support_distribution.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/batch_effect_figures/scripts/plot_triplet_support_distribution.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_triplet_support_distribution.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_combined_trajectories.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_combined_trajectories.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_combined_trajectories.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_core_occurrence_frequency_e11.5.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_core_occurrence_frequency_e11.5.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_core_occurrence_frequency_e11.5.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_core_occurrence_frequency_preimp.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_core_occurrence_frequency_preimp.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_core_occurrence_frequency_preimp.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_full_signal_combination_occurrence.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_full_signal_combination_occurrence.py --plot",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_full_signal_combination_occurrence.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_redundancy_core_trajectories.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_redundancy_core_trajectories.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_redundancy_core_trajectories.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_synergistic_triplet_trajectories.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_synergistic_triplet_trajectories.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_synergistic_triplet_trajectories.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_triplet_combination_occurrence_with_H3K9ac_H3K4me2.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/redundancy_core/scripts/plot_triplet_combination_occurrence_with_H3K9ac_H3K4me2.py",
+    "exit_code": 0,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_triplet_combination_occurrence_with_H3K9ac_H3K4me2.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_mark_occurrence_per_tissue_by_stage.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_mark_occurrence_per_tissue_by_stage.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_mark_occurrence_per_tissue_by_stage.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_original_development_heatmap.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_original_development_heatmap.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_original_development_heatmap.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_selected_regions_post_E11p5.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_selected_regions_post_E11p5.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_triplet_ABC_selected_regions_post_E11p5.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_stacked_post_E11p5.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_stacked_post_E11p5.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_triplet_ABC_stacked_post_E11p5.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_stacked_preimplantation.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_ABC_stacked_preimplantation.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_triplet_ABC_stacked_preimplantation.initial.log"
+  },
+  {
+    "script": "cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_A_B_C_post_E11p5.py",
+    "command": "/lustre/home/2101110354/anaconda3/bin/python cases/H3K36me3_developmental_switch/synergistic_triplets/scripts/plot_triplet_A_B_C_post_E11p5.py",
+    "exit_code": 1,
+    "outputs": [],
+    "log": "validation/plot_rerun_20261026/switch/logs/plot_triplet_A_B_C_post_E11p5.initial.log"
+  }
+]

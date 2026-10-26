@@ -1,0 +1,24 @@
+name: thyroid_deconvolution
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pybigwig
+  - pyyaml
+  - bedtools
+  - ucsc-liftover
+  - pip:
+      - adjustText
+# 备注: 本机实际使用系统 python3 (3.8.5) 运行, 以上版本以本机实测为准:
+#   numpy/pandas/scipy/statsmodels/sklearn/matplotlib/seaborn/pyBigWig 0.3.18
+# liftOver 二进制: @ROOT@/external/legacy/media/dell/data1/chaihao/liftover/liftOver + hg19ToHg38.over.chain

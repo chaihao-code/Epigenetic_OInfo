@@ -1,0 +1,9 @@
+panel	display_name	GO_ID	GO_term	NES	FDR q-val	NOM p-val
+1	Oxidative phosphorylation	GO:0006119	oxidative phosphorylation	3.244560567417156	0.0	0.0
+2	ATP synthesis/electron transport	GO:0042775	mitochondrial ATP synthesis coupled electron transport	3.1422410522018347	0.0	0.0
+3	Cytoplasmic translation	GO:0002181	cytoplasmic translation	3.3353787193390514	0.0	0.0
+4	Chemokine receptor binding	GO:0042379	chemokine receptor binding	2.16516044147842	0.000443132747510041	0.0
+5	MHC-I antigen presentation	GO:0002474	antigen processing and presentation of peptide antigen via MHC class I	1.9408849673371917	0.007767301914010616	0.00186219739292365
+6	G1/S transition regulation	GO:2000045	regulation of G1/S transition of mitotic cell cycle	1.828129606907822	0.020688263185563865	0.0
+7	p53 signaling regulation	GO:1901796	regulation of signal transduction by p53 class mediator	1.9771652771341597	0.005609322597419507	0.0
+8	ECM structural constituent	GO:0005201	extracellular matrix structural constituent	-2.237031498944754	0.005090164006610755	0.0

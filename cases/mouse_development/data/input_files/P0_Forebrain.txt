@@ -1,0 +1,7 @@
+data/mouse_development/histone_and_atac/Forebrain_P0-ATAC-mm10.bin1000.bp
+data/mouse_development/histone_and_atac/Forebrain_P0-H3K27ac-mm10.bin1000.bp
+data/mouse_development/histone_and_atac/Forebrain_P0-H3K27me3-mm10.bin1000.bp
+data/mouse_development/histone_and_atac/Forebrain_P0-H3K4me1-mm10.bin1000.bp
+data/mouse_development/histone_and_atac/Forebrain_P0-H3K4me3-mm10.bin1000.bp
+data/mouse_development/histone_and_atac/Forebrain_P0-H3K9me3-mm10.bin1000.bp
+data/mouse_development/methylation/binned_result/Forebrain_P0-WGBS-mm10.bin1000.bp

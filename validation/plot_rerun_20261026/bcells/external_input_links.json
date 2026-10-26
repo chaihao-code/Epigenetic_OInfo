@@ -1,0 +1,16 @@
+[
+  {
+    "path": "cases/bcells_and_CLL/dmr_repro_cemt/input/all_bins_1kb_cemt_g2_g3.csv",
+    "resolved_path": "/lustre/home/2101110354/sequence_entropy/project/aging/bcells/dmr_repro_cemt/input/all_bins_1kb_cemt_g2_g3.csv",
+    "bytes": 476503193,
+    "sha256": "0a4e53fb9471f0c186a5914f4ee4f9dbfb76654e9b24e6930a2ce7f3e129aeea",
+    "kind": "prepared methylation beta matrix"
+  },
+  {
+    "path": "cases/bcells_and_CLL/dmr_repro_cemt/input/gencode.v47.annotation.gtf",
+    "resolved_path": "/lustre/home/2101110354/sequence_entropy/project/aging/bcells/dmr_repro_cemt/input/gencode.v47.annotation.gtf",
+    "bytes": 1805576649,
+    "sha256": "e9bfa521b90719b9365bb35c13c2b8b453b713ff97a8933e32bbfc361490009e",
+    "kind": "GENCODE reference annotation; auxiliary input, not an analysis intermediate"
+  }
+]

@@ -1,0 +1,2 @@
+Name,Term,ES,NES,NOM p-val,FDR q-val,FWER p-val,Tag %,Gene %,Lead_genes
+prerank,TNF-alpha Signaling via NF-kB,-4.833682e-01,-9.416872e-01,5.525876e-01,5.525876e-01,5.525876e-01,4/6,40.73%,TLR2;CEBPD;SIK1;AREG

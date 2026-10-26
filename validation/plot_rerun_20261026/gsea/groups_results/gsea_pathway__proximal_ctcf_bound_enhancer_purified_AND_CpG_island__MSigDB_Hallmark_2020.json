@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Notch Signaling.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Notch Signaling",
+      "historical_pdf_name": "Notch Signaling.pdf",
+      "n_ranked": 16862,
+      "n_hits": 18,
+      "saved_ES": 0.5514189,
+      "recomputed_ES": 0.5514189111650304,
+      "absolute_ES_error": 1.1165030344706395e-08,
+      "NES": 1.598731,
+      "nominal_P": 0.02083333,
+      "FDR_q": 0.1304002,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Notch Signaling.pdf",
+          "bytes": 32302,
+          "sha256": "509f6d2fb77b5d564e9344cff2226ad7d7d700fededb98feb0c5f8555d7a4fbc"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank/Notch Signaling.png",
+          "bytes": 104353,
+          "sha256": "7295df495d0cb11b7f78e4a60cfa86a72d8366b3a20970ce294dfcbe026d3764"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.44
+}

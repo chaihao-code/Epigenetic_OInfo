@@ -1,0 +1,44 @@
+{
+  "width_cm": 18.0,
+  "height_cm": 8.035,
+  "cell_width_cm": 0.365,
+  "cell_height_cm": 0.365,
+  "panel_rows": 3,
+  "panel_columns": 40,
+  "titles": [
+    "Triplet A",
+    "Triplet B",
+    "Triplet C"
+  ],
+  "sample_groups": {
+    "R": 8,
+    "S": 5,
+    "pB": 4
+  },
+  "displayed_row_labels": [
+    "R",
+    "S",
+    "pB"
+  ],
+  "sample_sizes_shown": false,
+  "label_font_size_pt": 8,
+  "cell_number_font_size_pt": 3.5,
+  "shared_colorbar_label": true,
+  "criterion": "observed_hoi < 0 AND q_down_global_BH < 0.05",
+  "BH_family_size": 23800,
+  "n_permutations": 1000,
+  "color_limits": {
+    "A": [
+      0,
+      12
+    ],
+    "B": [
+      0,
+      19
+    ],
+    "C": [
+      0,
+      4
+    ]
+  }
+}

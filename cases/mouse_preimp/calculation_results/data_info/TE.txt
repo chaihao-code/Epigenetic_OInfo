@@ -1,0 +1,9 @@
+data/mouse_preimplementation/binned_results/atac/TE.ATAC.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/blastocyst.H2A.Z.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me1.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/blastocyst.H3K4me3.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/blastocyst.H3K9me3.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27ac.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/blastocyst.H3K27me3.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/blastocyst.H3K36me3.bin1000.bp
+data/mouse_preimplementation/binned_results/methylation/TE.CpG_methyl.bin1000.bp

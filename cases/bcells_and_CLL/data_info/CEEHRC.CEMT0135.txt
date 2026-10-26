@@ -1,0 +1,7 @@
+data/aging/bcells/input_normed_binned_results/98385.CEEHRC.CEMT0135.H3K27me3.signal_unstranded.bin1000.step1000.divInput.bp
+data/aging/bcells/input_normed_binned_results/98376.CEEHRC.CEMT0135.H3K4me1.signal_unstranded.bin1000.step1000.divInput.bp
+data/aging/bcells/input_normed_binned_results/98650.CEEHRC.CEMT0135.WGB-Seq.methylation_profile.bin1000.step1000.bp
+data/aging/bcells/input_normed_binned_results/98382.CEEHRC.CEMT0135.H3K9me3.signal_unstranded.bin1000.step1000.divInput.bp
+data/aging/bcells/input_normed_binned_results/98391.CEEHRC.CEMT0135.H3K27ac.signal_unstranded.bin1000.step1000.divInput.bp
+data/aging/bcells/input_normed_binned_results/98379.CEEHRC.CEMT0135.H3K4me3.signal_unstranded.bin1000.step1000.divInput.bp
+data/aging/bcells/input_normed_binned_results/98388.CEEHRC.CEMT0135.H3K36me3.signal_unstranded.bin1000.step1000.divInput.bp

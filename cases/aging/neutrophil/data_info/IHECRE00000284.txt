@@ -1,0 +1,7 @@
+data/aging/neutrophil/input_normed_binned_results/128563.Blueprint.IHECRE00000284.2.H3K4me1.pval_signal.bin1000.step1000.divInput.bp
+data/aging/neutrophil/input_normed_binned_results/128565.Blueprint.IHECRE00000284.2.H3K4me3.pval_signal.bin1000.step1000.divInput.bp
+data/aging/neutrophil/input_normed_binned_results/128567.Blueprint.IHECRE00000284.2.H3K9me3.pval_signal.bin1000.step1000.divInput.bp
+data/aging/neutrophil/input_normed_binned_results/128559.Blueprint.IHECRE00000284.2.H3K27me3.pval_signal.bin1000.step1000.divInput.bp
+data/aging/neutrophil/input_normed_binned_results/128561.Blueprint.IHECRE00000284.2.H3K36me3.pval_signal.bin1000.step1000.divInput.bp
+data/aging/neutrophil/input_normed_binned_results/128557.Blueprint.IHECRE00000284.2.H3K27ac.pval_signal.bin1000.step1000.divInput.bp
+data/aging/neutrophil/input_normed_binned_results/128572.Blueprint.IHECRE00000284.2.WGB-Seq.methylation.bin1000.step1000.bp

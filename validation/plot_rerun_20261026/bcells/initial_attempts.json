@@ -1,0 +1,68 @@
+[
+  {
+    "script": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/plot_dmr_volcano.py",
+    "returncode": 1,
+    "seconds": 11.58221983909607,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_dmr_volcano.initial.log"
+  },
+  {
+    "script": "cases/bcells_and_CLL/dmr_repro_cemt/scripts/plot_igh_tracks_corrected.py",
+    "returncode": 1,
+    "seconds": 9.431609869003296,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_igh_tracks_corrected.initial.log"
+  },
+  {
+    "script": "cases/bcells_and_CLL/global_oinfo_and_triplets/plot_global_oinfo_and_ABC_triplets.py",
+    "returncode": 1,
+    "seconds": 2.8677847385406494,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_global_oinfo_and_ABC_triplets.initial.log"
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_abc_pooled_combined.py",
+    "returncode": 1,
+    "seconds": 1.0210421085357666,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_abc_pooled_combined.initial.log"
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_abc_pooled_compact_preview.py",
+    "returncode": 1,
+    "seconds": 0.9526302814483643,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_abc_pooled_compact_preview.initial.log"
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_abc_triplet_classes.py",
+    "returncode": 1,
+    "seconds": 1.0389890670776367,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_abc_triplet_classes.initial.log"
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_de_male_ighv_volcano_clear.py",
+    "returncode": 1,
+    "seconds": 1.130906581878662,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_de_male_ighv_volcano_clear.initial.log"
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_gsea_eight_panel_v2_18x10cm.py",
+    "returncode": 1,
+    "seconds": 0.7186980247497559,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_gsea_eight_panel_v2_18x10cm.initial.log"
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_gsea_representative_bars.py",
+    "returncode": 0,
+    "seconds": 2.308215856552124,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_gsea_representative_bars.initial.log"
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/plot_gsea_top20_bars.py",
+    "returncode": 0,
+    "seconds": 1.783174991607666,
+    "log": "validation/plot_rerun_20261026/bcells/logs/plot_gsea_top20_bars.initial.log"
+  },
+  {
+    "script": "cases/bcells_and_CLL/scripts/validate_male_de_in_females.py",
+    "returncode": 0,
+    "seconds": 5.897513389587402,
+    "log": "validation/plot_rerun_20261026/bcells/logs/validate_male_de_in_females.initial.log"
+  }
+]

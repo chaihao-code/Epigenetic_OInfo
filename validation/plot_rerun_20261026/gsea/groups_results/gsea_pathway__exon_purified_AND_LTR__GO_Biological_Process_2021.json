@@ -1,0 +1,111 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "RNA export from nucleus (GO_0006405).pdf",
+    "mRNA transport (GO_0051028).pdf",
+    "mRNA-containing ribonucleoprotein complex export from nucleus (GO_0071427).pdf",
+    "organic anion transport (GO_0015711).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "RNA export from nucleus (GO:0006405)",
+      "historical_pdf_name": "RNA export from nucleus (GO_0006405).pdf",
+      "n_ranked": 14943,
+      "n_hits": 13,
+      "saved_ES": 0.7261361,
+      "recomputed_ES": 0.7261361213041225,
+      "absolute_ES_error": 2.1304122577170403e-08,
+      "NES": 1.903754,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1772198,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/RNA export from nucleus (GO_0006405).pdf",
+          "bytes": 30084,
+          "sha256": "6d756b419431b8ad1506315bd858566a7097916b60f250a7d1fdcdbe4ac5ff05"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/RNA export from nucleus (GO_0006405).png",
+          "bytes": 100279,
+          "sha256": "d3c0649f9a9083f10ec4db2ee60797271c26feaa7053c1fa16585f22f0b3b084"
+        }
+      ]
+    },
+    {
+      "term": "mRNA transport (GO:0051028)",
+      "historical_pdf_name": "mRNA transport (GO_0051028).pdf",
+      "n_ranked": 14943,
+      "n_hits": 13,
+      "saved_ES": 0.7261361,
+      "recomputed_ES": 0.7261361213041225,
+      "absolute_ES_error": 2.1304122577170403e-08,
+      "NES": 1.903754,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1772198,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/mRNA transport (GO_0051028).pdf",
+          "bytes": 30069,
+          "sha256": "d8e9a05409d0bfe886671e244722d58e738df5f887da2e94e931d1b8759f8fd8"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/mRNA transport (GO_0051028).png",
+          "bytes": 99162,
+          "sha256": "f8842d312473b1e3c6fe5a9c5628b65826cea914dd9b4a644043ad15635eaad1"
+        }
+      ]
+    },
+    {
+      "term": "mRNA-containing ribonucleoprotein complex export from nucleus (GO:0071427)",
+      "historical_pdf_name": "mRNA-containing ribonucleoprotein complex export from nucleus (GO_0071427).pdf",
+      "n_ranked": 14943,
+      "n_hits": 13,
+      "saved_ES": 0.7261361,
+      "recomputed_ES": 0.7261361213041225,
+      "absolute_ES_error": 2.1304122577170403e-08,
+      "NES": 1.903754,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1772198,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/mRNA-containing ribonucleoprotein complex export from nucleus (GO_0071427).pdf",
+          "bytes": 30189,
+          "sha256": "58d8cd341487ddb280d156b30561b867c4669926fb46d4b7a1973ba59d9ce3aa"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/mRNA-containing ribonucleoprotein complex export from nucleus (GO_0071427).png",
+          "bytes": 106491,
+          "sha256": "da9cd0ac4e4aae181a9a771b80a10c7dc8fb98d2554ea6679e8d9aedb4676707"
+        }
+      ]
+    },
+    {
+      "term": "organic anion transport (GO:0015711)",
+      "historical_pdf_name": "organic anion transport (GO_0015711).pdf",
+      "n_ranked": 14943,
+      "n_hits": 10,
+      "saved_ES": 0.7824451,
+      "recomputed_ES": 0.7824450992092766,
+      "absolute_ES_error": 7.907233756654364e-10,
+      "NES": 1.879362,
+      "nominal_P": 0.00248139,
+      "FDR_q": 0.184784,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/organic anion transport (GO_0015711).pdf",
+          "bytes": 28268,
+          "sha256": "d331da9cfb4da5f131b4f3a5c3148cbbc36acf8603d54cce80624cbad33982ec"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LTR/GO_Biological_Process_2021/prerank/organic anion transport (GO_0015711).png",
+          "bytes": 103059,
+          "sha256": "3685057d5ec2d3e0303884d50aeb868ff0cdfdcb8b0d4e5fab871d7e5acbdfc3"
+        }
+      ]
+    }
+  ],
+  "seconds": 2.17
+}

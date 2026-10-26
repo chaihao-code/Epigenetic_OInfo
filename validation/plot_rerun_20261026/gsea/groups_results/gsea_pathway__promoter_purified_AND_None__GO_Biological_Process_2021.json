@@ -1,0 +1,61 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "base-excision repair (GO_0006284).pdf",
+    "receptor clustering (GO_0043113).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "base-excision repair (GO:0006284)",
+      "historical_pdf_name": "base-excision repair (GO_0006284).pdf",
+      "n_ranked": 45199,
+      "n_hits": 31,
+      "saved_ES": 0.5814717,
+      "recomputed_ES": 0.5814717127832418,
+      "absolute_ES_error": 1.2783241798430822e-08,
+      "NES": 2.075754,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1650141,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/prerank/base-excision repair (GO_0006284).pdf",
+          "bytes": 31186,
+          "sha256": "8b74306f5eb63283c81c28a608d7230965cf6f58bb248681f0e88761c494b700"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/prerank/base-excision repair (GO_0006284).png",
+          "bytes": 103069,
+          "sha256": "9c29062b166fbf8fe10e2638f6269179497a8f5c3155c14895d8c8a7bdb22133"
+        }
+      ]
+    },
+    {
+      "term": "receptor clustering (GO:0043113)",
+      "historical_pdf_name": "receptor clustering (GO_0043113).pdf",
+      "n_ranked": 45199,
+      "n_hits": 17,
+      "saved_ES": 0.6613388,
+      "recomputed_ES": 0.661338754775678,
+      "absolute_ES_error": 4.5224321953973856e-08,
+      "NES": 2.04115,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1835051,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/prerank/receptor clustering (GO_0043113).pdf",
+          "bytes": 30045,
+          "sha256": "7634e2aecc55931b57f96db6ea9f1d8a5fc278127cac19c207d858bf96ea1b83"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_None/GO_Biological_Process_2021/prerank/receptor clustering (GO_0043113).png",
+          "bytes": 101582,
+          "sha256": "f6830902c1b348dcee2cf4e8318070a8e6b3b0f78d53140e986131a7c8cef650"
+        }
+      ]
+    }
+  ],
+  "seconds": 1.12
+}

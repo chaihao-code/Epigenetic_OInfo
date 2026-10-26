@@ -1,0 +1,72 @@
+{
+  "status": "complete",
+  "source": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/H3K36me3_developmental_switch/batch_effect_figures/data/late_reference_triplets_bh56.tsv.gz",
+  "source_sha256": "ff435b874ee365640188908837e43f0e057f1134a636597c1ff4be0b29c32cc8",
+  "signals": [
+    "ATAC",
+    "DNA_methylation",
+    "H3K9me3",
+    "H3K27me3",
+    "H3K36me3",
+    "H3K4me1",
+    "H3K4me3",
+    "H3K27ac"
+  ],
+  "repressive_marks": [
+    "H3K27me3",
+    "H3K36me3",
+    "H3K9me3"
+  ],
+  "theoretical_max": {
+    "B": 31,
+    "A": 15,
+    "C": 10
+  },
+  "class_definitions": {
+    "A": "Triplet A: DNA methylation + at least one repressive mark (15 possible)",
+    "B": "Triplet B: at least one repressive mark; no DNA methylation (31 possible)",
+    "C": "Triplet C: no repressive mark (10 possible)"
+  },
+  "stages": [
+    "E11.5",
+    "E12.5",
+    "E13.5",
+    "E14.5",
+    "E15.5",
+    "E16.5",
+    "P0"
+  ],
+  "tissues": [
+    "Forebrain",
+    "Midbrain",
+    "Hindbrain",
+    "Heart",
+    "Liver"
+  ],
+  "n_samples": 35,
+  "n_blocks": 40,
+  "n_permutations": 10000,
+  "BH_family_size": 56,
+  "criterion": "observed_hoi < 0 and BH56 q <= 0.05",
+  "aggregation": "Equal mean of five tissue counts per stage",
+  "color_scale": "Independent Reds scale for each class, matching reference",
+  "figure_size_cm": [
+    18,
+    12.3
+  ],
+  "font_family": "Arial",
+  "font_file": "/lustre/home/2101110354/.local/share/fonts/arial.ttf",
+  "label_font_size_pt": 8,
+  "cell_number_font_size_pt": 4,
+  "text_bounds_checked": true,
+  "cell_numbers_fit_cells": true,
+  "stage_label_overlap_checked": true,
+  "n_summary_rows": 840,
+  "n_sample_rows": 4200,
+  "eight_signal_families_complete": true,
+  "BH56_recomputed_and_matched": true,
+  "ABC_partition_checked": true,
+  "H3K36me3_classification_checked": true,
+  "trajectory_counts_match": true,
+  "mark_occurrence_totals_match": true
+}

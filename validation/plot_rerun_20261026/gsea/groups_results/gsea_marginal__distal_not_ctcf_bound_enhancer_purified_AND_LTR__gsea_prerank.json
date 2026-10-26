@@ -1,0 +1,211 @@
+{
+  "kind": "gsea_marginal",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank",
+  "historical_pdf_names": [
+    "H3K27ac_down.pdf",
+    "H3K27me3_flat.pdf",
+    "H3K36me3_down.pdf",
+    "H3K36me3_up.pdf",
+    "H3K4me1_down.pdf",
+    "H3K4me3_down.pdf",
+    "H3K4me3_up.pdf",
+    "H3K9me3_flat.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "H3K27ac_down",
+      "historical_pdf_name": "H3K27ac_down.pdf",
+      "n_ranked": 81255,
+      "n_hits": 6055,
+      "saved_ES": -0.3689255,
+      "recomputed_ES": -0.3689255401769742,
+      "absolute_ES_error": 4.017697419200772e-08,
+      "NES": -1.524368,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_down.pdf",
+          "bytes": 30515,
+          "sha256": "47cbd15300c4add4ab293db4e38917df90c023022f9bc339ea7913d16f578db4"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27ac_down.png",
+          "bytes": 93851,
+          "sha256": "386048c592d0746ad3534ff7dab94dcc1094e8828f7c453abf76a700c8f8bef8"
+        }
+      ]
+    },
+    {
+      "term": "H3K27me3_flat",
+      "historical_pdf_name": "H3K27me3_flat.pdf",
+      "n_ranked": 81255,
+      "n_hits": 73973,
+      "saved_ES": -0.2724573,
+      "recomputed_ES": -0.2724573264116135,
+      "absolute_ES_error": 2.6411613507359988e-08,
+      "NES": -1.126164,
+      "nominal_P": 0.0,
+      "FDR_q": 0.02585837,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27me3_flat.pdf",
+          "bytes": 27673,
+          "sha256": "dbbc8f4e64e6282f5b54f5db21854627fb845604b78d9d11544ed93948b2dbeb"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K27me3_flat.png",
+          "bytes": 87972,
+          "sha256": "a8a8b5cce337c48630c385adc4c7da67381d4f43ec29a12f9c633ae9ddea2598"
+        }
+      ]
+    },
+    {
+      "term": "H3K36me3_down",
+      "historical_pdf_name": "H3K36me3_down.pdf",
+      "n_ranked": 81255,
+      "n_hits": 5357,
+      "saved_ES": -0.3139273,
+      "recomputed_ES": -0.3139272973337011,
+      "absolute_ES_error": 2.666298903886144e-09,
+      "NES": -1.299062,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_down.pdf",
+          "bytes": 30555,
+          "sha256": "3dcc6e29c48b372b2e4f02937fa7770705009fba7025eeab41123168de04570b"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_down.png",
+          "bytes": 93659,
+          "sha256": "c0a1afd895d11ada9577e1d2eaffc549d7144f362c4fcb4fb1fa84bb6ec281a5"
+        }
+      ]
+    },
+    {
+      "term": "H3K36me3_up",
+      "historical_pdf_name": "H3K36me3_up.pdf",
+      "n_ranked": 81255,
+      "n_hits": 1438,
+      "saved_ES": 0.2634915,
+      "recomputed_ES": 0.2634914878655651,
+      "absolute_ES_error": 1.2134434901334146e-08,
+      "NES": 1.324507,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_up.pdf",
+          "bytes": 30432,
+          "sha256": "630c46abb39c8234da27a7b8228a1c602db75c73a47f761df0e7ad6584d09098"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K36me3_up.png",
+          "bytes": 94644,
+          "sha256": "c5aa8dc28f895f7a163811469acc4db6b604acfe3f95e7141ab0b08cbf2ee073"
+        }
+      ]
+    },
+    {
+      "term": "H3K4me1_down",
+      "historical_pdf_name": "H3K4me1_down.pdf",
+      "n_ranked": 81255,
+      "n_hits": 7750,
+      "saved_ES": -0.3140492,
+      "recomputed_ES": -0.3140491956628658,
+      "absolute_ES_error": 4.337134151821687e-09,
+      "NES": -1.298944,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_down.pdf",
+          "bytes": 29713,
+          "sha256": "236d94a64ad012a3c93fec26f8fbc4bde2e185f41e0f91c440d875478c57f6ff"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me1_down.png",
+          "bytes": 90726,
+          "sha256": "e6f2d92026a0f3e6998ac0610c17aa99853eb1e75f27f9562afbe06355e3b8bd"
+        }
+      ]
+    },
+    {
+      "term": "H3K4me3_down",
+      "historical_pdf_name": "H3K4me3_down.pdf",
+      "n_ranked": 81255,
+      "n_hits": 6611,
+      "saved_ES": -0.481973,
+      "recomputed_ES": -0.48197304179814704,
+      "absolute_ES_error": 4.179814705462803e-08,
+      "NES": -1.991293,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_down.pdf",
+          "bytes": 30729,
+          "sha256": "ce14ec649abb113c211e4b24aa45deff04c3b5d714a191005f78d6bdeb14231b"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_down.png",
+          "bytes": 95489,
+          "sha256": "98501e1c8892d6a071f582a2e84145f8fa2232a1e8d80322ddbf2b8003356c52"
+        }
+      ]
+    },
+    {
+      "term": "H3K4me3_up",
+      "historical_pdf_name": "H3K4me3_up.pdf",
+      "n_ranked": 81255,
+      "n_hits": 3264,
+      "saved_ES": -0.2642311,
+      "recomputed_ES": -0.2642311356347583,
+      "absolute_ES_error": 3.5634758310809644e-08,
+      "NES": -1.089798,
+      "nominal_P": 0.034,
+      "FDR_q": 0.07833706,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_up.pdf",
+          "bytes": 30462,
+          "sha256": "e9b1dd72fb58d3076630fc2a885a9472b59859a6875004be56d80002dbe6103f"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K4me3_up.png",
+          "bytes": 95123,
+          "sha256": "cf9c0384dd0804ecaa3066fd679ebc672db505cf882c73e36fececcc49c8a0b2"
+        }
+      ]
+    },
+    {
+      "term": "H3K9me3_flat",
+      "historical_pdf_name": "H3K9me3_flat.pdf",
+      "n_ranked": 81255,
+      "n_hits": 74644,
+      "saved_ES": -0.2586071,
+      "recomputed_ES": -0.2586071083048042,
+      "absolute_ES_error": 8.304804233194574e-09,
+      "NES": -1.067562,
+      "nominal_P": 0.001,
+      "FDR_q": 0.1395985,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_flat.pdf",
+          "bytes": 27761,
+          "sha256": "8bd39ef949cb1872b068fc88216d3b6c9d8817995761b414b7b72b7814cd5a20"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_marginal/distal_not_ctcf_bound_enhancer_purified_AND_LTR/gsea_prerank/prerank/H3K9me3_flat.png",
+          "bytes": 94209,
+          "sha256": "a2ee60bbeeaaa92558ed7c39c4c41ce6a39ad3f1b03ce718f077e098b7a8dd27"
+        }
+      ]
+    }
+  ],
+  "seconds": 13.48
+}

@@ -1,0 +1,136 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "canonical glycolysis (GO_0061621).pdf",
+    "glucose catabolic process to pyruvate (GO_0061718).pdf",
+    "glycolytic process through glucose-6-phosphate (GO_0061620).pdf",
+    "morphogenesis of an epithelium (GO_0002009).pdf",
+    "regulation of NMDA receptor activity (GO_2000310).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "canonical glycolysis (GO:0061621)",
+      "historical_pdf_name": "canonical glycolysis (GO_0061621).pdf",
+      "n_ranked": 15029,
+      "n_hits": 11,
+      "saved_ES": -0.8043304,
+      "recomputed_ES": -0.8043303594810228,
+      "absolute_ES_error": 4.051897717349817e-08,
+      "NES": -1.824784,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1256732,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/canonical glycolysis (GO_0061621).pdf",
+          "bytes": 28770,
+          "sha256": "7cacb50c14c719eb68568f11a1df010109c7f7f9366d25bb44ed70a63a8ca7fd"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/canonical glycolysis (GO_0061621).png",
+          "bytes": 99020,
+          "sha256": "f8b07346cfd782d0bca1a729f089bee321b5d965d83cf5318ecddef0d1ee43ba"
+        }
+      ]
+    },
+    {
+      "term": "glucose catabolic process to pyruvate (GO:0061718)",
+      "historical_pdf_name": "glucose catabolic process to pyruvate (GO_0061718).pdf",
+      "n_ranked": 15029,
+      "n_hits": 11,
+      "saved_ES": -0.8043304,
+      "recomputed_ES": -0.8043303594810228,
+      "absolute_ES_error": 4.051897717349817e-08,
+      "NES": -1.824784,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1256732,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/glucose catabolic process to pyruvate (GO_0061718).pdf",
+          "bytes": 28885,
+          "sha256": "67eadc6ff52e126edef79fc6de9a27940809d075a84c937f2c67005cdbe8b265"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/glucose catabolic process to pyruvate (GO_0061718).png",
+          "bytes": 103280,
+          "sha256": "5d7a10f4d1274eea78debda053d449686c1cbebc35a337605ff530c8a7ef5076"
+        }
+      ]
+    },
+    {
+      "term": "glycolytic process through glucose-6-phosphate (GO:0061620)",
+      "historical_pdf_name": "glycolytic process through glucose-6-phosphate (GO_0061620).pdf",
+      "n_ranked": 15029,
+      "n_hits": 11,
+      "saved_ES": -0.8043304,
+      "recomputed_ES": -0.8043303594810228,
+      "absolute_ES_error": 4.051897717349817e-08,
+      "NES": -1.824784,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1256732,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/glycolytic process through glucose-6-phosphate (GO_0061620).pdf",
+          "bytes": 28806,
+          "sha256": "29b61e9aadb25b5bf8c8774a787c7d545e19f931b8e5836536394d6168d7424c"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/glycolytic process through glucose-6-phosphate (GO_0061620).png",
+          "bytes": 105597,
+          "sha256": "37f7bb1cc0359e22057278da2c1d0a6148bcbf0c65bf299d74bcb40766dabe03"
+        }
+      ]
+    },
+    {
+      "term": "morphogenesis of an epithelium (GO:0002009)",
+      "historical_pdf_name": "morphogenesis of an epithelium (GO_0002009).pdf",
+      "n_ranked": 15029,
+      "n_hits": 11,
+      "saved_ES": -0.8164985,
+      "recomputed_ES": -0.8164985441380834,
+      "absolute_ES_error": 4.4138083410416584e-08,
+      "NES": -1.882802,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1445131,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/morphogenesis of an epithelium (GO_0002009).pdf",
+          "bytes": 29421,
+          "sha256": "ee8b71c2b6fddf7a080aa03b8dee23fe2d4c56149d0cc22273bb64164426bd41"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/morphogenesis of an epithelium (GO_0002009).png",
+          "bytes": 104821,
+          "sha256": "1a82d858d5f2bef9db44d1ea7e587bb97562f19eed7cc4fd8a457d02394c9056"
+        }
+      ]
+    },
+    {
+      "term": "regulation of NMDA receptor activity (GO:2000310)",
+      "historical_pdf_name": "regulation of NMDA receptor activity (GO_2000310).pdf",
+      "n_ranked": 15029,
+      "n_hits": 16,
+      "saved_ES": 0.7374967,
+      "recomputed_ES": 0.7374966793285163,
+      "absolute_ES_error": 2.067148374695904e-08,
+      "NES": 2.255728,
+      "nominal_P": 0.0,
+      "FDR_q": 0.03720389,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of NMDA receptor activity (GO_2000310).pdf",
+          "bytes": 30675,
+          "sha256": "bd29b4a4c8f1c2c6b92ec9e477b832a1b0ed8610a1d21e15f6f3bb54625a731c"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_ctcf_bound_enhancer_purified_AND_SINE/GO_Biological_Process_2021/prerank/regulation of NMDA receptor activity (GO_2000310).png",
+          "bytes": 106462,
+          "sha256": "04b1637efbc6227827fdc1a59fbac24979f55f06155af2b37c41032f68ec5455"
+        }
+      ]
+    }
+  ],
+  "seconds": 3.32
+}

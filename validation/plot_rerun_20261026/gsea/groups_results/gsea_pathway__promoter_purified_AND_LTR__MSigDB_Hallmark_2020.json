@@ -1,0 +1,61 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Hedgehog Signaling.pdf",
+    "Inflammatory Response.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Hedgehog Signaling",
+      "historical_pdf_name": "Hedgehog Signaling.pdf",
+      "n_ranked": 28153,
+      "n_hits": 5,
+      "saved_ES": 0.8080162,
+      "recomputed_ES": 0.808016175546737,
+      "absolute_ES_error": 2.445326297007e-08,
+      "NES": 1.645565,
+      "nominal_P": 0.02061856,
+      "FDR_q": 0.1564809,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Hedgehog Signaling.pdf",
+          "bytes": 27856,
+          "sha256": "6d503872f62e39e602c568b97921f5ce547afb5c90fbfd7b86468ff277c813ef"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Hedgehog Signaling.png",
+          "bytes": 90954,
+          "sha256": "3f7f225eb6e973201e1630f4714f82512599b7e59639ee7221941918a35449fe"
+        }
+      ]
+    },
+    {
+      "term": "Inflammatory Response",
+      "historical_pdf_name": "Inflammatory Response.pdf",
+      "n_ranked": 28153,
+      "n_hits": 47,
+      "saved_ES": -0.4659735,
+      "recomputed_ES": -0.46597351207685844,
+      "absolute_ES_error": 1.2076858457721329e-08,
+      "NES": -1.466582,
+      "nominal_P": 0.01618929,
+      "FDR_q": 0.2399921,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Inflammatory Response.pdf",
+          "bytes": 32154,
+          "sha256": "32b2fe7daed0168a40ac812cdc001e77f52cea0a319f47a4db62485732413d89"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LTR/MSigDB_Hallmark_2020/prerank/Inflammatory Response.png",
+          "bytes": 98032,
+          "sha256": "cb604fbbec673e9ed286a90ef7cc9effe8ab697e741389c23de5ff19ff572740"
+        }
+      ]
+    }
+  ],
+  "seconds": 1.02
+}

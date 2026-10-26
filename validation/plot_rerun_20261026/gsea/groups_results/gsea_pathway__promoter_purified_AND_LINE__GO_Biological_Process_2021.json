@@ -1,0 +1,111 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "cellular response to hydrogen peroxide (GO_0070301).pdf",
+    "chondroitin sulfate metabolic process (GO_0030204).pdf",
+    "negative regulation of MAP kinase activity (GO_0043407).pdf",
+    "very long-chain fatty acid metabolic process (GO_0000038).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "cellular response to hydrogen peroxide (GO:0070301)",
+      "historical_pdf_name": "cellular response to hydrogen peroxide (GO_0070301).pdf",
+      "n_ranked": 50028,
+      "n_hits": 16,
+      "saved_ES": -0.7553663,
+      "recomputed_ES": -0.7553663410945668,
+      "absolute_ES_error": 4.109456674949996e-08,
+      "NES": -1.938398,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1344089,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/cellular response to hydrogen peroxide (GO_0070301).pdf",
+          "bytes": 30278,
+          "sha256": "f3ab9ae98aeecfbc045ebdc6ae874137e3687586485b634abeb269c369d1ffdb"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/cellular response to hydrogen peroxide (GO_0070301).png",
+          "bytes": 100177,
+          "sha256": "a771b84d0aeaa57bfb58322476df04d4832c1e488ab9f06903140112e902ff4e"
+        }
+      ]
+    },
+    {
+      "term": "chondroitin sulfate metabolic process (GO:0030204)",
+      "historical_pdf_name": "chondroitin sulfate metabolic process (GO_0030204).pdf",
+      "n_ranked": 50028,
+      "n_hits": 14,
+      "saved_ES": -0.7379529,
+      "recomputed_ES": -0.7379529373396525,
+      "absolute_ES_error": 3.7339652481094276e-08,
+      "NES": -1.851936,
+      "nominal_P": 0.001445087,
+      "FDR_q": 0.1725637,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/chondroitin sulfate metabolic process (GO_0030204).pdf",
+          "bytes": 29497,
+          "sha256": "7bdf949f048caeb68a20bcc401676a123e0784c52bf626d58fa38ba348961131"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/chondroitin sulfate metabolic process (GO_0030204).png",
+          "bytes": 101188,
+          "sha256": "89b6aa478537dc759437f5776614096f70b60dad74eaa4c6b5dc8cf5f4c38036"
+        }
+      ]
+    },
+    {
+      "term": "negative regulation of MAP kinase activity (GO:0043407)",
+      "historical_pdf_name": "negative regulation of MAP kinase activity (GO_0043407).pdf",
+      "n_ranked": 50028,
+      "n_hits": 21,
+      "saved_ES": -0.6889614,
+      "recomputed_ES": -0.6889613842887218,
+      "absolute_ES_error": 1.571127816735185e-08,
+      "NES": -1.892562,
+      "nominal_P": 0.00137931,
+      "FDR_q": 0.1582556,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/negative regulation of MAP kinase activity (GO_0043407).pdf",
+          "bytes": 31097,
+          "sha256": "25507e9da66065ae818be345b58e37ae1459e8bff16eb742b04081ae92cce551"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/negative regulation of MAP kinase activity (GO_0043407).png",
+          "bytes": 107513,
+          "sha256": "c0839e0576c1ceb1f7df636c5750c2d18489564586046921528de64729842fbc"
+        }
+      ]
+    },
+    {
+      "term": "very long-chain fatty acid metabolic process (GO:0000038)",
+      "historical_pdf_name": "very long-chain fatty acid metabolic process (GO_0000038).pdf",
+      "n_ranked": 50028,
+      "n_hits": 18,
+      "saved_ES": -0.7095955,
+      "recomputed_ES": -0.7095955082384363,
+      "absolute_ES_error": 8.238436266516658e-09,
+      "NES": -1.875579,
+      "nominal_P": 0.001360544,
+      "FDR_q": 0.1479943,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/very long-chain fatty acid metabolic process (GO_0000038).pdf",
+          "bytes": 30567,
+          "sha256": "5be990c61e64747be4d00794f7c6ca3aa75997e1c58bcf3159e65a40f58eef78"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/promoter_purified_AND_LINE/GO_Biological_Process_2021/prerank/very long-chain fatty acid metabolic process (GO_0000038).png",
+          "bytes": 107091,
+          "sha256": "ad612caf1af5bda425d4d835980ab13228f4eceeab8030c1211fe4126f6eb831"
+        }
+      ]
+    }
+  ],
+  "seconds": 2.05
+}

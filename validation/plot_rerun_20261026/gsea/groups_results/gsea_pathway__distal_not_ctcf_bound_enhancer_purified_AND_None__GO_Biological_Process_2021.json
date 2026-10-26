@@ -1,0 +1,311 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO_0000377).pdf",
+    "cytoplasmic microtubule organization (GO_0031122).pdf",
+    "mRNA processing (GO_0006397).pdf",
+    "mitochondrial fission (GO_0000266).pdf",
+    "organelle fission (GO_0048285).pdf",
+    "positive regulation of intracellular transport (GO_0032388).pdf",
+    "positive regulation of ossification (GO_0045778).pdf",
+    "protein complex oligomerization (GO_0051259).pdf",
+    "regulation of actin filament bundle assembly (GO_0032231).pdf",
+    "regulation of cytokine-mediated signaling pathway (GO_0001959).pdf",
+    "regulation of membrane repolarization (GO_0060306).pdf",
+    "regulation of plasma membrane bounded cell projection organization (GO_0120035).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)",
+      "historical_pdf_name": "RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO_0000377).pdf",
+      "n_ranked": 8685,
+      "n_hits": 44,
+      "saved_ES": 0.5208137,
+      "recomputed_ES": 0.5208137103654523,
+      "absolute_ES_error": 1.0365452274285758e-08,
+      "NES": 1.866401,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1987232,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO_0000377).pdf",
+          "bytes": 32621,
+          "sha256": "bfbd7e54e987c904d39cad4891c7b42bc2588bb1d6c96d229c52dea6445ea86d"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO_0000377).png",
+          "bytes": 121251,
+          "sha256": "efbbd8b6d1aba3d26ecc6a9f5c9bb159ada0a9e9ff891b848930f70322904715"
+        }
+      ]
+    },
+    {
+      "term": "cytoplasmic microtubule organization (GO:0031122)",
+      "historical_pdf_name": "cytoplasmic microtubule organization (GO_0031122).pdf",
+      "n_ranked": 8685,
+      "n_hits": 12,
+      "saved_ES": 0.709855,
+      "recomputed_ES": 0.7098550097821719,
+      "absolute_ES_error": 9.782171850325483e-09,
+      "NES": 1.844504,
+      "nominal_P": 0.004576659,
+      "FDR_q": 0.2239212,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/cytoplasmic microtubule organization (GO_0031122).pdf",
+          "bytes": 31058,
+          "sha256": "4354e6c223ed7daa76bc08806ecff5f2df1b3caa4151683ad7d72c822fc86533"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/cytoplasmic microtubule organization (GO_0031122).png",
+          "bytes": 112307,
+          "sha256": "d2eafc53150502757a2ab015aba33fb1b23f7e014bf8d974c1c6dc6dd1c074fd"
+        }
+      ]
+    },
+    {
+      "term": "mRNA processing (GO:0006397)",
+      "historical_pdf_name": "mRNA processing (GO_0006397).pdf",
+      "n_ranked": 8685,
+      "n_hits": 56,
+      "saved_ES": 0.5678527,
+      "recomputed_ES": 0.5678527170173919,
+      "absolute_ES_error": 1.7017391940044035e-08,
+      "NES": 2.173577,
+      "nominal_P": 0.0,
+      "FDR_q": 0.02904923,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/mRNA processing (GO_0006397).pdf",
+          "bytes": 31245,
+          "sha256": "8a24527671ce30b1dd7bd166c128b7f9660beb835954c67bd849165415f1efca"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/mRNA processing (GO_0006397).png",
+          "bytes": 107088,
+          "sha256": "d7426f61e105c9a20267263e3f43386921386f18dec9a246ce6f679d13ae7dba"
+        }
+      ]
+    },
+    {
+      "term": "mitochondrial fission (GO:0000266)",
+      "historical_pdf_name": "mitochondrial fission (GO_0000266).pdf",
+      "n_ranked": 8685,
+      "n_hits": 8,
+      "saved_ES": 0.8315074,
+      "recomputed_ES": 0.8315074067078987,
+      "absolute_ES_error": 6.707898680957669e-09,
+      "NES": 1.91861,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1925172,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/mitochondrial fission (GO_0000266).pdf",
+          "bytes": 28953,
+          "sha256": "70ce07767298ecfd1fdea4aeb8f35ebb003e68473a88d6cb51c92b45352a2a3a"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/mitochondrial fission (GO_0000266).png",
+          "bytes": 103887,
+          "sha256": "193dd9481f2c4489d74cdfdae9015a7bf109a972120f3af67e1f11d8a1b6d7fc"
+        }
+      ]
+    },
+    {
+      "term": "organelle fission (GO:0048285)",
+      "historical_pdf_name": "organelle fission (GO_0048285).pdf",
+      "n_ranked": 8685,
+      "n_hits": 12,
+      "saved_ES": 0.7948531,
+      "recomputed_ES": 0.7948531496190868,
+      "absolute_ES_error": 4.9619086839314264e-08,
+      "NES": 2.112819,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0336707,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/organelle fission (GO_0048285).pdf",
+          "bytes": 29923,
+          "sha256": "4ee1a2b5fac1b993d54919202501f1c1d47459a2196f085ba59a5354e1c87f99"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/organelle fission (GO_0048285).png",
+          "bytes": 105664,
+          "sha256": "088c5c0573d05271f919ff5188b8f0996d27590a755acb9e70ea75bd0ca5ad7c"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of intracellular transport (GO:0032388)",
+      "historical_pdf_name": "positive regulation of intracellular transport (GO_0032388).pdf",
+      "n_ranked": 8685,
+      "n_hits": 14,
+      "saved_ES": 0.701408,
+      "recomputed_ES": 0.7014080058880106,
+      "absolute_ES_error": 5.888010523591447e-09,
+      "NES": 1.888959,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1827131,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of intracellular transport (GO_0032388).pdf",
+          "bytes": 30438,
+          "sha256": "c79dd28961bc52ccd096bcd6a6455749d606efa05ad04d2fd782a9b95410f189"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of intracellular transport (GO_0032388).png",
+          "bytes": 110219,
+          "sha256": "64bf711f52afbbe13b4abab5c9535d360057f45603b090d53559b7d98c02623b"
+        }
+      ]
+    },
+    {
+      "term": "positive regulation of ossification (GO:0045778)",
+      "historical_pdf_name": "positive regulation of ossification (GO_0045778).pdf",
+      "n_ranked": 8685,
+      "n_hits": 12,
+      "saved_ES": 0.7114205,
+      "recomputed_ES": 0.7114204546941025,
+      "absolute_ES_error": 4.530589747808733e-08,
+      "NES": 1.889886,
+      "nominal_P": 0.00462963,
+      "FDR_q": 0.2059855,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of ossification (GO_0045778).pdf",
+          "bytes": 28806,
+          "sha256": "d76a51eca5c669720098b0be06251fcf9e7d73c69a21347264debe0268e297fc"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/positive regulation of ossification (GO_0045778).png",
+          "bytes": 114120,
+          "sha256": "3a58134b3fe4b2401e75d23801ff3d93d10aaa3b665797465ca7af09dea38bce"
+        }
+      ]
+    },
+    {
+      "term": "protein complex oligomerization (GO:0051259)",
+      "historical_pdf_name": "protein complex oligomerization (GO_0051259).pdf",
+      "n_ranked": 8685,
+      "n_hits": 13,
+      "saved_ES": 0.7417808,
+      "recomputed_ES": 0.7417807697701088,
+      "absolute_ES_error": 3.022989125689435e-08,
+      "NES": 2.00016,
+      "nominal_P": 0.0,
+      "FDR_q": 0.06932203,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/protein complex oligomerization (GO_0051259).pdf",
+          "bytes": 30741,
+          "sha256": "c40b6a0ee2d16fd07dc6cf82637f0f77f31b958b91d1a1978013ecf91a69929f"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/protein complex oligomerization (GO_0051259).png",
+          "bytes": 107054,
+          "sha256": "feccd7a3653cb589fe9fdbdbcc336711ce21634bdfcb15b3b0c40342a393872b"
+        }
+      ]
+    },
+    {
+      "term": "regulation of actin filament bundle assembly (GO:0032231)",
+      "historical_pdf_name": "regulation of actin filament bundle assembly (GO_0032231).pdf",
+      "n_ranked": 8685,
+      "n_hits": 8,
+      "saved_ES": 0.8109401,
+      "recomputed_ES": 0.8109400773331163,
+      "absolute_ES_error": 2.2666883703337248e-08,
+      "NES": 1.850094,
+      "nominal_P": 0.002320186,
+      "FDR_q": 0.2257918,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of actin filament bundle assembly (GO_0032231).pdf",
+          "bytes": 29984,
+          "sha256": "c3e2c54ee108a75f230db8d90c1e72f143fab2af44f93bac8b0730fd5118a183"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of actin filament bundle assembly (GO_0032231).png",
+          "bytes": 110481,
+          "sha256": "e6fe4a72220c3a9abdc6b35e1c3ae6477040744bcef9abc613f4cf17c3620acb"
+        }
+      ]
+    },
+    {
+      "term": "regulation of cytokine-mediated signaling pathway (GO:0001959)",
+      "historical_pdf_name": "regulation of cytokine-mediated signaling pathway (GO_0001959).pdf",
+      "n_ranked": 8685,
+      "n_hits": 16,
+      "saved_ES": 0.660214,
+      "recomputed_ES": 0.6602140179418751,
+      "absolute_ES_error": 1.7941875096738613e-08,
+      "NES": 1.906405,
+      "nominal_P": 0.002525253,
+      "FDR_q": 0.1930013,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of cytokine-mediated signaling pathway (GO_0001959).pdf",
+          "bytes": 30853,
+          "sha256": "fc34a4f43df9d4f9ea9c1b5c912e44763596a0fbd7a22e2290d5e65fff13c51e"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of cytokine-mediated signaling pathway (GO_0001959).png",
+          "bytes": 116008,
+          "sha256": "5a934580b2badc2bd0a52848df996b41c1e818f2b2e066326b3715eec4d40508"
+        }
+      ]
+    },
+    {
+      "term": "regulation of membrane repolarization (GO:0060306)",
+      "historical_pdf_name": "regulation of membrane repolarization (GO_0060306).pdf",
+      "n_ranked": 8685,
+      "n_hits": 5,
+      "saved_ES": 0.9376471,
+      "recomputed_ES": 0.9376470529293823,
+      "absolute_ES_error": 4.7070617625877276e-08,
+      "NES": 1.876425,
+      "nominal_P": 0.002217295,
+      "FDR_q": 0.1924878,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of membrane repolarization (GO_0060306).pdf",
+          "bytes": 29010,
+          "sha256": "3a38ee9c7045adb65545b31ecc1f8390607fb1b1d5c3c2072a48b656b8504135"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of membrane repolarization (GO_0060306).png",
+          "bytes": 106609,
+          "sha256": "ad4d964bba4ef9bfcb9181891bba4dd4928972696078a3cbf1dffe280ac14e6e"
+        }
+      ]
+    },
+    {
+      "term": "regulation of plasma membrane bounded cell projection organization (GO:0120035)",
+      "historical_pdf_name": "regulation of plasma membrane bounded cell projection organization (GO_0120035).pdf",
+      "n_ranked": 8685,
+      "n_hits": 11,
+      "saved_ES": 0.8007842,
+      "recomputed_ES": 0.8007842471031694,
+      "absolute_ES_error": 4.710316947598159e-08,
+      "NES": 2.066367,
+      "nominal_P": 0.0,
+      "FDR_q": 0.03785203,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of plasma membrane bounded cell projection organization (GO_0120035).pdf",
+          "bytes": 30338,
+          "sha256": "2c6ab07257b1eb321adb628765ee08762acc06493f8d7bb1b02642f15cca5d04"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/distal_not_ctcf_bound_enhancer_purified_AND_None/GO_Biological_Process_2021/prerank/regulation of plasma membrane bounded cell projection organization (GO_0120035).png",
+          "bytes": 111844,
+          "sha256": "214504e17fd98a9ac3dc93dca493f3bb0687dc3875e0efe86840c156eddc5e65"
+        }
+      ]
+    }
+  ],
+  "seconds": 6.27
+}

@@ -1,0 +1,8 @@
+data/mouse_preimplementation/binned_results/atac/8cell.ATAC.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/8cell.H3K4me1.bin1000.bp
+data/mouse_preimplementation_complement_data/GSE73952/replicate_averaged/8cell.H3K4me3.repMean.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/8cell.H3K9me3.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/8cell.H3K27ac.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/8cell.H3K27me3.bin1000.bp
+data/mouse_preimplementation/binned_results/histone/8cell.H3K36me3.bin1000.bp
+data/mouse_preimplementation/binned_results/methylation/8cell.CpG_methyl.bin1000.bp

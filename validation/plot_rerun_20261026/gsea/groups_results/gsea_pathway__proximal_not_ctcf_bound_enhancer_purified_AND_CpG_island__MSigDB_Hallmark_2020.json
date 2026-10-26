@@ -1,0 +1,10 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_not_ctcf_bound_enhancer_purified_AND_CpG_island/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [],
+  "status": "success",
+  "figures": [],
+  "seconds": 0.0,
+  "reason": "This original region/library had no historical enrichment curves."
+}

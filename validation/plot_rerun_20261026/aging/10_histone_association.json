@@ -1,0 +1,30 @@
+{
+  "script": "cases/aging/thyroid/deconvolution/scripts/10_histone_association.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 10_histone_association.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/10_histone_association.log",
+  "started_unix": 1793013039.779456,
+  "status": "removed_by_request",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/histone_immune_association.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/histone_immune_association.tsv",
+      "bytes": 186033,
+      "sha256": "6640a75fa647cf3adaead8f7fca781763ee4103e635b9577a18911ba606d6489"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/thyroid_cell_proportions.tsv",
+      "bytes": 18707,
+      "sha256": "c07d2da39dac5404104b42e438606a88120e848022d1eb4a8b8a08163052842f"
+    }
+  ],
+  "outputs": [],
+  "elapsed_seconds": 7.19,
+  "description_zh": "6种组蛋白信号的年龄斜率；信号与免疫比例关系（各6面板）",
+  "input_nature_zh": "原入口优先bin_means_cache缓存，缺缓存读取组蛋白bigWig；本次只读histone_immune_association及细胞比例表执行绘图段",
+  "source_sha256": "96ab60c95623debce03570da636c57d7d9f4508cb7ba9db3658652639d9548db",
+  "figure_count": 2,
+  "file_count": 4,
+  "previous_status": "success",
+  "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+}

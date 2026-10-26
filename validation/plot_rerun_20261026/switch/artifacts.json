@@ -1,0 +1,338 @@
+[
+  {
+    "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/plots/same_stage_bulk_replacement_all_marks.pdf",
+    "bytes": 48580,
+    "sha256": "4f2e62a4894a0c55edfa29b0e620e574557ecf0ed68b9d2e5fc530d90a364b90"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/plots/same_stage_bulk_replacement_all_marks.png",
+    "bytes": 173238,
+    "sha256": "dcdfffbcfcfb5ab3fff38340aac108b3d7ca43aa178e5fd778cea4f7995ae6fc",
+    "dimensions": [
+      2125,
+      1771
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/without_h3k27me3_replacement/triplet_support_distribution_fdr05.pdf",
+    "bytes": 15474,
+    "sha256": "a7cc76bf34877f03f25ad0e22b5ca193e40ce65e10f0c9a5a5f237fbf7a2670b"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/without_h3k27me3_replacement/triplet_support_distribution_fdr05.png",
+    "bytes": 71655,
+    "sha256": "d38397a12cf5a322dcd49a96a87be63c420f2f89d79115b5a6cdca723b30cf65",
+    "dimensions": [
+      2125,
+      944
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/without_h3k27me3_replacement/triplet_support_distribution_fdr10.pdf",
+    "bytes": 15637,
+    "sha256": "2b616464eecc5f364f02592760d759b32b449256663c315caa1f61ee824a9866"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/without_h3k27me3_replacement/triplet_support_distribution_fdr10.png",
+    "bytes": 76655,
+    "sha256": "cc5e9c5f66de523681691f17d7f580c780c448049600eb25d479e94faa07e92c",
+    "dimensions": [
+      2125,
+      944
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/plots/triplet_support_distribution_fdr05.pdf",
+    "bytes": 16769,
+    "sha256": "7abd9d0822dbd54608de23ff2d5b4fe42c9af7125674c4ef08973de5d355517e"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/plots/triplet_support_distribution_fdr05.png",
+    "bytes": 81417,
+    "sha256": "5299081aa2a6bff435a66d4e58b83611034873ef5d14effd02be1fb9311427da",
+    "dimensions": [
+      2125,
+      944
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/plots/triplet_support_distribution_fdr10.pdf",
+    "bytes": 16776,
+    "sha256": "d6e30d0ab08b125eea3dd2f6816028b07f24edaf7f8ab95e12690499dd380893"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/batch_effect_figures/plots/triplet_support_distribution_fdr10.png",
+    "bytes": 79716,
+    "sha256": "1c48ca7d17bb320183b4107db63415f683bbc98d2f6e82d9c41fc4cecc1c6f23",
+    "dimensions": [
+      2125,
+      944
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/combined_triplet_core_trajectories.pdf",
+    "bytes": 51195,
+    "sha256": "e54d1a6b11756bd2138a8296682d378999d8caf90df74aacaae4684ceed58a0b"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/combined_triplet_core_trajectories.png",
+    "bytes": 265606,
+    "sha256": "2c3cf7f0b229f33a9553b2201f167cd05399ad47cc01fa97f612222d5cca0515",
+    "dimensions": [
+      2125,
+      767
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/full_signal_occurrence/plots/full_signal_triplets_and_cores_2x2.pdf",
+    "bytes": 95908,
+    "sha256": "0508e5193f4225fed1de87359567cf48c2e398ff9f4eafd3f5e45e7268a62dc0"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/full_signal_occurrence/plots/full_signal_triplets_and_cores_2x2.png",
+    "bytes": 295165,
+    "sha256": "712c3d26a7d46a375a726e4df569d5c977f457892e0ab753f167e3a1685df937",
+    "dimensions": [
+      2125,
+      1771
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/full_signal_occurrence/plots/redundancy_core_combination_occurrence_post_E11p5_top25.pdf",
+    "bytes": 42353,
+    "sha256": "ccda1e39bb2ee7f7137b45d527de037d415e22b17ec1cb64a43a3b0f6eba2d4f"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/full_signal_occurrence/plots/redundancy_core_combination_occurrence_post_E11p5_top25.png",
+    "bytes": 95677,
+    "sha256": "cca05b71b3dad448f79175f529f0296f5516edcef061749b91cc148d18865ab7",
+    "dimensions": [
+      1062,
+      885
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/full_signal_occurrence/plots/redundancy_core_combination_occurrence_preimplantation_top25.pdf",
+    "bytes": 41366,
+    "sha256": "a1ec50822c90d63567e7c40ef94c5874123588dd8df91469a0a7461b30e5d5a8"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/full_signal_occurrence/plots/redundancy_core_combination_occurrence_preimplantation_top25.png",
+    "bytes": 90389,
+    "sha256": "d4a31d587b52f841c403b6114703bcb2ccbe7d818518eb8669fca2a64c32e5bd",
+    "dimensions": [
+      1062,
+      885
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/full_signal_occurrence/plots/synergistic_triplet_combination_occurrence_post_E11p5_top25.pdf",
+    "bytes": 41532,
+    "sha256": "45a60989244e991aa64247f8edbe5f4d6d0c059fc8f75e116d93e6d5e87fe75b"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/full_signal_occurrence/plots/synergistic_triplet_combination_occurrence_post_E11p5_top25.png",
+    "bytes": 81184,
+    "sha256": "71ec1b401c20aae21d933b834820bf4e3e42218ba9239390ee0bb5a81b0c38a9",
+    "dimensions": [
+      1062,
+      885
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/full_signal_occurrence/plots/synergistic_triplet_combination_occurrence_preimplantation_top25.pdf",
+    "bytes": 39889,
+    "sha256": "9d8b874b2083e1d3487946df5e4f10630cc2cf90bdb326add304f9db55a5fa5d"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/full_signal_occurrence/plots/synergistic_triplet_combination_occurrence_preimplantation_top25.png",
+    "bytes": 75575,
+    "sha256": "beb3ee710f12ef8b6758d254e74c8da3c6728f7446e7364efcddf52dfaae4930",
+    "dimensions": [
+      1062,
+      885
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/redundancy_core_mark_trajectories.pdf",
+    "bytes": 40387,
+    "sha256": "d518c997573fd535ea01568b8c247c7a43a016faee881fcf8f7659de1660288f"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/redundancy_core_mark_trajectories.png",
+    "bytes": 219333,
+    "sha256": "dae27e56469eb5be217611b99e0259bc800900eecd2b0be8b2713da37d5c870e",
+    "dimensions": [
+      2125,
+      708
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/synergistic_triplet_mark_trajectories.pdf",
+    "bytes": 40723,
+    "sha256": "1a8d22d463c89b749e36ffeba81435d512ac0bf2d87ac8fa196e154a037aa97c"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/synergistic_triplet_mark_trajectories.png",
+    "bytes": 191685,
+    "sha256": "33cfff4f4733dc6ebd89378dc8296b61081bedf5294af1e5c035f7a4c0c5ab5a",
+    "dimensions": [
+      2125,
+      708
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/legacy_triplet_combinations/triplet_A_combination_occurrence.pdf",
+    "bytes": 39108,
+    "sha256": "8b05f29cf98b29f87ade72e99c5e1821f6e6a5a0fc2316ece0772dcf0f9ce693"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/legacy_triplet_combinations/triplet_A_combination_occurrence.png",
+    "bytes": 44081,
+    "sha256": "0baef03ac9a67afae52e3a3438abaf73cbb817a09d2affb936fbe7ed38ce2a28",
+    "dimensions": [
+      1068,
+      517
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/legacy_triplet_combinations/triplet_B_combination_occurrence.pdf",
+    "bytes": 39082,
+    "sha256": "363983258955ca467be1dc6fb8b625dc6b8b2d086ab99994fe8b3cdf9d9fa7c5"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/legacy_triplet_combinations/triplet_B_combination_occurrence.png",
+    "bytes": 42805,
+    "sha256": "eb05201456984244bb6d69d68f2a4ac69a5b63bb3f57e9a19e0eba719d85031b",
+    "dimensions": [
+      1068,
+      517
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/legacy_triplet_combinations/triplet_C_combination_occurrence.pdf",
+    "bytes": 38604,
+    "sha256": "474fd6ddff7f052440a7d8ef81a60248fa86ae93e8bcd292490c0b81ffc65c80"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/redundancy_core/plots/legacy_triplet_combinations/triplet_C_combination_occurrence.png",
+    "bytes": 44353,
+    "sha256": "d34ea6b4e2228e4ecd53abce17b7c0751325fc5cc02acc01468e5170bec68463",
+    "dimensions": [
+      1068,
+      517
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/mark_occurrence_per_tissue_by_stage_combined.pdf",
+    "bytes": 32381,
+    "sha256": "da5cf615fb680c2b198235fd8026c6d0aab669d93b6b96736b7f4ec0e7a9e22f"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/mark_occurrence_per_tissue_by_stage_combined.png",
+    "bytes": 95291,
+    "sha256": "babac35c19da5eb6bcfc7ae1d9e3cf6dd8d4a07d4bcd59f4debf5af673b2e055",
+    "dimensions": [
+      2125,
+      708
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/mark_occurrence_per_tissue_by_stage_post_E11p5.pdf",
+    "bytes": 29468,
+    "sha256": "1e63568d98f6026281fc48ccf2971ee4243a348a0c1ccd871dc3a964be0198c8"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/mark_occurrence_per_tissue_by_stage_post_E11p5.png",
+    "bytes": 75533,
+    "sha256": "2acc082db5799a94dcf00a94b9826ca7cf26e7b962c64e5fc5aa4ed663848cf0",
+    "dimensions": [
+      1181,
+      708
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/mark_occurrence_per_tissue_by_stage_preimplantation.pdf",
+    "bytes": 30266,
+    "sha256": "7d3a278d1e84af88141db5668c71c4f7c2d9254751d64e2bbf84240e94da10ef"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/mark_occurrence_per_tissue_by_stage_preimplantation.png",
+    "bytes": 79029,
+    "sha256": "b99c961fc65e2724da231d7a0e5e63194e523b3b4677cf4ff4db651c4046e581",
+    "dimensions": [
+      1181,
+      708
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/original_development_mark_participation_heatmap.pdf",
+    "bytes": 37108,
+    "sha256": "5e5c3c23f3af2a3b154350bf8ea6fff1e960c0b69646a266197ab9f0dd4273c7"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/original_development_mark_participation_heatmap.png",
+    "bytes": 266636,
+    "sha256": "7e23710cceaac2353590bdf1df3ea280e8a8be510b42d1133e5b3339e7b6c201",
+    "dimensions": [
+      2125,
+      1417
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/triplet_ABC_selected_region_trajectories_8signals_post_E11p5_n5.pdf",
+    "bytes": 53433,
+    "sha256": "718bb56c63abd3e133b1d06ae67657ec932e775fb3bbdc1df37b96ddc7eab328"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/triplet_ABC_selected_region_trajectories_8signals_post_E11p5_n5.png",
+    "bytes": 273351,
+    "sha256": "bee783a07699e94ac30bc42716e3ffa0ec6c6c6a93d59be2f6fa31b65803d14b",
+    "dimensions": [
+      2125,
+      1141
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/triplet_ABC_stacked_post_E11p5_n5.pdf",
+    "bytes": 59566,
+    "sha256": "7bea04df26b9ba355295a759caae5ceb76a0c5d5cd1e9393f2fdaf9a529e3a1f"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/triplet_ABC_stacked_post_E11p5_n5.png",
+    "bytes": 557724,
+    "sha256": "02f9e8228334bef3809f697e39f17a63fb026596b977d2366ff1491be5075f69",
+    "dimensions": [
+      2125,
+      1452
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/triplet_ABC_stacked_preimplantation.pdf",
+    "bytes": 56127,
+    "sha256": "5108db937e86921c20bfc07f39dd918934efc5fb55433c1fd055a7a39ac77c18"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/triplet_ABC_stacked_preimplantation.png",
+    "bytes": 369287,
+    "sha256": "5c30c8b8de998c7a2025c64c7e052ec2185fb1a3865c8f6c8bdfcce748f218d2",
+    "dimensions": [
+      2125,
+      1452
+    ]
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/triplet_A_B_C_counts_trajectories_post_E11p5_n5.pdf",
+    "bytes": 47364,
+    "sha256": "b5da9c27e3ed6e568ceac1f3728dcb1196bb09c3b48ea90386e148a21ef3903d"
+  },
+  {
+    "path": "cases/H3K36me3_developmental_switch/synergistic_triplets/plots/triplet_A_B_C_counts_trajectories_post_E11p5_n5.png",
+    "bytes": 274337,
+    "sha256": "e6bdf60f28ea09c5b6146095c8e22f251acf56274fff9732d10410565ec786cc",
+    "dimensions": [
+      2857,
+      1768
+    ]
+  }
+]

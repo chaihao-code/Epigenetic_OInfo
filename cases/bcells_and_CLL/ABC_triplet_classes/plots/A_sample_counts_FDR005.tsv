@@ -1,0 +1,18 @@
+sample_label	promoter_purified_bins_AND_CpG_island	promoter_purified_bins_AND_LINE	promoter_purified_bins_AND_SINE	promoter_purified_bins_AND_LTR	promoter_purified_bins_AND_None_rep	proximal_ctcf_bound_enhancer_purified_bins_AND_CpG_island	proximal_ctcf_bound_enhancer_purified_bins_AND_LINE	proximal_ctcf_bound_enhancer_purified_bins_AND_SINE	proximal_ctcf_bound_enhancer_purified_bins_AND_LTR	proximal_ctcf_bound_enhancer_purified_bins_AND_None_rep	proximal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island	proximal_not_ctcf_bound_enhancer_purified_bins_AND_LINE	proximal_not_ctcf_bound_enhancer_purified_bins_AND_SINE	proximal_not_ctcf_bound_enhancer_purified_bins_AND_LTR	proximal_not_ctcf_bound_enhancer_purified_bins_AND_None_rep	distal_ctcf_bound_enhancer_purified_bins_AND_CpG_island	distal_ctcf_bound_enhancer_purified_bins_AND_LINE	distal_ctcf_bound_enhancer_purified_bins_AND_SINE	distal_ctcf_bound_enhancer_purified_bins_AND_LTR	distal_ctcf_bound_enhancer_purified_bins_AND_None_rep	distal_not_ctcf_bound_enhancer_purified_bins_AND_CpG_island	distal_not_ctcf_bound_enhancer_purified_bins_AND_LINE	distal_not_ctcf_bound_enhancer_purified_bins_AND_SINE	distal_not_ctcf_bound_enhancer_purified_bins_AND_LTR	distal_not_ctcf_bound_enhancer_purified_bins_AND_None_rep	exon_purified_bins_AND_CpG_island	exon_purified_bins_AND_LINE	exon_purified_bins_AND_SINE	exon_purified_bins_AND_LTR	exon_purified_bins_AND_None_rep	intron_purified_bins_AND_CpG_island	intron_purified_bins_AND_LINE	intron_purified_bins_AND_SINE	intron_purified_bins_AND_LTR	intron_purified_bins_AND_None_rep	None_func_AND_CpG_island	None_func_AND_LINE	None_func_AND_SINE	None_func_AND_LTR	None_func_AND_None_rep
+R  CEMT0004	10	11	11	11	12	10	10	11	11	11	9	11	11	11	11	8	12	12	12	12	5	11	11	9	11	5	9	10	8	10	5	7	8	8	8	5	0	5	1	0
+R  CEMT0005	8	11	11	9	11	9	11	11	10	11	9	11	11	10	12	9	11	11	11	11	7	9	9	8	11	5	8	9	7	10	9	6	7	7	7	7	1	2	3	0
+R  CEMT0025	6	11	11	11	11	10	11	11	11	11	6	11	11	11	11	6	11	11	11	11	5	11	10	10	11	6	11	9	10	11	5	10	9	10	11	10	4	3	6	0
+R  CEMT0026	6	11	11	10	12	11	11	10	10	11	7	11	11	8	11	8	11	11	10	11	6	8	7	7	10	6	8	7	7	11	6	6	5	5	9	6	0	0	0	0
+R  CEMT0027	6	11	11	11	12	11	11	11	9	11	7	11	11	6	12	7	11	11	11	12	3	8	8	6	11	7	8	8	6	10	10	6	6	5	8	8	0	0	0	0
+R  CEMT0028	10	11	11	11	11	11	11	11	11	11	8	11	11	11	11	8	11	11	11	11	6	11	11	10	11	8	11	10	10	11	8	10	9	10	10	5	0	3	4	0
+R  CEMT0029	6	11	10	10	11	9	10	10	9	10	8	10	10	10	11	9	11	10	10	11	6	10	8	8	10	9	10	8	7	10	7	10	8	8	7	4	2	7	3	0
+R  CEMT0030	9	11	11	11	11	11	11	11	11	11	6	11	11	11	11	7	11	11	11	11	6	11	9	10	11	9	11	9	10	11	9	10	9	9	10	8	1	6	2	0
+S  CEMT0006	7	10	10	10	10	8	10	10	10	10	8	10	10	10	10	10	10	10	10	10	8	10	9	10	10	10	10	9	9	11	10	11	9	9	11	8	8	8	8	0
+S  CEMT0094	7	10	10	11	9	8	9	10	9	11	6	10	10	10	10	10	10	10	10	9	4	10	9	10	10	7	9	9	10	9	2	10	9	10	10	1	8	11	10	0
+S  CEMT0095	2	9	8	9	9	1	9	8	9	8	5	10	10	10	9	11	10	10	10	10	6	9	9	10	9	7	8	9	9	9	2	9	9	10	10	1	10	10	10	0
+S  CEMT0096	4	9	8	9	9	5	10	10	8	9	6	9	9	9	9	9	9	9	9	9	7	9	9	9	9	10	9	9	8	9	10	6	7	6	8	6	12	10	11	0
+S  CEMT0097	6	10	10	10	9	5	10	9	10	11	6	9	9	10	9	10	9	9	9	9	8	9	9	8	9	11	9	9	10	9	10	8	8	8	10	7	10	9	11	0
+pB  CEMT0129	6	11	10	11	11	7	9	8	7	7	4	10	10	9	7	4	11	10	11	11	4	11	11	11	11	6	8	9	8	11	8	9	9	9	10	9	10	10	10	0
+pB  CEMT0134	8	8	8	10	8	8	9	9	8	7	4	7	8	6	8	5	8	8	8	10	5	8	7	9	9	7	9	9	10	9	6	9	8	8	11	7	10	11	10	0
+pB  CEMT0135	8	10	8	11	10	6	7	7	6	3	3	8	8	7	4	2	11	11	11	11	1	9	11	9	10	9	9	9	9	9	8	9	9	10	11	7	9	10	10	0
+pB  CEMT0138	9	11	11	11	11	7	11	11	7	10	6	8	9	7	10	8	11	11	11	11	5	10	10	9	10	10	8	8	8	9	11	8	8	8	9	7	9	9	9	0

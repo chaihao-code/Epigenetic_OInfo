@@ -1,0 +1,10 @@
+{
+  "deleted_at_utc": "2026-10-20T13:37:27.831868+00:00",
+  "deleted_directories": [
+    "cases/mouse_development/result_oinfo_n_bins_5",
+    "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm100000",
+    "cases/mouse_development/synergistic_triplets/comparison_10000_vs_100000"
+  ],
+  "retained_run": "cases/mouse_development/result_oinfo_n_bins_5_triplet_perm10000",
+  "comparison_deleted_at_utc": "2026-10-20T13:42:11.092678+00:00"
+}

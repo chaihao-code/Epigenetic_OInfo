@@ -1,0 +1,30 @@
+{
+  "script": "cases/aging/thyroid/deconvolution/scripts/09_marker_go_analysis.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 09_marker_go_analysis.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/09_marker_go_analysis.log",
+  "started_unix": 1793013037.1594756,
+  "status": "removed_by_request",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/immune_marker_analysis.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/immune_marker_analysis.tsv",
+      "bytes": 3807,
+      "sha256": "b643030e0eb63cc2f0aeefe5ac9c9ffa98618889394c5b19ef0b972284b4efac"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/immune_region_enrichment.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/immune_region_enrichment.tsv",
+      "bytes": 734,
+      "sha256": "4c4e64e019b2cb2bccd06e44a26a1479f8a996fa3e0b9cc94224db0d01d58470"
+    }
+  ],
+  "outputs": [],
+  "elapsed_seconds": 2.62,
+  "description_zh": "免疫/甲状腺marker表达、年龄关联和免疫区间重叠（3面板）",
+  "input_nature_zh": "原入口读RNA bigWig、GTF、离散轨迹/注释并做GO分析；本次只读immune_marker_analysis/immune_region_enrichment表执行绘图段",
+  "source_sha256": "5a2a1e537ee341aec36ea931f54a6aec80bad4dd85ab5923cde63a7cc21dcf71",
+  "figure_count": 1,
+  "file_count": 2,
+  "previous_status": "success",
+  "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+}

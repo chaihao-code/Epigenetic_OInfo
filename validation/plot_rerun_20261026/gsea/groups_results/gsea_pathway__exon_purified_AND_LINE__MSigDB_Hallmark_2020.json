@@ -1,0 +1,36 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "DNA Repair.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "DNA Repair",
+      "historical_pdf_name": "DNA Repair.pdf",
+      "n_ranked": 27728,
+      "n_hits": 52,
+      "saved_ES": 0.4615898,
+      "recomputed_ES": 0.4615897524508306,
+      "absolute_ES_error": 4.754916937965703e-08,
+      "NES": 1.752681,
+      "nominal_P": 0.0,
+      "FDR_q": 0.05977111,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/DNA Repair.pdf",
+          "bytes": 32284,
+          "sha256": "4149f742b28f39bca16b06ebb637c39f585b47dea9a706aecd3e12d02dc63868"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_LINE/MSigDB_Hallmark_2020/prerank/DNA Repair.png",
+          "bytes": 94883,
+          "sha256": "3eb5747b0f537e74feaa095777045bf58b65e092479a310556079f64cdaf66fc"
+        }
+      ]
+    }
+  ],
+  "seconds": 0.47
+}

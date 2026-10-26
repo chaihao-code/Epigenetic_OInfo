@@ -1,0 +1,86 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "T cell activation (GO_0042110).pdf",
+    "central nervous system neuron differentiation (GO_0021953).pdf",
+    "regulation of protein localization (GO_0032880).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "T cell activation (GO:0042110)",
+      "historical_pdf_name": "T cell activation (GO_0042110).pdf",
+      "n_ranked": 16862,
+      "n_hits": 18,
+      "saved_ES": -0.7241453,
+      "recomputed_ES": -0.7241452820281102,
+      "absolute_ES_error": 1.797188975416475e-08,
+      "NES": -1.874436,
+      "nominal_P": 0.004291845,
+      "FDR_q": 0.1476513,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/T cell activation (GO_0042110).pdf",
+          "bytes": 31591,
+          "sha256": "71305280e046a5cb78cc0c580a81e5ae035f57646db47450911ba553d6c78678"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/T cell activation (GO_0042110).png",
+          "bytes": 109928,
+          "sha256": "b7182eccd341e14754c8e86e405bdbe7001d03bb8f1d09db26b306812f6ffff4"
+        }
+      ]
+    },
+    {
+      "term": "central nervous system neuron differentiation (GO:0021953)",
+      "historical_pdf_name": "central nervous system neuron differentiation (GO_0021953).pdf",
+      "n_ranked": 16862,
+      "n_hits": 20,
+      "saved_ES": 0.6980752,
+      "recomputed_ES": 0.698075167163289,
+      "absolute_ES_error": 3.283671101694807e-08,
+      "NES": 2.113505,
+      "nominal_P": 0.0,
+      "FDR_q": 0.05928135,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/central nervous system neuron differentiation (GO_0021953).pdf",
+          "bytes": 31292,
+          "sha256": "e5d1b3622402871b4d680d3aebcbd77267fe7de3569bc053c4756f1cef10818c"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/central nervous system neuron differentiation (GO_0021953).png",
+          "bytes": 114624,
+          "sha256": "053a7e7652e3f723d09a742fccbf51dd967fa879d4b39be34210907143a3d5a7"
+        }
+      ]
+    },
+    {
+      "term": "regulation of protein localization (GO:0032880)",
+      "historical_pdf_name": "regulation of protein localization (GO_0032880).pdf",
+      "n_ranked": 16862,
+      "n_hits": 18,
+      "saved_ES": -0.7386489,
+      "recomputed_ES": -0.7386488808221188,
+      "absolute_ES_error": 1.9177881283027887e-08,
+      "NES": -1.916971,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1266758,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of protein localization (GO_0032880).pdf",
+          "bytes": 31026,
+          "sha256": "05e199e9b58706829711980e162c24364e9d76d6aa4ff6fc7725169300348e76"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/proximal_ctcf_bound_enhancer_purified_AND_CpG_island/GO_Biological_Process_2021/prerank/regulation of protein localization (GO_0032880).png",
+          "bytes": 107371,
+          "sha256": "99286844e2c2588df3172aec48da468c64811945500efcb2abd373d855bbb79f"
+        }
+      ]
+    }
+  ],
+  "seconds": 1.61
+}

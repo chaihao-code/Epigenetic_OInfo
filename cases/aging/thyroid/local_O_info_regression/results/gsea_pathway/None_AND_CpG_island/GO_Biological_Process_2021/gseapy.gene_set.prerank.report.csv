@@ -1,0 +1,18 @@
+Name,Term,ES,NES,NOM p-val,FDR q-val,FWER p-val,Tag %,Gene %,Lead_genes
+prerank,regulation of transcription by RNA polymerase II (GO:0006357),-5.955684e-01,-1.748056e+00,0.000000e+00,1.674107e-02,1.001001e-02,12/28,19.81%,TBX1;OTP;LHX9;ZSCAN1;SOX14;DRGX;UTF1;ZFP37;GSX1;PARK7;TLR2;CEBPD
+prerank,"negative regulation of transcription, DNA-templated (GO:0045892)",-6.776200e-01,-1.668760e+00,1.317957e-02,3.196023e-02,3.203203e-02,4/13,11.57%,OTP;LHX9;SOX14;ZFP37
+prerank,negative regulation of nucleic acid-templated transcription (GO:1903507),-8.135328e-01,-1.612803e+00,8.680556e-03,4.033076e-02,7.507508e-02,2/6,2.85%,LHX9;SOX14
+prerank,negative regulation of cellular macromolecule biosynthetic process (GO:2000113),-8.135328e-01,-1.612803e+00,8.680556e-03,4.033076e-02,7.507508e-02,2/6,2.85%,LHX9;SOX14
+prerank,"regulation of transcription, DNA-templated (GO:0006355)",-5.788731e-01,-1.608423e+00,1.650165e-02,3.591721e-02,8.008008e-02,8/22,15.06%,TBX1;LHX9;ZSCAN1;SOX14;DRGX;UTF1;ZFP37;GSX1
+prerank,negative regulation of transcription by RNA polymerase II (GO:0000122),-6.898935e-01,-1.542181e+00,4.530201e-02,5.960836e-02,1.371371e-01,3/9,11.57%,OTP;SOX14;ZFP37
+prerank,regulation of gene expression (GO:0010468),-6.635180e-01,-1.461141e+00,5.612245e-02,1.054470e-01,2.552553e-01,7/9,27.26%,SOX14;ATP13A2;ZFP37;PARK7;TLR2;PRDM12;ESRP2
+prerank,positive regulation of transcription by RNA polymerase II (GO:0045944),-6.703026e-01,-1.450297e+00,5.245347e-02,9.148404e-02,2.752753e-01,5/8,19.49%,TBX1;UTF1;GSX1;PARK7;TLR2
+prerank,"positive regulation of transcription, DNA-templated (GO:0045893)",-6.703026e-01,-1.450297e+00,5.245347e-02,9.148404e-02,2.752753e-01,5/8,19.49%,TBX1;UTF1;GSX1;PARK7;TLR2
+prerank,mitochondrion organization (GO:0007005),-7.650519e-01,-1.443867e+00,4.920914e-02,8.674919e-02,2.902903e-01,3/5,19.65%,BIK;PARK7;VPS13D
+prerank,organelle organization (GO:0006996),-7.288513e-01,-1.409965e+00,6.122449e-02,1.025218e-01,3.653654e-01,4/6,19.65%,PCLO;FMNL2;PARK7;VPS13D
+prerank,neuron differentiation (GO:0030182),-6.895779e-01,-1.298610e+00,1.345455e-01,1.778300e-01,6.216216e-01,3/5,15.06%,OTP;LHX9;GSX1
+prerank,generation of neurons (GO:0048699),-6.895779e-01,-1.298610e+00,1.345455e-01,1.778300e-01,6.216216e-01,3/5,15.06%,OTP;LHX9;GSX1
+prerank,protein phosphorylation (GO:0006468),-6.852747e-01,-1.286720e+00,1.795775e-01,1.763248e-01,6.406406e-01,3/5,19.49%,ATP13A2;CAMKV;TLR2
+prerank,positive regulation of cellular process (GO:0048522),-6.445338e-01,-1.254935e+00,2.027972e-01,1.935877e-01,6.966967e-01,3/6,19.97%,TBX1;TLR2;TJP1
+prerank,inorganic cation transmembrane transport (GO:0098662),5.643027e-01,1.131327e+00,3.432836e-01,6.458567e-01,7.390000e-01,3/5,24.41%,SLC6A5;UCP1;OTOP1
+prerank,cellular response to oxygen-containing compound (GO:1901701),4.172106e-01,8.302250e-01,6.560364e-01,6.769317e-01,9.460000e-01,1/5,0.32%,TRIM41

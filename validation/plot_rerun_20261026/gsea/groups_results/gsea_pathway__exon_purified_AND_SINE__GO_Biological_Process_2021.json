@@ -1,0 +1,86 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank",
+  "historical_pdf_names": [
+    "epidermal cell differentiation (GO_0009913).pdf",
+    "keratinocyte differentiation (GO_0030216).pdf",
+    "pyroptosis (GO_0070269).pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "epidermal cell differentiation (GO:0009913)",
+      "historical_pdf_name": "epidermal cell differentiation (GO_0009913).pdf",
+      "n_ranked": 39444,
+      "n_hits": 27,
+      "saved_ES": 0.629396,
+      "recomputed_ES": 0.6293959860229664,
+      "absolute_ES_error": 1.3977033530565564e-08,
+      "NES": 2.156522,
+      "nominal_P": 0.0,
+      "FDR_q": 0.03061218,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank/epidermal cell differentiation (GO_0009913).pdf",
+          "bytes": 30434,
+          "sha256": "3d4369b546dc4a6230ab25802b0f321d2b048c10ab35a1b098f686fd616e90bd"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank/epidermal cell differentiation (GO_0009913).png",
+          "bytes": 101007,
+          "sha256": "107fc310fcb5f89cba23ee31e5f1837ede22f456ddb280c4d4b8adb3730af8c1"
+        }
+      ]
+    },
+    {
+      "term": "keratinocyte differentiation (GO:0030216)",
+      "historical_pdf_name": "keratinocyte differentiation (GO_0030216).pdf",
+      "n_ranked": 39444,
+      "n_hits": 19,
+      "saved_ES": 0.7598338,
+      "recomputed_ES": 0.7598337511605445,
+      "absolute_ES_error": 4.883945547984325e-08,
+      "NES": 2.359367,
+      "nominal_P": 0.0,
+      "FDR_q": 0.0,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank/keratinocyte differentiation (GO_0030216).pdf",
+          "bytes": 29789,
+          "sha256": "fbeecac70e2a15ad110a35b28c0694ca7bceb49b4bd6672824d3cd1845063e08"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank/keratinocyte differentiation (GO_0030216).png",
+          "bytes": 97502,
+          "sha256": "851b165d385c581f15b3ff4509fd14445badb0078c970281e5f9e1ed6ecf1afa"
+        }
+      ]
+    },
+    {
+      "term": "pyroptosis (GO:0070269)",
+      "historical_pdf_name": "pyroptosis (GO_0070269).pdf",
+      "n_ranked": 39444,
+      "n_hits": 16,
+      "saved_ES": 0.723361,
+      "recomputed_ES": 0.7233610022379227,
+      "absolute_ES_error": 2.23792262499245e-09,
+      "NES": 2.122955,
+      "nominal_P": 0.0,
+      "FDR_q": 0.03582759,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank/pyroptosis (GO_0070269).pdf",
+          "bytes": 30479,
+          "sha256": "33a1ee8deb4e1b45cdef51cd789004b195c7a2e2c4d2a19e7da9358a1bcc4325"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/exon_purified_AND_SINE/GO_Biological_Process_2021/prerank/pyroptosis (GO_0070269).png",
+          "bytes": 95486,
+          "sha256": "15c4a02bf9270ab53e5c42fef9c2587e076d5342a3b2ab45e171fad796b6ac00"
+        }
+      ]
+    }
+  ],
+  "seconds": 1.62
+}

@@ -1,0 +1,97 @@
+Name,Term,ES,NES,NOM p-val,FDR q-val,FWER p-val,Tag %,Gene %,Lead_genes
+prerank,enzyme linked receptor protein signaling pathway (GO:0007167),-8.260451e-01,-1.444590e+00,4.152824e-02,1.000000e+00,7.850000e-01,2/5,8.12%,SHC2;TNK2
+prerank,positive regulation of signal transduction (GO:0009967),6.105589e-01,1.405335e+00,1.078947e-01,1.000000e+00,8.830000e-01,5/9,17.13%,GAS6;SHANK1;F7;NOTCH2NLB;GRIN1
+prerank,cellular response to oxygen-containing compound (GO:1901701),-7.469364e-01,-1.402132e+00,8.774834e-02,1.000000e+00,8.710000e-01,3/6,11.58%,AKT1;DAPK1;WNT9B
+prerank,regulation of autophagy (GO:0010506),-7.676418e-01,-1.379130e+00,6.467662e-02,1.000000e+00,9.170000e-01,3/5,18.02%,AKT1;DAPK1;FOXK2
+prerank,transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169),-6.775809e-01,-1.346350e+00,1.018809e-01,1.000000e+00,9.560000e-01,3/8,8.12%,AKT1;SHC2;TNK2
+prerank,neutrophil degranulation (GO:0043312),-5.860494e-01,-1.299751e+00,1.528190e-01,1.000000e+00,9.790000e-01,9/11,38.12%,SERPINB1;TRPM2;ATP11A;IGF2R;CNN2;GALNS;ABCA13;KCNAB2;TOLLIP
+prerank,neutrophil activation involved in immune response (GO:0002283),-5.860494e-01,-1.299751e+00,1.528190e-01,1.000000e+00,9.790000e-01,9/11,38.12%,SERPINB1;TRPM2;ATP11A;IGF2R;CNN2;GALNS;ABCA13;KCNAB2;TOLLIP
+prerank,neutrophil mediated immunity (GO:0002446),-5.860494e-01,-1.299751e+00,1.528190e-01,1.000000e+00,9.790000e-01,9/11,38.12%,SERPINB1;TRPM2;ATP11A;IGF2R;CNN2;GALNS;ABCA13;KCNAB2;TOLLIP
+prerank,phosphate-containing compound metabolic process (GO:0006796),-6.673563e-01,-1.287406e+00,1.682692e-01,1.000000e+00,9.840000e-01,3/7,14.36%,AKT1;TNK2;PFKP
+prerank,cellular component assembly (GO:0022607),6.326642e-01,1.278206e+00,2.040302e-01,1.000000e+00,9.700000e-01,4/6,23.27%,GAS6;SHANK1;TRAF2;SYCE1
+prerank,positive regulation of intracellular signal transduction (GO:1902533),5.932158e-01,1.277375e+00,1.801075e-01,1.000000e+00,9.700000e-01,4/7,19.80%,GAS6;RIPK1;F7;TRAF2
+prerank,cellular protein metabolic process (GO:0044267),6.551260e-01,1.252865e+00,2.297980e-01,1.000000e+00,9.770000e-01,2/5,7.92%,GAS6;RIPK1
+prerank,cellular response to DNA damage stimulus (GO:0006974),-7.036976e-01,-1.243313e+00,1.884298e-01,1.000000e+00,9.920000e-01,3/5,18.12%,NUPR2;PLK5;CHRNA4
+prerank,organelle organization (GO:0006996),-6.462945e-01,-1.210258e+00,2.235294e-01,1.000000e+00,9.960000e-01,2/6,14.46%,NSFL1C;ATAD3A
+prerank,positive regulation of developmental process (GO:0051094),6.169304e-01,1.188198e+00,3.088235e-01,1.000000e+00,9.890000e-01,2/5,18.71%,SHANK1;ESRRB
+prerank,generation of neurons (GO:0048699),-5.951765e-01,-1.182246e+00,2.718447e-01,1.000000e+00,9.980000e-01,5/7,33.86%,WNT9B;RUNX3;MYT1L;LHX4;OLIG1
+prerank,neuron differentiation (GO:0030182),-5.951765e-01,-1.182246e+00,2.718447e-01,1.000000e+00,9.980000e-01,5/7,33.86%,WNT9B;RUNX3;MYT1L;LHX4;OLIG1
+prerank,transcription by RNA polymerase II (GO:0006366),-5.911916e-01,-1.169519e+00,2.775120e-01,1.000000e+00,9.980000e-01,2/7,10.10%,NR2E1;NKX2-8
+prerank,positive regulation of nucleic acid-templated transcription (GO:1903508),-5.677298e-01,-1.159955e+00,2.935636e-01,1.000000e+00,9.980000e-01,6/9,32.87%,AKT1;RUNX3;FOXK2;MSANTD1;FLI1;HDAC4
+prerank,negative regulation of intracellular signal transduction (GO:1902532),5.570662e-01,1.144572e+00,3.034826e-01,1.000000e+00,9.950000e-01,3/6,7.92%,PPP2R5C;PRDM15;RIPK1
+prerank,sodium ion transport (GO:0006814),5.899934e-01,1.139787e+00,3.341709e-01,1.000000e+00,9.950000e-01,2/5,14.65%,SCN5A;SLC6A3
+prerank,sodium ion transmembrane transport (GO:0035725),5.899934e-01,1.139787e+00,3.341709e-01,1.000000e+00,9.950000e-01,2/5,14.65%,SCN5A;SLC6A3
+prerank,regulation of programmed cell death (GO:0043067),-6.387193e-01,-1.136537e+00,3.350168e-01,1.000000e+00,9.990000e-01,3/5,11.68%,AKT1;DAPK1;PLK5
+prerank,membrane organization (GO:0061024),-6.195000e-01,-1.107619e+00,3.665008e-01,1.000000e+00,9.990000e-01,2/5,24.46%,NSFL1C;IGF2R
+prerank,regulation of intracellular signal transduction (GO:1902531),4.562161e-01,1.103486e+00,3.404255e-01,1.000000e+00,9.970000e-01,2/10,1.88%,EHMT1;PPP2R5C
+prerank,phosphorylation (GO:0016310),-5.038023e-01,-1.094731e+00,3.622047e-01,1.000000e+00,1.000000e+00,4/11,14.26%,AKT1;TNK2;DAPK1;RUNX3
+prerank,anterograde trans-synaptic signaling (GO:0098916),-5.178447e-01,-1.086404e+00,3.660436e-01,1.000000e+00,1.000000e+00,4/10,19.11%,KIF5A;MTNR1B;CHRNA4;MBP
+prerank,regulation of protein phosphorylation (GO:0001932),4.824647e-01,1.079982e+00,3.731778e-01,1.000000e+00,9.980000e-01,3/8,7.92%,PPP2R5C;GAS6;RIPK1
+prerank,regulation of signal transduction by p53 class mediator (GO:1901796),5.518881e-01,1.077500e+00,3.727034e-01,1.000000e+00,9.980000e-01,2/5,1.88%,EHMT1;PPP2R5C
+prerank,cellular response to metal ion (GO:0071248),-6.016321e-01,-1.072471e+00,4.131833e-01,1.000000e+00,1.000000e+00,2/5,15.84%,AKT1;TRPM2
+prerank,positive regulation of protein phosphorylation (GO:0001934),-5.082587e-01,-1.059122e+00,4.255639e-01,1.000000e+00,1.000000e+00,3/9,10.40%,AKT1;TNK2;OPRD1
+prerank,cellular response to cytokine stimulus (GO:0071345),-4.927834e-01,-1.052217e+00,4.255319e-01,1.000000e+00,1.000000e+00,3/10,11.39%,AKT1;OPRD1;DAPK1
+prerank,regulation of cell cycle (GO:0051726),-5.553135e-01,-1.051809e+00,4.327391e-01,1.000000e+00,1.000000e+00,2/6,14.26%,NUPR2;RUNX3
+prerank,negative regulation of transcription by RNA polymerase II (GO:0000122),-4.557602e-01,-1.028171e+00,4.470588e-01,1.000000e+00,1.000000e+00,6/13,21.78%,NR2E1;NUPR2;SKOR1;RUNX3;DMRT1;NKX6-3
+prerank,regulation of gene expression (GO:0010468),-3.982158e-01,-1.009310e+00,4.641350e-01,1.000000e+00,1.000000e+00,6/22,18.02%,AKT1;PCBP2;OPRD1;SKOR1;RUNX3;FOXK2
+prerank,regulation of cellular macromolecule biosynthetic process (GO:2000112),-4.671882e-01,-9.981201e-01,4.893617e-01,1.000000e+00,1.000000e+00,3/10,18.02%,SKOR1;RUNX3;FOXK2
+prerank,regulation of Notch signaling pathway (GO:0008593),-5.590191e-01,-9.945701e-01,5.059022e-01,1.000000e+00,1.000000e+00,1/5,6.34%,AKT1
+prerank,regulation of nucleic acid-templated transcription (GO:1903506),-4.742821e-01,-9.882165e-01,5.070644e-01,1.000000e+00,1.000000e+00,3/9,18.02%,SKOR1;RUNX3;FOXK2
+prerank,negative regulation of multicellular organismal process (GO:0051241),5.145708e-01,9.879164e-01,4.582278e-01,1.000000e+00,1.000000e+00,2/5,7.33%,RAB11FIP3;GAS6
+prerank,potassium ion transport (GO:0006813),-5.582090e-01,-9.789363e-01,5.382060e-01,1.000000e+00,1.000000e+00,5/5,44.55%,KCNA4;KCNAB2;SLC24A4;KCNQ2;KCNE1
+prerank,cytokine-mediated signaling pathway (GO:0019221),-4.531576e-01,-9.710485e-01,5.263158e-01,1.000000e+00,1.000000e+00,2/10,10.40%,AKT1;OPRD1
+prerank,regulation of apoptotic process (GO:0042981),-4.364765e-01,-9.702997e-01,5.202399e-01,1.000000e+00,1.000000e+00,4/12,14.46%,AKT1;DAPK1;PLK5;ATAD3A
+prerank,regulation of protein-containing complex assembly (GO:0043254),-5.177676e-01,-9.647289e-01,5.416667e-01,1.000000e+00,1.000000e+00,2/6,23.07%,OPRD1;PRKCZ
+prerank,negative regulation of cellular process (GO:0048523),4.359709e-01,9.575173e-01,5.155440e-01,1.000000e+00,1.000000e+00,4/7,18.61%,PPP2R5C;DDX4;CBFA2T3;CTBP1
+prerank,regulation of protein kinase B signaling (GO:0051896),4.989943e-01,9.539166e-01,5.175000e-01,1.000000e+00,1.000000e+00,3/5,12.67%,PPP2R5C;GAS6;F7
+prerank,chemical synaptic transmission (GO:0007268),-4.212659e-01,-9.302386e-01,5.705795e-01,1.000000e+00,1.000000e+00,4/12,19.11%,KIF5A;MTNR1B;CHRNA4;MBP
+prerank,DNA metabolic process (GO:0006259),-4.770144e-01,-9.253943e-01,5.673877e-01,1.000000e+00,1.000000e+00,2/7,18.12%,CBS;CHRNA4
+prerank,organelle assembly (GO:0070925),-5.059929e-01,-9.090684e-01,6.301824e-01,1.000000e+00,1.000000e+00,2/5,9.01%,NSFL1C;PACS2
+prerank,proteasomal protein catabolic process (GO:0010498),-5.064356e-01,-9.029253e-01,6.565657e-01,1.000000e+00,1.000000e+00,2/5,8.42%,NSFL1C;PCBP2
+prerank,regulation of neurotransmitter receptor activity (GO:0099601),4.792592e-01,9.020678e-01,5.857520e-01,1.000000e+00,1.000000e+00,3/5,17.13%,DLGAP2;SHANK1;GRIN1
+prerank,negative regulation of nucleic acid-templated transcription (GO:1903507),3.797609e-01,8.972936e-01,6.422018e-01,1.000000e+00,1.000000e+00,5/10,19.70%,EHMT1;GAS6;CBFA2T3;CTBP1;SBNO2
+prerank,proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161),-4.676335e-01,-8.890063e-01,6.521036e-01,1.000000e+00,1.000000e+00,2/6,8.42%,NSFL1C;PCBP2
+prerank,ubiquitin-dependent protein catabolic process (GO:0006511),-4.743745e-01,-8.875746e-01,6.655684e-01,1.000000e+00,1.000000e+00,2/6,8.42%,NSFL1C;PCBP2
+prerank,cilium assembly (GO:0060271),-4.756011e-01,-8.862780e-01,6.566667e-01,1.000000e+00,1.000000e+00,1/6,0.89%,DCTN2
+prerank,positive regulation of DNA-binding transcription factor activity (GO:0051091),-4.360328e-01,-8.846758e-01,6.213740e-01,1.000000e+00,1.000000e+00,2/8,10.40%,AKT1;OPRD1
+prerank,positive regulation of macromolecule metabolic process (GO:0010604),-4.992578e-01,-8.790743e-01,6.640254e-01,1.000000e+00,1.000000e+00,1/5,6.34%,AKT1
+prerank,"negative regulation of transcription, DNA-templated (GO:0045892)",-3.385001e-01,-8.693198e-01,6.561210e-01,1.000000e+00,1.000000e+00,9/22,21.78%,NR2E1;NUPR2;SKOR1;DMBX1;RUNX3;DMRT1;FOXK2;CALCA;NKX6-3
+prerank,positive regulation of transcription by RNA polymerase II (GO:0045944),2.929176e-01,8.581210e-01,7.050360e-01,1.000000e+00,1.000000e+00,7/21,19.70%,SOX30;PRDM15;RIPK1;GRIN1;ESRRB;DOT1L;SBNO2
+prerank,ion transport (GO:0006811),4.373035e-01,8.263587e-01,6.500000e-01,1.000000e+00,1.000000e+00,3/5,17.13%,SLC12A7;SLC12A5;GRIN1
+prerank,peptidyl-serine modification (GO:0018209),-4.593115e-01,-8.162045e-01,7.289880e-01,1.000000e+00,1.000000e+00,2/5,23.07%,AKT1;PRKCZ
+prerank,protein phosphorylation (GO:0006468),-3.603925e-01,-8.128136e-01,7.247024e-01,1.000000e+00,1.000000e+00,3/12,14.26%,AKT1;DAPK1;RUNX3
+prerank,regulation of cell population proliferation (GO:0042127),-3.801558e-01,-7.960880e-01,7.492401e-01,1.000000e+00,1.000000e+00,2/10,8.81%,AKT1;NUPR2
+prerank,activation of protein kinase activity (GO:0032147),-4.350273e-01,-7.795226e-01,7.633333e-01,1.000000e+00,1.000000e+00,2/5,19.31%,AKT1;CALCA
+prerank,positive regulation of cellular process (GO:0048522),-3.683536e-01,-7.751192e-01,7.503782e-01,1.000000e+00,1.000000e+00,2/10,13.47%,AKT1;POFUT2
+prerank,negative regulation of signal transduction (GO:0009968),-4.220071e-01,-7.646771e-01,7.768313e-01,1.000000e+00,1.000000e+00,1/5,6.34%,AKT1
+prerank,positive regulation of gene expression (GO:0010628),3.832529e-01,7.581727e-01,7.492958e-01,1.000000e+00,1.000000e+00,2/6,7.92%,GAS6;RIPK1
+prerank,negative regulation of cellular macromolecule biosynthetic process (GO:2000113),3.056450e-01,7.398924e-01,8.411215e-01,1.000000e+00,1.000000e+00,5/11,19.70%,EHMT1;GAS6;CBFA2T3;CTBP1;SBNO2
+prerank,positive regulation of MAPK cascade (GO:0043410),3.597026e-01,7.375659e-01,8.104738e-01,1.000000e+00,1.000000e+00,1/6,7.33%,GAS6
+prerank,nervous system development (GO:0007399),-3.198696e-01,-7.315408e-01,8.338369e-01,1.000000e+00,1.000000e+00,4/13,19.11%,NR2E1;DMBX1;BTBD2;MBP
+prerank,peptidyl-serine phosphorylation (GO:0018105),3.549640e-01,7.311938e-01,7.928389e-01,1.000000e+00,1.000000e+00,2/6,7.92%,GAS6;RIPK1
+prerank,positive regulation of ERK1 and ERK2 cascade (GO:0070374),3.866608e-01,7.305664e-01,7.984887e-01,1.000000e+00,1.000000e+00,1/5,7.33%,GAS6
+prerank,regulation of ERK1 and ERK2 cascade (GO:0070372),3.866608e-01,7.305664e-01,7.984887e-01,1.000000e+00,1.000000e+00,1/5,7.33%,GAS6
+prerank,negative regulation of programmed cell death (GO:0043069),-3.904385e-01,-7.304668e-01,8.200637e-01,1.000000e+00,1.000000e+00,2/6,14.46%,AKT1;ATAD3A
+prerank,negative regulation of apoptotic process (GO:0043066),-3.904385e-01,-7.304668e-01,8.200637e-01,1.000000e+00,1.000000e+00,2/6,14.46%,AKT1;ATAD3A
+prerank,"regulation of transcription, DNA-templated (GO:0006355)",-2.413370e-01,-7.275918e-01,9.257426e-01,1.000000e+00,1.000000e+00,24/52,34.55%,NR2E1;AKT1;GBX1;NUPR2;NKX2-8;SKOR1;DMBX1;RUNX3;ZNF211;DMRT1;FOXK2;CALCA;NKX6-3;ZNF497;MYT1L;MSANTD1;LHX4;FIGLA;FLI1;HDAC4;MAEL;GTF2H2C;OLIG1;ZNF284
+prerank,cation transport (GO:0006812),3.476156e-01,7.162185e-01,8.036649e-01,1.000000e+00,1.000000e+00,3/6,17.13%,SCN5A;SLC6A3;GRIN1
+prerank,positive regulation of phosphorylation (GO:0042327),3.334317e-01,7.093520e-01,8.421053e-01,9.841498e-01,1.000000e+00,2/7,7.92%,GAS6;RIPK1
+prerank,positive regulation of protein modification process (GO:0031401),3.334317e-01,7.093520e-01,8.421053e-01,9.841498e-01,1.000000e+00,2/7,7.92%,GAS6;RIPK1
+prerank,cellular protein modification process (GO:0006464),-3.209141e-01,-7.057663e-01,8.558422e-01,1.000000e+00,1.000000e+00,3/11,14.26%,AKT1;DAPK1;RUNX3
+prerank,regulation of transcription by RNA polymerase II (GO:0006357),-2.339866e-01,-6.935145e-01,9.402036e-01,1.000000e+00,1.000000e+00,10/48,18.02%,NR2E1;GBX1;NUPR2;NKX2-8;SKOR1;DMBX1;RUNX3;ZNF211;DMRT1;FOXK2
+prerank,regulation of cation transmembrane transport (GO:1904062),-3.756771e-01,-6.811290e-01,8.703404e-01,1.000000e+00,1.000000e+00,2/5,24.65%,KCNIP1;DPP6
+prerank,central nervous system development (GO:0007417),-3.715895e-01,-6.626228e-01,8.792822e-01,1.000000e+00,1.000000e+00,2/5,19.11%,DMBX1;MBP
+prerank,negative regulation of cell population proliferation (GO:0008285),2.901427e-01,6.606983e-01,9.000000e-01,1.000000e+00,1.000000e+00,3/8,18.61%,PPP2R5C;CBFA2T3;CTBP1
+prerank,positive regulation of programmed cell death (GO:0043068),-3.664816e-01,-6.557172e-01,9.046850e-01,1.000000e+00,1.000000e+00,2/5,22.87%,DAPK1;NGEF
+prerank,positive regulation of apoptotic process (GO:0043065),-3.664816e-01,-6.557172e-01,9.046850e-01,1.000000e+00,1.000000e+00,2/5,22.87%,DAPK1;NGEF
+prerank,positive regulation of cell population proliferation (GO:0008284),-3.629693e-01,-6.530816e-01,8.951747e-01,9.971633e-01,1.000000e+00,1/6,6.34%,AKT1
+prerank,"positive regulation of transcription, DNA-templated (GO:0045893)",-2.473263e-01,-6.516192e-01,9.351351e-01,9.819385e-01,1.000000e+00,10/24,32.87%,AKT1;NKX2-8;RUNX3;DMRT1;FOXK2;NKX6-3;MSANTD1;LHX4;FLI1;HDAC4
+prerank,protein localization to plasma membrane (GO:0072659),-3.678532e-01,-6.477943e-01,9.116203e-01,9.529865e-01,1.000000e+00,2/5,24.65%,PACS2;DPP6
+prerank,protein localization to cell periphery (GO:1990778),-3.678532e-01,-6.477943e-01,9.116203e-01,9.529865e-01,1.000000e+00,2/5,24.65%,PACS2;DPP6
+prerank,protein localization to membrane (GO:0072657),-3.206256e-01,-6.201536e-01,9.315068e-01,9.580987e-01,1.000000e+00,2/7,24.65%,PACS2;DPP6
+prerank,protein ubiquitination (GO:0016567),-3.256672e-01,-6.099978e-01,9.332248e-01,9.493873e-01,1.000000e+00,4/6,40.30%,UVSSA;RNF103-CHMP3;RMND5A;USP7
+prerank,regulation of cation channel activity (GO:2001257),3.073542e-01,5.773678e-01,9.443038e-01,1.000000e+00,1.000000e+00,2/5,17.13%,SHANK1;GRIN1
+prerank,DNA repair (GO:0006281),2.874492e-01,5.541321e-01,9.313725e-01,1.000000e+00,1.000000e+00,2/5,19.01%,KDM4B;DOT1L
+prerank,positive regulation of cytokine production (GO:0001819),2.623915e-01,5.470525e-01,9.547872e-01,9.967753e-01,1.000000e+00,2/6,19.80%,RIPK1;TRAF2
+prerank,inorganic cation transmembrane transport (GO:0098662),-2.358124e-01,-5.206172e-01,9.797192e-01,9.757842e-01,1.000000e+00,3/12,19.90%,OTOP3;TRPM2;KCNA4
+prerank,potassium ion transmembrane transport (GO:0071805),2.145963e-01,4.610419e-01,9.973475e-01,9.940578e-01,1.000000e+00,2/7,17.03%,SLC12A7;SLC12A5

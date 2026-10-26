@@ -1,0 +1,36 @@
+{
+  "script": "cases/aging/thyroid/deconvolution/scripts/08_region_filtering.py",
+  "command": "/lustre/home/2101110354/anaconda3/bin/python validation/plot_rerun_20261026/aging/run_aging_plots.py --only 08_region_filtering.py",
+  "log": "validation/plot_rerun_20261026/aging/logs/08_region_filtering.log",
+  "started_unix": 1793013030.6857922,
+  "status": "removed_by_request",
+  "inputs": [
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_filtering_values.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_filtering_values.tsv",
+      "bytes": 3779851,
+      "sha256": "022ca6858338f511349cebb873a3f50a11f30067fc04b07ff25d5de5e8606af2"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_region_filtering.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/results/tables/oinfo_region_filtering.tsv",
+      "bytes": 21614,
+      "sha256": "b910e994c9167a9a6a8b785d4415d95e0d8bfa54998dbc06ea2e4c929228ea3a"
+    },
+    {
+      "path": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+      "resolved": "/lustre/home/2101110354/Epigenetic_OInfo_release/cases/aging/thyroid/deconvolution/data/sample_metadata/analysis_samples.tsv",
+      "bytes": 283,
+      "sha256": "ccfb74f942809c74464171d01e87510db96a7038eed787763d039f84df792c75"
+    }
+  ],
+  "outputs": [],
+  "elapsed_seconds": 6.47,
+  "description_zh": "排除免疫特异区域与matched downsampling敏感性（3面板）",
+  "input_nature_zh": "原入口读离散轨迹重新计算O-information；本次读取filtering_values/region_filtering中间表执行绘图段",
+  "source_sha256": "24839f6b2b14f5119fe1c55967e93c08c3dba31be0760c9e26f44f08f0bbec90",
+  "figure_count": 1,
+  "file_count": 2,
+  "previous_status": "success",
+  "note": "Thyroid deconvolution keeps only figQ1_composition.png."
+}

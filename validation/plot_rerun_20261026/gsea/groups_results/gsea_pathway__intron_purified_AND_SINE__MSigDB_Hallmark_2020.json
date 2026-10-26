@@ -1,0 +1,136 @@
+{
+  "kind": "gsea_pathway",
+  "input_folder": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020",
+  "historical_folder": "/lustre/home/2101110354/sequence_entropy/project/aging/thyroid/local_oinfo_pipeline/results/immune_adjusted/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank",
+  "historical_pdf_names": [
+    "Apical Junction.pdf",
+    "Fatty Acid Metabolism.pdf",
+    "G2-M Checkpoint.pdf",
+    "Mitotic Spindle.pdf",
+    "Pperoxisome.pdf"
+  ],
+  "status": "success",
+  "figures": [
+    {
+      "term": "Apical Junction",
+      "historical_pdf_name": "Apical Junction.pdf",
+      "n_ranked": 49756,
+      "n_hits": 121,
+      "saved_ES": 0.3209742,
+      "recomputed_ES": 0.320974211766058,
+      "absolute_ES_error": 1.176605801678221e-08,
+      "NES": 1.499747,
+      "nominal_P": 0.004694836,
+      "FDR_q": 0.1624586,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Apical Junction.pdf",
+          "bytes": 31919,
+          "sha256": "e5a97d53ecc79d76db2393e027a2ca1e9781d802731f99fcb4134265a7afd1d1"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Apical Junction.png",
+          "bytes": 96795,
+          "sha256": "3df64880a2b5531bf18e82a052bbb236b898aa996264709b35ae633ca42d9772"
+        }
+      ]
+    },
+    {
+      "term": "Fatty Acid Metabolism",
+      "historical_pdf_name": "Fatty Acid Metabolism.pdf",
+      "n_ranked": 49756,
+      "n_hits": 95,
+      "saved_ES": 0.3352068,
+      "recomputed_ES": 0.33520675081275186,
+      "absolute_ES_error": 4.918724816338482e-08,
+      "NES": 1.512995,
+      "nominal_P": 0.0125523,
+      "FDR_q": 0.2130853,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Fatty Acid Metabolism.pdf",
+          "bytes": 31796,
+          "sha256": "6c9b1e2bca94676d53f332567fb1922b2f9955f0fcd6cfdccfce7a50c6f29009"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Fatty Acid Metabolism.png",
+          "bytes": 97851,
+          "sha256": "84174696cb05ae1a0c657f155b3780e5e25e100c7c8a14cbee61507eb364926b"
+        }
+      ]
+    },
+    {
+      "term": "G2-M Checkpoint",
+      "historical_pdf_name": "G2-M Checkpoint.pdf",
+      "n_ranked": 49756,
+      "n_hits": 136,
+      "saved_ES": 0.3038167,
+      "recomputed_ES": 0.30381667955058017,
+      "absolute_ES_error": 2.044941982415338e-08,
+      "NES": 1.433287,
+      "nominal_P": 0.005434783,
+      "FDR_q": 0.1555069,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.pdf",
+          "bytes": 32316,
+          "sha256": "9999da1c8caa95bbb902706220befb721c5eb0f53c65f06e01cc6c6eb6977ae6"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/G2-M Checkpoint.png",
+          "bytes": 98600,
+          "sha256": "2a75e974d8461142ee1337c2f0b962112629f4a3db77c3d11e435629a704bea2"
+        }
+      ]
+    },
+    {
+      "term": "Mitotic Spindle",
+      "historical_pdf_name": "Mitotic Spindle.pdf",
+      "n_ranked": 49756,
+      "n_hits": 156,
+      "saved_ES": 0.3095049,
+      "recomputed_ES": 0.3095049471659463,
+      "absolute_ES_error": 4.71659462597529e-08,
+      "NES": 1.463231,
+      "nominal_P": 0.0,
+      "FDR_q": 0.1564137,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Mitotic Spindle.pdf",
+          "bytes": 31159,
+          "sha256": "ebfbea3b7b0f4d7993850b03ccb79c11d9eff11a8d8e63c7749c6cc95a9b63dd"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Mitotic Spindle.png",
+          "bytes": 95769,
+          "sha256": "7abc53c35af45da608eb5e8064c78f66c0daab86a3278aa317de9eafd86bd1e0"
+        }
+      ]
+    },
+    {
+      "term": "Pperoxisome",
+      "historical_pdf_name": "Pperoxisome.pdf",
+      "n_ranked": 49756,
+      "n_hits": 72,
+      "saved_ES": 0.3331137,
+      "recomputed_ES": 0.33311369828163273,
+      "absolute_ES_error": 1.7183672817999707e-09,
+      "NES": 1.384936,
+      "nominal_P": 0.03861004,
+      "FDR_q": 0.187772,
+      "outputs": [
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Pperoxisome.pdf",
+          "bytes": 32049,
+          "sha256": "1623e46c694e4351fcab87c9a0fd2d43f5428ea2ea060c660909e746a665bd79"
+        },
+        {
+          "path": "cases/aging/thyroid/local_O_info_regression/results/gsea_pathway/intron_purified_AND_SINE/MSigDB_Hallmark_2020/prerank/Pperoxisome.png",
+          "bytes": 96807,
+          "sha256": "323702afc1156ab3c3d8cd7c95883ab9c2ba7c613846c81ad7954f686bb0bba5"
+        }
+      ]
+    }
+  ],
+  "seconds": 2.64
+}
