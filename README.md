@@ -45,6 +45,8 @@ Numerical result files and supplied compressed inputs are included in Git. The c
 
 ## Validation and historical results
 
+Each independent case provides full observed tables under `cases/<case>/tables/per_sample/` and `per_class/`, plus genome-specific annotation-membership counts in `tables/bins_per_class.tsv`. The H3K36me3 comparison links to the underlying early/late cohorts rather than duplicating observations.
+
 The [full figure rerun audit](validation/plot_rerun_20261026/REPORT.md) lists each plotting entrypoint, newly generated figures, input dependencies and missing historical inputs. Its [TSV inventory](validation/plot_rerun_20261026/plot_inventory.tsv) and [file manifest](validation/plot_rerun_20261026/figure_files.tsv) support review. Reproduce the figure workflows with `python validation/plot_rerun_20261026/run_all.py`; mixed analysis/plotting programs use retained intermediate tables through the supplied plotting runners.
 
 Run `python -m unittest discover -s tests -v`. Scientific checks cover known synergy/redundancy values, local/global equality, non-five-state encoding, BH family boundaries and the 10,000-permutation defaults. Actual thyroid execution evidence is written to `demo/results/<mode>/validation.json` when available. Older cohort result tables are not relabelled as newly recomputed 10,000-permutation analyses.

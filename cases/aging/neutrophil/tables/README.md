@@ -25,3 +25,7 @@ Files listed below are already available results/inputs. New calculations are wr
 
 - `per_class_index.tsv`
 - `per_sample_index.tsv`
+
+## Bin counts
+
+[bins_per_class.tsv](bins_per_class.tsv) gives the 40 genome-specific reference annotation-class membership counts. These are counts before sample-specific filtering/downsampling, not the loci used in every sample. Original class identifiers are retained; source-specific aliases in result files must be interpreted using the original region definitions.
